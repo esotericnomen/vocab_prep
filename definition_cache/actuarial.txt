@@ -1,0 +1,11 @@
+Actuarial data are the statistics used to calculate various sorts of risk that insurance companies
+insure people against. If you want to know how likely it is for your car to be stolen, there is
+surely some actuarial data that could give you an answer.
+
+Actuarial science includes statistics, probability, mathematics, and economics, and the people
+trained in it are called actuaries. When you buy a homeowner's insurance policy, for instance, the
+insurance company calculates how much theyâ&euro;&trade;ll charge you by consulting the actuarial
+data, which tells them how likely it is that something will happen to your house (based on how old
+your house is, where itâ&euro;&trade;s located, the building materials, your credit rating, and
+lots of other factors).
+

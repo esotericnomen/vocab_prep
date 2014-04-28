@@ -1,0 +1,10 @@
+The odds are the chances that something will happen. If you flip a coin, the odds are 50-50 you'll
+get heads.
+
+When we talk about odds, we're talking about probabilities, specifically, how likely it is that
+something will happen. Is there a 5% chance? Is there a 95% chances? If there's a 95% chance, then
+the odds are great. We can talk about the odds of anything happening, as long as it hasn't happened
+yet. Anyone predicting the weather is telling the odds of rain or snow â&euro;&rdquo; they don't
+know for sure. If something strange happens people often say, What were the odds of that?, which
+means: I can't believe that happened. The odds were against it.
+

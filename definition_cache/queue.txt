@@ -1,0 +1,9 @@
+A queue is a line of things, usually people. If you go to the store on a big sale day, there will
+probably be a long queue at the check-out.
+
+Queue comes from the Latin cauda, for tail. Outside the United States it means a line of people or
+vehicles waiting their turn, so if your English friend talks about queuing up for the movies, that
+means getting in line for a ticket. We also use it in computing to mean an order of messages to be
+sent. In a big office, you send documents to the printer queue, and they're printed in the order
+they are sent.
+

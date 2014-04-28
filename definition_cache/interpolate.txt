@@ -1,0 +1,10 @@
+In math, to interpolate means to estimate the value of something given certain data. If you are
+looking at a chart that gives the level of pollutants in a lake on Jan. 1 and Feb. 1, you must
+interpolate the level for Jan. 15.
+
+At a bake sale, if you check the cash box and look at how many cookies are left over, you can
+interpolate the results of your fundraiser. When you interpolate words into a text, you alter the
+text by adding words in. Scholars can identify the original text from material interpolated at a
+later date. If you are describing an author's work, you might want to interpolate a few examples of
+his writing into your description.
+

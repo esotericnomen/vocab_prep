@@ -1,0 +1,9 @@
+Inductive is a way to describe something that leads to something else, so when applied to reasoning
+it just means you collect information and draw conclusions from what you observe.
+
+Logical types may already be familiar with the word inductive as it relates to reasoning. Inductive
+reasoning is a way to make sense of things by making specific observations and then drawing broad
+conclusions based on those observations. For example, if you break out in hives every time you eat
+something with buckwheat flour but youâ&euro;&trade;re fine eating other types of flour, you might
+use inductive reasoning to conclude you get hives from the buckwheat flour.
+

@@ -1,0 +1,8 @@
+Astronomers use the noun ecliptic to describe the sun's path as it's seen from the Earth.
+
+You're most likely to come across the word ecliptic in an astronomy class, since it's a technical
+term for the apparent path of the sun through the stars over the course of a year. It's not possible
+to see the ecliptic, since the rotation of the Earth complicates our perspective of the sun's
+movement, but astronomers have long described and drawn it. It's called an ecliptic because eclipses
+only happen when the moon crosses it.
+

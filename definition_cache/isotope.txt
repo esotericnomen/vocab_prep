@@ -1,0 +1,9 @@
+An isotope of a chemical element is an atom that has a different number of neutrons (that is, a
+greater or lesser atomic mass) than the standard for that element.
+
+The atomic number is the number of protons in an atom's nucleus. Atomic mass adds to that the number
+of neutrons in the nucleus. Each element has a typical atomic mass, but when the number of protons
+stays the same and the number of neutrons changes, you have an isotope. These can be stable, like
+Deuterium, an isotope of Hydrogen that has one extra neutron, or they can be radioactive, like
+Plutonium-239, which is a component of nuclear waste.
+

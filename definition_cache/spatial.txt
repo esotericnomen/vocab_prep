@@ -1,0 +1,10 @@
+Spatial describes how objects fit together in space, either among the planets or down here on earth.
+There's a spatial relationship between Mars and Venus, as well as between the rose bushes in the
+backyard.
+
+Spatial has to do with the distance between things, so mathematicians and computer scientists love
+using the word. They measured the spatial relations of ping-pong balls in the gravity-free room. It
+can also refer to how people perceive the objects in front of them. If you're not wearing your
+glasses, your spatial perception might be off.  If you're a space cadet, you might wander off into
+space. Not surprisingly, spatial is from the Latin word spatium for space.
+

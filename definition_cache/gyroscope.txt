@@ -1,0 +1,10 @@
+A gyroscope is a mechanical tool that can figure out the speed and direction of anything that it’s
+attached to, and you can find gyroscope technology in compasses, airplanes, video games, and cell
+phones.
+
+A gyroscope is a circular disk with a pole through the middle, surrounded by three rings that can
+each rotate whatever direction they please.  No matter how you spin the rings, the disc stays flat.
+In the 1850s, a French physicist used a gyroscope to explain how the Earth rotates on its axis.  For
+his clever experiment, he got to name the gyroscope, choosing a combination of Greek words that
+literally translates to “circle watcher.”
+

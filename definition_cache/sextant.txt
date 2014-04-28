@@ -1,0 +1,9 @@
+A sextant is a tool for measuring the angles between heavenly bodies — the kind found in outer
+space.  Used as a navigational tool out at sea, it helps determine a ship's longitude and latitude.
+
+There is nothing sexy about a sextant, unless you're a sailor. Even then, in today's world of
+sophisticated instrumentation, it's considered quaint and old-fashioned. The noun sextant dates back
+to the late 16th century, from the Latin word sextans, meaning sixth part. The sextant uses a
+graduated arc of 60° (there's the six reference) for measuring the altitude of the planets and
+stars.
+

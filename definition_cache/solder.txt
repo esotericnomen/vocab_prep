@@ -1,0 +1,9 @@
+If you want to be a metalsmith you’ll have to become familiar with solder, which is the substance
+you use to fuse two metal surfaces.
+
+The word solder traces back to the Latin word solidare, meaning “to make solid.” That’s what
+you use solder for: to make something solid. In this case you are joining two metal surfaces so they
+appear as one solid piece. The word also has a verb form, also solder, to describe the act of
+joining the metal pieces. You might use solder, for example, to solder a metal piece on a computer's
+motherboard.
+

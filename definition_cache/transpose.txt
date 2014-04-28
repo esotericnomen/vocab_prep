@@ -1,0 +1,9 @@
+If you transpose something, you change the order. You could transpose the phrases in that first
+sentence by writing, You change the order if you transpose something.
+
+In music, you also transpose when you change the key. When a song is a little high for you, you can
+transpose it to bring it down into your natural range. In math, to transpose is to move something
+from one side of an equation to another. In the equation x + 3 = 2y, you can solve for x by
+transposing the 3 to the other side of the equation, which will change its sign and give you x = 2y
+- 3.
+

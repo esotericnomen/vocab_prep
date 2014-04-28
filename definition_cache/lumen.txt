@@ -1,0 +1,7 @@
+The lumen is a unit of measurement for the brightness of light. If a light bulb is blindingly
+bright, it produces a lot of lumens.
+
+The lumen is a basic unit for measuring brightness, just as the gram is a basic unit for measuring
+mass. A typical light bulb in your home might produce about 1000 lumens. Lumen is related to the
+word luminous, which means “bright” or “radiant.”
+

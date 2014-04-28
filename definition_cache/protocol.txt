@@ -1,0 +1,9 @@
+Protocol is most often used when talking about the rules of government or official agencies. It is
+derived from the French and refers to the correct rules of etiquette for diplomats.
+
+The term protocol is used in many areas besides diplomatic ones. School marching bands or college
+admissions offices follow protocols, and doctors use them to treat patients with specific
+conditions. In tech circles, a protocol is a set of standards that programmers follow so that their
+work can be decoded by other computers. The p in the http of a web address is short for protocol.
+Without this type of protocol, you would not able to read this page.
+

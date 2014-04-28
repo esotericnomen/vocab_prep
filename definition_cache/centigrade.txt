@@ -1,0 +1,9 @@
+Centigrade is all about water.   The centigrade scale goes from zero to one hundred, where zero is
+the point where water freezes, and one hundred is when water boils.
+
+Centigrade is also called Celsius, but it’s never called Fahrenheit — because that’s a totally
+different measurement of temperature.  Break centigrade down to its Latin roots: centum (meaning
+“a hundred”) and gradus (meaning “steps). There are one hundred steps in the centigrade scale,
+see?  There is a way to convert centigrade to Fahrenheit, but this is vocabulary not mathematics;
+you’re on your own with that.
+

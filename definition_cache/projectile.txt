@@ -1,0 +1,8 @@
+A projectile is a type of weapon that is propelled towards its target. If you shoot a gun at
+someone, the bullet is a projectile, but the gun itself is not.
+
+When projectile refers to a weapon, it is always propelled by something else. Think of the bullet in
+a gun or a spear thrown by a person. A rocket, which is self-propelled, is also called a projectile.
+As an adjective, projectile means propelled forward as in a projectile force or weapon. Sometimes
+you see the expression, projectile vomiting, a particularly violent way to throw up.
+

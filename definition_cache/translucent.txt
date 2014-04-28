@@ -1,0 +1,8 @@
+A translucent material lets light pass through, but objects on the other side can't be seen clearly.
+Think: Shrinky Dinks or stained glass.
+
+In contrast, a transparent material allows you to clearly see the objects on the other side. Frosted
+glass is translucent, and regular glass is transparent. But opaque glass doesn't let any light
+through at all, and so you can't see through it. The adjective translucent is from Latin
+translucens, from translucere to shine through.
+

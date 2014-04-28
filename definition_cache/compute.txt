@@ -1,0 +1,8 @@
+When you solve a mathematical problem, you compute the answer. To compute is to calculate, either
+literally or figuratively.
+
+Computers do the math for you, faster than humans ever can. You'll often hear someone say that
+something does not compute. This means it doesn't add up, it doesn't make sense. You might compute
+how long it will take you to get to school or the likelihood that your mother will let you stay out
+late.
+

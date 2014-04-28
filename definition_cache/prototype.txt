@@ -1,0 +1,10 @@
+A prototype is the original model, like a sample on which to base future designs. A company
+designing a new toaster will first design and build a prototype, to test it out and see if it's any
+good.
+
+A prototype is your test case and becomes the model on which to base the design of the finished
+product. Often, however, the prototype can be a phase to work out the bugs. The prototype of our
+hands-free toothbrush was too dangerous; it needed to return to the lab for serious improvements.
+Like the word archetype, the word prototype can also mean the standard on which to base a definition
+of something. A prototypical cheerleader is the girl to which all other cheerleaders might aspire.
+

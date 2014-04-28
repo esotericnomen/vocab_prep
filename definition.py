@@ -29,6 +29,50 @@ def gplay(word):
 		os.system(cmd)
 	subprocess.call(["ffplay", "-nodisp", "-autoexit", mp3_file_path],stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
 
+def wndef(word):
+	for ss in wn.synsets(word):
+		print "%20s : %s\n" % (word,ss.definition)
+		time.sleep(0.5)
+def similar_Wrd(word):
+	for ss in wn.synsets(word):
+		print(ss.lemma)
+#print ss.similar_tos()
+    		for sim in ss.similar_tos():
+        		print('    {}'.format(sim))
+
+def jdef(word):
+	def_file_path = "/home/shingu/workspace/vocab_prep/definition_cache/"+word+".txt"
+	if(os.path.isfile(def_file_path) is False):
+  		url="http://www.vocabulary.com/dictionary/"+word
+		try:
+			response = urllib2.urlopen(url)
+			replace = ["\"","<i>","</i>","<p class=long>","<p class=short>","</p>"]
+			html = response.read()
+			soup = BeautifulSoup(html)
+			rshort = soup.findAll(attrs={"class" : "short"})
+			rlong = soup.findAll(attrs={"class" : "long"})
+			try:
+				rlong = str(rlong[0])
+			except:
+				print "Long decode failed"
+			try:
+				rshort = str(rshort[0])
+			except:
+				print "Short decode failed"
+			for rep in replace:
+				rlong=rlong.replace(rep,"")
+				rshort = rshort.replace(rep,"")
+			def_file = open(def_file_path,"w")
+			def_file.write("%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100)))
+			print "%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100))
+		except:
+			print "Vocabulary error for word : %s\n" %(word)
+	else:
+		def_file = open(def_file_path,"r")
+		print "----------------------------------------------------------------------------------------------------"
+		print def_file.read()
+		print "----------------------------------------------------------------------------------------------------"
+
 
 if __name__ == "__main__":
 
@@ -59,14 +103,12 @@ if __name__ == "__main__":
 	for word in wlist.split():
 		if len(wn.synsets(word)) is not 0:
 			rlemma = l.lemmatize(word)
-			gplay(word)
 			if(get_opt):
 				opt = raw_input( "Display %s : %s?  :   " % (word,l.lemmatize(word)))
-			if opt == 'p':
-				studied = studied+1
-				for ss in wn.synsets(word):
-					print "%20s : %s\n" % (word,ss.definition)
-					time.sleep(0.5)
+			gplay(word.lower())
+			wndef(word.lower())
+			jdef(word.lower())
+			#similar_Wrd(word.lower())
 			if opt == 's':
 				studied = studied+1
 				for ss in wn.synsets(word):
@@ -76,23 +118,6 @@ if __name__ == "__main__":
 			if opt == 'e':
 			  	print "Current streak : %d %d" % (studied,known)
 				sys.exit()
-			if opt == 'm':
-				studied = studied+1
-				for ss in wn.synsets(word):
-					print "%20s : %s\n" % (word,ss.definition)
-			  	url="http://www.vocabulary.com/dictionary/"+word
-				response = urllib2.urlopen(url)
-				replace = ["\"","<i>","</i>","<p class=long>","<p class=short>","</p>"]
-				html = response.read()
-				soup = BeautifulSoup(html)
-				rshort = soup.findAll(attrs={"class" : "short"})
-				rlong = soup.findAll(attrs={"class" : "long"})
-				rlong = str(rlong[0])
-				rshort = str(rshort[0])
-				for rep in replace:
-					rlong=rlong.replace(rep,"")
-					rshort = rshort.replace(rep,"")
-				print "%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100))
 			else:
 				known = known+1
 
