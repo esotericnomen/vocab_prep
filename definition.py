@@ -73,6 +73,16 @@ def jdef(word):
 		print def_file.read()
 		print "----------------------------------------------------------------------------------------------------"
 
+def update_db(word,curr):
+#  conn.execute('''CREATE TABLE table_words 
+			#(word TEXT NOT NULL,
+			# count INT NOT NULL);''')
+	cur.execute("Select * from table_words where word = ?", (word,))
+	rword=cur.fetchone()
+	if rword is None:
+		cur.execute("INSERT INTO table_words VALUES (?,?)",(word,0));
+	else:
+		cur.execute("UPDATE table_words set count = ? where word = ?", (rword[1]+1,word));
 
 if __name__ == "__main__":
 
@@ -85,6 +95,9 @@ if __name__ == "__main__":
 	studied = 0
 	words = 0
 
+	conn = sqlite3.connect(r"/home/shingu/workspace/vocab_prep/words.db")
+	cur = conn.cursor()
+	cur.execute("CREATE TABLE IF NOT EXISTS table_words(word TEXT, count INT)")
 	l = WordNetLemmatizer()
 
 	try:
@@ -105,6 +118,7 @@ if __name__ == "__main__":
 			rlemma = l.lemmatize(word)
 			if(get_opt):
 				opt = raw_input( "Display %s : %s?  :   " % (word,l.lemmatize(word)))
+			update_db(word.lower(),cur)
 			gplay(word.lower())
 			wndef(word.lower())
 			jdef(word.lower())
@@ -123,4 +137,6 @@ if __name__ == "__main__":
 
 	
 	print "Current streak : %d %d" % (studied,known)
+	conn.commit()
+	conn.close()
 	sys.exit()
