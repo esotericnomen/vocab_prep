@@ -28,6 +28,7 @@ def gplay(word):
 		cmd = "wget -q -U Mozilla -O "+mp3_file_path+" \"http://translate.google.com/translate_tts?ie=UTF-8&tl=en&q="+word+"\""
 		os.system(cmd)
 	subprocess.call(["ffplay", "-nodisp", "-autoexit", mp3_file_path],stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
+	print subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
 
 def wndef(word):
 	for ss in wn.synsets(word):
@@ -87,7 +88,7 @@ def update_db(word,curr):
 if __name__ == "__main__":
 
 	# Input arguments check
-	if(len(sys.argv) != 2):
+	if((len(sys.argv) != 2) and (len(sys.argv) != 4)):
 		print_summary()
 		sys.exit()
 
@@ -113,9 +114,16 @@ if __name__ == "__main__":
 		words = words + 1
 	print "Total words : %d" %(words)
 
+	count = 0
 	for word in wlist.split():
 		if len(wn.synsets(word)) is not 0:
 			rlemma = l.lemmatize(word)
+			count = count+1
+			if(len(sys.argv) is 4):
+				if(count < int(sys.argv[2])):
+					continue
+				if(count >= int(sys.argv[3])):
+					break
 			if(get_opt):
 				opt = raw_input( "Display %s : %s?  :   " % (word,l.lemmatize(word)))
 			update_db(word.lower(),cur)
