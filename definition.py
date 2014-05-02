@@ -88,7 +88,7 @@ def update_db(word,curr):
 if __name__ == "__main__":
 
 	# Input arguments check
-	if((len(sys.argv) != 2) and (len(sys.argv) != 4)):
+	if((len(sys.argv) != 2) and (len(sys.argv) != 5)):
 		print_summary()
 		sys.exit()
 
@@ -104,7 +104,11 @@ if __name__ == "__main__":
 	try:
 		fp = open(sys.argv[1],'r')
 		wlist = fp.read()
-		get_opt=1
+		if(int(1) == int(sys.argv[4])):
+			get_opt=1
+		else:
+			get_opt=0
+			opt='u'
 	except:
 		wlist = sys.argv[1]
 		get_opt=0
@@ -119,7 +123,7 @@ if __name__ == "__main__":
 		if len(wn.synsets(word)) is not 0:
 			rlemma = l.lemmatize(word)
 			count = count+1
-			if(len(sys.argv) is 4):
+			if(len(sys.argv) is 5):
 				if(count < int(sys.argv[2])):
 					continue
 				if(count >= int(sys.argv[3])):
