@@ -24,9 +24,19 @@ def eplay(word):
 
 def gplay(word):
 	mp3_file_path = "/home/shingu/workspace/vocab_prep/audio_cache/"+word+".mp3"
-	if(os.path.isfile(mp3_file_path) is False):
-		cmd = "wget -q -U Mozilla -O "+mp3_file_path+" \"http://translate.google.com/translate_tts?ie=UTF-8&tl=en&q="+word+"\""
-		os.system(cmd)
+	retry = 0
+	try:
+		size = os.path.getsize(mp3_file_path)
+	except:
+		size = 0
+	if((os.path.isfile(mp3_file_path) is False)or (size is 0)):
+		while 1:
+			retry = retry+1
+			print "try %d" %(retry)
+			cmd = "wget -q -U Mozilla -O "+mp3_file_path+" \"http://translate.google.com/translate_tts?ie=UTF-8&tl=en&q="+word+"\""
+			os.system(cmd)
+			if((os.path.getsize(mp3_file_path) is not 0) or (retry is 3)):
+				break;
 	subprocess.call(["ffplay", "-nodisp", "-autoexit", mp3_file_path],stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
 	print subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
 
@@ -34,40 +44,60 @@ def wndef(word):
 	for ss in wn.synsets(word):
 		print "%20s : %s\n" % (word,ss.definition)
 		time.sleep(0.5)
+
 def similar_Wrd(word):
-	for ss in wn.synsets(word):
-		print(ss.lemma)
-#print ss.similar_tos()
-    		for sim in ss.similar_tos():
-        		print('    {}'.format(sim))
+	list_of_sim=[]
+	for wrd in wn.synsets(word):
+		for sim in wrd.lemma_names:
+			if sim not in list_of_sim:
+				list_of_sim.append(sim)
+	print "words similar to "+word
+	print "----------------------------------------------------------------------------------------------------"
+	cols = 4
+	split=[list_of_sim[i:i+len(list_of_sim)/cols] 
+	for i in range(0,len(list_of_sim),len(list_of_sim)/cols)]
+	for row in zip(*split):
+		print "".join(str.ljust(i,20) for i in row)
+	print "----------------------------------------------------------------------------------------------------"
+
 
 def jdef(word):
 	def_file_path = "/home/shingu/workspace/vocab_prep/definition_cache/"+word+".txt"
-	if(os.path.isfile(def_file_path) is False):
+	retry = 0
+	try:
+		size = os.path.getsize(def_file_path)
+	except:
+		size = 0
+	if((os.path.isfile(def_file_path) is False) or (size is 0) ):
   		url="http://www.vocabulary.com/dictionary/"+word
-		try:
-			response = urllib2.urlopen(url)
-			replace = ["\"","<i>","</i>","<p class=long>","<p class=short>","</p>"]
-			html = response.read()
-			soup = BeautifulSoup(html)
-			rshort = soup.findAll(attrs={"class" : "short"})
-			rlong = soup.findAll(attrs={"class" : "long"})
+		while 1:
+			retry = retry+1
+			print "try %d" %(retry)
 			try:
-				rlong = str(rlong[0])
+				response = urllib2.urlopen(url)
+				replace = ["\"","<i>","</i>","<p class=long>","<p class=short>","</p>"]
+				html = response.read()
+				soup = BeautifulSoup(html)
+				rshort = soup.findAll(attrs={"class" : "short"})
+				rlong = soup.findAll(attrs={"class" : "long"})
+				try:
+					rlong = str(rlong[0])
+				except:
+					print "Long decode failed"
+				try:
+					rshort = str(rshort[0])
+				except:
+					print "Short decode failed"
+				for rep in replace:
+					rlong=rlong.replace(rep,"")
+					rshort = rshort.replace(rep,"")
+				def_file = open(def_file_path,"w")
+				def_file.write("%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100)))
+				print "%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100))
 			except:
-				print "Long decode failed"
-			try:
-				rshort = str(rshort[0])
-			except:
-				print "Short decode failed"
-			for rep in replace:
-				rlong=rlong.replace(rep,"")
-				rshort = rshort.replace(rep,"")
-			def_file = open(def_file_path,"w")
-			def_file.write("%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100)))
-			print "%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100))
-		except:
-			print "Vocabulary error for word : %s\n" %(word)
+				print "Vocabulary error for word : %s\n" %(word)
+			if((os.path.isfile(def_file_path) is not False) or (retry is 3)):
+				break;
 	else:
 		def_file = open(def_file_path,"r")
 		print "----------------------------------------------------------------------------------------------------"
@@ -134,7 +164,7 @@ if __name__ == "__main__":
 			gplay(word.lower())
 			wndef(word.lower())
 			jdef(word.lower())
-			#similar_Wrd(word.lower())
+			similar_Wrd(word.lower())
 			if opt == 's':
 				studied = studied+1
 				for ss in wn.synsets(word):
