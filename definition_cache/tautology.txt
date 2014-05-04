@@ -1,0 +1,9 @@
+Tautology is useless restatement, or saying the same thing twice using different words. “Speedy
+sprint is a tautology because sprint already means speedy running.
+
+The noun tautology originates from the Greek word tautologos, meaning “repeating what is said.”
+From the public view's perspective is a tautology in which the words perspective and view repeat the
+same idea. In the study of logic, a tautology is a statement that is necessarily true under any
+interpretation. It will snow tomorrow, or it will not snow tomorrow is an example. No argument here
+— it's true any way you look at it.
+

@@ -11,18 +11,45 @@ from nltk.corpus import wordnet as wn		# Wordnet DB
 from nltk.stem.wordnet import WordNetLemmatizer	# To Obtain Lemma
 from BeautifulSoup import BeautifulSoup		
 
+sup_vocal = 0
+sup_syn = 0
+sup_desc = 0
+sup_hyp = 0
+sup_manual = 0
+sup_cache_only = 0
+
+class bcolors:
+	Red = '\033[91m'
+	Green = '\033[92m'
+	Blue = '\033[94m'
+	Cyan = '\033[96m'
+	White = '\033[97m'
+	Yellow = '\033[93m'
+	Magenta = '\033[95m'
+	Grey = '\033[90m'
+	Black = '\033[90m'
+	Default = '\033[99m'
+
 def print_summary():
 	print "\n \
 		This module can be used to study words in list. \n \
 		Usage : \n \
-	 	$ "+ sys.argv[0] +" input_file \n \
-			input_file : text file containing list of words \
+	 	$ "+ sys.argv[0] +" input_file options <start_range> <end_range>\n \
+			input_file : text file containing list of words \n \
+			options : Options to configure the run as below. \n\
+				v : Support vocal \n\
+				d : Support description \n\
+				h : Support hypernym | hyponym \n\
+				m : Support manual mode \n\
+				c : Support Cache only mode  \n\
+			\n\
+			Entered only "+str(len(sys.argv))+" arguments \n\
 	" 
-def eplay(word):
+def eplay(word,cur):
 	espeak_cmd = 'espeak  -s 150 -v en-us+f5 '
 	subprocess.call( espeak_cmd +"'"+word+"'", shell=True, stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
 
-def gplay(word):
+def gplay(word,cur):
 	mp3_file_path = "/home/shingu/workspace/vocab_prep/audio_cache/"+word+".mp3"
 	retry = 0
 	try:
@@ -30,38 +57,64 @@ def gplay(word):
 	except:
 		size = 0
 	if((os.path.isfile(mp3_file_path) is False)or (size is 0)):
-		while 1:
-			retry = retry+1
-			print "try %d" %(retry)
-			cmd = "wget -q -U Mozilla -O "+mp3_file_path+" \"http://translate.google.com/translate_tts?ie=UTF-8&tl=en&q="+word+"\""
-			os.system(cmd)
-			if((os.path.getsize(mp3_file_path) is not 0) or (retry is 3)):
-				break;
+		if(sup_cache_only is 0):
+			while 1:
+				retry = retry+1
+				print "try %d" %(retry)
+				cmd = "wget -q -U Mozilla -O "+mp3_file_path+" \"http://translate.google.com/translate_tts?ie=UTF-8&tl=en&q="+word+"\""
+				os.system(cmd)
+				if((os.path.getsize(mp3_file_path) is not 0) or (retry is 3)):
+					break;
 	subprocess.call(["ffplay", "-nodisp", "-autoexit", mp3_file_path],stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
-	print subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
+	print bcolors.Blue + subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
 
-def wndef(word):
+def wndef(word,cur):
 	for ss in wn.synsets(word):
-		print "%20s : %s\n" % (word,ss.definition)
+		print bcolors.Green + "%20s : %s\n" % (word,ss.definition)
 		time.sleep(0.5)
 
-def similar_Wrd(word):
+def print_list(l,col):
+	try:
+		print "----------------------------------------------------------------------------------------------------"
+		if len(l) % 4 != 0:
+   			l.append(" ")
+   			l.append(" ")
+   			l.append(" ")
+
+		split = len(l)/4
+		l1 = l[0:split]
+		l2 = l[split:2*split]
+		l3 = l[2*split:3*split]
+		l4 = l[3*split:]
+		for word1, word2, word3, word4 in zip(l1,l2, l3, l4):
+   			print '%-20s %-20s %-20s %-20s' % (word1, word2, word3, word4)         #python <2.6
+		print "----------------------------------------------------------------------------------------------------"
+	except:
+		pass
+def similar_Wrd(word,cur):
 	list_of_sim=[]
 	for wrd in wn.synsets(word):
 		for sim in wrd.lemma_names:
 			if sim not in list_of_sim:
 				list_of_sim.append(sim)
-	print "words similar to "+word
-	print "----------------------------------------------------------------------------------------------------"
-	cols = 4
-	split=[list_of_sim[i:i+len(list_of_sim)/cols] 
-	for i in range(0,len(list_of_sim),len(list_of_sim)/cols)]
-	for row in zip(*split):
-		print "".join(str.ljust(i,20) for i in row)
-	print "----------------------------------------------------------------------------------------------------"
+	if(len(list_of_sim)):
+		print bcolors.Yellow + "words similar to "+word
+		print_list(list_of_sim,4)
 
+def wrd_hyponyms(word,cur):
+	list_of_hyponyms = []
+	presence = 0
+	for wrd in wn.synsets(word):
+		for hypo in wrd.hyponyms():
+			for lemma in hypo.lemma_names:
+				if lemma not in list_of_hyponyms:
+					presence = 1
+					list_of_hyponyms.append(lemma)
+	if(presence):
+		print bcolors.Cyan + "hyponyms of "+word
+		print_list(list_of_hyponyms,1)
 
-def jdef(word):
+def jdef(word,cur):
 	def_file_path = "/home/shingu/workspace/vocab_prep/definition_cache/"+word+".txt"
 	retry = 0
 	try:
@@ -69,42 +122,44 @@ def jdef(word):
 	except:
 		size = 0
 	if((os.path.isfile(def_file_path) is False) or (size is 0) ):
-  		url="http://www.vocabulary.com/dictionary/"+word
-		while 1:
-			retry = retry+1
-			print "try %d" %(retry)
-			try:
-				response = urllib2.urlopen(url)
-				replace = ["\"","<i>","</i>","<p class=long>","<p class=short>","</p>"]
-				html = response.read()
-				soup = BeautifulSoup(html)
-				rshort = soup.findAll(attrs={"class" : "short"})
-				rlong = soup.findAll(attrs={"class" : "long"})
+		if(sup_cache_only is 0):
+  			url="http://www.vocabulary.com/dictionary/"+word
+			while 1:
+				retry = retry+1
+				print "try %d" %(retry)
 				try:
-					rlong = str(rlong[0])
+					response = urllib2.urlopen(url)
+					replace = ["\"","<i>","</i>","<p class=long>","<p class=short>","</p>"]
+					html = response.read()
+					soup = BeautifulSoup(html)
+					rshort = soup.findAll(attrs={"class" : "short"})
+					rlong = soup.findAll(attrs={"class" : "long"})
+					try:
+						rlong = str(rlong[0])
+					except:
+						pass
+					try:
+						rshort = str(rshort[0])
+					except:
+						pass
+					for rep in replace:
+						rlong=rlong.replace(rep,"")
+						rshort = rshort.replace(rep,"")
+					def_file = open(def_file_path,"w")
+					def_file.write("%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100)))
+					print  bcolors.White + "%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100))
 				except:
-					print "Long decode failed"
-				try:
-					rshort = str(rshort[0])
-				except:
-					print "Short decode failed"
-				for rep in replace:
-					rlong=rlong.replace(rep,"")
-					rshort = rshort.replace(rep,"")
-				def_file = open(def_file_path,"w")
-				def_file.write("%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100)))
-				print "%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100))
-			except:
+					pass
+				if((os.path.isfile(def_file_path) is not False) or (retry is 3)):
+					break;
 				print "Vocabulary error for word : %s\n" %(word)
-			if((os.path.isfile(def_file_path) is not False) or (retry is 3)):
-				break;
 	else:
 		def_file = open(def_file_path,"r")
 		print "----------------------------------------------------------------------------------------------------"
-		print def_file.read()
+		print bcolors.White + def_file.read()
 		print "----------------------------------------------------------------------------------------------------"
 
-def update_db(word,curr):
+def update_db(word,cur):
 #  conn.execute('''CREATE TABLE table_words 
 			#(word TEXT NOT NULL,
 			# count INT NOT NULL);''')
@@ -115,70 +170,85 @@ def update_db(word,curr):
 	else:
 		cur.execute("UPDATE table_words set count = ? where word = ?", (rword[1]+1,word));
 
+def sub_main(word,cur):
+	update_db(word,cur)
+	if(sup_vocal):
+		gplay(word,cur)
+	wndef(word,cur)
+	if(sup_desc):
+		jdef(word,cur)
+	if(sup_hyp):
+		similar_Wrd(word,cur)
+		wrd_hyponyms(word,cur)
+
 if __name__ == "__main__":
 
 	# Input arguments check
-	if((len(sys.argv) != 2) and (len(sys.argv) != 5)):
+	if((len(sys.argv) != 3) and ((len(sys.argv) != 5))):
 		print_summary()
 		sys.exit()
 
-	known = 0
-	studied = 0
-	words = 0
+	# Configuration setup 
+	if 'v' in sys.argv[2]:
+		sup_vocal = 1
 
+	if 's' in sys.argv[2]:
+		sup_syn = 1
+	
+	if 'd' in sys.argv[2]:
+		sup_desc = 1
+	
+	if 'h' in sys.argv[2]:
+		sup_hyp = 1
+	
+	if 'm' in sys.argv[2]:
+		sup_manual = 1
+	
+	if 'c' in sys.argv[2]:
+		sup_cache_only = 1
+
+	studied = 0
+	no_of_word = 0
+
+	# Database setup
 	conn = sqlite3.connect(r"/home/shingu/workspace/vocab_prep/words.db")
 	cur = conn.cursor()
 	cur.execute("CREATE TABLE IF NOT EXISTS table_words(word TEXT, count INT)")
-	l = WordNetLemmatizer()
+	#l = WordNetLemmatizer()
 
+	# Try to get the input
 	try:
 		fp = open(sys.argv[1],'r')
-		wlist = fp.read()
-		if(int(1) == int(sys.argv[4])):
-			get_opt=1
-		else:
-			get_opt=0
-			opt='u'
+		word_list = fp.read()
 	except:
-		wlist = sys.argv[1]
-		get_opt=0
-		opt='m'
+		word_list = sys.argv[1]
 
-	for word in wlist.split():
-		words = words + 1
-	print "Total words : %d" %(words)
+	# Count the number of words in the word_list
+	for word in word_list.split():
+		no_of_word = no_of_word + 1
+	print "Total number of words : %d" %(no_of_word)
 
-	count = 0
-	for word in wlist.split():
+	iterator = 0
+	for word in word_list.split():
 		if len(wn.synsets(word)) is not 0:
-			rlemma = l.lemmatize(word)
-			count = count+1
+			#rlemma = l.lemmatize(word)
+			iterator = iterator + 1
 			if(len(sys.argv) is 5):
-				if(count < int(sys.argv[2])):
+				if(iterator < int(sys.argv[3])):
 					continue
-				if(count >= int(sys.argv[3])):
+				if(iterator >= int(sys.argv[4])):
 					break
-			if(get_opt):
-				opt = raw_input( "Display %s : %s?  :   " % (word,l.lemmatize(word)))
-			update_db(word.lower(),cur)
-			gplay(word.lower())
-			wndef(word.lower())
-			jdef(word.lower())
-			similar_Wrd(word.lower())
-			if opt == 's':
-				studied = studied+1
-				for ss in wn.synsets(word):
-					print "%20s : %s\n" % (word,ss.definition)
-					eplay(ss.definition)
-					time.sleep(0.5)
-			if opt == 'e':
-			  	print "Current streak : %d %d" % (studied,known)
-				sys.exit()
+			if(sup_manual):
+				opt = raw_input( bcolors.White+"Display %3d / %3d %20s  : ? " % (iterator,no_of_word,word))
+				if opt == '/':
+					sub_main(word.lower(),cur)
+				if opt == 'e':
+					print bcolors.White + "Completed"
+					sys.exit()
 			else:
-				known = known+1
-
+				sub_main(word.lower(),cur)
 	
-	print "Current streak : %d %d" % (studied,known)
+	print bcolors.White + "Completed"
 	conn.commit()
 	conn.close()
 	sys.exit()
