@@ -66,11 +66,12 @@ def gplay(word,cur):
 				if((os.path.getsize(mp3_file_path) is not 0) or (retry is 3)):
 					break;
 	subprocess.call(["ffplay", "-nodisp", "-autoexit", mp3_file_path],stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
-	print bcolors.Blue + subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
+	print bcolors.Blue + word +"  :: " +subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
 
 def wndef(word,cur):
 	for ss in wn.synsets(word):
 		print bcolors.Green + "%20s : %s\n" % (word,ss.definition)
+		#eplay(ss.definition, cur)
 		time.sleep(0.5)
 
 def print_list(l,col):
