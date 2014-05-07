@@ -17,6 +17,9 @@ sup_desc = 0
 sup_hyp = 0
 sup_manual = 0
 sup_cache_only = 0
+sup_spellbee = 0
+wrong = []
+correct = []
 
 class bcolors:
 	Red = '\033[91m'
@@ -66,7 +69,8 @@ def gplay(word,cur):
 				if((os.path.getsize(mp3_file_path) is not 0) or (retry is 3)):
 					break;
 	subprocess.call(["ffplay", "-nodisp", "-autoexit", mp3_file_path],stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
-	print bcolors.Blue + word +"  :: " +subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
+	if(cur is not None):
+		print bcolors.Blue + word +"  :: " +subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
 
 def wndef(word,cur):
 	for ss in wn.synsets(word):
@@ -182,6 +186,24 @@ def sub_main(word,cur):
 		similar_Wrd(word,cur)
 		wrd_hyponyms(word,cur)
 
+def rspellbee():
+	for entity in wrong:
+		gplay(entity[0],None)
+		spell = raw_input()
+		if spell == entity[0]:
+			correct.append(entity)
+			wrong.remove(entity)
+		else:
+			tword = entity[0]
+			tcount = entity[1]
+			wrong.remove(entity)
+			tentity = (tword, tcount + 1)
+			wrong.append(tentity)
+			print " :( Wrong\n"
+	if(len(wrong) is not 0):
+		rspellbee()
+
+
 if __name__ == "__main__":
 
 	# Input arguments check
@@ -208,6 +230,9 @@ if __name__ == "__main__":
 	if 'c' in sys.argv[2]:
 		sup_cache_only = 1
 
+	if 'spell' in sys.argv[2]:
+		sup_spellbee = 1
+
 	studied = 0
 	no_of_word = 0
 
@@ -230,6 +255,22 @@ if __name__ == "__main__":
 	print "Total number of words : %d" %(no_of_word)
 
 	iterator = 0
+
+	if(sup_spellbee):
+		for word in word_list.split():
+			if len(wn.synsets(word)) is not 0:
+				tcount = 0
+				learnt = 0
+
+				entity =(word, tcount)
+				wrong.append(entity)
+		rspellbee()
+		correct = sorted(correct,key=lambda x: x[1],reverse=True)
+		for entity in correct:
+			if(entity[1] is not 0):
+				print "%20s : %d" % (entity[0],entity[1])
+		sys.exit()
+
 	for word in word_list.split():
 		if len(wn.synsets(word)) is not 0:
 			#rlemma = l.lemmatize(word)
