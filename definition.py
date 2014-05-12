@@ -18,6 +18,7 @@ sup_hyp = 0
 sup_manual = 0
 sup_cache_only = 0
 sup_spellbee = 0
+sup_pronounce = 0
 wrong = []
 correct = []
 
@@ -48,6 +49,28 @@ def print_summary():
 			\n\
 			Entered only "+str(len(sys.argv))+" arguments \n\
 	" 
+
+
+
+def learn_spell(word,retry):
+	mp3_file_path = "/home/shingu/workspace/vocab_prep/audio_cache/"+word+".mp3"
+	try:
+		size = os.path.getsize(mp3_file_path)
+	except:
+		size = 0
+	subprocess.call(["ffplay", "-nodisp", "-autoexit", mp3_file_path],stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
+	spell = raw_input()
+	retry = retry +1
+	if spell == word:
+		return
+	else:
+	 	if(retry == 2):
+			print bcolors.Blue + word +"  :: " +subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')+bcolors.White
+			return
+		else:
+			print bcolors.Red +"                "+subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')+bcolors.White
+			learn_spell(word,retry)
+
 def eplay(word,cur):
 	espeak_cmd = 'espeak  -s 150 -v en-us+f5 '
 	subprocess.call( espeak_cmd +"'"+word+"'", shell=True, stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
@@ -102,6 +125,13 @@ def similar_Wrd(word,cur):
 		for sim in wrd.lemma_names:
 			if sim not in list_of_sim:
 				list_of_sim.append(sim)
+		for hypo in wrd.hyponyms():
+			for lemma in hypo.lemma_names:
+				if lemma not in list_of_sim:
+					list_of_sim.append(lemma)
+		if word in list_of_sim:
+			list_of_sim.remove(word)
+
 	if(len(list_of_sim)):
 		print bcolors.Yellow + "words similar to "+word
 		print_list(list_of_sim,4)
@@ -184,7 +214,7 @@ def sub_main(word,cur):
 		jdef(word,cur)
 	if(sup_hyp):
 		similar_Wrd(word,cur)
-		wrd_hyponyms(word,cur)
+		#wrd_hyponyms(word,cur)
 
 def rspellbee():
 	for entity in wrong:
@@ -196,6 +226,10 @@ def rspellbee():
 		else:
 			tword = entity[0]
 			tcount = entity[1]
+			if(tcount > 1):
+				print "Failed in :    "+entity[0]
+				wrong.remove(entity)
+				break
 			wrong.remove(entity)
 			tentity = (tword, tcount + 1)
 			wrong.append(tentity)
@@ -233,6 +267,9 @@ if __name__ == "__main__":
 	if 'spell' in sys.argv[2]:
 		sup_spellbee = 1
 
+	if 'pron' in sys.argv[2]:
+		sup_pronounce = 1
+
 	studied = 0
 	no_of_word = 0
 
@@ -252,9 +289,16 @@ if __name__ == "__main__":
 	# Count the number of words in the word_list
 	for word in word_list.split():
 		no_of_word = no_of_word + 1
-	print "Total number of words : %d" %(no_of_word)
+	print bcolors.White+"Total number of words : %d" %(no_of_word)
 
 	iterator = 0
+
+	if(sup_pronounce):
+		for word in word_list.split():
+			learn_spell(word,0)
+
+		print bcolors.White + "Completed spell learning"
+		sys.exit()
 
 	if(sup_spellbee):
 		for word in word_list.split():
@@ -269,6 +313,7 @@ if __name__ == "__main__":
 		for entity in correct:
 			if(entity[1] is not 0):
 				print "%20s : %d" % (entity[0],entity[1])
+		print bcolors.White + "Completed spell bee"
 		sys.exit()
 
 	for word in word_list.split():
@@ -285,12 +330,12 @@ if __name__ == "__main__":
 				if opt == '/':
 					sub_main(word.lower(),cur)
 				if opt == 'e':
-					print bcolors.White + "Completed"
+					print bcolors.White + "Completed manually"
 					sys.exit()
 			else:
 				sub_main(word.lower(),cur)
 	
-	print bcolors.White + "Completed"
+	print bcolors.White + "Completed words"
 	conn.commit()
 	conn.close()
 	sys.exit()
