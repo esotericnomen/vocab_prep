@@ -68,6 +68,7 @@ def learn_spell(word,retry):
 			print bcolors.Blue + word +"  :: " +subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')+bcolors.White
 			return
 		else:
+			wrong.append(word)
 			print bcolors.Red +"                "+subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')+bcolors.White
 			learn_spell(word,retry)
 
@@ -297,6 +298,8 @@ if __name__ == "__main__":
 		for word in word_list.split():
 			learn_spell(word,0)
 
+		for word in wrong:
+			print bcolors.Red +"                "+word+" :: "+subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')+bcolors.White
 		print bcolors.White + "Completed spell learning"
 		sys.exit()
 
