@@ -21,6 +21,8 @@ sup_spellbee = 0
 sup_pronounce = 0
 wrong = []
 correct = []
+fout = open("/tmp/rm.txt","w");
+list_of_sim_all=[]
 
 class bcolors:
 	Red = '\033[91m'
@@ -126,12 +128,18 @@ def similar_Wrd(word,cur):
 		for sim in wrd.lemma_names:
 			if sim not in list_of_sim:
 				list_of_sim.append(sim)
+			if sim not in list_of_sim_all:
+				list_of_sim_all.append(sim)
 		for hypo in wrd.hyponyms():
 			for lemma in hypo.lemma_names:
 				if lemma not in list_of_sim:
 					list_of_sim.append(lemma)
+			if sim not in list_of_sim_all:
+				list_of_sim_all.append(lemma)
 		if word in list_of_sim:
 			list_of_sim.remove(word)
+		if word in list_of_sim_all:
+			list_of_sim_all.remove(word)
 
 	if(len(list_of_sim)):
 		print bcolors.Yellow + "words similar to "+word
@@ -207,7 +215,7 @@ def update_db(word,cur):
 		cur.execute("UPDATE table_words set count = ? where word = ?", (rword[1]+1,word));
 
 def sub_main(word,cur):
-	update_db(word,cur)
+	#update_db(word,cur)
 	if(sup_vocal):
 		gplay(word,cur)
 	wndef(word,cur)
@@ -337,8 +345,12 @@ if __name__ == "__main__":
 					sys.exit()
 			else:
 				sub_main(word.lower(),cur)
-	
+	if(len(list_of_sim_all) is not 0):
+		for word in list_of_sim_all:
+		   fout.write("%s\n" % (word))
 	print bcolors.White + "Completed words"
 	conn.commit()
 	conn.close()
 	sys.exit()
+# [ node1, node2, node3, node4, node5 ]
+# [ (node1,node2), (node1, node5), (node2,node3),(node3,node4)]
