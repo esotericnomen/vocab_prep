@@ -98,7 +98,48 @@ def gplay(word,cur):
 	if(cur is not None):
 		print bcolors.Blue + word +"  :: " +subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
 
+def rprint_nodes(nodes):
+	print "\'nodes\': ["
+	for entity in nodes:
+		print "\'%s\'," %(entity)
+	print "],"
+
+def rprint_edges(edges):
+	print "\'edges\': [\n"
+	for entity in edges:
+		print "[\'%s\',\'%s\']," %(entity[0],entity[1])
+	print "]"
+
+def rplot(word):
+	nodes = []
+	edges = []
+	synset_len = len(wn.synsets(word))
+	i = 1
+	nodes.append(word)
+	while(i <= synset_len):
+		mnode = "m"+str(i)
+		nodes.append(mnode)
+
+		link = (word,mnode)
+		edges.append(link)
+		i=i+1
+
+	i = 1
+	for ss in wn.synsets(word):
+		parent = "m"+str(i)
+		i = i + 1 
+		for sim in ss.lemma_names:
+			link = (parent,sim)
+			if sim not in nodes:
+				nodes.append(sim)
+			if(link not in edges):
+			 	edges.append(link)
+			#print bcolors.Green + "%s\n" % (sim)
+	rprint_nodes(nodes)
+	rprint_edges(edges)
+
 def wndef(word,cur):
+	rplot(word)
 	for ss in wn.synsets(word):
 		print bcolors.Green + "%20s : %s\n" % (word,ss.definition)
 		#eplay(ss.definition, cur)
