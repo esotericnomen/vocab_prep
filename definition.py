@@ -10,6 +10,7 @@ import os
 from nltk.corpus import wordnet as wn		# Wordnet DB
 from nltk.stem.wordnet import WordNetLemmatizer	# To Obtain Lemma
 from BeautifulSoup import BeautifulSoup		
+import goslate
 
 sup_vocal = 0
 sup_syn = 0
@@ -19,10 +20,14 @@ sup_manual = 0
 sup_cache_only = 0
 sup_spellbee = 0
 sup_pronounce = 0
+sup_rplot = 0
 wrong = []
 correct = []
 fout = open("/tmp/rm.txt","w");
 list_of_sim_all=[]
+nodes = []
+edges = []
+meanings = []
 
 class bcolors:
 	Red = '\033[91m'
@@ -96,7 +101,10 @@ def gplay(word,cur):
 					break;
 	subprocess.call(["ffplay", "-nodisp", "-autoexit", mp3_file_path],stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
 	if(cur is not None):
-		print bcolors.Blue + word +"  :: " +subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
+		gs = goslate.Goslate()
+		ta = " "
+		ta = gs.translate(word, 'ta')
+		print bcolors.Blue + ta + " :: " + word +"  :: " +subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
 
 def rprint_nodes(nodes):
 	print "\'nodes\': ["
@@ -110,36 +118,30 @@ def rprint_edges(edges):
 		print "[\'%s\',\'%s\']," %(entity[0],entity[1])
 	print "]"
 
+mean_count = 0
 def rplot(word):
-	nodes = []
-	edges = []
 	synset_len = len(wn.synsets(word))
-	i = 1
 	nodes.append(word)
-	while(i <= synset_len):
-		mnode = "m"+str(i)
-		nodes.append(mnode)
+	global mean_count
 
-		link = (word,mnode)
-		edges.append(link)
-		i=i+1
-
-	i = 1
 	for ss in wn.synsets(word):
-		parent = "m"+str(i)
-		i = i + 1 
+		parent = ss.definition
+		if parent not in meanings:
+			meanings.append(parent)
+
+			mean_count = mean_count +1
+			parent_tag = "m"+str(mean_count)
+			nodes.append(parent)
 		for sim in ss.lemma_names:
 			link = (parent,sim)
 			if sim not in nodes:
 				nodes.append(sim)
 			if(link not in edges):
 			 	edges.append(link)
-			#print bcolors.Green + "%s\n" % (sim)
-	rprint_nodes(nodes)
-	rprint_edges(edges)
 
 def wndef(word,cur):
-	rplot(word)
+	if(sup_rplot):
+		rplot(word)
 	for ss in wn.synsets(word):
 		print bcolors.Green + "%20s : %s\n" % (word,ss.definition)
 		#eplay(ss.definition, cur)
@@ -320,6 +322,9 @@ if __name__ == "__main__":
 	if 'pron' in sys.argv[2]:
 		sup_pronounce = 1
 
+	if 'plot' in sys.argv[2]:
+		sup_rplot = 1
+
 	studied = 0
 	no_of_word = 0
 
@@ -328,6 +333,7 @@ if __name__ == "__main__":
 	cur = conn.cursor()
 	cur.execute("CREATE TABLE IF NOT EXISTS table_words(word TEXT, count INT)")
 	#l = WordNetLemmatizer()
+	gs = goslate.Goslate()
 
 	# Try to get the input
 	try:
@@ -390,6 +396,9 @@ if __name__ == "__main__":
 		for word in list_of_sim_all:
 		   fout.write("%s\n" % (word))
 	print bcolors.White + "Completed words"
+	if(sup_rplot):
+		rprint_nodes(nodes)
+		rprint_edges(edges)
 	conn.commit()
 	conn.close()
 	sys.exit()
