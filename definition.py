@@ -9,8 +9,11 @@ import time
 import os
 from nltk.corpus import wordnet as wn		# Wordnet DB
 from nltk.stem.wordnet import WordNetLemmatizer	# To Obtain Lemma
-from BeautifulSoup import BeautifulSoup		
+from BeautifulSoup import BeautifulSoup
 import goslate
+
+rpath = "/home/shingu/workspace/vocab_prep/"
+#rpath = "/home/rajkumar.r/backup/workspace/users/raj/vocab_prep/"
 
 sup_vocal = 0
 sup_syn = 0
@@ -55,12 +58,12 @@ def print_summary():
 				c : Support Cache only mode  \n\
 			\n\
 			Entered only "+str(len(sys.argv))+" arguments \n\
-	" 
+	"
 
 
 
 def learn_spell(word,retry):
-	mp3_file_path = "/home/shingu/workspace/vocab_prep/audio_cache/"+word+".mp3"
+	mp3_file_path = rpath+"audio_cache/"+word+".mp3"
 	try:
 		size = os.path.getsize(mp3_file_path)
 	except:
@@ -84,7 +87,7 @@ def eplay(word,cur):
 	subprocess.call( espeak_cmd +"'"+word+"'", shell=True, stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
 
 def gplay(word,cur):
-	mp3_file_path = "/home/shingu/workspace/vocab_prep/audio_cache/"+word+".mp3"
+	mp3_file_path = rpath+"audio_cache/"+word+".mp3"
 	retry = 0
 	try:
 		size = os.path.getsize(mp3_file_path)
@@ -123,9 +126,12 @@ def rplot(word):
 	synset_len = len(wn.synsets(word))
 	nodes.append(word)
 	global mean_count
+	rreplace = ["\'","\"","(",")","[","]"]
 
 	for ss in wn.synsets(word):
 		parent = ss.definition
+		for rep in rreplace:
+			parent = parent.replace(rep,"")
 		if parent not in meanings:
 			meanings.append(parent)
 
@@ -133,15 +139,18 @@ def rplot(word):
 			parent_tag = "m"+str(mean_count)
 			nodes.append(parent)
 		for sim in ss.lemma_names:
+			for rep in rreplace:
+				    sim = sim.replace(rep,"")
 			link = (parent,sim)
 			if sim not in nodes:
 				nodes.append(sim)
 			if(link not in edges):
-			 	edges.append(link)
+				edges.append(link)
 
 def wndef(word,cur):
 	if(sup_rplot):
 		rplot(word)
+		return
 	for ss in wn.synsets(word):
 		print bcolors.Green + "%20s : %s\n" % (word,ss.definition)
 		#eplay(ss.definition, cur)
@@ -202,7 +211,7 @@ def wrd_hyponyms(word,cur):
 		print_list(list_of_hyponyms,1)
 
 def jdef(word,cur):
-	def_file_path = "/home/shingu/workspace/vocab_prep/definition_cache/"+word+".txt"
+	def_file_path = rpath+"definition_cache/"+word+".txt"
 	retry = 0
 	try:
 		size = os.path.getsize(def_file_path)
@@ -247,7 +256,7 @@ def jdef(word,cur):
 		print "----------------------------------------------------------------------------------------------------"
 
 def update_db(word,cur):
-#  conn.execute('''CREATE TABLE table_words 
+#  conn.execute('''CREATE TABLE table_words
 			#(word TEXT NOT NULL,
 			# count INT NOT NULL);''')
 	cur.execute("Select * from table_words where word = ?", (word,))
@@ -297,22 +306,22 @@ if __name__ == "__main__":
 		print_summary()
 		sys.exit()
 
-	# Configuration setup 
+	# Configuration setup
 	if 'v' in sys.argv[2]:
 		sup_vocal = 1
 
 	if 's' in sys.argv[2]:
 		sup_syn = 1
-	
+
 	if 'd' in sys.argv[2]:
 		sup_desc = 1
-	
+
 	if 'h' in sys.argv[2]:
 		sup_hyp = 1
-	
+
 	if 'm' in sys.argv[2]:
 		sup_manual = 1
-	
+
 	if 'c' in sys.argv[2]:
 		sup_cache_only = 1
 
@@ -329,7 +338,8 @@ if __name__ == "__main__":
 	no_of_word = 0
 
 	# Database setup
-	conn = sqlite3.connect(r"/home/shingu/workspace/vocab_prep/words.db")
+	db_path = rpath+"words.db"
+	conn = sqlite3.connect(db_path)
 	cur = conn.cursor()
 	cur.execute("CREATE TABLE IF NOT EXISTS table_words(word TEXT, count INT)")
 	#l = WordNetLemmatizer()
