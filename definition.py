@@ -104,10 +104,13 @@ def gplay(word,cur):
 					break;
 	subprocess.call(["ffplay", "-nodisp", "-autoexit", mp3_file_path],stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
 	if(cur is not None):
-		gs = goslate.Goslate()
-		ta = " "
-		ta = gs.translate(word, 'ta')
-		print bcolors.Blue + ta + " :: " + word +"  :: " +subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
+		try:
+			gs = goslate.Goslate()
+			ta = " "
+			ta = gs.translate(word, 'ta')
+			print bcolors.Blue + ta + " :: " + word +"  :: " +subprocess.check_output(["espeak", "-q", "--ipa",'-v', 'en-us', word]).decode('utf-8')
+		except:
+			pass
 
 def rprint_nodes(nodes):
 	print "\'nodes\': ["
