@@ -112,17 +112,27 @@ def gplay(word,cur):
 		except:
 			pass
 
-def rprint_nodes(nodes):
-	print "\'nodes\': ["
-	for entity in nodes:
-		print "\'%s\'," %(entity)
-	print "],"
+def rprint_nodes(nodes,var_name,fp_plot):
 
-def rprint_edges(edges):
-	print "\'edges\': [\n"
-	for entity in edges:
-		print "[\'%s\',\'%s\']," %(entity[0],entity[1])
-	print "]"
+	fp_plot.write("var %s = { \n\'nodes\': [\n"% (var_name))
+
+	i = 0
+	length = len(nodes)
+	while (i < length-1):
+		fp_plot.write("\'%s\'," %(nodes[i]))
+		i = i + 1
+	fp_plot.write("\'%s\']," %(nodes[i]))
+
+def rprint_edges(edges,fp_plot):
+	fp_plot.write("\'edges\': [\n")
+	
+	i = 0
+	length = len(edges)
+	while (i < length-1):
+		fp_plot.write("[\'%s\',\'%s\']," %(edges[i][0],edges[i][1]))
+		i = i + 1
+	fp_plot.write("[\'%s\',\'%s\']]}" %(edges[i][0],edges[i][1]))
+
 
 mean_count = 0
 def rplot(word):
@@ -410,8 +420,13 @@ if __name__ == "__main__":
 		   fout.write("%s\n" % (word))
 	print bcolors.White + "Completed words"
 	if(sup_rplot):
-		rprint_nodes(nodes)
-		rprint_edges(edges)
+		plot_fp_name = sys.argv[1].split("/")
+		var_name = plot_fp_name[len(plot_fp_name)-1]
+		plot_fp_name = "/tmp/"+plot_fp_name[len(plot_fp_name)-1]
+		fp_plot = open(plot_fp_name,"w")
+
+		rprint_nodes(nodes,var_name,fp_plot)
+		rprint_edges(edges,fp_plot)
 	conn.commit()
 	conn.close()
 	sys.exit()
