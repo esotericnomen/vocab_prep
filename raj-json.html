@@ -1,0 +1,245 @@
+<html>
+<body>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script src="springy.js"></script>
+<script src="springyui.js"></script>
+<script src="graphs.js"></script>
+
+<input id = "input" list = "datalist" type = "text" />
+
+<datalist id = "datalist">
+<option value ="r002_005_Pardon"></option>
+<option value ="r003_006_Agriculture"></option>
+<option value ="r004_006_Apparition"></option>
+<option value ="r005_006_Hot"></option>
+<option value ="r006_007_Sleep"></option>
+<option value ="r007_007_Intoxication"></option>
+<option value ="r008_007_Assuage"></option>
+<option value ="r009_008_University"></option>
+<option value ="r010_009_Style"></option>
+<option value ="r011_010_Festivals"></option>
+<option value ="r012_010_Active"></option>
+<option value ="r013_010_Seasons"></option>
+<option value ="r014_010_Rural"></option>
+<option value ="r015_011_Study"></option>
+<option value ="r016_011_Opinion"></option>
+<option value ="r017_011_Giving"></option>
+<option value ="r018_012_Nature"></option>
+<option value ="r019_013_Inert"></option>
+<option value ="r020_014_txt"></option>
+<option value ="r021_014_Actors"></option>
+<option value ="r022_015_Poverty"></option>
+<option value ="r023_016_Change"></option>
+<option value ="r024_016_Journeys"></option>
+<option value ="r025_016_Humility"></option>
+<option value ="r026_016_Weakness"></option>
+<option value ="r027_017_Satisfaction"></option>
+<option value ="r028_017_Industry"></option>
+<option value ="r029_018_Clothing"></option>
+<option value ="r030_019_Poets"></option>
+<option value ="r031_019_Predictions"></option>
+<option value ="r032_020_Birds"></option>
+<option value ="r033_020_Being"></option>
+<option value ="r034_026_Buildings"></option>
+<option value ="r035_026_Transportation"></option>
+<option value ="r036_028_Mystery"></option>
+<option value ="r037_028_Books"></option>
+<option value ="r038_031_Praise"></option>
+<option value ="r039_031_Sex"></option>
+<option value ="r040_032_Conventions"></option>
+<option value ="r041_032_Negotiations"></option>
+<option value ="r042_035_Insects"></option>
+<option value ="r043_037_Fear"></option>
+<option value ="r044_037_Of"></option>
+<option value ="r045_039_Being"></option>
+<option value ="r046_039_Shapes"></option>
+<option value ="r047_040_Heavenly"></option>
+<option value ="r048_040_Value"></option>
+<option value ="r049_040_Exerting"></option>
+<option value ="r050_043_Style"></option>
+<option value ="r051_044_Military"></option>
+<option value ="r052_044_Death"></option>
+<option value ="r053_045_Family"></option>
+<option value ="r054_047_Plants"></option>
+<option value ="r055_048_Rebelling"></option>
+<option value ="r056_052_Conforming"></option>
+<option value ="r057_052_Mind"></option>
+<option value ="r058_054_Government"></option>
+<option value ="r059_055_Finance"></option>
+<option value ="r060_057_Places"></option>
+<option value ="r061_057_Improve"></option>
+<option value ="r062_058_Beauty"></option>
+<option value ="r063_061_Situations"></option>
+<option value ="r064_061_Music"></option>
+<option value ="r065_061_Food"></option>
+<option value ="r066_064_Creation"></option>
+<option value ="r067_064_Good"></option>
+<option value ="r068_065_Special"></option>
+<option value ="r069_066_Cheating"></option>
+<option value ="r070_067_Support"></option>
+<option value ="r071_069_Increase"></option>
+<option value ="r072_071_Medicine"></option>
+<option value ="r073_075_Strength"></option>
+<option value ="r074_077_Shouting"></option>
+<option value ="r075_080_Religion"></option>
+<option value ="r076_085_Interpersonal"></option>
+<option value ="r077_092_Law"></option>
+<option value ="r078_092_Winds"></option>
+<option value ="r079_092_Time"></option>
+<option value ="r080_094_Thoughts"></option>
+<option value ="r081_095_Animals"></option>
+<option value ="r082_096_Types"></option>
+<option value ="r083_097_Nature"></option>
+<option value ="r084_099_Human"></option>
+<option value ="r085_100_Unclassified"></option>
+<option value ="r086_106_Special"></option>
+<option value ="r087_109_Taste"></option>
+<option value ="r088_119_State"></option>
+<option value ="r089_124_Special"></option>
+<option value ="r090_130_Name_of_specialists"></option>
+<option value ="r091_139_Large"></option>
+        else if(input.value == "r004_006_Apparition")        rajGraph = r004_006_Apparition<option value ="r092_157_Activities"></option>
+<option value ="r093_175_Disposition"></option>
+<option value ="r094_178_ScientificTerms"></option>
+<option value ="r095_199_Of"></option>
+<option value ="r096_234_Study"></option>
+<option value ="r097_237_Personality"></option>
+</datalist>
+
+
+<script>
+var datalist = document.getElementById ("datalist");
+var input = document.getElementById ("input");
+
+input.addEventListener ("keyup", function (event) {
+        if (event.which === 13) {
+        var graph = new Springy.Graph();
+        var rajGraph = r002_005_Pardon
+
+        <!--console.log(r002_absolve);-->
+        console.log(rajGraph)
+        console.log(input.value)
+        if(input.value == "r003_006_Agriculture")            rajGraph = r003_006_Agriculture
+        else if(input.value == "r004_006_Apparition")        rajGraph = r004_006_Apparition
+        else if(input.value == "r005_006_Hot")        rajGraph = r005_006_Hot
+        else if(input.value == "r006_007_Sleep")        rajGraph = r006_007_Sleep
+        else if(input.value == "r007_007_Intoxication")        rajGraph = r007_007_Intoxication
+        else if(input.value == "r008_007_Assuage")        rajGraph = r008_007_Assuage
+        else if(input.value == "r009_008_University")        rajGraph = r009_008_University
+        else if(input.value == "r010_009_Style")        rajGraph = r010_009_Style
+        else if(input.value == "r011_010_Festivals")        rajGraph = r011_010_Festivals
+        else if(input.value == "r012_010_Active")        rajGraph = r012_010_Active
+        else if(input.value == "r013_010_Seasons")        rajGraph = r013_010_Seasons
+        else if(input.value == "r014_010_Rural")        rajGraph = r014_010_Rural
+        else if(input.value == "r015_011_Study")        rajGraph = r015_011_Study
+        else if(input.value == "r016_011_Opinion")        rajGraph = r016_011_Opinion
+        else if(input.value == "r017_011_Giving")        rajGraph = r017_011_Giving
+        else if(input.value == "r018_012_Nature")        rajGraph = r018_012_Nature
+        else if(input.value == "r019_013_Inert")        rajGraph = r019_013_Inert
+        else if(input.value == "r020_014_txt")        rajGraph = r020_014_txt
+        else if(input.value == "r021_014_Actors")        rajGraph = r021_014_Actors
+        else if(input.value == "r022_015_Poverty")        rajGraph = r022_015_Poverty
+        else if(input.value == "r023_016_Change")        rajGraph = r023_016_Change
+        else if(input.value == "r024_016_Journeys")        rajGraph = r024_016_Journeys
+        else if(input.value == "r025_016_Humility")        rajGraph = r025_016_Humility
+        else if(input.value == "r026_016_Weakness")        rajGraph = r026_016_Weakness
+        else if(input.value == "r027_017_Satisfaction")        rajGraph = r027_017_Satisfaction
+        else if(input.value == "r028_017_Industry")        rajGraph = r028_017_Industry
+        else if(input.value == "r029_018_Clothing")        rajGraph = r029_018_Clothing
+        else if(input.value == "r030_019_Poets")        rajGraph = r030_019_Poets
+        else if(input.value == "r031_019_Predictions")        rajGraph = r031_019_Predictions
+        else if(input.value == "r032_020_Birds")        rajGraph = r032_020_Birds
+        else if(input.value == "r033_020_Being")        rajGraph = r033_020_Being
+        else if(input.value == "r034_026_Buildings")        rajGraph = r034_026_Buildings
+        else if(input.value == "r035_026_Transportation")        rajGraph = r035_026_Transportation
+        else if(input.value == "r036_028_Mystery")        rajGraph = r036_028_Mystery
+        else if(input.value == "r037_028_Books")        rajGraph = r037_028_Books
+        else if(input.value == "r038_031_Praise")        rajGraph = r038_031_Praise
+        else if(input.value == "r039_031_Sex")        rajGraph = r039_031_Sex
+        else if(input.value == "r040_032_Conventions")        rajGraph = r040_032_Conventions
+        else if(input.value == "r041_032_Negotiations")        rajGraph = r041_032_Negotiations
+        else if(input.value == "r042_035_Insects")        rajGraph = r042_035_Insects
+        else if(input.value == "r043_037_Fear")        rajGraph = r043_037_Fear
+        else if(input.value == "r044_037_Of")        rajGraph = r044_037_Of
+        else if(input.value == "r045_039_Being")        rajGraph = r045_039_Being
+        else if(input.value == "r046_039_Shapes")        rajGraph = r046_039_Shapes
+        else if(input.value == "r047_040_Heavenly")        rajGraph = r047_040_Heavenly
+        else if(input.value == "r048_040_Value")        rajGraph = r048_040_Value
+        else if(input.value == "r049_040_Exerting")        rajGraph = r049_040_Exerting
+        else if(input.value == "r050_043_Style")        rajGraph = r050_043_Style
+        else if(input.value == "r051_044_Military")        rajGraph = r051_044_Military
+        else if(input.value == "r052_044_Death")        rajGraph = r052_044_Death
+        else if(input.value == "r053_045_Family")        rajGraph = r053_045_Family
+        else if(input.value == "r054_047_Plants")        rajGraph = r054_047_Plants
+        else if(input.value == "r055_048_Rebelling")        rajGraph = r055_048_Rebelling
+        else if(input.value == "r056_052_Conforming")        rajGraph = r056_052_Conforming
+        else if(input.value == "r057_052_Mind")        rajGraph = r057_052_Mind
+        else if(input.value == "r058_054_Government")        rajGraph = r058_054_Government
+        else if(input.value == "r059_055_Finance")        rajGraph = r059_055_Finance
+        else if(input.value == "r060_057_Places")        rajGraph = r060_057_Places
+        else if(input.value == "r061_057_Improve")        rajGraph = r061_057_Improve
+        else if(input.value == "r062_058_Beauty")        rajGraph = r062_058_Beauty
+        else if(input.value == "r063_061_Situations")        rajGraph = r063_061_Situations
+        else if(input.value == "r064_061_Music")        rajGraph = r064_061_Music
+        else if(input.value == "r065_061_Food")        rajGraph = r065_061_Food
+        else if(input.value == "r066_064_Creation")        rajGraph = r066_064_Creation
+        else if(input.value == "r067_064_Good")        rajGraph = r067_064_Good
+        else if(input.value == "r068_065_Special")        rajGraph = r068_065_Special
+        else if(input.value == "r069_066_Cheating")        rajGraph = r069_066_Cheating
+        else if(input.value == "r070_067_Support")        rajGraph = r070_067_Support
+        else if(input.value == "r071_069_Increase")        rajGraph = r071_069_Increase
+        else if(input.value == "r072_071_Medicine")        rajGraph = r072_071_Medicine
+        else if(input.value == "r073_075_Strength")        rajGraph = r073_075_Strength
+        else if(input.value == "r074_077_Shouting")        rajGraph = r074_077_Shouting
+        else if(input.value == "r075_080_Religion")        rajGraph = r075_080_Religion
+        else if(input.value == "r076_085_Interpersonal")        rajGraph = r076_085_Interpersonal
+        else if(input.value == "r077_092_Law")        rajGraph = r077_092_Law
+        else if(input.value == "r078_092_Winds")        rajGraph = r078_092_Winds
+        else if(input.value == "r079_092_Time")        rajGraph = r079_092_Time
+        else if(input.value == "r080_094_Thoughts")        rajGraph = r080_094_Thoughts
+        else if(input.value == "r081_095_Animals")        rajGraph = r081_095_Animals
+        else if(input.value == "r082_096_Types")        rajGraph = r082_096_Types
+        else if(input.value == "r083_097_Nature")        rajGraph = r083_097_Nature
+        else if(input.value == "r084_099_Human")        rajGraph = r084_099_Human
+        else if(input.value == "r085_100_Unclassified")        rajGraph = r085_100_Unclassified
+        else if(input.value == "r086_106_Special")        rajGraph = r086_106_Special
+        else if(input.value == "r087_109_Taste")        rajGraph = r087_109_Taste
+        else if(input.value == "r088_119_State")        rajGraph = r088_119_State
+        else if(input.value == "r089_124_Special")        rajGraph = r089_124_Special
+        else if(input.value == "r090_130_Name_of_specialists")        rajGraph = r090_130_Name_of_specialists
+        else if(input.value == "r091_139_Large")        rajGraph = r091_139_Large
+        else if(input.value == "r092_157_Activities")        rajGraph = r092_157_Activities
+        else if(input.value == "r093_175_Disposition")        rajGraph = r093_175_Disposition
+        else if(input.value == "r094_178_ScientificTerms")        rajGraph = r094_178_ScientificTerms
+        else if(input.value == "r095_199_Of")        rajGraph = r095_199_Of
+        else if(input.value == "r096_234_Study")        rajGraph = r096_234_Study
+        else if(input.value == "r097_237_Personality")        rajGraph = r097_237_Personality
+
+        graph.loadJSON(rajGraph);
+        var springy = jQuery('#springydemo').springy({graph: graph});
+        }
+        }, false);
+</script>
+<!--
+<script>
+    jQuery(function(){
+            var graph = new Springy.Graph();
+            graph.loadJSON(test_str);
+            graph.loadJSON(r002_absolve);
+            graph.loadJSON(r003_agriculture);
+            graph.loadJSON(r004_apparition);
+            graph.loadJSON(r005_hot);
+            graph.loadJSON(r006_sleep);
+            graph.loadJSON(r007_intoxication);
+            graph.loadJSON(r002_005_Pardon);
+
+            var springy = jQuery('#springydemo').springy({graph: graph});
+            });
+</script>
+-->
+
+<canvas id="springydemo" width="2048" height="1152" />
+
+
+</body>
+</html>
