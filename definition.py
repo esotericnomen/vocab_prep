@@ -11,6 +11,7 @@ from nltk.corpus import wordnet as wn		# Wordnet DB
 from nltk.stem.wordnet import WordNetLemmatizer	# To Obtain Lemma
 from BeautifulSoup import BeautifulSoup
 import goslate
+import re
 
 rpath = "/home/shingu/workspace/vocab_prep/"
 #rpath = "/home/rajkumar.r/backup/workspace/users/raj/vocab_prep/"
@@ -286,7 +287,7 @@ def ety_def(word,cur):
 				print "try %d" %(retry)
 				try:
 					response = urllib2.urlopen(url)
-					replace = ["\"","<i>","</i>","<dd class=highlight>","<span class=foreign>","</dd>","</span>"]
+					replace = ["\"","<i>","</i>","</a>","<dd class=highlight>","<span class=foreign>","</dd>","</span>"]
 					html = response.read()
 					soup = BeautifulSoup(html)
 					etym = soup.findAll(attrs={"class" : "highlight"})
@@ -296,6 +297,8 @@ def ety_def(word,cur):
 						pass
 					for rep in replace:
 						etym=etym.replace(rep,"")
+					# Replace all etym words after removing hyperlink 
+					etym = re.sub(r'<a.*?>', '', etym)
 					def_file = open(def_file_path,"w")
 					def_file.write("%s\n\n" % (textwrap.fill(etym, width=100)))
 					print  bcolors.White + bcolors.BOLD + "%s\n\n" % (textwrap.fill(etym, width=100)) +bcolors.END
@@ -307,7 +310,9 @@ def ety_def(word,cur):
 	else:
 		def_file = open(def_file_path,"r")
 		print "----------------------------------------------------------------------------------------------------"
-		print bcolors.Blue + bcolors.BOLD + def_file.read() + bcolors.END
+		etym = def_file.read()
+		etym = re.sub(r'<a.*?>', '', etym)
+		print bcolors.Blue + bcolors.BOLD + etym + bcolors.END
 		print "----------------------------------------------------------------------------------------------------"
 
 
