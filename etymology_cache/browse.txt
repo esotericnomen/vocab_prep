@@ -1,0 +1,6 @@
+1845, animal which browses, agent noun from <a href=/index.php?term=browse&amp;allowed_in_frame=0
+class=crossreference>browse</a> (v.). In the computer sense by 1982.  <blockquote>  The first
+browser was invented at PARC by Larry Tesler, now a designer at Apple Computer. Tesler's first
+Smalltalk browser was a tree-structured device. It enabled programmers to hunt quickly for items in
+a Smalltalk dictionary. [InfoWorld magazine, vol. v., no. 4, Jan. 24, 1983]  </blockquote>
+

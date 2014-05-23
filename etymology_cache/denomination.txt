@@ -1,0 +1,4 @@
+1838; see <a href=/index.php?term=denomination&amp;allowed_in_frame=0
+class=crossreference>denomination</a> + <a href=/index.php?term=-al&amp;allowed_in_frame=0
+class=crossreference>-al</a> (1).
+

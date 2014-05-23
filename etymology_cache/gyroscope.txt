@@ -1,0 +1,6 @@
+heavy rotating wheel with an axis free to turn in any direction, 1856, invented and named in French
+1852 by Foucault, from Greek gyros circle (see <a href=/index.php?term=gyre&amp;allowed_in_frame=0
+class=crossreference>gyre</a>) + skopos watcher (see <a
+href=/index.php?term=scope&amp;allowed_in_frame=0 class=crossreference>scope</a> (n.1)), because the
+device demonstrates that the earth rotates.
+

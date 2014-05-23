@@ -1,0 +1,4 @@
+precision, 1560s, from <a href=/index.php?term=precise&amp;allowed_in_frame=0
+class=crossreference>precise</a> + <a href=/index.php?term=-ness&amp;allowed_in_frame=0
+class=crossreference>-ness</a>.
+

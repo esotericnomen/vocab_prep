@@ -1,0 +1,4 @@
+1831, from <a href=/index.php?term=compartment&amp;allowed_in_frame=0
+class=crossreference>compartment</a> + <a href=/index.php?term=-al&amp;allowed_in_frame=0
+class=crossreference>-al</a> (1).
+

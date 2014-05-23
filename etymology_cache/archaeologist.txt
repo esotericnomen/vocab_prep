@@ -1,0 +1,4 @@
+1824; see <a href=/index.php?term=archaeology&amp;allowed_in_frame=0
+class=crossreference>archaeology</a> + <a href=/index.php?term=-ist&amp;allowed_in_frame=0
+class=crossreference>-ist</a>.
+

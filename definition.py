@@ -42,6 +42,9 @@ class bcolors:
 	Magenta = '\033[95m'
 	Grey = '\033[90m'
 	Black = '\033[90m'
+	BOLD = '\033[1m'
+	UNDERLINE = '\033[4m'
+	END = '\033[0m'
 	Default = '\033[99m'
 
 def print_summary():
@@ -268,6 +271,46 @@ def jdef(word,cur):
 		print bcolors.White + def_file.read()
 		print "----------------------------------------------------------------------------------------------------"
 
+def ety_def(word,cur):
+	def_file_path = rpath+"etymology_cache/"+word+".txt"
+	retry = 0
+	try:
+		size = os.path.getsize(def_file_path)
+	except:
+		size = 0
+	if((os.path.isfile(def_file_path) is False) or (size is 0) ):
+		if(sup_cache_only is 0):
+			url="http://www.etymonline.com/?search="+word
+			while 1:
+				retry = retry+1
+				print "try %d" %(retry)
+				try:
+					response = urllib2.urlopen(url)
+					replace = ["\"","<i>","</i>","<dd class=highlight>","<span class=foreign>","</dd>","</span>"]
+					html = response.read()
+					soup = BeautifulSoup(html)
+					etym = soup.findAll(attrs={"class" : "highlight"})
+					try:
+						etym = str(etym[1])
+					except:
+						pass
+					for rep in replace:
+						etym=etym.replace(rep,"")
+					def_file = open(def_file_path,"w")
+					def_file.write("%s\n\n" % (textwrap.fill(etym, width=100)))
+					print  bcolors.White + bcolors.BOLD + "%s\n\n" % (textwrap.fill(etym, width=100)) +bcolors.END
+				except:
+					pass
+				if((os.path.isfile(def_file_path) is not False) or (retry is 3)):
+					break;
+				print "Etymology error for word : %s\n" %(word)
+	else:
+		def_file = open(def_file_path,"r")
+		print "----------------------------------------------------------------------------------------------------"
+		print bcolors.Blue + bcolors.BOLD + def_file.read() + bcolors.END
+		print "----------------------------------------------------------------------------------------------------"
+
+
 def update_db(word,cur):
 #  conn.execute('''CREATE TABLE table_words
 			#(word TEXT NOT NULL,
@@ -286,6 +329,7 @@ def sub_main(word,cur):
 	wndef(word,cur)
 	if(sup_desc):
 		jdef(word,cur)
+		ety_def(word,cur)
 	if(sup_hyp):
 		similar_Wrd(word,cur)
 		#wrd_hyponyms(word,cur)

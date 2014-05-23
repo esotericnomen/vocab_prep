@@ -1,0 +1,11 @@
+1640s, one who calculates, agent noun from <a href=/index.php?term=compute&amp;allowed_in_frame=0
+class=crossreference>compute</a> (v.). Meaning calculating machine (of any type) is from 1897; in
+modern use, programmable digital electronic computer (1945 under this name; theoretical from 1937,
+as Turing machine). <a href=/index.php?term=ENIAC&amp;allowed_in_frame=0
+class=crossreference>ENIAC</a> (1946) usually is considered the first. Computer literacy is recorded
+from 1970; an attempt to establish computerate (adjective, on model of literate) in this sense in
+the early 1980s didn't catch on. Computerese the jargon of programmers is from 1960, as are
+computerize and computerization.  <blockquote>  WASHINGTON (AP) -- A New York Congressman says the
+use of computers to record personal data on individuals, such as their credit background, is just
+frightening to me. [news article, March 17, 1968]  </blockquote>
+
