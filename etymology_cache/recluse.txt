@@ -1,6 +1,8 @@
+recluse (n.)
+
 c.1200, person shut up from the world for purposes of religious meditation, from Old French reclus
 (fem. recluse) hermit, recluse, also confinement, prison; convent, monastery, noun use of reclus
 (adj.) shut up, from Late Latin reclusus, past participle of recludere to shut up, enclose (but in
-classical Latin to throw open), from Latin re-, intensive prefix, + claudere to shut (see <a
-href=/index.php?term=close&amp;allowed_in_frame=0 class=crossreference>close</a> (v.)).
+classical Latin to throw open), from Latin re-, intensive prefix, + claudere to shut (see close
+(v.)).
 

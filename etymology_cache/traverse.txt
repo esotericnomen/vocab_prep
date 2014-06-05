@@ -1,5 +1,6 @@
+traverse (n.)
+
 act of passing through a gate, crossing a bridge, etc., mid-14c., from Old French travers, from
-traverser (see <a href=/index.php?term=traverse&amp;allowed_in_frame=0
-class=crossreference>traverse</a> (v.)). Meaning a passage by which one may traverse is recorded
-from 1670s. Military fortification sense of barrier, barricade is recorded from 1590s.
+traverser (see traverse (v.)). Meaning a passage by which one may traverse is recorded from 1670s.
+Military fortification sense of barrier, barricade is recorded from 1590s.
 

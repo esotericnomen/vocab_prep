@@ -1,3 +1,5 @@
+colander (n.)
+
 mid-14c., coloundour, probably altered from Medieval Latin colatorium strainer (with parasitic -n-)
 from Latin colatus, past participle of colare to strain, from colum sieve, strainer, wicker fishing
 net, of uncertain origin. Cognate with French couloir, Spanish colador, Italian colatojo.

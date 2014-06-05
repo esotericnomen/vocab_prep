@@ -1,8 +1,9 @@
+hierarchy (n.)
+
 mid-14c., from Old French ierarchie, from Medieval Latin hierarchia ranked division of angels (in
 the system of Dionysius the Areopagite), from Greek hierarkhia rule of a high priest, from
 hierarkhes high priest, leader of sacred rites, from ta hiera the sacred rites (neuter plural of
-hieros sacred; see <a href=/index.php?term=ire&amp;allowed_in_frame=0 class=crossreference>ire</a>)
-+ arkhein to lead, rule (see <a href=/index.php?term=archon&amp;allowed_in_frame=0
-class=crossreference>archon</a>). Sense of ranked organization of persons or things first recorded
-1610s, initially of clergy, sense probably influenced by higher. Related: Hierarchal; hierarchical.
+hieros sacred; see ire) + arkhein to lead, rule (see archon). Sense of ranked organization of
+persons or things first recorded 1610s, initially of clergy, sense probably influenced by higher.
+Related: Hierarchal; hierarchical.
 

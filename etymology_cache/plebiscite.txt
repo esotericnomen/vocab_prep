@@ -1,9 +1,9 @@
+plebiscite (n.)
+
 direct vote of the people, 1860 (originally in reference to Italian unification), from French
 pl&eacute;biscite (1776 in modern sense, originally with reference to Switzerland), from Latin
 plebiscitum a decree or resolution of the people, from plebs (genitive plebis) the common people
-(see <a href=/index.php?term=plebeian&amp;allowed_in_frame=0 class=crossreference>plebeian</a>
-(adj.)) + scitum decree, noun use of neuter past participle of sciscere to assent, vote for,
-approve, inchoative of scire to know (see <a href=/index.php?term=science&amp;allowed_in_frame=0
-class=crossreference>science</a>). Used earlier (1530s) in a purely Roman historical context.
-Related: Plebiscitary.
+(see plebeian (adj.)) + scitum decree, noun use of neuter past participle of sciscere to assent,
+vote for, approve, inchoative of scire to know (see science). Used earlier (1530s) in a purely Roman
+historical context. Related: Plebiscitary.
 

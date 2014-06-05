@@ -1,5 +1,5 @@
+topology (n.)
+
 1650s, study of the locations where plants are found, from topo-, comb. form of Greek topos place
-(see <a href=/index.php?term=topos&amp;allowed_in_frame=0 class=crossreference>topos</a>) + <a
-href=/index.php?term=-logy&amp;allowed_in_frame=0 class=crossreference>-logy</a>. Related:
-Topological.
+(see topos) + -logy. Related: Topological.
 

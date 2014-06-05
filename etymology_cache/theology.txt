@@ -1,9 +1,9 @@
+theology (n.)
+
 mid-14c., the science of religion, study of God and his relationship to humanity, from Old French
 theologie philosophical study of Christian doctrine; Scripture (14c.), from Latin theologia, from
 Greek theologia an account of the gods, from theologos one discoursing on the gods, from theos god
-(see <a href=/index.php?term=theo-&amp;allowed_in_frame=0 class=crossreference>theo-</a>) + -logos
-treating of (see <a href=/index.php?term=-logy&amp;allowed_in_frame=0
-class=crossreference>-logy</a>). Meaning a particular system of theology is from
+(see theo-) + -logos treating of (see -logy). Meaning a particular system of theology is from
 1660s.<blockquote>Theology moves back and forth between two poles, the eternal truth of its
 foundations and the temporal situation in which the eternal truth must be received. [Paul Tillich,
 Systematic Theology, 1951]</blockquote>

@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import sys					# for system io
 import sqlite3					# for DB Activities
@@ -12,6 +13,7 @@ from nltk.stem.wordnet import WordNetLemmatizer	# To Obtain Lemma
 from BeautifulSoup import BeautifulSoup
 import goslate
 import re
+from pattern.en import conjugate, pluralize, singularize, comparative, superlative, suggest
 
 rpath = "/home/shingu/workspace/vocab_prep/"
 #rpath = "/home/rajkumar.r/backup/workspace/users/raj/vocab_prep/"
@@ -129,7 +131,7 @@ def rprint_nodes(nodes,var_name,fp_plot):
 
 def rprint_edges(edges,fp_plot):
 	fp_plot.write("\'edges\': [\n")
-	
+
 	i = 0
 	length = len(edges)
 	while (i < length-1):
@@ -191,6 +193,27 @@ def print_list(l,col):
 		print "----------------------------------------------------------------------------------------------------"
 	except:
 		pass
+def pos_all(word):
+	rlist =[]
+	_rtense =('infinitive', 'present', 'past', 'future')
+	_rperson =(1,2,3)
+	_rnumber=('singular', 'plural')
+	_rmood=('indicative','imperitive','conditional','subjuntive')
+	_raspect=('imperfective','perfective','progressive')
+	for rtense in _rtense:
+		for rperson in _rperson:
+			for rnumber in _rnumber:
+				for rmood in _rmood:
+					for raspect in _raspect:
+						item = conjugate(word, tense = rtense, person = rperson,number = rnumber,mood = rmood,aspect = raspect,negated = False)
+						if item not in rlist:
+							rlist.append(item)
+
+	print bcolors.Magenta + "All pos of "+word
+	print_list(rlist,4)
+	print "Singluar    : " +singularize(word)+"			Plural      : " +pluralize(word)
+	print "Comparative : " +comparative(word)+" 			Superlative : " +superlative(word)
+
 def similar_Wrd(word,cur):
 	list_of_sim=[]
 	for wrd in wn.synsets(word):
@@ -258,6 +281,10 @@ def jdef(word,cur):
 					for rep in replace:
 						rlong=rlong.replace(rep,"")
 						rshort = rshort.replace(rep,"")
+					rlong=rlong.replace("â&euro;&rdquo;","--")
+					rshort = rshort.replace("â&euro;&rdquo;","--")
+					rlong=rlong.replace("â&euro;&trade;","\'")
+					rshort = rshort.replace("â&euro;&trade;","\'")
 					def_file = open(def_file_path,"w")
 					def_file.write("%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100)))
 					print  bcolors.White + "%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100))
@@ -287,20 +314,26 @@ def ety_def(word,cur):
 				print "try %d" %(retry)
 				try:
 					response = urllib2.urlopen(url)
-					replace = ["\"","<i>","</i>","</a>","<dd class=highlight>","<span class=foreign>","</dd>","</span>"]
+					replace = ["\"","<i>","</i>","</a>","<dt class=highlight>","<dd class=highlight>","<span class=foreign>","</dd>","</span>","<br />","</dt>"]
 					html = response.read()
 					soup = BeautifulSoup(html)
 					etym = soup.findAll(attrs={"class" : "highlight"})
 					try:
+						etym_wrd = str(etym[0])
 						etym = str(etym[1])
 					except:
 						pass
 					for rep in replace:
 						etym=etym.replace(rep,"")
-					# Replace all etym words after removing hyperlink 
+						etym_wrd=etym_wrd.replace(rep,"")
+					# Replace all etym words after removing hyperlink
 					etym = re.sub(r'<a.*?>', '', etym)
+					etym_wrd = re.sub(r'<a.*?>', '', etym_wrd)
+					etym_wrd = re.sub(r'<img.*?>', '', etym_wrd)
 					def_file = open(def_file_path,"w")
+					def_file.write("%s\n\n" % (textwrap.fill(etym_wrd, width=100)))
 					def_file.write("%s\n\n" % (textwrap.fill(etym, width=100)))
+					print  bcolors.White + bcolors.BOLD + "%s" % (textwrap.fill(etym_wrd, width=100)) +bcolors.END
 					print  bcolors.White + bcolors.BOLD + "%s\n\n" % (textwrap.fill(etym, width=100)) +bcolors.END
 				except:
 					pass
@@ -337,6 +370,7 @@ def sub_main(word,cur):
 		ety_def(word,cur)
 	if(sup_hyp):
 		similar_Wrd(word,cur)
+        pos_all(word)
 		#wrd_hyponyms(word,cur)
 
 def rspellbee():
@@ -438,6 +472,8 @@ if __name__ == "__main__":
 
 				entity =(word, tcount)
 				wrong.append(entity)
+			else:
+				print suggest(word)
 		rspellbee()
 		correct = sorted(correct,key=lambda x: x[1],reverse=True)
 		for entity in correct:
@@ -464,6 +500,8 @@ if __name__ == "__main__":
 					sys.exit()
 			else:
 				sub_main(word.lower(),cur)
+		else:
+			print suggest(word)
 	if(len(list_of_sim_all) is not 0):
 		for word in list_of_sim_all:
 		   fout.write("%s\n" % (word))

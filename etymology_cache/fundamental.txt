@@ -1,4 +1,4 @@
-c.1600, from <a href=/index.php?term=fundamental&amp;allowed_in_frame=0
-class=crossreference>fundamental</a> + <a href=/index.php?term=-ly&amp;allowed_in_frame=0
-class=crossreference>-ly</a> (2).
+fundamentally (adv.)
+
+c.1600, from fundamental + -ly (2).
 

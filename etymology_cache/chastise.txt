@@ -1,10 +1,9 @@
+chastise (v.)
+
 c.1300, chastisen, from Old French chastiier to warn, advise, instruct; chastise, admonish; punish;
 dominate, tame (12c., Modern French ch&acirc;tier), from Latin castigare to set or keep right, to
-reprove, chasten, to punish, literally to make pure (see <a
-href=/index.php?term=castigate&amp;allowed_in_frame=0 class=crossreference>castigate</a>). Or
-perhaps from Middle English chastien (see <a href=/index.php?term=chasten&amp;allowed_in_frame=0
-class=crossreference>chasten</a>) + <a href=/index.php?term=-ise&amp;allowed_in_frame=0
-class=crossreference>-ise</a>, though this would be early for such a native formation. The form of
+reprove, chasten, to punish, literally to make pure (see castigate). Or perhaps from Middle English
+chastien (see chasten) + -ise, though this would be early for such a native formation. The form of
 the modern word is not easily accounted for [OED]. Related: Chastised; chastising.  <blockquote>He
 alone may chastise who loves. [Rabindranath Tagore, The Crescent Moon, 1913]</blockquote>
 

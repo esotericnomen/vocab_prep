@@ -1,7 +1,8 @@
-1650s in geometry, from Modern Latin parameter (1630s), from Greek para- beside, subsidiary (see <a
-href=/index.php?term=para-&amp;allowed_in_frame=0 class=crossreference>para-</a> (1)) + metron
-measure (see <a href=/index.php?term=meter&amp;allowed_in_frame=0 class=crossreference>meter</a>
-(n.2)).  <br /><br />  A geometry term until 1920s when it yielded sense of measurable factor which
-helps to define a particular system (1927). Common modern meaning (influenced by perimeter) of
-boundary, limit, characteristic factor is from 1950s. Related: Parametric.
+parameter (n.)
+
+1650s in geometry, from Modern Latin parameter (1630s), from Greek para- beside, subsidiary (see
+para- (1)) + metron measure (see meter (n.2)).    A geometry term until 1920s when it yielded sense
+of measurable factor which helps to define a particular system (1927). Common modern meaning
+(influenced by perimeter) of boundary, limit, characteristic factor is from 1950s. Related:
+Parametric.
 

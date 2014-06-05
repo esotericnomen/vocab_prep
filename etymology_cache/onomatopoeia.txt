@@ -1,8 +1,7 @@
+onomatopoeia (n.)
+
 1570s, from Late Latin onomatopoeia, from Greek onomatopoiia the making of a name or word (in
 imitation of a sound associated with the thing being named), from onomatopoios, from onoma (genitive
-onomatos) word, name (see <a href=/index.php?term=name&amp;allowed_in_frame=0
-class=crossreference>name</a> (n.)) + a derivative of poiein compose, make (see <a
-href=/index.php?term=poet&amp;allowed_in_frame=0 class=crossreference>poet</a>). Related: <a
-href=/index.php?term=Onomatopoeic&amp;allowed_in_frame=0 class=crossreference>Onomatopoeic</a>;
-onomatopoeial.
+onomatos) word, name (see name (n.)) + a derivative of poiein compose, make (see poet). Related:
+Onomatopoeic; onomatopoeial.
 

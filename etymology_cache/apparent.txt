@@ -1,8 +1,8 @@
+apparent (adj.)
+
 late 14c., from Old French aparant evident, obvious, visible, from Latin apparentem (nominative
-apparens) visible, manifest, present participle of apparere (see <a
-href=/index.php?term=appear&amp;allowed_in_frame=0 class=crossreference>appear</a>). First attested
-in phrase heir apparent (see <a href=/index.php?term=heir&amp;allowed_in_frame=0
-class=crossreference>heir</a>). Meaning superficial is c.1400. Apparent magnitude in astronomy (how
-bright a heavenly body looks from earth, as opposed to absolute magnitude, which is how bright it
-really is) is attested from 1875.
+apparens) visible, manifest, present participle of apparere (see appear). First attested in phrase
+heir apparent (see heir). Meaning superficial is c.1400. Apparent magnitude in astronomy (how bright
+a heavenly body looks from earth, as opposed to absolute magnitude, which is how bright it really
+is) is attested from 1875.
 

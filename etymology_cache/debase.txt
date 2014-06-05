@@ -1,4 +1,5 @@
-1560s, from <a href=/index.php?term=de-&amp;allowed_in_frame=0 class=crossreference>de-</a> down +
-<a href=/index.php?term=base&amp;allowed_in_frame=0 class=crossreference>base</a> (adj.) low, on
-analogy of abase (or, alternatively, from obsolete verb base to abuse).
+debase (v.)
+
+1560s, from de- down + base (adj.) low, on analogy of abase (or, alternatively, from obsolete verb
+base to abuse).
 

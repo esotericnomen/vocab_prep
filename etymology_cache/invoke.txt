@@ -1,6 +1,6 @@
+invoke (v.)
+
 late 15c., from Middle French envoquer (12c.), from Latin invocare call upon, implore, from in- upon
-(see <a href=/index.php?term=in-&amp;allowed_in_frame=0 class=crossreference>in-</a> (2)) + vocare
-to call, related to vox (genitive vocis) voice (see <a
-href=/index.php?term=voice&amp;allowed_in_frame=0 class=crossreference>voice</a> (n.)). Related:
+(see in- (2)) + vocare to call, related to vox (genitive vocis) voice (see voice (n.)). Related:
 Invoked; invoking.
 

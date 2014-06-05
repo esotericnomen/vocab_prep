@@ -1,6 +1,6 @@
+preamble (n.)
+
 late 14c., from Old French preambule (13c.) and directly from Medieval Latin preambulum, neuter
 adjective used as a noun, properly preliminary, from Late Latin praeambulus walking before, from
-Latin prae- before (see <a href=/index.php?term=pre-&amp;allowed_in_frame=0
-class=crossreference>pre-</a>) + ambulare to walk (see <a
-href=/index.php?term=amble&amp;allowed_in_frame=0 class=crossreference>amble</a> (v.)).
+Latin prae- before (see pre-) + ambulare to walk (see amble (v.)).
 

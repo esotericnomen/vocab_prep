@@ -1,13 +1,11 @@
+astrology (n.)
+
 late 14c., from Latin astrologia astronomy, the science of the heavenly bodies, from Greek
-astrologia telling of the stars, from astron star (see <a
-href=/index.php?term=astro-&amp;allowed_in_frame=0 class=crossreference>astro-</a>) + -logia
-treating of (see <a href=/index.php?term=-logy&amp;allowed_in_frame=0
-class=crossreference>-logy</a>).  <br /><br />  Originally identical with <a
-href=/index.php?term=astronomy&amp;allowed_in_frame=0 class=crossreference>astronomy</a>, it had
-also a special sense of practical astronomy, astronomy applied to prediction of events. This was
-divided into natural astrology the calculation and foretelling of natural phenomenon (tides,
-eclipses, etc.), and judicial astrology the art of judging occult influences of stars on human
-affairs (also known as astromancy, 1650s). Differentiation between astrology and astronomy began
-late 1400s and by 17c. this word was limited to reading influences of the stars and their effects on
-human destiny.
+astrologia telling of the stars, from astron star (see astro-) + -logia treating of (see -logy).
+Originally identical with astronomy, it had also a special sense of practical astronomy, astronomy
+applied to prediction of events. This was divided into natural astrology the calculation and
+foretelling of natural phenomenon (tides, eclipses, etc.), and judicial astrology the art of judging
+occult influences of stars on human affairs (also known as astromancy, 1650s). Differentiation
+between astrology and astronomy began late 1400s and by 17c. this word was limited to reading
+influences of the stars and their effects on human destiny.
 

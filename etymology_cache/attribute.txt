@@ -1,4 +1,5 @@
+attribute (n.)
+
 quality ascribed to someone, late 14c., from Latin attributum anything attributed, noun use of
-neuter of attributus (see <a href=/index.php?term=attribute&amp;allowed_in_frame=0
-class=crossreference>attribute</a> (v.)). Distinguished from the verb by pronunciation.
+neuter of attributus (see attribute (v.)). Distinguished from the verb by pronunciation.
 

@@ -1,4 +1,5 @@
+depiction (n.)
+
 1680s, from French depiction, from Late Latin depictionem (nominative depictio) painting,
-description, noun of action from Latin depictus (see <a
-href=/index.php?term=depict&amp;allowed_in_frame=0 class=crossreference>depict</a>).
+description, noun of action from Latin depictus (see depict).
 

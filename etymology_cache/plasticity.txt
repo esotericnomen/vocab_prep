@@ -1,3 +1,4 @@
-1782, from <a href=/index.php?term=plastic&amp;allowed_in_frame=0 class=crossreference>plastic</a> +
-<a href=/index.php?term=-ity&amp;allowed_in_frame=0 class=crossreference>-ity</a>.
+plasticity
+
+1782, from plastic + -ity.
 

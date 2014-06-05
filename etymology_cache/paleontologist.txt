@@ -1,4 +1,4 @@
-1836, from <a href=/index.php?term=paleontology&amp;allowed_in_frame=0
-class=crossreference>paleontology</a> + <a href=/index.php?term=-ist&amp;allowed_in_frame=0
-class=crossreference>-ist</a>.
+paleontologist (n.)
+
+1836, from paleontology + -ist.
 

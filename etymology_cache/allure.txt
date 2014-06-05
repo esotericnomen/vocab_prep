@@ -1,9 +1,7 @@
+allure (v.)
+
 c.1400, from Anglo-French alurer, Old French aleurer to attract, captivate; train a falcon to hunt,
-from &agrave; to (see <a href=/index.php?term=ad-&amp;allowed_in_frame=0
-class=crossreference>ad-</a>) + loirre falconer's lure, from a Frankish word (see <a
-href=/index.php?term=lure&amp;allowed_in_frame=0 class=crossreference>lure</a>), perhaps influenced
-by French allure gait, way of walking. Related: Allured; <a
-href=/index.php?term=alluring&amp;allowed_in_frame=0 class=crossreference>alluring</a>. The noun is
-first attested 1540s; properly this sense is <a
-href=/index.php?term=allurement&amp;allowed_in_frame=0 class=crossreference>allurement</a>.
+from &agrave; to (see ad-) + loirre falconer's lure, from a Frankish word (see lure), perhaps
+influenced by French allure gait, way of walking. Related: Allured; alluring. The noun is first
+attested 1540s; properly this sense is allurement.
 

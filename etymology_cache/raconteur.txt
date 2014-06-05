@@ -1,7 +1,6 @@
+raconteur (n.)
+
 storyteller, person skilled in relating anecdotes, 1828, from French raconteur, from raconter to
-recount, tell, narrate, from re- (see <a href=/index.php?term=re-&amp;allowed_in_frame=0
-class=crossreference>re-</a>) + Old French aconter to count, render account (see <a
-href=/index.php?term=account&amp;allowed_in_frame=0 class=crossreference>account</a> (v.); and
-compare <a href=/index.php?term=recount&amp;allowed_in_frame=0 class=crossreference>recount</a>
-(v.1)). Related: Raconteuse (fem.).
+recount, tell, narrate, from re- (see re-) + Old French aconter to count, render account (see
+account (v.); and compare recount (v.1)). Related: Raconteuse (fem.).
 

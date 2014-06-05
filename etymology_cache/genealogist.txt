@@ -1,4 +1,4 @@
-c.1600, from <a href=/index.php?term=genealogy&amp;allowed_in_frame=0
-class=crossreference>genealogy</a> + <a href=/index.php?term=-ist&amp;allowed_in_frame=0
-class=crossreference>-ist</a>.
+genealogist (n.)
+
+c.1600, from genealogy + -ist.
 

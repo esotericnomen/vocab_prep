@@ -1,8 +1,8 @@
+succumb (v.)
+
 late 15c., from Old French succomber succumb, die, lose one's (legal) case, and directly from Latin
 succumbere submit, surrender, yield, be overcome; sink down; lie under; cohabit with, from sub down
-(see <a href=/index.php?term=sub-&amp;allowed_in_frame=0 class=crossreference>sub-</a>) + -cumbere
-take a reclining position, related to cubare lie down (see <a
-href=/index.php?term=cubicle&amp;allowed_in_frame=0 class=crossreference>cubicle</a>). Originally
-transitive; sense of sink under pressure is first recorded c.1600. As a euphemism for to die, from
-1849. Related: Succumbed; succumbing.
+(see sub-) + -cumbere take a reclining position, related to cubare lie down (see cubicle).
+Originally transitive; sense of sink under pressure is first recorded c.1600. As a euphemism for to
+die, from 1849. Related: Succumbed; succumbing.
 

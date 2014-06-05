@@ -1,6 +1,6 @@
+attest (v.)
+
 1590s, from Middle French attester (Old French atester, 13c.) affirm, attest, from Latin attestari
-confirm, literally bear witness to, from ad- to (see <a
-href=/index.php?term=ad-&amp;allowed_in_frame=0 class=crossreference>ad-</a>) + testari bear
-witness, from testis witness (see <a href=/index.php?term=testament&amp;allowed_in_frame=0
-class=crossreference>testament</a>). Related: Attested; attesting.
+confirm, literally bear witness to, from ad- to (see ad-) + testari bear witness, from testis
+witness (see testament). Related: Attested; attesting.
 

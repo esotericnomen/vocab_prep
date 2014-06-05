@@ -1,6 +1,7 @@
+cabal (n.)
+
 1520s, mystical interpretation of the Old Testament, later society, small group meeting privately
-(1660s), from French cabal, in both senses, from Medieval Latin cabbala (see <a
-href=/index.php?term=cabbala&amp;allowed_in_frame=0 class=crossreference>cabbala</a>). Popularized
+(1660s), from French cabal, in both senses, from Medieval Latin cabbala (see cabbala). Popularized
 in English 1673 as an acronym for five intriguing ministers of Charles II (Clifford, Arlington,
 Buckingham, Ashley, and Lauderdale), which gave the word its sinister connotations.
 

@@ -1,5 +1,5 @@
+putrefy (v.)
+
 mid-15c., from Middle French putr&eacute;fier, from Latin putrefacere to make rotten, from putrere
-(see <a href=/index.php?term=putrid&amp;allowed_in_frame=0 class=crossreference>putrid</a>) + facere
-(see <a href=/index.php?term=factitious&amp;allowed_in_frame=0 class=crossreference>factitious</a>).
-Related: Putrefied; putrefying.
+(see putrid) + facere (see factitious). Related: Putrefied; putrefying.
 

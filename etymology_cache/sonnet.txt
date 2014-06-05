@@ -1,9 +1,10 @@
+sonnet (n.)
+
 1557 (in title of Surrey's poems), from Middle French sonnet (1540s) or directly from Italian
 sonetto, literally little song, from Old Proven&ccedil;al sonet song, diminutive of son song, sound,
-from Latin sonus sound (see <a href=/index.php?term=sound&amp;allowed_in_frame=0
-class=crossreference>sound</a> (n.1)).  <br /><br />  Originally in English also any short lyric
-poem; precise meaning is from Italian, where Petrarch (14c.) developed a scheme of an eight-line
-stanza (rhymed abba abba) followed by a six-line stanza (cdecde, the Italian sestet, or cdcdcd, the
+from Latin sonus sound (see sound (n.1)).    Originally in English also any short lyric poem;
+precise meaning is from Italian, where Petrarch (14c.) developed a scheme of an eight-line stanza
+(rhymed abba abba) followed by a six-line stanza (cdecde, the Italian sestet, or cdcdcd, the
 Sicilian sestet). Shakespeare developed the English Sonnet for his rhyme-poor native tongue: three
 Sicilian quatrains followed by a heroic couplet (ababcdcdefefgg). The first stanza sets a situation
 or problem, and the second comments on it or resolves it.

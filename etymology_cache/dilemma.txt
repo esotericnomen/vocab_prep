@@ -1,7 +1,8 @@
+dilemma (n.)
+
 1520s, from Late Latin dilemma, from Greek dilemma double proposition, a technical term in rhetoric,
-from di- two + lemma premise, anything received or taken, from root of lambanein to take (see <a
-href=/index.php?term=analemma&amp;allowed_in_frame=0 class=crossreference>analemma</a>). It should
-be used only of situations where someone is forced to choose between two alternatives, both
-unfavorable to him. But even logicians disagree on whether certain situations are dilemmas or mere
-syllogisms.
+from di- two + lemma premise, anything received or taken, from root of lambanein to take (see
+analemma). It should be used only of situations where someone is forced to choose between two
+alternatives, both unfavorable to him. But even logicians disagree on whether certain situations are
+dilemmas or mere syllogisms.
 

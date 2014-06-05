@@ -1,6 +1,6 @@
-c.1600 (transitive), from <a href=/index.php?term=un-&amp;allowed_in_frame=0
-class=crossreference>un-</a> (2) + <a href=/index.php?term=ravel&amp;allowed_in_frame=0
-class=crossreference>ravel</a> (v.). Intransitive from 1640s. The prefix is either reversive or
-intensive, according as ravel is taken to mean 'tangle' or 'untangle' [Century Dictionary]. Related:
-Unravelled; unravelling; unravellment.
+unravel (v.)
+
+c.1600 (transitive), from un- (2) + ravel (v.). Intransitive from 1640s. The prefix is either
+reversive or intensive, according as ravel is taken to mean 'tangle' or 'untangle' [Century
+Dictionary]. Related: Unravelled; unravelling; unravellment.
 

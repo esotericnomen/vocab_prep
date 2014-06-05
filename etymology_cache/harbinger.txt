@@ -1,12 +1,10 @@
+harbinger (n.)
+
 late 15c., herbengar one sent ahead to arrange lodgings (for a monarch, an army, etc.), alteration
 of Middle English herberger provider of shelter, innkeeper (late 12c.), from Old French herbergeor,
 from herbergier provide lodging, from herber lodging, shelter, from Frankish *heriberga lodging,
 inn, from Germanic compound *harja-bergaz, literally army hill  (cognate with Old Saxon, Old High
-German heriberga army shelter) from *heri army (see <a
-href=/index.php?term=harry&amp;allowed_in_frame=0 class=crossreference>harry</a> (v.)) + berga
-shelter (see <a href=/index.php?term=barrow&amp;allowed_in_frame=0 class=crossreference>barrow</a>
-(n.2)). Compare <a href=/index.php?term=harbor&amp;allowed_in_frame=0
-class=crossreference>harbor</a> (n.). Sense of forerunner is mid-16c. Intrusive -n- is 15c. (see <a
-href=/index.php?term=messenger&amp;allowed_in_frame=0 class=crossreference>messenger</a>). As a
+German heriberga army shelter) from *heri army (see harry (v.)) + berga shelter (see barrow (n.2)).
+Compare harbor (n.). Sense of forerunner is mid-16c. Intrusive -n- is 15c. (see messenger). As a
 verb, from 1640s (harbinge to lodge is late 15c.).
 

@@ -1,6 +1,7 @@
+dowry (n.)
+
 early 14c., from Anglo-French dowarie, Old French doaire (late 13c.) dower, dowry, gift, from
 Medieval Latin dotarium, from Latin dotare to endow, portion, from dos (genitive dotis) marriage
 portion, from PIE *do-ti (cognates: Sanskrit dadati, Greek didonai, Old Church Slavonic dati,
-Lithuanian duoti, Armenian tam, all meaning to give), from root *do- to give (see <a
-href=/index.php?term=date&amp;allowed_in_frame=0 class=crossreference>date</a> (n.1)).
+Lithuanian duoti, Armenian tam, all meaning to give), from root *do- to give (see date (n.1)).
 

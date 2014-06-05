@@ -1,3 +1,5 @@
+oath (n.)
+
 Old English a&eth; oath, judicial swearing, solemn appeal to deity in witness of truth or a promise,
 from Proto-Germanic *aithaz (cognates: Old Norse ei&eth;r, Swedish ed, Old Saxon, Old Frisian eth,
 Middle Dutch eet, Dutch eed, German eid, Gothic ai&thorn;s oath), from PIE *oi-to- an oath

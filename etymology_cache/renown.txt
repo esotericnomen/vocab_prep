@@ -1,8 +1,7 @@
+renown (n.)
+
 c.1300, from Anglo-French renoun, Old French renon renown, fame, reputation, from renomer make
-famous, from re- repeatedly (see <a href=/index.php?term=re-&amp;allowed_in_frame=0
-class=crossreference>re-</a>) + nomer to name, from Latin nominare to name (see <a
-href=/index.php?term=nominate&amp;allowed_in_frame=0 class=crossreference>nominate</a>). The Middle
-English verb reknouen make known, acknowledge has been assimilated to the noun via <a
-href=/index.php?term=renowned&amp;allowed_in_frame=0 class=crossreference>renowned</a>. In old
-German university slang, a reknowner (German renommist) was a boaster, a swaggerer.
+famous, from re- repeatedly (see re-) + nomer to name, from Latin nominare to name (see nominate).
+The Middle English verb reknouen make known, acknowledge has been assimilated to the noun via
+renowned. In old German university slang, a reknowner (German renommist) was a boaster, a swaggerer.
 

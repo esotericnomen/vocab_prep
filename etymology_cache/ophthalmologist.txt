@@ -1,4 +1,4 @@
-1834; see <a href=/index.php?term=ophthalmology&amp;allowed_in_frame=0
-class=crossreference>ophthalmology</a> + <a href=/index.php?term=-ist&amp;allowed_in_frame=0
-class=crossreference>-ist</a>.
+ophthalmologist (n.)
+
+1834; see ophthalmology + -ist.
 

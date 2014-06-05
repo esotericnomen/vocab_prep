@@ -1,8 +1,9 @@
+shard (n.)
+
 also sherd, Old English sceard incision, cleft, gap; potshard, a fragment, broken piece, from Proto-
 Germanic *skardas (cognates: Middle Dutch schaerde a fragment, a crack, Dutch schaard a flaw, a
 fragment, German Scharte a notch, Danish skaar chink, potsherd), a past participle from the root of
-Old English sceran to cut (see <a href=/index.php?term=shear&amp;allowed_in_frame=0
-class=crossreference>shear</a>). Meaning fragment of broken earthenware developed in late Old
+Old English sceran to cut (see shear). Meaning fragment of broken earthenware developed in late Old
 English. Used late 14c. as scale of a dragon. French &eacute;charde prickle, splinter is a Germanic
 loan-word.
 

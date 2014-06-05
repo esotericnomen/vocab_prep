@@ -1,5 +1,5 @@
-1923,  from <a href=/index.php?term=de-&amp;allowed_in_frame=0 class=crossreference>de-</a> + <a
-href=/index.php?term=bunk&amp;allowed_in_frame=0 class=crossreference>bunk</a> (n.2); first used by
-U.S. novelist William Woodward (1874-1950), the notion being to take the bunk out of things.
-Related: Debunked; debunking.
+debunk (v.)
+
+1923,  from de- + bunk (n.2); first used by U.S. novelist William Woodward (1874-1950), the notion
+being to take the bunk out of things.  Related: Debunked; debunking.
 

@@ -1,8 +1,8 @@
+epistemology (n.)
+
 theory of knowledge, 1856, coined by Scottish philosopher James F. Ferrier (1808-1864) from Greek
 episteme knowledge, from Ionic Greek epistasthai know how to do, understand, literally overstand,
-from epi over, near (see <a href=/index.php?term=epi-&amp;allowed_in_frame=0
-class=crossreference>epi-</a>) + histasthai to stand, (see <a
-href=/index.php?term=histo-&amp;allowed_in_frame=0 class=crossreference>histo-</a>).  <br /><br />
-The scientific (as opposed to philosophical) study of the roots and paths of knowledge is epistemics
-(1969). Related: Epistemological; epistemologically.
+from epi over, near (see epi-) + histasthai to stand, (see histo-).    The scientific (as opposed to
+philosophical) study of the roots and paths of knowledge is epistemics (1969). Related:
+Epistemological; epistemologically.
 

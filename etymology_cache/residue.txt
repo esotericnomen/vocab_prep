@@ -1,4 +1,6 @@
+residue (n.)
+
 mid-14c., from Old French residu (14c.), from Latin residuum a remainder, that which is left behind,
-noun use of neuter of adjective residuus remaining, left over, from residere remain behind (see <a
-href=/index.php?term=reside&amp;allowed_in_frame=0 class=crossreference>reside</a>).
+noun use of neuter of adjective residuus remaining, left over, from residere remain behind (see
+reside).
 

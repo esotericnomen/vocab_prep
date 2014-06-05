@@ -1,6 +1,7 @@
+curtail (v.)
+
 late 15c., from Middle French courtault made short, from court short (Old French cort, from Latin
-curtus; see <a href=/index.php?term=curt&amp;allowed_in_frame=0 class=crossreference>curt</a>) +
--ault pejorative suffix of Germanic origin. Originally curtal; used of horses with docked tails,
-which probably influenced the spelling in general use; curtal is retained in poetics to describe a
-shortened stanza or poem. Related: Curtailed; curtailing.
+curtus; see curt) + -ault pejorative suffix of Germanic origin. Originally curtal; used of horses
+with docked tails, which probably influenced the spelling in general use; curtal is retained in
+poetics to describe a shortened stanza or poem. Related: Curtailed; curtailing.
 

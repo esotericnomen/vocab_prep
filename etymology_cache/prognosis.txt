@@ -1,8 +1,8 @@
+prognosis (n.)
+
 1650s, forecast of the probable course of a disease, from Late Latin prognosis, from Greek prognosis
 foreknowledge, also, in medicine, predicted course of a disease, from stem of progignoskein come to
-know beforehand, from pro- before (see <a href=/index.php?term=pro-&amp;allowed_in_frame=0
-class=crossreference>pro-</a>) + gignoskein come to know (see <a
-href=/index.php?term=gnostic&amp;allowed_in_frame=0 class=crossreference>gnostic</a>). General (non-
+know beforehand, from pro- before (see pro-) + gignoskein come to know (see gnostic). General (non-
 medical) use in English from 1706. A back-formed verb prognose is attested from 1837. Related:
 Prognosed; prognosing.
 

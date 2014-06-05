@@ -1,4 +1,5 @@
+aggregate (n.)
+
 number of persons, things, etc., regarded as a unit, early 15c., from noun use of Latin adjective
-aggregatum, neuter of aggregatus (see <a href=/index.php?term=aggregate&amp;allowed_in_frame=0
-class=crossreference>aggregate</a> (adj.)).
+aggregatum, neuter of aggregatus (see aggregate (adj.)).
 

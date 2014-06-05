@@ -1,5 +1,5 @@
-1771, to draw a line under, from <a href=/index.php?term=under&amp;allowed_in_frame=0
-class=crossreference>under</a> + <a href=/index.php?term=score&amp;allowed_in_frame=0
-class=crossreference>score</a> (v.). The figurative sense of to emphasize is attested from 1891.
-Noun meaning a line drawn below (something) is recorded from 1901.
+underscore (v.)
+
+1771, to draw a line under, from under + score (v.). The figurative sense of to emphasize is
+attested from 1891. Noun meaning a line drawn below (something) is recorded from 1901.
 

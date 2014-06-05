@@ -1,9 +1,8 @@
+perquisite (n.)
+
 mid-15c., property acquired other than by inheritance, from Medieval Latin perquisitum thing gained,
 profit, in classical Latin, thing sought after, noun use of neuter past participle of perquirere to
-seek, ask for, from per- thoroughly (see <a href=/index.php?term=per&amp;allowed_in_frame=0
-class=crossreference>per</a>) + qu&aelig;rere to seek (see <a
-href=/index.php?term=query&amp;allowed_in_frame=0 class=crossreference>query</a> (v.)). For Latin
-vowel change, see <a href=/index.php?term=acquisition&amp;allowed_in_frame=0
-class=crossreference>acquisition</a>. General meaning fee or profit on top of regular wages first
-recorded 1560s.
+seek, ask for, from per- thoroughly (see per) + qu&aelig;rere to seek (see query (v.)). For Latin
+vowel change, see acquisition. General meaning fee or profit on top of regular wages first recorded
+1560s.
 

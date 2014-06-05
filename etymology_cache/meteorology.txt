@@ -1,6 +1,6 @@
+meteorology (n.)
+
 science of the atmosphere, weather forecasting, 1610s, from French m&eacute;t&eacute;orologie and
 directly from Greek meteorologia treatise on celestial phenomena, discussion of high things, from
-meteoron, literally thing high up (see <a href=/index.php?term=meteor&amp;allowed_in_frame=0
-class=crossreference>meteor</a>), + -logia treatment of (see <a
-href=/index.php?term=-logy&amp;allowed_in_frame=0 class=crossreference>-logy</a>).
+meteoron, literally thing high up (see meteor), + -logia treatment of (see -logy).
 

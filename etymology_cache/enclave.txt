@@ -1,7 +1,7 @@
+enclave (n.)
+
 1868, from French enclave, from Old French enclaver enclose, comprise, include (13c.), from Late
-Latin inclavare shut in, lock up, from Latin in- in (see <a
-href=/index.php?term=in-&amp;allowed_in_frame=0 class=crossreference>in-</a> (2)) + clavis key (see
-<a href=/index.php?term=slot&amp;allowed_in_frame=0 class=crossreference>slot</a> (n.2)). Enclaved
-surrounded by land owned by another is attested in English from mid-15c., from Middle French
-enclaver.
+Latin inclavare shut in, lock up, from Latin in- in (see in- (2)) + clavis key (see slot (n.2)).
+Enclaved surrounded by land owned by another is attested in English from mid-15c., from Middle
+French enclaver.
 

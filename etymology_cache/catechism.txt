@@ -1,6 +1,7 @@
+catechism (n.)
+
 c.1500, instruction in Christian principles, also elementary question-and-answer book of religious
 instruction, from French cat&#233;chisme (14c.) and directly from Church Latin catechismus book of
-instruction, from Greek katekhismos, from katekhizein to teach orally (see <a
-href=/index.php?term=catechize&amp;allowed_in_frame=0 class=crossreference>catechize</a>). Related:
+instruction, from Greek katekhismos, from katekhizein to teach orally (see catechize). Related:
 Catechismal.
 

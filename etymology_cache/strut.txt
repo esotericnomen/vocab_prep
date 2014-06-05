@@ -1,6 +1,6 @@
-supporting brace, 1580s, perhaps from <a href=/index.php?term=strut&amp;allowed_in_frame=0
-class=crossreference>strut</a> (v.), or a cognate word in Scandinavian (compare Norwegian strut a
-spout, nozzle) or Low German (compare Low German strutt rigid); ultimately from Proto-Germanic
-*strutoz-, from root *strut- (see <a href=/index.php?term=strut&amp;allowed_in_frame=0
-class=crossreference>strut</a> (v.)).
+strut (n.)
+
+supporting brace, 1580s, perhaps from strut (v.), or a cognate word in Scandinavian (compare
+Norwegian strut a spout, nozzle) or Low German (compare Low German strutt rigid); ultimately from
+Proto-Germanic *strutoz-, from root *strut- (see strut (v.)).
 

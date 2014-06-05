@@ -1,5 +1,7 @@
+stanza (n.)
+
 group of rhymed verse lines, 1580s, from Italian stanza verse of a poem, originally standing,
 stopping place, from Vulgar Latin *stantia a stanza of verse, so called from the stop at the end of
-it, from Latin stantem (nominative stans), present participle of stare to stand (see <a
-href=/index.php?term=stet&amp;allowed_in_frame=0 class=crossreference>stet</a>). Related: Stanzaic.
+it, from Latin stantem (nominative stans), present participle of stare to stand (see stet). Related:
+Stanzaic.
 

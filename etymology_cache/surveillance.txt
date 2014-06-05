@@ -1,8 +1,8 @@
+surveillance (n.)
+
 1802, from French surveillance oversight, supervision, a watch, noun of action from surveiller
-oversee, watch (17c.), from sur- over (see <a href=/index.php?term=sur-&amp;allowed_in_frame=0
-class=crossreference>sur-</a> (1)) + veiller to watch, from Latin vigilare, from vigil watchful (see
-<a href=/index.php?term=vigil&amp;allowed_in_frame=0 class=crossreference>vigil</a>). Seemingly a
-word that came to English from the Terror in France (surveillance committees were formed in every
-French municipality in March 1793 by order of the Convention to monitor the actions and movements of
-suspect persons, outsiders, and dissidents).
+oversee, watch (17c.), from sur- over (see sur- (1)) + veiller to watch, from Latin vigilare, from
+vigil watchful (see vigil). Seemingly a word that came to English from the Terror in France
+(surveillance committees were formed in every French municipality in March 1793 by order of the
+Convention to monitor the actions and movements of suspect persons, outsiders, and dissidents).
 

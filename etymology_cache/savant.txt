@@ -1,5 +1,6 @@
+savant (n.)
+
 one eminent for learning, 1719, from French savant a learned man, noun use of adjective savant
 learned, knowing, former present participle of savoir to know, from Vulgar Latin *sapere, from Latin
-sapere be wise (see <a href=/index.php?term=sapient&amp;allowed_in_frame=0
-class=crossreference>sapient</a>).
+sapere be wise (see sapient).
 

@@ -1,7 +1,7 @@
+pathology (n.)
+
 science of diseases, 1610s, from French pathologie (16c.), from medical Latin pathologia study of
-disease, from Greek pathos suffering (see <a href=/index.php?term=pathos&amp;allowed_in_frame=0
-class=crossreference>pathos</a>) + -logia study (see <a
-href=/index.php?term=-logy&amp;allowed_in_frame=0 class=crossreference>-logy</a>). In reference to
-the study of abnormal mental conditions from 1842. Ancient Greek pathologia was study of the
-passions; the Greek word for science of diseases was pathologike (pathologics).
+disease, from Greek pathos suffering (see pathos) + -logia study (see -logy). In reference to the
+study of abnormal mental conditions from 1842. Ancient Greek pathologia was study of the passions;
+the Greek word for science of diseases was pathologike (pathologics).
 

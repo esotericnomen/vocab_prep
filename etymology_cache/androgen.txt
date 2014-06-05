@@ -1,4 +1,4 @@
-male sex hormone, 1936, from <a href=/index.php?term=andro-&amp;allowed_in_frame=0
-class=crossreference>andro-</a> + <a href=/index.php?term=-gen&amp;allowed_in_frame=0
-class=crossreference>-gen</a>.
+androgen (n.)
+
+male sex hormone, 1936, from andro- + -gen.
 

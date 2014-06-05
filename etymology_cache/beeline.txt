@@ -1,6 +1,6 @@
-also bee-line, 1838, American English, from <a href=/index.php?term=bee&amp;allowed_in_frame=0
-class=crossreference>bee</a> + <a href=/index.php?term=line&amp;allowed_in_frame=0
-class=crossreference>line</a> (n.), in reference to the supposed homing instinct of bees in the
-field.  <blockquote>  TO LINE BEES is to track wild bees to their homes in the woods. One who
-follows this occupation is called a bee hunter. [Bartlett, 1859]  </blockquote>
+beeline (n.)
+
+also bee-line, 1838, American English, from bee + line (n.), in reference to the supposed homing
+instinct of bees in the field.  <blockquote>  TO LINE BEES is to track wild bees to their homes in
+the woods. One who follows this occupation is called a bee hunter. [Bartlett, 1859]  </blockquote>
 

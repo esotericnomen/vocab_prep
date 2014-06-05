@@ -1,5 +1,5 @@
+asteroid (n.)
+
 1802, coined probably by German-born English astronomer William Herschel (1738-1822) from Greek
-asteroeides star-like, from aster star (see <a href=/index.php?term=astro-&amp;allowed_in_frame=0
-class=crossreference>astro-</a>) + -eidos form, shape (see <a
-href=/index.php?term=-oid&amp;allowed_in_frame=0 class=crossreference>-oid</a>).
+asteroeides star-like, from aster star (see astro-) + -eidos form, shape (see -oid).
 

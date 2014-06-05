@@ -1,4 +1,6 @@
+gesticulation (n.)
+
 early 15c., from Latin gesticulationem (nominative gesticulatio), noun of action from past
 participle stem of gesticulari to gesture, mimic, from gesticulus a mimicking gesture, diminutive of
-gestus (see <a href=/index.php?term=gest&amp;allowed_in_frame=0 class=crossreference>gest</a>).
+gestus (see gest).
 

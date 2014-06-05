@@ -1,3 +1,4 @@
-1660s, from <a href=/index.php?term=zoology&amp;allowed_in_frame=0 class=crossreference>zoology</a>
-+ <a href=/index.php?term=-ist&amp;allowed_in_frame=0 class=crossreference>-ist</a>.
+zoologist (n.)
+
+1660s, from zoology + -ist.
 

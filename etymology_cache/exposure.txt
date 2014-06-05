@@ -1,5 +1,5 @@
-c.1600, public exhibition, from <a href=/index.php?term=expose&amp;allowed_in_frame=0
-class=crossreference>expose</a> (v.) + <a href=/index.php?term=-ure&amp;allowed_in_frame=0
-class=crossreference>-ure</a>. Sense of situation with regard to sun or weather is from 1660s.
-Photographic sense is from 1839. Indecent exposure attested by 1825.
+exposure (n.)
+
+c.1600, public exhibition, from expose (v.) + -ure. Sense of situation with regard to sun or weather
+is from 1660s. Photographic sense is from 1839. Indecent exposure attested by 1825.
 

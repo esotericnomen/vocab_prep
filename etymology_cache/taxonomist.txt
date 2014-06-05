@@ -1,6 +1,6 @@
+taxonomy (n.)
+
 science of classification, 1819, from French taxonomie (1813), coined irregularly from Greek taxis
-arrangement (see <a href=/index.php?term=tactics&amp;allowed_in_frame=0
-class=crossreference>tactics</a>) + -nomia method, from -nomos managing, from nemein manage (see <a
-href=/index.php?term=numismatic&amp;allowed_in_frame=0 class=crossreference>numismatic</a>).
-Related: Taxonomic; taxonomist.
+arrangement (see tactics) + -nomia method, from -nomos managing, from nemein manage (see
+numismatic). Related: Taxonomic; taxonomist.
 

@@ -1,7 +1,6 @@
+accommodate (v.)
+
 1530s, from Latin accomodatus suitable, past participle of accomodare make fit, adapt, fit one thing
-to another, from ad- to (see <a href=/index.php?term=ad-&amp;allowed_in_frame=0
-class=crossreference>ad-</a>) + commodare make fit, from commodus fit (see <a
-href=/index.php?term=commode&amp;allowed_in_frame=0 class=crossreference>commode</a>). Related:
-Accommodated; <a href=/index.php?term=accommodating&amp;allowed_in_frame=0
-class=crossreference>accommodating</a>.
+to another, from ad- to (see ad-) + commodare make fit, from commodus fit (see commode). Related:
+Accommodated; accommodating.
 

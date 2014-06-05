@@ -1,6 +1,7 @@
+defer (v.1)
+
 to delay, late 14c., differren, deferren, from Old French differer (14c.), from Latin differre carry
-apart, scatter, disperse; also be different, differ; also defer, put off, postpone, (see <a
-href=/index.php?term=differ&amp;allowed_in_frame=0 class=crossreference>differ</a>). Etymologically
-identical with differ; the spelling and pronunciation differentiated from 15c., perhaps partly by
-association of this word with delay.
+apart, scatter, disperse; also be different, differ; also defer, put off, postpone, (see differ).
+Etymologically identical with differ; the spelling and pronunciation differentiated from 15c.,
+perhaps partly by association of this word with delay.
 

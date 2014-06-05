@@ -1,8 +1,8 @@
-one who observes the weather, 1869, from <a href=/index.php?term=weather&amp;allowed_in_frame=0
-class=crossreference>weather</a> (n.) + <a href=/index.php?term=man&amp;allowed_in_frame=0
-class=crossreference>man</a> (n.). Weather-prophet is from 1784 as barometer; 1827 as person who
-predicts the weather.  <blockquote>  Clerk of the Weather, I deplore  <br />That all thy greatness
-is no more,  <br />As should a gentle bard;  <br />That Nature, or that Nature's law  <br />When you
-politely called for thaw,  <br />Gave frost was rather hard.  <br /><br />[from Consolatory Address
-to Mr. Murphy, the Weather Prophet, Colburn's New Monthly Magazine, 1838]  </blockquote>
+weatherman (n.)
+
+one who observes the weather, 1869, from weather (n.) + man (n.). Weather-prophet is from 1784 as
+barometer; 1827 as person who predicts the weather.  <blockquote>  Clerk of the Weather, I deplore
+That all thy greatness is no more,  As should a gentle bard;  That Nature, or that Nature's law
+When you politely called for thaw,  Gave frost was rather hard.  [from Consolatory Address to Mr.
+Murphy, the Weather Prophet, Colburn's New Monthly Magazine, 1838]  </blockquote>
 

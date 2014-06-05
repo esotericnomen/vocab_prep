@@ -1,7 +1,7 @@
+amphitheater (n.)
+
 late 14c., from Latin amphitheatrum, from Greek amphitheatron double theater, amphitheater, neuter
-of amphitheatros with spectators all around, from amphi- on both sides (see <a
-href=/index.php?term=amphi-&amp;allowed_in_frame=0 class=crossreference>amphi-</a>) + theatron
-theater (see <a href=/index.php?term=theater&amp;allowed_in_frame=0
-class=crossreference>theater</a>). Classical theaters were semi-circles, thus two together made an
-amphi-theater.
+of amphitheatros with spectators all around, from amphi- on both sides (see amphi-) + theatron
+theater (see theater). Classical theaters were semi-circles, thus two together made an amphi-
+theater.
 

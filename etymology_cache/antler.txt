@@ -1,8 +1,8 @@
+antler (n.)
+
 late 14c., from Anglo-French auntiler, Old French antoillier (14c., Modern French andouiller)
 antler, perhaps from Gallo-Roman cornu *antoculare horn in front of the eyes, from Latin ante before
-(see <a href=/index.php?term=ante&amp;allowed_in_frame=0 class=crossreference>ante</a>) + ocularis
-of the eyes (see <a href=/index.php?term=ocular&amp;allowed_in_frame=0
-class=crossreference>ocular</a>). This etymology is doubted by some because no similar word exists
-in any other Romance language, but compare German Augensprossen antlers, literally eye-sprouts, for
-a similar formation.
+(see ante) + ocularis of the eyes (see ocular). This etymology is doubted by some because no similar
+word exists in any other Romance language, but compare German Augensprossen antlers, literally eye-
+sprouts, for a similar formation.
 

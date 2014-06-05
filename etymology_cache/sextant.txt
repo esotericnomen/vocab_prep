@@ -1,5 +1,6 @@
+sextant (n.)
+
 instrument for determining latitude, 1620s, from Modern Latin sextans, said to have been coined
-c.1600 by Danish astronomer Tycho Brahe, from Latin sextans a sixth, from sex six (see <a
-href=/index.php?term=six&amp;allowed_in_frame=0 class=crossreference>six</a>). So called because the
-sextans has a graduated arc equal to a sixth part of a circle.
+c.1600 by Danish astronomer Tycho Brahe, from Latin sextans a sixth, from sex six (see six). So
+called because the sextans has a graduated arc equal to a sixth part of a circle.
 

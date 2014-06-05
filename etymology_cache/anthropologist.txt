@@ -1,4 +1,4 @@
-1798, from <a href=/index.php?term=anthropology&amp;allowed_in_frame=0
-class=crossreference>anthropology</a> + <a href=/index.php?term=-ist&amp;allowed_in_frame=0
-class=crossreference>-ist</a>.
+anthropologist (n.)
+
+1798, from anthropology + -ist.
 

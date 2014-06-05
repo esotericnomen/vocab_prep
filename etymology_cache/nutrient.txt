@@ -1,5 +1,6 @@
+nutrient (n.)
+
 a nutritious substance, 1828, noun use of adjective (1640s) meaning providing nourishment, from
 Latin nutrientem (nominative nutriens), present participle of nutrire to nourish, suckle, feed,
-foster (see <a href=/index.php?term=nourish&amp;allowed_in_frame=0
-class=crossreference>nourish</a>).
+foster (see nourish).
 

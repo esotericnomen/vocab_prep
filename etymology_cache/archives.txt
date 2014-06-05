@@ -1,4 +1,6 @@
+archives (n.)
+
 c.1600, from French archif (16c.), from Late Latin archivum (singular), from Greek ta arkheia public
 records, plural of arkheion town hall, from arkhe government, literally beginning, origin, first
-place (see <a href=/index.php?term=archon&amp;allowed_in_frame=0 class=crossreference>archon</a>).
+place (see archon).
 

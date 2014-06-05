@@ -1,7 +1,7 @@
+precinct (n.)
+
 c.1400, prasaynt (mid-15c. as precincte), district defined for purposes of government or
 representation, from Medieval Latin precinctum enclosure, boundary line, noun use of neuter past
-participle of Latin praecingere to gird about, surround, from prae- before (see <a
-href=/index.php?term=pre-&amp;allowed_in_frame=0 class=crossreference>pre-</a>) + cingere to
-surround, encircle (see <a href=/index.php?term=cinch&amp;allowed_in_frame=0
-class=crossreference>cinch</a> (v.)).
+participle of Latin praecingere to gird about, surround, from prae- before (see pre-) + cingere to
+surround, encircle (see cinch (v.)).
 

@@ -1,7 +1,8 @@
+transient (adj.)
+
 c.1600, transitory, not durable, from Latin transientem (nominative transiens) passing over or away,
 present participle of transire cross over, go over, pass over, hasten over, pass away, from trans-
-across (see <a href=/index.php?term=trans-&amp;allowed_in_frame=0 class=crossreference>trans-</a>) +
-ire to go (see <a href=/index.php?term=ion&amp;allowed_in_frame=0 class=crossreference>ion</a>).
-Meaning passing through a place without staying is from 1680s. The noun is first attested 1650s;
-specific sense of transient guest or boarder attested from 1857. Related: Transiently.
+across (see trans-) + ire to go (see ion). Meaning passing through a place without staying is from
+1680s. The noun is first attested 1650s; specific sense of transient guest or boarder attested from
+1857. Related: Transiently.
 

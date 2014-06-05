@@ -1,6 +1,6 @@
+allocate (v.)
+
 1630s, from verbal used of adjective allocate (mid-15c. in legal use), from Medieval Latin allocate
 (the common first word of writs authorizing payment), imperative plural of allocare allocate, from
-Latin ad- to (see <a href=/index.php?term=ad-&amp;allowed_in_frame=0 class=crossreference>ad-</a>) +
-locare to place (see <a href=/index.php?term=locate&amp;allowed_in_frame=0
-class=crossreference>locate</a>). Related: Allocated; allocating.
+Latin ad- to (see ad-) + locare to place (see locate). Related: Allocated; allocating.
 

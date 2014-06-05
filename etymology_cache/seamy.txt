@@ -1,7 +1,7 @@
-c.1600, least pleasant, worst, in figurative phrase seamy side, from <a
-href=/index.php?term=seam&amp;allowed_in_frame=0 class=crossreference>seam</a> + <a
-href=/index.php?term=-y&amp;allowed_in_frame=0 class=crossreference>-y</a> (2); the seamy side of a
-sewn garment being the less attractive, and thus typically turned in. The popularity of the
+seamy (adj.)
+
+c.1600, least pleasant, worst, in figurative phrase seamy side, from seam + -y (2); the seamy side
+of a sewn garment being the less attractive, and thus typically turned in. The popularity of the
 figurative sense likely is due to its use by Shakespeare in Othello IV.ii.146: Some such Squire he
 was That turn'd your wits the seamy-side without, And made you to suspect me with the Moore.
 

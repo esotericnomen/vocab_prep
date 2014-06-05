@@ -1,5 +1,6 @@
+concurrent (adj.)
+
 late 14c., from Old French concurrent or directly from Latin concurrentem (nominative concurrens),
-present participle of concurrere (see <a href=/index.php?term=concur&amp;allowed_in_frame=0
-class=crossreference>concur</a>). Related: Concurrency; concurrently. Concurrent jurisdiction is
-recorded from 1767.
+present participle of concurrere (see concur). Related: Concurrency; concurrently. Concurrent
+jurisdiction is recorded from 1767.
 

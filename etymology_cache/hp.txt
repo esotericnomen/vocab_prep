@@ -1,4 +1,4 @@
-also birth-place, c.1600, from <a href=/index.php?term=birth&amp;allowed_in_frame=0
-class=crossreference>birth</a> (n.) + <a href=/index.php?term=place&amp;allowed_in_frame=0
-class=crossreference>place</a> (n.).
+birthplace (n.)
+
+also birth-place, c.1600, from birth (n.) + place (n.).
 

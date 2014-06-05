@@ -1,2 +1,4 @@
+Beaufort scale
+
 to measure wind velocity, developed 1806 by Francis Beaufort (1774-1857), surveyor and hydrologist.
 

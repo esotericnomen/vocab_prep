@@ -1,4 +1,5 @@
+intermediary
+
 1788 (adj.); 1791 (n.), from French interm&eacute;diaire (17c.), from Medieval Latin intermedium,
-from Latin intermedius (see <a href=/index.php?term=intermediate&amp;allowed_in_frame=0
-class=crossreference>intermediate</a>).
+from Latin intermedius (see intermediate).
 

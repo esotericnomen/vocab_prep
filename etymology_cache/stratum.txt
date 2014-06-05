@@ -1,6 +1,7 @@
+stratum (n.)
+
 horizontal layer, 1590s, from Modern Latin special use of Latin stratum thing spread out, coverlet,
 beadspread, horse-blanket; pavement, noun uses of neuter of stratus prostrate, prone, past
 participle of sternere to spread out, lay down, stretch out, from PIE *stre-to- to stretch, extend,
-from root *stere- to spread, extend, stretch out (see <a
-href=/index.php?term=structure&amp;allowed_in_frame=0 class=crossreference>structure</a> (n.)).
+from root *stere- to spread, extend, stretch out (see structure (n.)).
 

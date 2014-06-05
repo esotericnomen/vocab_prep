@@ -1,9 +1,9 @@
+curfew (n.)
+
 early 14c., evening signal, ringing of a bell at a fixed hour, from Anglo-French coeverfu (late
 13c.), from Old French cuevrefeu, literally cover fire (Modern French couvre-few), from cuevre,
-imperative of covrir to cover (see <a href=/index.php?term=cover&amp;allowed_in_frame=0
-class=crossreference>cover</a> (v.)) + feu fire (see <a
-href=/index.php?term=focus&amp;allowed_in_frame=0 class=crossreference>focus</a> (n.)). The medieval
-practice of ringing a bell at fixed time in the evening as an order to bank the hearths and prepare
-for sleep. The original purpose was to prevent conflagrations from untended fires. The modern
-extended sense of periodic restriction of movement had evolved by 1800s.
+imperative of covrir to cover (see cover (v.)) + feu fire (see focus (n.)). The medieval practice of
+ringing a bell at fixed time in the evening as an order to bank the hearths and prepare for sleep.
+The original purpose was to prevent conflagrations from untended fires. The modern extended sense of
+periodic restriction of movement had evolved by 1800s.
 

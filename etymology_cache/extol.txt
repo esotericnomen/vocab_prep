@@ -1,2 +1,4 @@
-variant of <a href=/index.php?term=extol&amp;allowed_in_frame=0 class=crossreference>extol</a>.
+extoll
+
+variant of extol.
 

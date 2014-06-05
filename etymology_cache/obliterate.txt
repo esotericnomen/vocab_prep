@@ -1,7 +1,7 @@
+obliterate (v.)
+
 c.1600, from Latin obliteratus, past participle of obliterare cause to disappear, blot out, erase,
-efface, figuratively cause to be forgotten, from ob against (see <a
-href=/index.php?term=ob-&amp;allowed_in_frame=0 class=crossreference>ob-</a>) + littera (also
-litera) letter, script (see <a href=/index.php?term=letter&amp;allowed_in_frame=0
-class=crossreference>letter</a> (n.)); abstracted from phrase literas scribere write across letters,
+efface, figuratively cause to be forgotten, from ob against (see ob-) + littera (also litera)
+letter, script (see letter (n.)); abstracted from phrase literas scribere write across letters,
 strike out letters. Related: Obliterated; obliterating.
 

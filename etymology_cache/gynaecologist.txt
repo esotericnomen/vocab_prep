@@ -1,4 +1,4 @@
-also gynaecologist, 1872, from <a href=/index.php?term=gynecology&amp;allowed_in_frame=0
-class=crossreference>gynecology</a> + <a href=/index.php?term=-ist&amp;allowed_in_frame=0
-class=crossreference>-ist</a>.
+gynecologist (n.)
+
+also gynaecologist, 1872, from gynecology + -ist.
 

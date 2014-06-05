@@ -1,6 +1,7 @@
+molecule (n.)
+
 1794, extremely minute particle, from French mol&eacute;cule (1670s), from Modern Latin molecula,
-diminutive of Latin moles mass, barrier (see <a href=/index.php?term=mole&amp;allowed_in_frame=0
-class=crossreference>mole</a> (3)). A vague meaning at first; the vogue for the word (used until
-late 18c. only in Latin form) can be traced to the philosophy of Descartes. First used of Modern
-Latin molecula in modern scientific sense by Amedeo Avogadro (1811).
+diminutive of Latin moles mass, barrier (see mole (3)). A vague meaning at first; the vogue for the
+word (used until late 18c. only in Latin form) can be traced to the philosophy of Descartes. First
+used of Modern Latin molecula in modern scientific sense by Amedeo Avogadro (1811).
 

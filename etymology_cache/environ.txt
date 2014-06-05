@@ -1,4 +1,5 @@
+environs (n.)
+
 outskirts, 1660s, from French environs, plural of Old French environ compass, circuit, from environ
-(adv.) around, round about (see <a href=/index.php?term=environ&amp;allowed_in_frame=0
-class=crossreference>environ</a>).
+(adv.) around, round about (see environ).
 

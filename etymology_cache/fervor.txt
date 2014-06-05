@@ -1,5 +1,6 @@
+fervor (n.)
+
 mid-14c., warmth or glow of feeling, from Old French fervor (Modern French ferveur) heat,
 enthusiasm, ardor, passion, from Latin fervor a boiling, violent heat; passion, ardor, fury, from
-fervere to boil (see <a href=/index.php?term=brew&amp;allowed_in_frame=0
-class=crossreference>brew</a> (v.)).
+fervere to boil (see brew (v.)).
 

@@ -1,6 +1,8 @@
+warp (n.)
+
 threads running lengthwise in a fabric, Old English wearp, from Proto-Germanic *warpo- (cognates:
 Middle Low German warp, Old High German warf warp, Old Norse varp cast of a net), from PIE *werp- to
-turn, bend (see <a href=/index.php?term=warp&amp;allowed_in_frame=0 class=crossreference>warp</a>
-(v.)). The warp of fabric is that across which the woof is thrown. Applied in 20c. astrophysics to
-the fabric of space-time, popularized in noun phrase warp speed by 1960s TV series Star Trek.
+turn, bend (see warp (v.)). The warp of fabric is that across which the woof is thrown. Applied in
+20c. astrophysics to the fabric of space-time, popularized in noun phrase warp speed by 1960s TV
+series Star Trek.
 

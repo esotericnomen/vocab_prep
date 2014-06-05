@@ -1,10 +1,9 @@
+philology (n.)
+
 late 14c., love of learning, from Latin philologia love of learning, love of letters, love of study,
 literary culture, from Greek philologia love of discussion, learning, and literature; studiousness,
-from philo- loving (see <a href=/index.php?term=philo-&amp;allowed_in_frame=0
-class=crossreference>philo-</a>) + logos word, speech (see <a
-href=/index.php?term=logos&amp;allowed_in_frame=0 class=crossreference>logos</a>).  <br /><br />
-Meaning science of language is first attested 1716 (philologue linguist is from 1590s; philologer
-linguistic scholar is from 1650s); this confusing secondary sense has not been popular in the U.S.,
-where <a href=/index.php?term=linguistics&amp;allowed_in_frame=0
-class=crossreference>linguistics</a> is preferred. Related: Philological.
+from philo- loving (see philo-) + logos word, speech (see logos).    Meaning science of language is
+first attested 1716 (philologue linguist is from 1590s; philologer linguistic scholar is from
+1650s); this confusing secondary sense has not been popular in the U.S., where linguistics is
+preferred. Related: Philological.
 

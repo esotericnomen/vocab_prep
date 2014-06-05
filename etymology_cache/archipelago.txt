@@ -1,9 +1,9 @@
+archipelago (n.)
+
 c.1500, from Italian arcipelago the Aegean Sea (13c.), from Greek arkhipelagos, from arkhi- chief
-(see <a href=/index.php?term=archon&amp;allowed_in_frame=0 class=crossreference>archon</a>) +
-pelagos sea (see <a href=/index.php?term=pelagic&amp;allowed_in_frame=0
-class=crossreference>pelagic</a>). The Aegean Sea being full of island chains, the meaning was
-extended in Italian to any sea studded with islands. Klein, noting the absence of arkhipelagos in
-ancient or Medieval Greek (the modern word in Greek is borrowed from Italian) believe it is an
+(see archon) + pelagos sea (see pelagic). The Aegean Sea being full of island chains, the meaning
+was extended in Italian to any sea studded with islands. Klein, noting the absence of arkhipelagos
+in ancient or Medieval Greek (the modern word in Greek is borrowed from Italian) believe it is an
 Italian mistake for Aigaion pelagos Aegean Sea (Medieval Latin Egeopelagus), or influenced by that
 name.
 

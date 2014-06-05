@@ -1,10 +1,10 @@
+bureaucracy (n.)
+
 1818, from French bureaucratie, coined by French economist Jean Claude Marie Vincent de Gournay
-(1712-1759) on model of democratie, aristocratie, from bureau office, literally desk (see <a
-href=/index.php?term=bureau&amp;allowed_in_frame=0 class=crossreference>bureau</a>) + Greek suffix
--kratia denoting power of (see <a href=/index.php?term=-cracy&amp;allowed_in_frame=0
-class=crossreference>-cracy</a>).  <blockquote>  That vast net-work of administrative tyranny ...
-that system of bureaucracy, which leaves no free agent in all France, except for the man at Paris
-who pulls the wires. [J.S. Mill, Westminster Review XXVIII, 1837]  <br /><br /> <hr /> <br />
-<b>bureaucrat</b>, &amp;c.; The formation is so barbarous that all attempt at self-respect in
+(1712-1759) on model of democratie, aristocratie, from bureau office, literally desk (see bureau) +
+Greek suffix -kratia denoting power of (see -cracy).  <blockquote>  That vast net-work of
+administrative tyranny ... that system of bureaucracy, which leaves no free agent in all France,
+except for the man at Paris who pulls the wires. [J.S. Mill, Westminster Review XXVIII, 1837]   <hr
+/>  <b>bureaucrat</b>, &amp;c.; The formation is so barbarous that all attempt at self-respect in
 pronunciation may perhaps as well be abandoned. [Fowler]  </blockquote>
 

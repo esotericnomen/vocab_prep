@@ -1,5 +1,6 @@
+constraint (n.)
+
 late 14c., distress, oppression, from Old French constreinte binding, constraint, compulsion (Modern
 French contrainte), fem. noun from constreint, past participle of constreindre, from Vulgar Latin
-*constrinctus, from Latin constrictus (see <a href=/index.php?term=constrain&amp;allowed_in_frame=0
-class=crossreference>constrain</a>). Meaning coercion, compulsion is from 1530s.
+*constrinctus, from Latin constrictus (see constrain). Meaning coercion, compulsion is from 1530s.
 

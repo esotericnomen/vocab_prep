@@ -1,8 +1,8 @@
+indict (v.)
+
 c.1300, from Anglo-French enditer accuse, indict (late 13c.), Old French enditer to dictate or
-inform, from Late Latin *indictare to declare, proclaim in writing, from Latin in- in (see <a
-href=/index.php?term=in-&amp;allowed_in_frame=0 class=crossreference>in-</a> (2)) + dictare to say,
-compose in words (see <a href=/index.php?term=dictate&amp;allowed_in_frame=0
-class=crossreference>dictate</a>). Retained its French pronunciation even after the spelling was re-
-Latinized c.1600. In classical Latin, indictus meant not said, unsaid. Related: Indictable;
-indicted; indicting.
+inform, from Late Latin *indictare to declare, proclaim in writing, from Latin in- in (see in- (2))
++ dictare to say, compose in words (see dictate). Retained its French pronunciation even after the
+spelling was re-Latinized c.1600. In classical Latin, indictus meant not said, unsaid. Related:
+Indictable; indicted; indicting.
 

@@ -1,4 +1,5 @@
+ontology (n.)
+
 metaphysical science or study of being, 1660s (Gideon Harvey), from Modern Latin ontologia (c.1600),
-from <a href=/index.php?term=onto-&amp;allowed_in_frame=0 class=crossreference>onto-</a> + <a
-href=/index.php?term=-logy&amp;allowed_in_frame=0 class=crossreference>-logy</a>.
+from onto- + -logy.
 

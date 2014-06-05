@@ -1,5 +1,6 @@
+emolument (n.)
+
 mid-15c., from Middle French &eacute;molument and directly from Latin emolumentum profit, gain,
 perhaps originally payment to a miller for grinding corn, from emolere grind out, from ex- out (see
-<a href=/index.php?term=ex-&amp;allowed_in_frame=0 class=crossreference>ex-</a>) + molere to grind
-(see <a href=/index.php?term=mallet&amp;allowed_in_frame=0 class=crossreference>mallet</a>).
+ex-) + molere to grind (see mallet).
 

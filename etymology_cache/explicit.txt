@@ -1,5 +1,4 @@
-1630s, from <a href=/index.php?term=explicit&amp;allowed_in_frame=0
-class=crossreference>explicit</a> + <a href=/index.php?term=-ly&amp;allowed_in_frame=0
-class=crossreference>-ly</a> (2). Opposed to <a
-href=/index.php?term=implicitly&amp;allowed_in_frame=0 class=crossreference>implicitly</a>.
+explicitly (adv.)
+
+1630s, from explicit + -ly (2). Opposed to implicitly.
 

@@ -1,5 +1,5 @@
-also nonentity, c.1600, something which does not exist, from <a
-href=/index.php?term=non-&amp;allowed_in_frame=0 class=crossreference>non-</a> + <a
-href=/index.php?term=entity&amp;allowed_in_frame=0 class=crossreference>entity</a>. Meaning a person
-or thing of no importance is attested from 1710.
+non-entity (n.)
+
+also nonentity, c.1600, something which does not exist, from non- + entity. Meaning a person or
+thing of no importance is attested from 1710.
 

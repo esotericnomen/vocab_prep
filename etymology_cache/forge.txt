@@ -1,5 +1,6 @@
+forge (n.)
+
 late 14c., a smithy, from Old French forge (12c.) forge, smithy, earlier faverge, from Latin fabrica
-workshop, from faber (genitive fabri) workman in hard materials, smith (see <a
-href=/index.php?term=fabric&amp;allowed_in_frame=0 class=crossreference>fabric</a>). As the heating
+workshop, from faber (genitive fabri) workman in hard materials, smith (see fabric). As the heating
 apparatus itself, from late 15c.
 

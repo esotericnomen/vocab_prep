@@ -1,4 +1,4 @@
-that cannot be passed, 1560s, from <a href=/index.php?term=im-&amp;allowed_in_frame=0
-class=crossreference>im-</a> + <a href=/index.php?term=passable&amp;allowed_in_frame=0
-class=crossreference>passable</a>.
+impassable (adj.)
+
+that cannot be passed, 1560s, from im- + passable.
 

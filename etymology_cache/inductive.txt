@@ -1,4 +1,5 @@
+inductive (adj.)
+
 early 15c., from Old French inductif or directly from Late Latin inductivus, from induct-, past
-participle stem of inducere (see <a href=/index.php?term=induce&amp;allowed_in_frame=0
-class=crossreference>induce</a>). As a term in logic, from 1764.
+participle stem of inducere (see induce). As a term in logic, from 1764.
 

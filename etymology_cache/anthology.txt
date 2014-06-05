@@ -1,8 +1,7 @@
+anthology (n.)
+
 1630s, collection of poetry, from Latin anthologia, from Greek anthologia collection of small poems
-and epigrams by several authors, literally flower-gathering, from anthos a flower (see <a
-href=/index.php?term=anther&amp;allowed_in_frame=0 class=crossreference>anther</a>) + logia
-collection, collecting, from legein gather (see <a
-href=/index.php?term=lecture&amp;allowed_in_frame=0 class=crossreference>lecture</a> (n.)). Modern
-sense (which emerged in Late Greek) is metaphoric, flowers of verse, small poems by various writers
-gathered together.
+and epigrams by several authors, literally flower-gathering, from anthos a flower (see anther) +
+logia collection, collecting, from legein gather (see lecture (n.)). Modern sense (which emerged in
+Late Greek) is metaphoric, flowers of verse, small poems by various writers gathered together.
 

@@ -1,6 +1,5 @@
-1580s, proper to a child, from <a href=/index.php?term=child&amp;allowed_in_frame=0
-class=crossreference>child</a> + <a href=/index.php?term=like&amp;allowed_in_frame=0
-class=crossreference>like</a> (adj.). Meaning like a child in a good sense (distinguished from <a
-href=/index.php?term=childish&amp;allowed_in_frame=0 class=crossreference>childish</a>) is from
-1738.
+childlike (adj.)
+
+1580s, proper to a child, from child + like (adj.). Meaning like a child in a good sense
+(distinguished from childish) is from 1738.
 

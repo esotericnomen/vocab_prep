@@ -1,6 +1,6 @@
+affidavit (n.)
+
 1590s, from Medieval Latin affidavit, literally he has stated on oath, third person singular
-perfective of affidare to trust, from Latin ad- to (see <a
-href=/index.php?term=ad-&amp;allowed_in_frame=0 class=crossreference>ad-</a>) + fidare to trust,
-from fidus faithful, from fides faith (see <a href=/index.php?term=faith&amp;allowed_in_frame=0
-class=crossreference>faith</a>). So called from being the first word of sworn statements.
+perfective of affidare to trust, from Latin ad- to (see ad-) + fidare to trust, from fidus faithful,
+from fides faith (see faith). So called from being the first word of sworn statements.
 

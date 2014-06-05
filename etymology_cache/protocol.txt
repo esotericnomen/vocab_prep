@@ -1,11 +1,12 @@
+protocol (n.)
+
 1540s, as prothogall draft of a document, from Middle French prothocole (c.1200, Modern French
 protocole), from Medieval Latin protocollum draft, literally the first sheet of a volume (on which
 contents and errata were written), from Greek protokollon first sheet glued onto a manuscript, from
-protos first (see <a href=/index.php?term=proto-&amp;allowed_in_frame=0
-class=crossreference>proto-</a>) + kolla glue.  <br /><br />  Sense developed in Medieval Latin and
-French from official account to official record of a transaction, to diplomatic document, and
-finally, in French, to formula of diplomatic etiquette. Meaning diplomatic rules of etiquette in
-English first recorded 1896, from French; general sense of conventional proper conduct is from 1952.
-Protocols of the (Learned) Elders of Zion, Russian anti-Semitic forgery purporting to reveal Jewish
-plan for world domination, first published in English 1920 under title The Jewish Peril.
+protos first (see proto-) + kolla glue.    Sense developed in Medieval Latin and French from
+official account to official record of a transaction, to diplomatic document, and finally, in
+French, to formula of diplomatic etiquette. Meaning diplomatic rules of etiquette in English first
+recorded 1896, from French; general sense of conventional proper conduct is from 1952. Protocols of
+the (Learned) Elders of Zion, Russian anti-Semitic forgery purporting to reveal Jewish plan for
+world domination, first published in English 1920 under title The Jewish Peril.
 

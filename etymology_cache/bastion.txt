@@ -1,4 +1,6 @@
+bastion (n.)
+
 1560s, from Middle French bastillon, diminutive of Old French bastille fortress, tower, fortified,
-building, from Old Proven&ccedil;al bastir build, perhaps originally make with bast (see <a
-href=/index.php?term=baste&amp;allowed_in_frame=0 class=crossreference>baste</a> (v.1)).
+building, from Old Proven&ccedil;al bastir build, perhaps originally make with bast (see baste
+(v.1)).
 

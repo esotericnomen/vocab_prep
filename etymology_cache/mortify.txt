@@ -1,11 +1,9 @@
+mortify (v.)
+
 late 14c., to kill, from Old French mortefiier destroy, overwhelm, punish, from Late Latin
 mortificare cause death, kill, put to death, literally make dead, from mortificus producing death,
-from Latin mors (genitive mortis) death (see <a href=/index.php?term=mortal&amp;allowed_in_frame=0
-class=crossreference>mortal</a> (adj.)) + root of facere to make (see <a
-href=/index.php?term=factitious&amp;allowed_in_frame=0 class=crossreference>factitious</a>).
-Religious sense of to subdue the flesh by abstinence and discipline first attested early 15c. Sense
-of humiliate first recorded 1690s (compare <a
-href=/index.php?term=mortification&amp;allowed_in_frame=0 class=crossreference>mortification</a>).
-Related: <a href=/index.php?term=Mortified&amp;allowed_in_frame=0
-class=crossreference>Mortified</a>; mortifying.
+from Latin mors (genitive mortis) death (see mortal (adj.)) + root of facere to make (see
+factitious). Religious sense of to subdue the flesh by abstinence and discipline first attested
+early 15c. Sense of humiliate first recorded 1690s (compare mortification). Related: Mortified;
+mortifying.
 

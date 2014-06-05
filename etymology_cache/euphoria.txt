@@ -1,7 +1,7 @@
+euphoria (n.)
+
 1727, a physician's term for condition of feeling healthy and comfortable (especially when sick),
 medical Latin, from Greek euphoria power of enduring easily, from euphoros, literally bearing well,
-from eu well (see <a href=/index.php?term=eu-&amp;allowed_in_frame=0 class=crossreference>eu-</a>) +
-pherein to carry (see <a href=/index.php?term=infer&amp;allowed_in_frame=0
-class=crossreference>infer</a>). Non-technical use, now the main one, dates to 1882 and is perhaps a
-reintroduction.
+from eu well (see eu-) + pherein to carry (see infer). Non-technical use, now the main one, dates to
+1882 and is perhaps a reintroduction.
 

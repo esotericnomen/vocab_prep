@@ -1,8 +1,7 @@
+expound (v.)
+
 c.1300, from Old French espondre expound (on), set forth, explain, from Latin exponere put forth,
-explain, expose, exhibit, from ex- forth (see <a href=/index.php?term=ex-&amp;allowed_in_frame=0
-class=crossreference>ex-</a>) + ponere to put, place (see <a
-href=/index.php?term=position&amp;allowed_in_frame=0 class=crossreference>position</a>); with
-intrusive -d (compare <a href=/index.php?term=sound&amp;allowed_in_frame=0
-class=crossreference>sound</a> (n.1)). The usual Middle English form was expoune. Related:
-Expounded; expounding.
+explain, expose, exhibit, from ex- forth (see ex-) + ponere to put, place (see position); with
+intrusive -d (compare sound (n.1)). The usual Middle English form was expoune. Related: Expounded;
+expounding.
 

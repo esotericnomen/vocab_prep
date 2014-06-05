@@ -1,6 +1,6 @@
+edict (n.)
+
 late 15c., edycte; earlier edit, late 13c., proclamation having the force of law, from Old French
 edit, from Latin edictum proclamation, ordinance, edict, neuter past participle of edicere publish,
-proclaim, from e- out (see <a href=/index.php?term=ex-&amp;allowed_in_frame=0
-class=crossreference>ex-</a>) + dicere to say (see <a
-href=/index.php?term=diction&amp;allowed_in_frame=0 class=crossreference>diction</a>).
+proclaim, from e- out (see ex-) + dicere to say (see diction).
 

@@ -1,4 +1,5 @@
-1893, from <a href=/index.php?term=geo-&amp;allowed_in_frame=0 class=crossreference>geo-</a> + <a
-href=/index.php?term=morphology&amp;allowed_in_frame=0 class=crossreference>morphology</a>. Form
-geomorphy is from 1889. Related: Geomorphological; geomorphologically; geomorphologist.
+geomorphology (n.)
+
+1893, from geo- + morphology. Form geomorphy is from 1889. Related: Geomorphological;
+geomorphologically; geomorphologist.
 

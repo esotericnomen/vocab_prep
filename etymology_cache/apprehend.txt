@@ -1,10 +1,10 @@
+apprehend (v.)
+
 mid-14c., to grasp in the senses or mind, from Old French aprendre (12c.) teach; learn; take, grasp;
 acquire, or directly from Latin apprehendere to take hold of, grasp, from ad- to + prehendere to
-seize (see <a href=/index.php?term=prehensile&amp;allowed_in_frame=0
-class=crossreference>prehensile</a>). Metaphoric extension to seize with the mind took place in
-Latin, and was the sole sense of cognate Old French aprendre (Modern French apprendre to learn, to
-be informed about; also compare <a href=/index.php?term=apprentice&amp;allowed_in_frame=0
-class=crossreference>apprentice</a>). Original sense returned in English in meaning to seize in the
-name of the law, arrest, recorded from 1540s, which use probably was taken directly from Latin.
-Related: Apprehended; apprehending.
+seize (see prehensile). Metaphoric extension to seize with the mind took place in Latin, and was the
+sole sense of cognate Old French aprendre (Modern French apprendre to learn, to be informed about;
+also compare apprentice). Original sense returned in English in meaning to seize in the name of the
+law, arrest, recorded from 1540s, which use probably was taken directly from Latin. Related:
+Apprehended; apprehending.
 

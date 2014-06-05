@@ -1,13 +1,14 @@
-by 1885, from <a href=/index.php?term=time&amp;allowed_in_frame=0 class=crossreference>time</a> (n.)
-+ <a href=/index.php?term=zone&amp;allowed_in_frame=0 class=crossreference>zone</a> (n.). As in
-Britain and France, the movement to regulate time nationally came from the railroads.  <blockquote>
-Previous to 1883 the methods of measuring time in the United States were so varied and so numerous
-as to be ludicrous. There were 50 different standards used in the United States, and on one road
-between New York and Boston, whose actual difference is 12 minutes, there were three distinct
-standards of time. Even small towns had two different standards one known as town or local time and
-the other railroad time.   <br /><br />  ... At noon on November 18, 1883, there was a general
-resetting of watches and clocks all over the United States and Canada, and the four great time
-zones, one hour apart, into which the country was divided came into being. So smoothly did the plan
-work that the general readjustment was accomplished without great difficulty and it has worked
-satisfactorily ever since. [Railroad Trainman, 1909]  </blockquote>
+time zone (n.)
+
+by 1885, from time (n.) + zone (n.). As in Britain and France, the movement to regulate time
+nationally came from the railroads.  <blockquote>  Previous to 1883 the methods of measuring time in
+the United States were so varied and so numerous as to be ludicrous. There were 50 different
+standards used in the United States, and on one road between New York and Boston, whose actual
+difference is 12 minutes, there were three distinct standards of time. Even small towns had two
+different standards one known as town or local time and the other railroad time.     ... At noon on
+November 18, 1883, there was a general resetting of watches and clocks all over the United States
+and Canada, and the four great time zones, one hour apart, into which the country was divided came
+into being. So smoothly did the plan work that the general readjustment was accomplished without
+great difficulty and it has worked satisfactorily ever since. [Railroad Trainman, 1909]
+</blockquote>
 

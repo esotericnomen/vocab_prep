@@ -1,5 +1,6 @@
+egress (n.)
+
 1530s, from Latin egressus a going out, noun use of past participle of egredi go out, from ex- out
-(see <a href=/index.php?term=ex-&amp;allowed_in_frame=0 class=crossreference>ex-</a>) + -gredi,
-comb. form of gradi step, go (see <a href=/index.php?term=grade&amp;allowed_in_frame=0
-class=crossreference>grade</a> (n.)). Perhaps a back-formation from egression (early 15c.).
+(see ex-) + -gredi, comb. form of gradi step, go (see grade (n.)). Perhaps a back-formation from
+egression (early 15c.).
 

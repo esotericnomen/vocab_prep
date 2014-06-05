@@ -1,5 +1,5 @@
-1620s, from <a href=/index.php?term=meteorology&amp;allowed_in_frame=0
-class=crossreference>meteorology</a> + <a href=/index.php?term=-ist&amp;allowed_in_frame=0
-class=crossreference>-ist</a>. Earlier was meteorologician (1570s). Greek meteorologos meant one who
-deals with celestial phenomena, astronomer.
+meteorologist (n.)
+
+1620s, from meteorology + -ist. Earlier was meteorologician (1570s). Greek meteorologos meant one
+who deals with celestial phenomena, astronomer.
 

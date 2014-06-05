@@ -1,4 +1,5 @@
+oscillate (v.)
+
 1726, back-formation from oscillation, or else from Latin oscillatus, past participle of oscillare
-(see <a href=/index.php?term=oscillation&amp;allowed_in_frame=0
-class=crossreference>oscillation</a>). From 1917 in electronics. Related: Oscillated; oscillating.
+(see oscillation). From 1917 in electronics. Related: Oscillated; oscillating.
 

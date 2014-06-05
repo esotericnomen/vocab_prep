@@ -1,6 +1,7 @@
+verity (n.)
+
 late 14c., from Anglo-French and Old French verite truth, sincerity, loyalty (12c.), from Latin
-veritatem (nominative veritas) truth, truthfulness, from verus true (see <a
-href=/index.php?term=very&amp;allowed_in_frame=0 class=crossreference>very</a>). Modern French
+veritatem (nominative veritas) truth, truthfulness, from verus true (see very). Modern French
 v&eacute;rit&eacute;, literally truth, was borrowed into English 1966 as a term for naturalism or
 realism in film, etc.
 

@@ -1,7 +1,9 @@
+gambit (n.)
+
 chess opening in which a pawn is risked for advantage later, 1650s, gambett, from Italian gambetto,
-literally a tripping up (as a trick in wrestling), from gamba leg, from Late Latin gamba (see <a
-href=/index.php?term=gambol&amp;allowed_in_frame=0 class=crossreference>gambol</a>). Applied to
-chess openings in Spanish in 1561 by Ruy Lopez, who traced it to the Italian word, but the form in
-Spanish generally was gambito, which led to French gambit, which has influenced the English spelling
-of the word. Broader sense of opening move meant to gain advantage in English is recorded from 1855.
+literally a tripping up (as a trick in wrestling), from gamba leg, from Late Latin gamba (see
+gambol). Applied to chess openings in Spanish in 1561 by Ruy Lopez, who traced it to the Italian
+word, but the form in Spanish generally was gambito, which led to French gambit, which has
+influenced the English spelling of the word. Broader sense of opening move meant to gain advantage
+in English is recorded from 1855.
 

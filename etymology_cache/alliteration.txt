@@ -1,6 +1,7 @@
+alliteration (n.)
+
 1650s, a begining with the same letter, from Modern Latin alliterationem (nominative alliteratio),
 noun of action from past participle stem of alliterare to begin with the same letter, from Latin ad-
-to (see <a href=/index.php?term=ad-&amp;allowed_in_frame=0 class=crossreference>ad-</a>) + littera
-(also litera) letter, script (see <a href=/index.php?term=letter&amp;allowed_in_frame=0
-class=crossreference>letter</a>). Formed on model of obliteration, etc. Related: Alliterational.
+to (see ad-) + littera (also litera) letter, script (see letter). Formed on model of obliteration,
+etc. Related: Alliterational.
 

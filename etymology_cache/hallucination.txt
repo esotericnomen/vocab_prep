@@ -1,6 +1,7 @@
+hallucination (n.)
+
 in the pathological/psychological sense of seeing or hearing something which is not there, 1640s,
 from Latin hallucinationem (nominative hallucinatio), from past participle stem of hallucinari (see
-<a href=/index.php?term=hallucinate&amp;allowed_in_frame=0 class=crossreference>hallucinate</a>).
-Hallucination is distinct from illusion in not necessarily involving a false belief. Related:
-Hallucinations.
+hallucinate). Hallucination is distinct from illusion in not necessarily involving a false belief.
+Related: Hallucinations.
 

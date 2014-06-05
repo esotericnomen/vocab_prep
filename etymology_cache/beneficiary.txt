@@ -1,4 +1,5 @@
+beneficiary
+
 1610s (n.), 1620s (adj.), probably via French b&eacute;n&eacute;ficiaire, from Latin beneficiarius
-enjoying a favor, privileged, from beneficium (see <a
-href=/index.php?term=benefice&amp;allowed_in_frame=0 class=crossreference>benefice</a>).
+enjoying a favor, privileged, from beneficium (see benefice).
 

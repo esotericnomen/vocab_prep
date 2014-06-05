@@ -1,6 +1,7 @@
+bevy (n.)
+
 early 15c., collective noun of quails and ladies, from Anglo-French bev&eacute;e, of unknown origin.
 One supposed definition of the word is a drinking bout, but this is perhaps a misprint of bever,
-from Old French beivre (see <a href=/index.php?term=beverage&amp;allowed_in_frame=0
-class=crossreference>beverage</a>). Still, it's possible that the original sense could be a company
-of birds gathered at a puddle or pool for drinking or bathing.
+from Old French beivre (see beverage). Still, it's possible that the original sense could be a
+company of birds gathered at a puddle or pool for drinking or bathing.
 

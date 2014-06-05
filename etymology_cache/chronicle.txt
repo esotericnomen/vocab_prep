@@ -1,8 +1,9 @@
+chronicle (n.)
+
 c.1300, cronicle, from Anglo-French cronicle, from Old French cronique chronicle (Modern French
 chronique), from Latin chronica (neuter plural mistaken for fem. singular), from Greek ta khronika
 (biblia) the (books of) annals, chronology, neuter plural of khronikos of time, concerning time,
-from khronos time (see <a href=/index.php?term=chrono-&amp;allowed_in_frame=0
-class=crossreference>chrono-</a>). Ending modified in Anglo-French, perhaps by influence of article.
+from khronos time (see chrono-). Ending modified in Anglo-French, perhaps by influence of article.
 Old English had cranic chronicle, cranicwritere chronicler. The classical -h- was restored in
 English from 16c.
 

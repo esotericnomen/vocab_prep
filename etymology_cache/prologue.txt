@@ -1,6 +1,6 @@
+prologue (n.)
+
 early 14c., from Old French prologue (12c.) and directly from Latin prologus, from Greek prologos
-preface to a play, speaker of a prologue, literally a speech beforehand, from pro- before (see <a
-href=/index.php?term=pro-&amp;allowed_in_frame=0 class=crossreference>pro-</a>) + logos discourse,
-speech, from legein to speak (see <a href=/index.php?term=lecture&amp;allowed_in_frame=0
-class=crossreference>lecture</a> (n.)).
+preface to a play, speaker of a prologue, literally a speech beforehand, from pro- before (see pro-)
++ logos discourse, speech, from legein to speak (see lecture (n.)).
 

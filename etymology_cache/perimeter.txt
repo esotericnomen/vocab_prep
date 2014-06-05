@@ -1,6 +1,6 @@
+perimeter (n.)
+
 early 15c., line around a figure or surface, from Latin perimetros, from Greek perimetron
-circumference, from peri-  around (see <a href=/index.php?term=peri-&amp;allowed_in_frame=0
-class=crossreference>peri-</a>) + metron measure (see <a
-href=/index.php?term=meter&amp;allowed_in_frame=0 class=crossreference>meter</a> (n.2)). Military
-sense of boundary of a defended position is attested from 1943.
+circumference, from peri-  around (see peri-) + metron measure (see meter (n.2)). Military sense of
+boundary of a defended position is attested from 1943.
 

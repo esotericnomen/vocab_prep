@@ -1,4 +1,4 @@
-1728, from <a href=/index.php?term=pharmacology&amp;allowed_in_frame=0
-class=crossreference>pharmacology</a> + <a href=/index.php?term=-ist&amp;allowed_in_frame=0
-class=crossreference>-ist</a>.
+pharmacologist (n.)
+
+1728, from pharmacology + -ist.
 

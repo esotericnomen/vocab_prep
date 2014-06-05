@@ -1,4 +1,5 @@
+transition (n.)
+
 mid-15c., from Latin transitionem (nominative transitio) a going across or over, noun of action from
-past participle stem of transire go or cross over (see <a
-href=/index.php?term=transient&amp;allowed_in_frame=0 class=crossreference>transient</a>).
+past participle stem of transire go or cross over (see transient).
 

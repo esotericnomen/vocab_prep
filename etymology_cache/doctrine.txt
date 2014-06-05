@@ -1,4 +1,5 @@
+doctrine (n.)
+
 late 14c., from Old French doctrine (12c.) teaching, doctrine, and directly from Latin doctrina
-teaching, body of teachings, learning, from doctor teacher (see <a
-href=/index.php?term=doctor&amp;allowed_in_frame=0 class=crossreference>doctor</a> (n.)).
+teaching, body of teachings, learning, from doctor teacher (see doctor (n.)).
 

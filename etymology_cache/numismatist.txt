@@ -1,4 +1,5 @@
+numismatist (n.)
+
 student of coins and coinage, 1799, from French numismatiste, from Latin numismat-, stem of numisma
-current coin (see <a href=/index.php?term=numismatic&amp;allowed_in_frame=0
-class=crossreference>numismatic</a>).
+current coin (see numismatic).
 

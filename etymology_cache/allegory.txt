@@ -1,6 +1,7 @@
+allegory (n.)
+
 late 14c., from Old French allegorie (12c.), from Latin allegoria, from Greek allegoria figurative
 language, description of one thing under the image of another, literally a speaking about something
-else, from allos another, different (see <a href=/index.php?term=alias&amp;allowed_in_frame=0
-class=crossreference>alias</a> (adv.)) + agoreuein speak openly, speak in the assembly, from agora
-assembly (see <a href=/index.php?term=agora&amp;allowed_in_frame=0 class=crossreference>agora</a>).
+else, from allos another, different (see alias (adv.)) + agoreuein speak openly, speak in the
+assembly, from agora assembly (see agora).
 

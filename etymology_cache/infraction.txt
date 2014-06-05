@@ -1,5 +1,6 @@
+infraction (n.)
+
 mid-15c., the breaking of an agreement, from Middle French infraction and directly from Latin
 infractionem (nominative infractio) a breaking, weakening, noun of action from past participle stem
-of infringere (see <a href=/index.php?term=infringe&amp;allowed_in_frame=0
-class=crossreference>infringe</a>).
+of infringere (see infringe).
 

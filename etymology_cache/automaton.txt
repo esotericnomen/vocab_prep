@@ -1,5 +1,6 @@
+automaton (n.)
+
 1610s, from Latin automaton (Suetonius), from Greek automaton, neuter of automatos self-acting, from
-autos self (see <a href=/index.php?term=auto-&amp;allowed_in_frame=0 class=crossreference>auto-</a>)
-+ matos thinking, animated, willing, from PIE *mn-to-, from root *men- to think (see <a
-href=/index.php?term=mind&amp;allowed_in_frame=0 class=crossreference>mind</a> (n.)).
+autos self (see auto-) + matos thinking, animated, willing, from PIE *mn-to-, from root *men- to
+think (see mind (n.)).
 

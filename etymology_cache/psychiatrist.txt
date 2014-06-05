@@ -1,8 +1,7 @@
-1875, from <a href=/index.php?term=psychiatry&amp;allowed_in_frame=0
-class=crossreference>psychiatry</a> + <a href=/index.php?term=-ist&amp;allowed_in_frame=0
-class=crossreference>-ist</a>.<blockquote>A psychiatrist is a man who goes to the Folies
+psychiatrist (n.)
+
+1875, from psychiatry + -ist.<blockquote>A psychiatrist is a man who goes to the Folies
 Berg&egrave;re and looks at the audience. [Anglican Bishop Mervyn Stockwood, 1961]</blockquote>  An
 older name was mad-doctor (1703); also psychiater expert in mental diseases (1852), from Greek
-psyche + iatros. Also see <a href=/index.php?term=alienist&amp;allowed_in_frame=0
-class=crossreference>alienist</a>.
+psyche + iatros. Also see alienist.
 

@@ -1,4 +1,5 @@
+implicit
+
 1590s, from Middle French implicite and directly from Latin implicitus, later variant of implicatus,
-past participle of implicare (see <a href=/index.php?term=implication&amp;allowed_in_frame=0
-class=crossreference>implication</a>).
+past participle of implicare (see implication).
 

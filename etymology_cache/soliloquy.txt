@@ -1,8 +1,7 @@
-1610s, from Late Latin soliloquium a talking to oneself, from Latin solus alone (see <a
-href=/index.php?term=sole&amp;allowed_in_frame=0 class=crossreference>sole</a> (adj.)) + loqui speak
-(see <a href=/index.php?term=locution&amp;allowed_in_frame=0 class=crossreference>locution</a>).
-Also used in translation of Latin Liber Soliloquiorum, a treatise by Augustine, who is said to have
-coined the word, on analogy of Greek monologia (see <a
-href=/index.php?term=monologue&amp;allowed_in_frame=0 class=crossreference>monologue</a>). Related:
-Soliloquent.
+soliloquy (n.)
+
+1610s, from Late Latin soliloquium a talking to oneself, from Latin solus alone (see sole (adj.)) +
+loqui speak (see locution). Also used in translation of Latin Liber Soliloquiorum, a treatise by
+Augustine, who is said to have coined the word, on analogy of Greek monologia (see monologue).
+Related: Soliloquent.
 

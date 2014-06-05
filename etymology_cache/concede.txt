@@ -1,6 +1,6 @@
+concede (v.)
+
 1630s, from Middle French conc&eacute;der or directly from Latin concedere give way, yield, go away,
-depart, retire, figuratively agree, consent, give precedence, from com-, intensive prefix (see <a
-href=/index.php?term=com-&amp;allowed_in_frame=0 class=crossreference>com-</a>), + cedere to go,
-grant, give way (see <a href=/index.php?term=cede&amp;allowed_in_frame=0
-class=crossreference>cede</a>). Related: Conceded; conceding.
+depart, retire, figuratively agree, consent, give precedence, from com-, intensive prefix (see
+com-), + cedere to go, grant, give way (see cede). Related: Conceded; conceding.
 

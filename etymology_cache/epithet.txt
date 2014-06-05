@@ -1,6 +1,7 @@
+epithet (n.)
+
 1570s, descriptive name for a person or thing, from Middle French &eacute;pith&egrave;te or directly
 from Latin epitheton, from Greek epitheton something added, adjective often used as noun, from
-neuter of epithetos attributed, added, from epitithenai to add on, from epi in addition (see <a
-href=/index.php?term=epi-&amp;allowed_in_frame=0 class=crossreference>epi-</a>) + tithenai to put
-(see <a href=/index.php?term=theme&amp;allowed_in_frame=0 class=crossreference>theme</a>).
+neuter of epithetos attributed, added, from epitithenai to add on, from epi in addition (see epi-) +
+tithenai to put (see theme).
 

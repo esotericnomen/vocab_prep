@@ -1,14 +1,10 @@
+aphorism (n.)
+
 1520s (especially in reference to the Aphorisms of Hippocrates), from Middle French aphorisme (14c.,
 aufforisme), from Late Latin aphorismus, from Greek aphorismos definition, pithy sentence, from
-aphorizein to mark off, divide, from apo- from (see <a
-href=/index.php?term=apo-&amp;allowed_in_frame=0 class=crossreference>apo-</a>) + horizein to bound
-(see <a href=/index.php?term=horizon&amp;allowed_in_frame=0 class=crossreference>horizon</a>).  <br
-/><br />  An aphorism is a short, pithy statement containing a truth of general import; an <a
-href=/index.php?term=axiom&amp;allowed_in_frame=0 class=crossreference>axiom</a> is a statement of
-self-evident truth; a <a href=/index.php?term=theorem&amp;allowed_in_frame=0
-class=crossreference>theorem</a> is a demonstrable proposition in science or mathematics; an <a
-href=/index.php?term=epigram&amp;allowed_in_frame=0 class=crossreference>epigram</a> is like an
-aphorism, but lacking in general import. <a href=/index.php?term=Maxim&amp;allowed_in_frame=0
-class=crossreference>Maxim</a> and <a href=/index.php?term=saying&amp;allowed_in_frame=0
-class=crossreference>saying</a> can be used as synonyms for aphorism.
+aphorizein to mark off, divide, from apo- from (see apo-) + horizein to bound (see horizon).    An
+aphorism is a short, pithy statement containing a truth of general import; an axiom is a statement
+of self-evident truth; a theorem is a demonstrable proposition in science or mathematics; an epigram
+is like an aphorism, but lacking in general import. Maxim and saying can be used as synonyms for
+aphorism.
 

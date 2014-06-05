@@ -1,6 +1,6 @@
+rectify (v.)
+
 c.1400, from Old French rectifier, literally to make straight (14c.), from Late Latin rectificare
-make right, from Latin rectus straight (see <a href=/index.php?term=right&amp;allowed_in_frame=0
-class=crossreference>right</a> (adj.1)) + root of facere to make (see <a
-href=/index.php?term=factitious&amp;allowed_in_frame=0 class=crossreference>factitious</a>).
-Related: Rectified; rectifying.
+make right, from Latin rectus straight (see right (adj.1)) + root of facere to make (see
+factitious). Related: Rectified; rectifying.
 

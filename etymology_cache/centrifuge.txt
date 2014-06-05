@@ -1,5 +1,6 @@
+centrifuge (n.)
+
 1887, a centrifuge machine, originally a machine for separating cream from milk, from French
 centrifuge, from noun use of adjective meaning centrifugal (1801), from Modern Latin centrifugus
-(see <a href=/index.php?term=centrifugal&amp;allowed_in_frame=0
-class=crossreference>centrifugal</a>).
+(see centrifugal).
 

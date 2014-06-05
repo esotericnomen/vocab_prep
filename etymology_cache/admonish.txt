@@ -1,8 +1,8 @@
+admonish (v.)
+
 mid-14c., amonesten remind, urge, exhort, warn, give warning, from Old French amonester (12c.) urge,
 encourage, warn, from Vulgar Latin *admonestare, from Latin admonere bring to mind, remind, suggest;
-also warn, advise, urge, from ad- to (see <a href=/index.php?term=ad-&amp;allowed_in_frame=0
-class=crossreference>ad-</a>) + monere advise, warn (see <a
-href=/index.php?term=monitor&amp;allowed_in_frame=0 class=crossreference>monitor</a> (n.)).  <br
-/><br />  The -d- was restored on Latin model. The ending was influenced by words in -ish (such as
-astonish, abolish). Related: Admonished; admonishing.
+also warn, advise, urge, from ad- to (see ad-) + monere advise, warn (see monitor (n.)).    The -d-
+was restored on Latin model. The ending was influenced by words in -ish (such as astonish, abolish).
+Related: Admonished; admonishing.
 

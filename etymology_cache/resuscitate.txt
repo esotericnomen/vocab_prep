@@ -1,8 +1,7 @@
+resuscitate (v.)
+
 early 15c., revive, restore, from Latin resuscitatus, past participle of resuscitare rouse again,
-revive, from re- again (see <a href=/index.php?term=re-&amp;allowed_in_frame=0
-class=crossreference>re-</a>) + suscitare to raise, revive, from sub (up from) under (see <a
-href=/index.php?term=sub-&amp;allowed_in_frame=0 class=crossreference>sub-</a>) + citare to summon
-(see <a href=/index.php?term=cite&amp;allowed_in_frame=0 class=crossreference>cite</a>).
-Intransitive use from 1650s. Related: Resuscitated; resuscitating. Earlier was resuscen restore
-(someone) to life, resurrect (c.1400).
+revive, from re- again (see re-) + suscitare to raise, revive, from sub (up from) under (see sub-) +
+citare to summon (see cite). Intransitive use from 1650s. Related: Resuscitated; resuscitating.
+Earlier was resuscen restore (someone) to life, resurrect (c.1400).
 

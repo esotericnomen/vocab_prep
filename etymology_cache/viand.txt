@@ -1,6 +1,7 @@
+viand (n.)
+
 article of food, early 14c., from Anglo-French viaunde, Old French viande food (vegetable as well as
 animal), victuals, provisions (11c.), dissimilated from Vulgar Latin *vivanda, from Late Latin
 vivenda things for living, things to be lived upon, in classical Latin, be live, neuter plural
-gerundive of vivere to live (see <a href=/index.php?term=vital&amp;allowed_in_frame=0
-class=crossreference>vital</a>). The French word later was restricted to fresh meat.
+gerundive of vivere to live (see vital). The French word later was restricted to fresh meat.
 

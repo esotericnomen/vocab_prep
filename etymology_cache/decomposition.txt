@@ -1,4 +1,5 @@
-1762, from <a href=/index.php?term=de-&amp;allowed_in_frame=0 class=crossreference>de-</a> + <a
-href=/index.php?term=composition&amp;allowed_in_frame=0 class=crossreference>composition</a>. An
-earlier word in the same form meant further compounding of already composite things (1650s).
+decomposition (n.)
+
+1762, from de- + composition. An earlier word in the same form meant further compounding of already
+composite things (1650s).
 

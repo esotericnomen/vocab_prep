@@ -1,3 +1,5 @@
+fugitive
+
 late 14c. (adjective and noun), from Old French fugitif, from Latin fugitivus fleeing (but commonly
 used as a noun meaning runaway, fugitive slave, deserter), from past participle stem of fugere run
 away, flee, from PIE root *bheug- (1) to flee (cognates: Greek pheugein to flee, Lithuanian bugstu

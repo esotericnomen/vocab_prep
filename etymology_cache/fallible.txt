@@ -1,4 +1,5 @@
+fallible (adj.)
+
 early 15c., from Medieval Latin fallibilis liable to err, deceitful. literally that can be deceived,
-from Latin fallere deceive (see <a href=/index.php?term=fail&amp;allowed_in_frame=0
-class=crossreference>fail</a>).
+from Latin fallere deceive (see fail).
 

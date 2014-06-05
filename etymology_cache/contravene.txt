@@ -1,7 +1,6 @@
+contravene (v.)
+
 1560s, from Middle French contravenir to transgress, decline, depart, from Late Latin contravenire
-to come against, in Medieval Latin to transgress, from Latin contra against (see <a
-href=/index.php?term=contra&amp;allowed_in_frame=0 class=crossreference>contra</a>) + venire to come
-(see <a href=/index.php?term=venue&amp;allowed_in_frame=0 class=crossreference>venue</a>). Related:
-Contravened; <a href=/index.php?term=contravening&amp;allowed_in_frame=0
-class=crossreference>contravening</a>.
+to come against, in Medieval Latin to transgress, from Latin contra against (see contra) + venire to
+come (see venue). Related: Contravened; contravening.
 

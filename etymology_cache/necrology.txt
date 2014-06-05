@@ -1,4 +1,4 @@
-register of deaths, obituary, 1705, from <a href=/index.php?term=necro-&amp;allowed_in_frame=0
-class=crossreference>necro-</a> + <a href=/index.php?term=-logy&amp;allowed_in_frame=0
-class=crossreference>-logy</a>.
+necrology (n.)
+
+register of deaths, obituary, 1705, from necro- + -logy.
 

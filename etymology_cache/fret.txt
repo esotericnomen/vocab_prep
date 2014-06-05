@@ -1,4 +1,4 @@
-also fret-work, c.1600, from <a href=/index.php?term=fret&amp;allowed_in_frame=0
-class=crossreference>fret</a> (n.) + <a href=/index.php?term=work&amp;allowed_in_frame=0
-class=crossreference>work</a> (n.).
+fretwork (n.)
+
+also fret-work, c.1600, from fret (n.) + work (n.).
 

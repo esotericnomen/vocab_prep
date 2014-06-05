@@ -1,4 +1,5 @@
+jest (v.)
+
 1520s, to speak in a trifling manner; 1550s, to joke, from Middle English gesten recite a tale (late
-14c.), from geste (see <a href=/index.php?term=jest&amp;allowed_in_frame=0
-class=crossreference>jest</a> (n.)). Related: Jested; jesting.
+14c.), from geste (see jest (n.)). Related: Jested; jesting.
 

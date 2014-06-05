@@ -1,4 +1,5 @@
+authenticate (v.)
+
 verify, establish the credibility of, 1650s, from Medieval Latin authenticatus, past participle of
-authenticare, from authenticus (see <a href=/index.php?term=authentic&amp;allowed_in_frame=0
-class=crossreference>authentic</a>). Related: Authenticated; authenticating.
+authenticare, from authenticus (see authentic). Related: Authenticated; authenticating.
 

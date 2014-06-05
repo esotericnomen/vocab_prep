@@ -1,8 +1,9 @@
+lexicon (n.)
+
 c.1600, a dictionary, from Middle French lexicon or directly from Modern Latin lexicon, from Greek
 lexikon (biblion) word (book), from neuter of lexikos pertaining to words, from lexis word, from
-legein say (see <a href=/index.php?term=lecture&amp;allowed_in_frame=0
-class=crossreference>lecture</a> (n.)).  <br /><br />  Used originally of dictionaries of Greek,
-Syriac, Hebrew and Arabic, because these typically were in Latin and in Modern Latin lexicon, not
-dictionarius, was the preferred word. The modern sense of vocabulary proper to some sphere of
-activity (1640s) is a figurative extension.
+legein say (see lecture (n.)).    Used originally of dictionaries of Greek, Syriac, Hebrew and
+Arabic, because these typically were in Latin and in Modern Latin lexicon, not dictionarius, was the
+preferred word. The modern sense of vocabulary proper to some sphere of activity (1640s) is a
+figurative extension.
 

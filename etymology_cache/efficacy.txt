@@ -1,6 +1,7 @@
+efficacy (n.)
+
 1520s, from Latin efficacia efficacy, efficiency, from efficax (genitive efficacis) powerful,
-effective, from stem of efficere work out, accomplish (see <a
-href=/index.php?term=effect&amp;allowed_in_frame=0 class=crossreference>effect</a>). Earlier in same
-sense was efficace (c.1200), from Old French eficace (14c.), from Latin efficacia; also efficacite
-(early 15c.), from Latin efficacitatem.
+effective, from stem of efficere work out, accomplish (see effect). Earlier in same sense was
+efficace (c.1200), from Old French eficace (14c.), from Latin efficacia; also efficacite (early
+15c.), from Latin efficacitatem.
 

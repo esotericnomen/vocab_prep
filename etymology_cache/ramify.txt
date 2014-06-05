@@ -1,6 +1,6 @@
+ramify (v.)
+
 early 15c., branch out, from Middle French ramifier (early 14c.), from Medieval Latin ramificare to
-form branches, from Latin ramus branch (see <a href=/index.php?term=ramus&amp;allowed_in_frame=0
-class=crossreference>ramus</a>) + root of facere to make (see <a
-href=/index.php?term=factitious&amp;allowed_in_frame=0 class=crossreference>factitious</a>).
+form branches, from Latin ramus branch (see ramus) + root of facere to make (see factitious).
 Related: Ramified; ramifying.
 

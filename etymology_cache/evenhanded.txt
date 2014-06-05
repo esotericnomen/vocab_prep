@@ -1,3 +1,4 @@
-c.1600, from <a href=/index.php?term=even&amp;allowed_in_frame=0 class=crossreference>even</a>
-(adj.) + <a href=/index.php?term=hand&amp;allowed_in_frame=0 class=crossreference>hand</a> (n.).
+evenhanded
+
+c.1600, from even (adj.) + hand (n.).
 

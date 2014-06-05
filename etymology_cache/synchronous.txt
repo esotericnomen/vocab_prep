@@ -1,6 +1,7 @@
+synchronous (adj.)
+
 1660s, existing or happening at the same time, from Late Latin synchronus simultaneous, from Greek
-synkhronos happening at the same time, from syn- together (see <a
-href=/index.php?term=syn-&amp;allowed_in_frame=0 class=crossreference>syn-</a>) + khronos time (see
-<a href=/index.php?term=chrono-&amp;allowed_in_frame=0 class=crossreference>chrono-</a>). Meaning
-recurring at the same successive instants of time is attested from 1670s. Related: Synchronously.
+synkhronos happening at the same time, from syn- together (see syn-) + khronos time (see chrono-).
+Meaning recurring at the same successive instants of time is attested from 1670s. Related:
+Synchronously.
 

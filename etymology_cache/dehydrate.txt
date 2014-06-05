@@ -1,4 +1,5 @@
-1854, from <a href=/index.php?term=de-&amp;allowed_in_frame=0 class=crossreference>de-</a> + <a
-href=/index.php?term=hydrate&amp;allowed_in_frame=0 class=crossreference>hydrate</a> (v.). A
-chemical term at first, given a broader extension 1880s. Related: Dehydration (1834).
+dehydrate (v.)
+
+1854, from de- + hydrate (v.). A chemical term at first, given a broader extension 1880s. Related:
+Dehydration (1834).
 

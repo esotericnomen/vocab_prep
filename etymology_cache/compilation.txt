@@ -1,5 +1,6 @@
+compilation (n.)
+
 early 15c., that which is compiled, also action of compiling, from Middle French compilation, from
 Latin compilationem (nominative compilatio) a compilation, literally a pillaging, noun of action
-from compilare (see <a href=/index.php?term=compile&amp;allowed_in_frame=0
-class=crossreference>compile</a>).
+from compilare (see compile).
 

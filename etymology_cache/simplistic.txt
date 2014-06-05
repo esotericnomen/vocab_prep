@@ -1,9 +1,8 @@
-simple, plain, not compound, 1844, from <a href=/index.php?term=simple&amp;allowed_in_frame=0
-class=crossreference>simple</a> (adj.) + <a href=/index.php?term=-istic&amp;allowed_in_frame=0
-class=crossreference>-istic</a>. From 1867 as over-simple, trying to explain too much by a single
-principle. Also (1860) of or pertaining to simples (herbs used in healing, medicine of one
-ingredient only; the notion being that each herb possesses a particular virtue, thus a simple
-remedy), from simplist one who studies simples (1590s; see <a
-href=/index.php?term=simple&amp;allowed_in_frame=0 class=crossreference>simple</a> (adj.)) + <a
-href=/index.php?term=-ic&amp;allowed_in_frame=0 class=crossreference>-ic</a>.
+simplistic (adj.)
+
+simple, plain, not compound, 1844, from simple (adj.) + -istic. From 1867 as over-simple, trying to
+explain too much by a single principle. Also (1860) of or pertaining to simples (herbs used in
+healing, medicine of one ingredient only; the notion being that each herb possesses a particular
+virtue, thus a simple remedy), from simplist one who studies simples (1590s; see simple (adj.)) +
+-ic.
 

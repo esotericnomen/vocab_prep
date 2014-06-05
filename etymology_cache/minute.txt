@@ -1,9 +1,10 @@
+minute (n.)
+
 sixtieth part of an hour or degree, late 14c., from Old French minut (13c.) or directly from
 Medieval Latin minuta minute, short note, from Latin minuta, noun use of fem. of minutus small,
-minute (see <a href=/index.php?term=minute&amp;allowed_in_frame=0 class=crossreference>minute</a>
-(adj.)). In Medieval Latin, pars minuta prima first small part was used by mathematician Ptolemy for
-one-sixtieth of a circle, later of an hour (next in order was secunda minuta, which became <a
-href=/index.php?term=second&amp;allowed_in_frame=0 class=crossreference>second</a> (n.)). German
-Minute, Dutch minuut also are from French. Used vaguely for short time from late 14c. As a measure
-expressing distance (travel time) by 1886. Minute hand is attested from 1726.
+minute (see minute (adj.)). In Medieval Latin, pars minuta prima first small part was used by
+mathematician Ptolemy for one-sixtieth of a circle, later of an hour (next in order was secunda
+minuta, which became second (n.)). German Minute, Dutch minuut also are from French. Used vaguely
+for short time from late 14c. As a measure expressing distance (travel time) by 1886. Minute hand is
+attested from 1726.
 

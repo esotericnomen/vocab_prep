@@ -1,7 +1,7 @@
+pretext (n.)
+
 1510s, from French pr&#233;texte, from Latin praetextum a pretext, outward display, noun use of
 neuter past participle of praetexere to disguise, cover, literally weave in front (for sense,
-compare pull the wool over (someone's) eyes); from prae- in front (see <a
-href=/index.php?term=pre-&amp;allowed_in_frame=0 class=crossreference>pre-</a>) + texere to weave,
-from PIE root *teks- to weave, to make (see <a href=/index.php?term=texture&amp;allowed_in_frame=0
-class=crossreference>texture</a> (n.)).
+compare pull the wool over (someone's) eyes); from prae- in front (see pre-) + texere to weave, from
+PIE root *teks- to weave, to make (see texture (n.)).
 

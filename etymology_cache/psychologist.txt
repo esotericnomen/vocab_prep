@@ -1,4 +1,4 @@
-1727; see <a href=/index.php?term=psychology&amp;allowed_in_frame=0
-class=crossreference>psychology</a> + <a href=/index.php?term=-ist&amp;allowed_in_frame=0
-class=crossreference>-ist</a>.
+psychologist (n.)
+
+1727; see psychology + -ist.
 

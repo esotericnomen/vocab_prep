@@ -1,3 +1,4 @@
-1895, from <a href=/index.php?term=im-&amp;allowed_in_frame=0 class=crossreference>im-</a> not + <a
-href=/index.php?term=balance&amp;allowed_in_frame=0 class=crossreference>balance</a> (n.).
+imbalance (n.)
+
+1895, from im- not + balance (n.).
 

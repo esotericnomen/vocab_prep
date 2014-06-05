@@ -1,5 +1,6 @@
+execute (v.)
+
 late 14c., to carry into effect, from Old French executer (14c.), from Medieval Latin executare,
-from Latin execut-/exsecut-, past participle stem of exequi/exsequi to follow out (see <a
-href=/index.php?term=execution&amp;allowed_in_frame=0 class=crossreference>execution</a>). Meaning
-to inflict capital punishment is from late 15c. Related: Executed; executing.
+from Latin execut-/exsecut-, past participle stem of exequi/exsequi to follow out (see execution).
+Meaning to inflict capital punishment is from late 15c. Related: Executed; executing.
 

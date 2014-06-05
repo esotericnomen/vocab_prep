@@ -1,7 +1,7 @@
+confidence (n.)
+
 early 15c., from Middle French confidence or directly from Latin confidentia, from confidentem
 (nominative confidens) firmly trusting, bold, present participle of confidere to have full trust or
-reliance, from com-, intensive prefix (see <a href=/index.php?term=com-&amp;allowed_in_frame=0
-class=crossreference>com-</a>), + fidere to trust (see <a
-href=/index.php?term=faith&amp;allowed_in_frame=0 class=crossreference>faith</a>). For sense of
-swindle see <a href=/index.php?term=con&amp;allowed_in_frame=0 class=crossreference>con</a> (adj.).
+reliance, from com-, intensive prefix (see com-), + fidere to trust (see faith). For sense of
+swindle see con (adj.).
 
