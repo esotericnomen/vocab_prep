@@ -1,0 +1,16 @@
+print_nline(){
+    width=$(tput cols)
+    for ((x = 0; x < $width-10; x++)); do
+    printf %s -
+    done
+    echo
+}
+print_nline; wordnet $1 -synsn -synsv -synsa -synsr
+print_nline; wordnet $1 -antsn -antsv -antsa -antsr
+print_nline; wordnet $1 -coorn -coorv
+print_nline; wordnet $1 -derin -deriv
+print_nline; wordnet $1 -domtnn -domtnv -domtna -domtnr
+print_nline; wordnet $1 -famln 
+print_nline; wordnet $1 -over
+print_nline;
+
