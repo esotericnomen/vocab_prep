@@ -1,0 +1,9 @@
+A googol is a famously huge number, literally ten to the one hundredth power. A math teacher might
+offer extra credit to students who correctly write out the digits of a googol on the blackboard.
+
+If you want to write out a googol, write the number one followed by one hundred zeros.
+Mathematicians sometimes use the idea of a googol to illustrate the difference between an enormous
+number -- one that's too large to imagine -- and infinity. The word googol was invented by the young
+nephew of mathematician Edward Kasner, one of the authors of the 1940 book Mathematics and the
+Imagination.
+
