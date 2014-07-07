@@ -1,0 +1,9 @@
+A syllogism is a type of logical reasoning where the conclusion is gotten from two linked premises.
+Here’s an example: An apple is a fruit. All fruit is good. Therefore apples are good.
+
+Used properly, syllogism can be a good way of reasoning, but it’s very easy to make sloppy
+syllogisms by messing up the middle term that links the premises together, as in: President Franklin
+Delano Roosevelt was an Aquarius. President Franklin Delano Roosevelt was great. Therefore all
+Aquariuses are great. Because so many are made poorly, the syllogism has a bad reputation. Poor,
+misleading, or tricky reasoning is often called “mere syllogism.”
+

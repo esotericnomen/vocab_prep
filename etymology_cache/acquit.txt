@@ -1,5 +1,6 @@
-acquitted (adj.)
+acquit:
 
-freed, exonerated, 1670s, past participle adjective from acquit (v.). Formerly in this sense was
-acquit (late 14c.), perhaps on analogy of pps. such as hit.
-
+early 13c., "to satisfy a debt" (either for oneself or on behalf of another), from Old French aquiter
+"pay, pay up, settle a claim" (12c.), from à "to" (see ad-) + quite "free, clear" (see quit (adj.)).
+Meanings "set free from charges" and "to discharge one's duty" both recorded from late 14c.
+Related: Acquitted; acquitting.
