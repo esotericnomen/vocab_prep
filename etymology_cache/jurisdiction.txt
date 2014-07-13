@@ -5,3 +5,229 @@ juridiccion (13c.) and directly from Latin iurisdictionem (nominative iurisdicti
 justice, jurisdiction, from ius (genitive iuris; see jurist) right, law + dictio a saying (see
 diction). Meaning extent or range of administrative power is from late 14c. Related: Jurisdictional.
 
+
+district (n.)
+
+1610s, territory under the jurisdiction of a lord or officer, from French district (16c.), from
+Medieval Latin districtus restraining of offenders, jurisdiction, then under the feudal system area
+of jurisdiction, noun use of past participle of Latin distringere hinder, detain (see distress).
+Used vaguely of any tract of land from 1712. District attorney attested by 1789, American English.
+
+
+Star Chamber (n.)
+
+late 14c., apartment in the royal palace at Westminster in which members of the king's council sat
+to exercise jurisdiction 14-15c., it evolved 15c. into a court of criminal jurisdiction, infamous
+under James I and Charles I for arbitrary and oppressive proceedings. Abolished 1641. Supposedly so
+called because gilt stars had been painted on the ceiling. Later there was a star on the door.
+
+
+soke (n.)
+
+right of jurisdiction, Old English socn jurisdiction, prosecution, literally seeking, from Proto-
+Germanic *sokniz, from PIE *sag-ni-, from root *sag- to seek out (see seek). Related: Sokeman;
+sokemanry.
+
+
+diocese (n.)
+
+early 14c., from Old French diocese (13c., Modern French dioc&egrave;se), from Late Latin diocesis a
+governor's jurisdiction, later, a bishop's jurisdiction, from Greek dioikesis government,
+administration; province, originally economy, housekeeping, from dioikein control, govern,
+administer, manage a house, from dia- thoroughly (see dia-) + oikos house (see villa).
+
+
+cognizable (adj.)
+
+1670s, capable of being known, also liable to be tried in a given court or jurisdiction, from stem
+of cognizance + -able.
+
+
+suzerainty (n.)
+
+late 15c., supremacy, from Old French suserenete office or jurisdiction of a suzerain, from suserain
+(see suzerain).
+
+
+justiciable (adj.)
+
+mid-15c., from Old French justisable amenable to a jurisdiction, from justicier, from Latin iustitia
+(see justice).
+
+
+appellate (adj.)
+
+pertaining to appeals, 1726, from Latin appellatus, past participle of appellare (see appeal).
+Appellate jurisdiction is in Blackstone (1768).
+
+
+reeve (n.)
+
+steward, Old English gerefa king's officer, of unknown origin and with no known cognates. Not
+connected to German Graf (see margrave). An Anglo-Saxon official of high rank, having local
+jurisdiction under a king. Compare sheriff.
+
+
+general (n.)
+
+late 14c., whole class of things or persons, from general (adj.). Meaning commander of an army is
+1570s, shortening of captain general, from Middle French capitaine g&eacute;n&eacute;ral. The
+English adjective was affixed to civic officer designations by late 14c. to indicate superior rank
+and extended jurisdiction.
+
+
+conservancy (n.)
+
+1755, commission with jurisdiction over a port or river, from Latin conservant-, present participle
+stem of conservare (see conserve) + -cy. Earlier was conservacy (mid-15c., Anglo-French
+conservacie). Meaning official preservation of undeveloped land dates from 1859 (first reference is
+to protection of bo trees in Ceylon).
+
+
+county (n.)
+
+c.1300, from Anglo-French counte, from Late Latin comitatus jurisdiction of a count, from Latin
+comes (see count (n.)); replaced Old English scir shire.
+
+
+concurrent (adj.)
+
+late 14c., from Old French concurrent or directly from Latin concurrentem (nominative concurrens),
+present participle of concurrere (see concur). Related: Concurrency; concurrently. Concurrent
+jurisdiction is recorded from 1767.
+
+
+see (n.)
+
+c.1300, throne of a bishop, archbishop, or pope, also throne of a monarch, a goddess, Antichrist,
+etc., from Old French sie seat, throne; town, capital; episcopal see, from Latin sedem (nominative
+sedes) seat, throne, abode, temple, related to sedere to sit (see sedentary). Early 14c. as
+administrative center of a bishopric; c.1400 as province under the jurisdiction of a bishop.
+
+
+suffragan (n.)
+
+late 14c., bishop who assists another bishop, especially one with no right of ordinary jurisdiction,
+from Anglo-French and Old French suffragan (13c.), from Medieval Latin suffraganeus an assistant,
+noun use of adjective, assisting, supporting, applied especially to a bishop, from Latin suffragium
+support (see suffrage). Related: Suffragant.
+
+
+shire (n.)
+
+Old English scir administrative office, jurisdiction, stewardship, authority, also in particular use
+district, province, country, from Proto-Germanic *skizo (cognates: Old High German scira care,
+official charge). Ousted since 14c. by Anglo-French county. The gentrified sense is from The Shires
+(1796), used by people in other parts of England of those counties that end in -shire; sense
+transferred to hunting country of the Midlands (1860).
+
+
+banlieue (n.)
+
+French, suburbs, precincts, from Vulgar Latin *banleuca, from ban (see ban (n.1)) + leuca a league
+(of distance), in Medieval Latin, indefinite extent of territory (see league (n.2)). So, the extent
+of a ban; the territory within which a ban is of force, hence, territory subject to one
+jurisdiction.
+
+
+justice (n.)
+
+mid-12c., the exercise of authority in vindication of right by assigning reward or punishment; also
+quality of being fair and just, from Old French justice justice, legal rights, jurisdiction (11c.),
+from Latin iustitia righteousness, equity, from iustus upright, just (see just (adj.)). The Old
+French word had widespread senses, including uprightness, equity, vindication of right, court of
+justice, judge. The word began to be used in English c.1200 as a title for a judicial officer.
+Meaning right order, equity is late 14c. Justice of the peace first attested early 14c. In the
+Mercian hymns, Latin iustitia is glossed by Old English rehtwisnisse. To do justice to (someone or
+something) render fully and fairly showing due appreciation is from 1670s.
+
+
+plea (n.)
+
+early 13c., lawsuit, from Anglo-French plai (late 12c.), Old French plait lawsuit, decision, decree
+(9c.), from Medieval Latin placitum lawsuit, in classical Latin, opinion, decree, literally that
+which pleases, thing which is agreed upon, properly neuter past participle of placere (see please).
+Sense development seems to be from something pleasant, to something that pleases both sides, to
+something that has been decided. Meaning a pleading, an agreement in a suit is attested from late
+14c. Plea-bargaining is first attested 1963. Common pleas (early 13c.) originally were legal
+proceedings over which the Crown did not claim exclusive jurisdiction (as distinct from pleas of the
+Crown); later actions brought by one subject against another.
+
+
+lynch (v.)
+
+1835, from earlier Lynch law (1811), likely named after William Lynch (1742-1820) of Pittsylvania,
+Virginia, who c.1780 led a vigilance committee to keep order there during the Revolution. Other
+sources trace the name to Charles Lynch (1736-1796) a Virginia magistrate who fined and imprisoned
+Tories in his district c.1782, but the connection to him is less likely. Originally any sort of
+summary justice, especially by flogging; narrowing of focus to extralegal execution by hanging is
+20c. Lynch mob is attested from 1838. The surname is perhaps from Irish Loingseach sailor. Compare
+earlier Lydford law, from a place in Dartmoor, England, where was held a Stannaries Court of summary
+jurisdiction [Weekley], hence:   Lydford law: is to hang men first, and indite them afterwards.
+[Thomas Blount, Glossographia, 1656]    Related: Lynched; lynching.
+
+
+danger (n.)
+
+mid-13c., power of a lord or master, jurisdiction, from Anglo-French daunger, Old French dangier
+power, power to harm, mastery, authority, control (12c., Modern French danger), alteration (due to
+assoc. with damnum) of dongier, from Vulgar Latin *dominarium power of a lord, from Latin dominus
+lord, master (see domain).    Modern sense of risk, peril (from being in the control of someone or
+something else) evolved first in French and was in English late 14c. Replaced Old English pleoh; in
+early Middle English this sense is found in peril.
+
+
+territory (n.)
+
+late 14c., land under the jurisdiction of a town, state, etc., probably from Latin territorium land
+around a town, domain, district, from terra earth, land (see terrain) + -orium, suffix denoting
+place (see -ory). Sense of any tract of land, district, region is first attested c.1600. Specific
+U.S. sense of organized self-governing region not yet a state is from 1799. Of regions defended by
+animals from 1774.    Since -torium is a productive suffix only after verbal stems, the rise of
+terri-torium is unexplained [Michiel de Vaan, Etymological Dictionary of Latin and the other Italic
+Languages]. An alternative theory, somewhat supported by the vowels of the original Latin word,
+suggests derivation from terrere to frighten (see terrible); thus territorium would mean a place
+from which people are warned off.
+
+
+liberty (n.)
+
+late 14c., free choice, freedom to do as one chooses, from Old French libert&eacute; freedom,
+liberty, free will (14c.), from Latin libertatem (nominative libertas) freedom, condition of a free
+man; absence of restraint; permission, from liber free (see liberal)The spirit of liberty is the
+spirit which is not too sure it is right. [Learned Hand, 1944]Nautical sense of leave of absence is
+from 1758. To take liberties go beyond the bounds of propriety is from 1620s. Sense of privileges by
+grant (14c.) led to sense of a person's private land (mid-15c.), which yielded sense in 18c. in both
+England and America of a district within a county but having its own justice of the peace, and also
+a district adjacent to a city and in some degree under its municipal jurisdiction (as in Northern
+Liberties of Philadelphia). Also compare Old French libert&eacute;s local rights, laws, taxes.
+
+
+suburb (n.)
+
+early 14c., area outside a town or city, whether agricultural or residential but most frequently
+residential, from Old French suburbe suburb of a town, from Latin suburbium an outlying part of a
+city (especially Rome), from sub below, near (see sub-) + urbs (genitive urbis) city (see urban).
+Glossed in Old English as underburg. Just beyond the reach of municipal jurisdiction, suburbs had a
+bad reputation in 17c. England, especially those of London, and suburban had a sense of inferior,
+debased, licentious (as in suburban sinner, slang for loose woman, prostitute). By 1817, the tinge
+had shifted to of inferior manners and narrow views. Compare also French equivalent faubourg.
+[T]he growth of the metropolis throws vast numbers of people into distant dormitories where ... life
+is carried on without the discipline of rural occupations and without the cultural resources that
+the Central District of the city still retains. [Lewis Mumford, 1922]
+
+
+abandon (v.)
+
+late 14c., to give up, surrender (oneself or something), give over utterly; to yield (oneself)
+utterly (to religion, fornication, etc.), from Old French abandoner (12c.), from adverbial phrase
+&agrave; bandon at will, at discretion, from &agrave; at, to (see ad-) + bandon power, jurisdiction,
+from Latin bannum, proclamation, from a Frankish word related to ban (v.).   Mettre sa forest
+&agrave; bandon was a feudal law phrase in the 13th cent. = mettre sa for&ecirc;t &agrave;
+permission, i.e. to open it freely to any one for pasture or to cut wood in; hence the later sense
+of giving up one's rights for a time, letting go, leaving, abandoning. [Auguste Brachet, An
+Etymological Dictionary of the French Language, transl. G.W. Kitchin, Oxford, 1878]
+Etymologically, the word carries a sense of put someone under someone else's control. Meaning to
+give up absolutely is from late 14c. Related: Abandoned; abandoning.
+
+

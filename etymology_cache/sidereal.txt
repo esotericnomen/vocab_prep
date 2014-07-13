@@ -8,3 +8,31 @@ motion of the fixed stars. The sidereal day begins and ends with the passage of 
 over the meridian and is about four minutes shorter than the solar day, measured by the passage of
 the sun over the meridian.
 
+
+consider (v.)
+
+late 14c., from Old French considerer (13c.) reflect on, consider, study, from Latin considerare to
+look at closely, observe, perhaps literally to observe the stars, from com- with (see com-) + sidus
+(genitive sideris) constellation (see sidereal).    Perhaps a metaphor from navigation, but more
+likely reflecting Roman obsession with divination by astrology. Tucker doubts the connection with
+sidus, however, because it is quite inapplicable to desiderare, and suggests derivation instead from
+the PIE root of English side meaning stretch, extend, and a sense for the full word of survey on all
+sides or dwell long upon. Related: Considered; considering.
+
+
+hour (n.)
+
+mid-13c., from Old French hore one-twelfth of a day (sunrise to sunset), from Latin hora hour, time,
+season, from Greek hora any limited time, from PIE *yor-a-, from root *yer- year, season (see year).
+Greek hora was a season; 'the season;' in classical times, sometimes, a part of the day, such as
+morning, evening, noon, night.    The Greek astronomers apparently borrowed the notion of dividing
+the day into twelve parts (mentioned in Herodotus) from the Babylonians (night continued to be
+divided into four watches), but as the amount of daylight changed throughout the year, the hours
+were not fixed or of equal length. Equinoctal hours did not become established in Europe until the
+4c., and as late as 16c. distinction sometimes was made between temporary (unequal) hours and
+sidereal (equal) ones. The h- has persisted in this word despite not being pronounced since Roman
+times. Replaced Old English tid, literally time (see tide (n.)) and stund period of time, point of
+time, hour (compare German Stunde hour), As a measure of distance (the distance that can be covered
+in an hour) it is recorded from 1785.
+
+

@@ -4,3 +4,18 @@ didactic (adj.)
 participle of didaskein teach, from PIE root *dens- wisdom, to teach, learn. Related: Didactically;
 didacticism.
 
+
+gnomic (adj.)
+
+full of instructive sayings, 1815, from French gnomique (18c.) and directly from Late Latin gnomicus
+concerned with maxims, didactic, from Greek gnomikos, from gnome thought, opinion, maxim,
+intelligence, from root of gignoskein to come to know (see gnostic). English gnome meant short,
+pithy statement of general truth (1570s). Gnomical is attested from 1610s.
+
+
+autodidactic (adj.)
+
+self-taught, 1838, from Greek autodidaktikos self-taught, from autos self (see auto-) + didaktos
+taught (see didactic).
+
+

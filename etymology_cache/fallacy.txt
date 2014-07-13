@@ -4,3 +4,66 @@ late 15c., deception, false statement, from Latin fallacia deception, noun of qu
 (genitive fallacis) deceptive, from fallere deceive (see fail (v.)). Specific sense in logic dates
 from 1550s. An earlier form was fallace (c.1300), from Old French fallace.
 
+
+Monte Carlo fallacy
+
+1957, named for resort in Monaco famous for its gambling casinos. The fallacy of thinking that the
+probability of a particular outcome rises with the successive number of opposite outcomes. Contrary
+to the Monte Carlo fallacy, if the roulette wheel stops on black 99 times in a row, the chances that
+the 100th spin will be red are still just under 50-50.
+
+
+post hoc
+
+Latin, after this. Especially in post hoc, ergo propter hoc, logical fallacy, literally after this,
+therefore because of this.
+
+
+intentional (adj.)
+
+1520s, from Medieval Latin intentionalis, from intentionem (see intention). Intentional fallacy
+recorded from 1946. Related: Intentionality.
+
+
+fallacious (adj.)
+
+c.1500, from fallacy (Latin fallacia) + -ous. Related: Fallaciously; fallaciousness.
+
+
+historian (n.)
+
+mid-15c., from Middle French historien (14c.), from Latin historia (see history). As writer of
+history in the higher sense (distinguished from a mere annalist or chronicler), from 1530s. The Old
+English word was &thorn;eod-wita.    [T]he historian's fallacy is the error of assuming that a man
+who has a given historical experience knows it, when he has had it, to be all that a historian would
+know it to be, with the advantage of historical perspective. [David Hackett Fischer, Historians'
+Fallacies, 1970]
+
+
+sophism (n.)
+
+early 15c., earlier sophime (mid-14c.), specious but fallacious argument devised for purposes of
+deceit or to exercise one's ingenuity, from Old French sophime a fallacy, false argument (Modern
+French sophisme), from Latin sophisma, from Greek sophisma clever device, skillful act, stage-trick,
+from stem of sophizesthai become wise (see sophist).
+
+
+equivocation (n.)
+
+late 14c., the fallacy of using a word in different senses at different stages of the reasoning (a
+loan-translation of Greek homonymia, literally having the same name), from Old French equivocation,
+from Late Latin aequivocationem (nominative aequivocatio), from aequivocus of identical sound, past
+participle of aequivocare, from aequus equal (see equal (adj.)) + vocare to call (see voice (n.)).
+
+
+pathetic (adj.)
+
+1590s, affecting the emotions, exciting the passions, from Middle French path&eacute;tique moving,
+stirring, affecting (16c.), from Late Latin patheticus, from Greek pathetikos subject to feeling,
+sensitive, capable of emotion, from pathetos liable to suffer, verbal adjective of pathein to suffer
+(see pathos). Meaning arousing pity, pitiful is first recorded 1737. Colloquial sense of so
+miserable as to be ridiculous is attested from 1937.  Related: Pathetical (1570s); pathetically.
+Pathetic fallacy (1856, first used by Ruskin) is the attribution of human qualities to inanimate
+objects.
+
+

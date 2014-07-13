@@ -3,3 +3,60 @@ beware (v.)
 c.1200, probably from a conflation of be ware (though the compound bewarian defend existed in Old
 English). See ware (v.).
 
+
+ware (v.)
+
+to take heed of, beware, Old English warian to guard against, beware; protect, defend, from Proto-
+Germanic *waraz (cognates: Old Frisian waria, Old Norse vara), from PIE *war-o- to guard, watch,
+from root *wer- (4) to perceive, watch out for (see ward (n.)).
+
+
+caveat (n.)
+
+1540s, from Latin, literally let him beware, 3rd person singular present subjunctive of cavere to
+beware, take heed, watch, guard against, from PIE root *skeue- to pay attention, perceive (cognates:
+Sanskrit kavih wise, sage, seer, poet; Lithuanian kavoti tend, safeguard; Armenian cucanem I show;
+Latin cautio wariness; Greek koein to mark, perceive, hear, kydos glory, fame, literally that which
+is heard of; Old Church Slavonic chujo to feel, perceive, hear, cudo wonder, literally that which is
+heard of; Czech (z)koumati to perceive, be aware of; Serbian chuvati watch, heed; Old English
+sceawian to look at (source of show (v.)); Middle Dutch schoon beautiful, bright, properly showy;
+Gothic hausjan hear).
+
+
+caveat emptor
+
+Latin, literally let the buyer beware; see caveat and second element of exempt (adj.).
+
+
+wit (v.)
+
+to know (archaic), Old English witan (past tense wast, past participle witen) to know, beware of or
+conscious of, understand, observe, ascertain, learn, from Proto-Germanic *witan to have seen, hence
+to know (cognates: Old Saxon witan, Old Norse vita, Old Frisian wita, Middle Dutch, Dutch weten, Old
+High German wizzan, German wissen, Gothic witan to know), from PIE *weid- (see wit (n.)). The phrase
+to wit, almost the only surviving use of the verb, is first recorded 1570s, from earlier that is to
+wit (mid-14c.), probably a loan-translation of Anglo-French cestasavoir, used to render Latin
+videlicet (see viz.).
+
+
+garnish (v.)
+
+late 14c., from Old French garniss-, present participle stem of garnir provide, furnish; fortify,
+reinforce, from a Germanic stem related to Proto-Germanic *warnejan be cautious, guard, provide for
+(cognates: Old High German warnon to take heed, Old English warnian to take warning, beware; see
+warn). Sense evolution is from arm oneself to fit out to embellish, which was the earliest meaning
+in English, though the others also were used in Middle English. Culinary sense of to decorate a dish
+for the table predominated after c.1700. Older meaning survives in legal sense of warning of
+attachment of funds (1570s). Related: Garnished; garnishing.
+
+
+borrow (v.)
+
+Old English borgian to lend, be surety for, from Proto-Germanic *borg pledge (cognates: Old English
+borg pledge, security, bail, debt, Old Norse borga to become bail for, guarantee, Middle Dutch
+borghen to protect, guarantee, Old High German boragen to beware of, German borgen to borrow; to
+lend), from PIE root *bhergh- (1) to hide, protect (see bury). Sense shifted in Old English to
+borrow, apparently on the notion of collateral deposited as security for something borrowed.
+Related: Borrowed; borrowing.
+
+

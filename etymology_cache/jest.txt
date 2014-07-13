@@ -3,3 +3,389 @@ jest (v.)
 1520s, to speak in a trifling manner; 1550s, to joke, from Middle English gesten recite a tale (late
 14c.), from geste (see jest (n.)). Related: Jested; jesting.
 
+
+jester (n.)
+
+mid-14c., jestour (Anglo-Latin), late 14c., gestour a minstrel, professional reciter of romances,
+agent noun from gesten recite a tale, which was a jester's original function (see jest). Sense of
+buffoon in a prince's court is from c.1500.
+
+
+jest (n.)
+
+early 13c., geste, narrative of exploits, from Old French geste action, exploit, from Latin gesta
+deeds, neuter plural of gestus, past participle of gerere to carry, behave, act, perform (see gest).
+Sense descended through idle tale (late 15c.) to mocking speech, raillery (1540s) to joke (1550s).
+
+
+scoff (v.)
+
+mid-14c., jest, make light of something; mid-15c., make fun of, mock, from the noun meaning
+contemptuous ridicule (c.1300), from a Scandinavian source such as Old Norse skaup, skop mockery,
+ridicule, Middle Danish skof jest, mockery; perhaps from Proto-Germanic *skub-, *skuf- (cognates:
+Old English scop poet, Old High German scoph fiction, sport, jest, derision), from PIE *skeubh- to
+shove (see shove (v.)).
+
+
+cavil (v.)
+
+1540s, from Middle French caviller to mock, jest, from Latin cavillari to jeer, mock; satirize,
+argue scoffingly (also source of Italian cavillare, Spanish cavilar), from cavilla jest, jeering,
+related to calumnia (see calumny).
+
+
+humbug (n.)
+
+1751, student slang, trick, jest, hoax, deception, also as a verb, of unknown origin. A vogue word
+of the early 1750s; its origin was a subject of much whimsical speculation even then.
+
+
+jape (n.)
+
+early 14c., trick, deceit, later a joke, a jest (late 14c.); see jape (v.). By mid-14c. it meant
+frivolous pastime, by 1400, bawdiness.
+
+
+Underground Railroad (n.)
+
+network of U.S. anti-slavery activists helping runaways elude capture, attested from 1847, but said
+to date from 1831 and to have been coined in jest by bewildered trackers after their slaves vanished
+without a trace. Originally mostly the term for escape networks in the (then) western states of the
+U.S.
+
+
+Joe Miller (n.)
+
+stale joke, 1816, from Joseph Miller (1684-1738), a comedian, whose name was affixed after his death
+to a popular jest-book, Joe Miller's jests, or the Wit's Vade-mecum (1739) compiled by John Mottley.
+
+
+scoptic (adj.)
+
+1660s, mocking, scoffing, from Greek skoptikos given to mockery, from skoptein to mock, jest.
+
+
+jeu (n.)
+
+a French word for play, game occurring in some phrases borrowed into English, from Latin jocum jest,
+joke, play, sport (see joke (n.)).
+
+
+agog (adj., adv.)
+
+in a state of desire; in a state of imagination; heated with the notion of some enjoyment; longing
+[Johnson], c.1400, perhaps from Old French en gogues in jest, good humor, joyfulness, from gogue
+fun, of unknown origin.
+
+
+pleasantry (n.)
+
+sprightly humor in conversation, 1650s, from French plaisanterie joke, jest; joking, jesting, from
+plaisant (see pleasant). Related: Pleasantries.
+
+
+scop (n.)
+
+poet, minstrel, Old English scop, cognate with Old High German scoph poetry, sport, jest, Old Norse
+skop railing, mockery (see scoff (v.)).
+
+
+buffoon (n.)
+
+1540s, type of pantomime dance; 1580s, clown, from Middle French bouffon (16c.), from Italian
+buffone jester, from buffa joke, jest, pleasantry, from buffare to puff out the cheeks, a comic
+gesture, of echoic origin. Also see -oon.
+
+
+game (v.)
+
+Old English gamenian to play, jest, joke; see game (n.). Modern usages probably represent recent
+formations from the noun. Related: Gamed; gaming.
+
+
+jocose (adj.)
+
+1670s, from Latin iocosus full of jesting, joking, from iocus pastime, sport; a jest, joke (see joke
+(n.)). Implies ponderous humor. Related: Jocosely; jocoseness.
+
+
+sobriquet (n.)
+
+1640s, from French sobriquet nickname, from Middle French soubriquet (15c.), which also meant a
+jest, quip, and is said to have meant literally a chuck under the chin [Gamillscheg]; of unknown
+origin (first element perhaps from Latin sub under).
+
+
+nugatory (adj.)
+
+trifling, of no value, c.1600, from Latin nugatorius worthless, trifling, futile, from nugator
+jester, trifler, braggart, from nugatus, past participle of nugari to trifle, jest, play the fool,
+from nug&aelig; jokes, jests, trifles, of unknown origin.
+
+
+boilermaker (n.)
+
+a maker of boilers for engines, 1814, from boiler (n.) + maker. Meaning shot of whiskey with a glass
+of beer is short for boilermaker's delight (1910), strong cheap whiskey, so called in jest from the
+notion that it would clean the scales from the interior of a boiler.
+
+
+jape (v.)
+
+late 14c., to trick, beguile, jilt, perhaps from Old French japer to howl, bawl, scream, of echoic
+origin, or from Old French gaber to mock, deride. Phonetics suits the former, but sense the latter
+explanation. Took on a slang sense mid-15c. of have sex with, and disappeared from polite usage.
+Revived in harmless Middle English sense of say or do something in jest by Scott, etc. Related:
+Japed; japing.
+
+
+gest (n.)
+
+famous deed, exploit; story, romance, c.1300, from Old French geste action, exploit, romance,
+history (of celebrated people or actions), from Latin gesta actions, exploits, deeds, achievements,
+neuter plural of gestus, past participle of gerere to carry on, wage, perform, of unknown origin.
+See jest.
+
+
+allude (v.)
+
+1530s, mock, from Middle French alluder or directly from Latin alludere to play, sport, joke, jest,
+from ad- to (see ad-) + ludere to play (see ludicrous). Meaning make an indirect reference, point in
+passing is from 1570s. Related: Alluded; alluding.
+
+
+joke (v.)
+
+1660s, to make a joke, from Latin iocari to jest, joke, from iocus (see joke (n.)). Related: Joked;
+joking.
+
+
+badinage (n.)
+
+light railery, 1650s, from French badinage playfulness, jesting, from badiner (v.) to jest, joke,
+from badin silly, jesting, from Old Proven&ccedil;al badar to yawn, gape, from Late Latin badare to
+gape, from *bat-, the root of abash.
+
+
+juggle (v.)
+
+late 14c., entertain by clowning or doing tricks, back-formation from juggler and in part from Old
+French jogler play tricks, sing songs, from Late Latin ioculare (source of Italian giocolare), from
+Latin ioculari to jest (see jocular). Related: Juggled; juggling.
+
+
+juggler (n.)
+
+c.1100, iugulere jester, buffoon, also wizard, sorcerer, from Old English geogelere magician,
+conjurer, also from Anglo-French jogelour, Old French jogleor (accusative), from Latin ioculatorem
+(nominative ioculator) joker, from ioculari to joke, to jest (see jocular). Connecting notion
+between magician and juggler is dexterity.
+
+
+facetious (adj.)
+
+1590s, from French fac&eacute;tieux, from fac&eacute;tie a joke (15c.), from Latin facetia jest,
+witticism, from facetus witty, elegant, fine, courteous, of unknown origin, perhaps related to facis
+torch.    It implies a desire to be amusing, often intrusive or ill-timed.  Related: Facetiously;
+facetiousness. Faceti&aelig; in booksellers' catalogues, is, like curious, a euphemism for erotica.
+[Fowler]
+
+
+gaud (n.)
+
+late 14c., jest, joke, prank, trick; also fraud, deception, trick, artifice. Also large, ornamental
+bead in a rosary (mid-14c.); a bauble, trinket, plaything (mid-15c.). In some senses, from gaudy
+(n.) (see gaudy). In some, from Latin gaudium joy, gaude rejoice thou (in hymns), or from Old French
+gaudie, noun of action from gaudir. As a verb, to furnish with gauds, from late 14c. Related:
+Gauded; gauding.
+
+
+jeopardy (n.)
+
+c.1300, ioparde (13c. in Anglo-French), from Old French jeu parti, literally a divided game, game
+with even chances, from jeu a game (from Latin iocus jest; see joke (n.)) + parti, past participle
+of partir to divide (see part (v.)). Originally a stratagem; sense of danger, risk is late 14c.
+
+
+edible (adj.)
+
+1590s, from Late Latin edibilis eatable, from Latin edere to eat, from PIE root *ed- to eat
+(cognates: Sanskrit admi I eat; Greek edo I eat; Lithuanian edu I eat; Hittite edmi I eat, adanna
+food; Old Irish ithim I eat; Gothic itan, Old Swedish and Old English etan, Old High German essan to
+eat;    Avestan ad- to eat; Armenian utem I eat; Old Church Slavonic jasti to eat, Russian jest to
+eat).
+
+
+sarcasm (n.)
+
+1570s, sarcasmus, from Late Latin sarcasmus, from late Greek sarkasmos a sneer, jest, taunt,
+mockery, from sarkazein to speak bitterly, sneer, literally to strip off the flesh, from sarx
+(genitive sarkos) flesh, properly piece of meat, from PIE root *twerk- to cut (cognates: Avestan
+thwares to cut). Current form of the English word is from 1610s. For nuances of usage, see humor.
+
+
+retort (v.)
+
+1550s, make return in kind (especially of an injury), from Old French retort and directly from Latin
+retortus, past participle of retorquere turn back, twist back, throw back, from re- back (see re-) +
+torquere to twist (see torque (n.)). Applied to exchanges of jest or sarcasm by c.1600, hence say or
+utter sharply and aggressively in reply (1620s). Related: Retorted; retorting.
+
+
+glee (n.)
+
+Old English gliu, gliw entertainment, mirth, jest, play, sport, presumably from a Proto-Germanic
+*gleujam but absent in other Germanic languages except for the rare Old Norse gly joy; probably
+related to glad. A poetry word in Old English and Middle English, obsolete c.1500-c.1700, it somehow
+found its way back to currency late 18c. In Old English, an entertainer was a gleuman (female
+gleo-m&aelig;gden). Glee club (1814) is from the secondary sense of unaccompanied part-song (1650s)
+as a form of musical entertainment.
+
+
+scherzo (n.)
+
+1852, from Italian scherzo, literally sport, joke, from scherzare to jest or joke, from a Germanic
+source (compare Middle High German scherzen to jump merrily, enjoy oneself, German scherz sport),
+from PIE *(s)ker- (2) leap, jump about. The lively second or third movement in a multi-movement
+work. Scherzando is the Italian gerund of scherzare.
+
+
+gamble (v.)
+
+1726 (implied in gambling), from a dialectal survival of Middle English gammlen, variant of gamenen
+to play, jest, be merry, from Old English gamenian to play, joke, pun, from gamen (see game). Or
+possibly gamble is from a derivative of gamel to play games (1590s), itself likely a frequentative
+from game. Originally regarded as a slang word. The intrusive -b- may be from confusion with gambol.
+Related: Gambled; gambling.
+
+
+joke (n.)
+
+1660s, joque, a jest, something done to excite laughter, from Latin iocus joke, sport, pastime, from
+PIE root *yek- (1) to speak (cognates: Breton iez language, Old High German jehan to say, German
+Beichte confession).    Originally a colloquial or slang word. Meaning something not to be taken
+seriously is 1791. Practical joke trick played on someone for the sake of a laugh at his expense is
+from 1804 (earlier handicraft joke, 1741). Black joke is old slang for smutty song (1730s), from use
+of that phrase in the refrain of a then-popular song as a euphemism for the monosyllable.
+
+
+yeast (n.)
+
+Old English gist yeast, froth, from Proto-Germanic *jest- (cognates: Old Norse jastr, Swedish
+j&#228;st, Middle High German gest, German Gischt foam, froth, Old High German jesan, German
+g&auml;ren to ferment), from PIE root *yes- to boil, foam, froth (cognates: Sanskrit yasyati boils,
+seethes, Greek zein to boil, Welsh ias seething, foaming).
+
+
+ruse (n.)
+
+early 15c., dodging movements of a hunted animal; 1620s, a trick, from Old French ruse, reuse
+diversion, switch in flight; trick, jest (14c.), back-formed noun from reuser to dodge, repel,
+retreat; deceive, cheat, from Latin recusare deny, reject, oppose, from re-, intensive prefix (see
+re-), + causari plead as a reason, object, allege, from causa reason, cause (see cause (n.)). It
+also has been proposed that the French word may be from Latin rursus backwards, or a Vulgar Latin
+form of refusare. Johnson calls it, A French word neither elegant nor necessary. The verb ruse was
+used in Middle English.
+
+
+scorn (n.)
+
+c.1200, a shortening of Old French escarn mockery, derision, contempt, a common Romanic word
+(Spanish escarnio, Italian scherno) of Germanic origin, from Proto-Germanic *skarnjan mock, deride
+(cognates: Old High German skern mockery, jest, sport, Middle High German scherzen to jump with
+joy).    Probably influenced by Old French escorne affront, disgrace, which is a back-formation from
+escorner, literally to break off (someone's) horns, from Vulgar Latin *excornare (source of Italian
+scornare treat with contempt), from Latin ex- without (see ex-) + cornu horn (see horn (n.)).
+
+
+gaudy (adj.)
+
+showy, tastelessly rich, 1580s, probably ultimately from Middle English gaudi large, ornamental bead
+in a rosary (early 14c.); but there is a parallel sense of gaudy as full of trickery (1520s), from
+Middle English gaud deception, trick, from gaudi a jest, trick, possibly from Anglo-French gaudir be
+merry, scoff, from Latin gaudere rejoice (see joy).    Alternative etymology of the adjective is
+from Middle English gaudegrene yellowish-green (early 14c.), originally green dye obtained from a
+plant formerly known as weld, from a Germanic source (see weld (n.)), which became gaude in Old
+French. The English term supposedly shifted sense from weld-dye to bright. As a noun, feast,
+festival 1650s, from gaudy day day of rejoicing (1560s).
+
+
+sport (n.)
+
+early 15c., pleasant pastime, shortening of disport activity that offers amusement or relaxation;
+entertainment, fun (c.1300), also a pastime or game; flirtation; pleasure taken in such activity
+(late 14c.), from Anglo-French disport, Old French desport, deport pleasure, enjoyment, delight;
+solace, consolation; favor, privilege, related to desporter, deporter to divert, amuse, please, play
+(see sport (v.)).    Original sense preserved in phrases such as in sport in jest (mid-15c.).
+Meaning game involving physical exercise first recorded 1520s. Sense of stylish man is from 1861,
+American English, probably because they lived by gambling and betting on races. Meaning good fellow
+is attested from 1881 (as in be a sport, 1913). Sport as a familiar form of address to a man is from
+1935, Australian English. The sport of kings was originally (1660s) war-making. Other, lost senses
+of Middle English disport were consolation, solace; a source of comfort.
+
+
+guest (n.)
+
+Old English g&aelig;st, giest (Anglian gest) guest; enemy; stranger, the common notion being
+stranger, from Proto-Germanic *gastiz (cognates: Old Frisian jest, Dutch gast, German Gast, Gothic
+gasts guest, originally stranger), from PIE root *ghos-ti- stranger, guest; host (cognates: Latin
+hostis enemy, hospes host -- from *hosti-potis host, guest, originally lord of strangers -- Greek
+xenos guest, host, stranger; Old Church Slavonic gosti guest, friend, gospodi lord, master); the
+root sense, according to Watkins, probably is someone with whom one has reciprocal duties of
+hospitality, representing a mutual exchange relationship highly important to ancient Indo-European
+society. But as strangers are potential enemies as well as guests, the word has a forked path.
+Spelling evolution influenced by Old Norse cognate gestr (the usual sound changes from the Old
+English word would have yielded Modern English *yest). Phrase be my guest in the sense of go right
+ahead first recorded 1955.
+
+
+pull (v.)
+
+c.1300, to move forcibly by pulling, to drag, from Old English pullian to pluck off (wool), to draw
+out, of unknown origin, perhaps related to Low German pulen remove the shell or husk, Frisian
+p&#251;lje to shell, husk, Middle Dutch polen to peel, strip, Icelandic pula work hard.    Early
+14c. as to pick, pull off, gather (fruit, flowers, berries, leaves, petals, etc.); mid-14c. as to
+uproot, pull up (of teeth, weeds, etc.). Sense of to draw, attract (to oneself) is from c.1400;
+sense of to pluck at with the fingers is from c.1400. Meaning tear to pieces is mid-15c. By late
+16c. it had replaced draw in these senses. Related: Pulled; pulling.    Common in slang usages
+19c.-20c.; Bartlett (1859) has to pull foot walk fast; run; pull it to run. To pull up check a
+course of action is from 1808, figurative of the lifting of the reins in horse-riding. To pull
+(someone's) chain in figurative sense is from 1974, perhaps on the notion of a captive animal; the
+expression was also used for to contact (someone), on the notion of the chain that operates a
+signaling mechanism.    To pull (someone's) leg is from 1882, perhaps on notion of playfully
+tripping (compare pull the long bow exaggerate, 1830, and pulling someone's leg also sometimes was
+described as a way to awaken a sleeping person in a railway compartment, ship's berth, etc.).
+Thornton's American Glossary (1912) has pull (n.) a jest (to have a pull at (someone)), which it
+identifies as local and illustrates with an example from the Massachusetts Spy of May 21, 1817,
+which identifies it as a Georgian phrase. To pull (one's) punches is from 1920 in pugilism, from
+1921 figuratively. To pull in arrive (1892) and pull out depart (1868) are from the railroads.    To
+pull (something) off accomplish, succeed at is originally in sporting, to win the prize money
+(1870). To pull (something) on (someone) is from 1916; to pull (something) out of one's ass is Army
+slang from 1970s. To pull rank is from 1919; to pull the rug from under (someone) figuratively is
+from 1946.
+
+
+ghost (n.)
+
+Old English gast soul, spirit, life, breath; good or bad spirit, angel, demon, from Proto-Germanic
+*ghoizdoz (cognates: Old Saxon gest, Old Frisian jest, Middle Dutch gheest, Dutch geest, German
+Geist spirit, ghost), from PIE root *gheis- to be excited, amazed, frightened (cognates: Sanskrit
+hedah wrath; Avestan zaesha- horrible, frightful; Gothic usgaisjan, Old English g&aelig;stan to
+frighten). This was the usual West Germanic word for supernatural being, and the primary sense seems
+to have been connected to the idea of to wound, tear, pull to pieces. The surviving Old English
+senses, however, are in Christian writing, where it is used to render Latin spiritus (see spirit
+(n.)), a sense preserved in Holy Ghost. Modern sense of disembodied spirit of a dead person is
+attested from late 14c. and returns the word toward its ancient sense.    Most Indo-European words
+for soul, spirit also double with reference to supernatural spirits. Many have a base sense of
+appearance (such as Greek phantasma; French spectre; Polish widmo, from Old Church Slavonic videti
+to see; Old English scin, Old High German giskin, originally appearance, apparition, related to Old
+English scinan, Old High German skinan to shine). Other concepts are in French revenant, literally
+returning (from the other world), Old Norse aptr-ganga, literally back-comer. Breton bugelnoz is
+literally night-child. Latin manes probably is a euphemism.    The gh- spelling appeared early 15c.
+in Caxton, influenced by Flemish and Middle Dutch gheest, but was rare in English before mid-16c.
+Sense of slight suggestion (in ghost image, ghost of a chance, etc.) is first recorded 1610s; that
+in ghost writing is from 1884, but that term is not found until 1919. Ghost town is from 1908. To
+give up the ghost die was in Old English. Ghost in the machine was Gilbert Ryle's term (1949) for
+the mind viewed as separate from the body.
+
+

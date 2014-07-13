@@ -4,3 +4,42 @@ substantiate (v.)
 substantiare, from Latin substantia being, essence, material (see substance). Meaning to demonstrate
 or prove is attested from 1803. Related: Substantiated; substantiating.
 
+
+substantiation (n.)
+
+1760, embodiment; 1832, the making good of a statement, the act of proving, noun of action from
+substantiate.
+
+
+unsubstantiated (adj.)
+
+1775, from un- (1) not + past participle of substantiate (v.).
+
+
+verify (v.)
+
+early 14c., from Old French verifier substantiate, find out the truth about (14c.), from Medieval
+Latin verificare make true, from Latin verus true (see very) + root of facere to make (see
+factitious).
+
+
+transubstantiation (n.)
+
+late 14c., change of one substance to another, from Medieval Latin trans(s)ubstantiationem
+(nominative trans(s)ubstantio), noun of action from trans(s)ubstantiare to change from one substance
+into another, from Latin trans- across (see trans-) + substantiare to substantiate, from substania
+substance (see substance). Ecclesiastical sense in reference to the Eucharist first recorded 1530s.
+
+
+-ate (2)
+
+verbal suffix for Latin verbs in -are, identical with -ate (1). Old English commonly made verbs from
+adjectives by adding a verbal ending to the word (such as gnornian be sad, mourn, gnorn sad,
+depressed), but as the inflections wore off English words in late Old and early Middle English,
+there came to be no difference between the adjective and the verb in dry, empty, warm, etc. Thus
+accustomed to the identity of adjectival and verbal forms of a word, the English, when they began to
+expand their Latin-based vocabulary after c.1500, simply made verbs from Latin past-participial
+adjectives without changing their form (such as aggravate, substantiate) and it became the custom
+that Latin verbs were anglicized from their past participle stems.
+
+

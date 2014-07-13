@@ -4,3 +4,32 @@ transcribe (v.)
 trans- over (see trans-) + scribere write (see script (n.)). To do it poorly is to transcribble
 (1746). Related: Transcribed; transcriber; transcribing.
 
+
+transcript (n.)
+
+written copy of a document, c.1300, from Medieval Latin transcriptum, neuter past participle of
+Latin transcribere (see transcribe).
+
+
+transcription (n.)
+
+1590s, from Middle French transcription, from Late Latin transcriptionem (nominative transcriptio),
+noun of action from past participle stem of transcribere (see transcribe). Biological sense is from
+1961. Related: Transcriptional; transcriptionist.
+
+
+copy (v.)
+
+late 14c., from Old French copier (14c.), from Medieval Latin copiare to transcribe, originally to
+write in plenty, from Latin copia (see copy (n.)). Hence, to write an original text many times.
+Related: Copied; copying. Figurative sense of to imitate is attested from 1640s.
+
+
+description (n.)
+
+late 14c., from Old French description (12c.) and directly from Latin descriptionem (nominative
+descriptio) representation, description, copy, noun of action from past participle stem of
+describere write down, transcribe, copy, sketch, from de- down (see de-) + scribere write (see
+script (n.)).
+
+

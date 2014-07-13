@@ -3,3 +3,11 @@ graduate (v.)
 early 15c., to confer a university degree upon, from Medieval Latin graduatus (see graduate (n.)).
 Intransitive sense from 1807. Related: Graduated; graduating.
 
+
+sextant (n.)
+
+instrument for determining latitude, 1620s, from Modern Latin sextans, said to have been coined
+c.1600 by Danish astronomer Tycho Brahe, from Latin sextans a sixth, from sex six (see six). So
+called because the sextans has a graduated arc equal to a sixth part of a circle.
+
+

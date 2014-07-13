@@ -3,3 +3,241 @@ cog (n.)
 c.1300, cog wheel; late 14c., tooth on a wheel, probably a borrowing from a Scandinavian language
 (compare Norwegian kugg cog) and cognate with Middle High German kugel ball.
 
+
+cogency (n.)
+
+1680s, from cogent + -cy.
+
+
+cogenial (adj.)
+
+1774, variant of congenial.
+
+
+cogent (adj.)
+
+1650s, from French cogent necessary, urgent (14c.), from Latin cogentem (nominative cogens), present
+participle of cogere to curdle; to compel; to collect, literally to drive together, from com-
+together (see co-) + agere to drive (see act (n.)).
+
+
+cogitate (v.)
+
+late 16c., from Latin cogitatus, past participle of cogitare to think (see cogitation). Related:
+Cogitated; cogitating.
+
+
+cogitation (n.)
+
+c.1200, thought, idea, notion, from Old French cogitacion thought, consideration, reflection, from
+Latin cogitationem (nominative cogitatio), noun of action from past participle stem of cogitare to
+think, reflect, consider, turn over in the mind, apparently from co-agitare, from com- together (see
+co-) + agitare, here in a sense of to turn over in the mind, literally to put in constant motion,
+drive, impel, frequentative of agere to move, drive (see agitation).
+
+
+cogitative (adj.)
+
+late 15c., from Old French cogitatif (14c.), from Medieval Latin cogitativus, from Latin cogitare
+(see cogitation).
+
+
+cognac (n.)
+
+1590s, Coniacke, wine produced in Cognac, the region in western France. The sense of brandy is 1755,
+shortened from 17c. cognac brandy, which was distilled from cognac wine. The place name is from
+Medieval Latin Comniacum, from the personal name Cominius and the Gallo-Roman suffix -acum.
+
+
+cognate (adj.)
+
+1640s, from Latin cognatus of common descent, from com- together (see co-) + gnatus, past participle
+of gnasci, older form of nasci to be born (see genus). Words that are cognates are cousins, not
+siblings. As a noun, from 1754.
+
+
+cognisance (n.)
+
+alternative spelling of cognizance (q.v.); also see -ize.
+
+
+cognisant (adj.)
+
+alternative spelling of cognizant (q.v.); also see -ize.
+
+
+cognition (n.)
+
+mid-15c., ability to comprehend, from Latin cognitionem (nominative cognitio) a getting to know,
+acquaintance, knowledge, noun of action from past participle stem of cognoscere (see cognizance).
+
+
+cognitive (adv.)
+
+1580s, from Latin cognit-, past participle stem of cognoscere (see cognizance) + -ive. Taken over by
+psychologists and sociologists after c.1940. Related: Cognitively.
+
+
+cognitive dissonance (n.)
+
+1957, developed and apparently coined by U.S. social psychologist Leon Festinger (1919-1989).
+
+
+cognizable (adj.)
+
+1670s, capable of being known, also liable to be tried in a given court or jurisdiction, from stem
+of cognizance + -able.
+
+
+cognizance (n.)
+
+mid-14c., from Anglo-French conysance recognition, later, knowledge, from Old French conoissance
+acquaintance, recognition; knowledge, wisdom (Modern French connaissance), from past participle of
+conoistre to know, from Latin cognoscere to get to know, recognize, from com- together (see co-) +
+gnoscere to know (see notice (n.)). The -g- was restored in English spelling 15c. and has gradually
+affected the pronunciation, which was always con-. The old pronunciation lingered longest in legal
+use.
+
+
+cognizant (adj.)
+
+1820, back-formation from cognizance.
+
+
+cognize (v.)
+
+1650s, back-formation from cognizance. Related: Cognized; cognizing.
+
+
+cognomen (n.)
+
+1809, from Latin com- with (see co-) + (g)nomen name (see name (n.)). Third or family name of a
+Roman citizen (Caius Julius C&aelig;sar).
+
+
+cognoscence (n.)
+
+mid-15c., from Latin cognoscere to know (see cognizance).
+
+
+cognoscente (n.)
+
+connoisseur, 1778, from Italian cognoscente, Latinized from conoscente connoisseur, literally
+knowing man, from Latin cognoscentum (nominative cognoscens), present participle of cognoscere to
+know (see cognizance).
+
+
+cognoscenti (n.)
+
+plural of cognoscente (q.v.).
+
+
+discography (n.)
+
+1933; see disc + -graphy.
+
+
+glycogen (n.)
+
+starch-like substance found in the liver and animal tissue, 1860, from French glycog&egrave;ne,
+sugar-producer, from Greek glykys sweet (see glucose) + French -g&egrave;ne (see -gen). Coined in
+1848 by French physiologist Claude Bernard (1813-1878).
+
+
+glycogenic (adj.)
+
+1859, from glycogen + -ic.
+
+
+incogitable (adj.)
+
+unthinkable, 1520s, from Late Latin incogitabilis, from in- not (see in- (1)) + cogitabilis, from
+stem of cogitare (see cogitation).
+
+
+incognito (adj./adv.)
+
+1640s, from Italian incognito unknown, especially in connection with traveling, from Latin
+incognitus unknown, from in- not, opposite of, without (see in- (1)) + cognitus, past participle of
+cognoscere to get to know (see cognizance). Fem. form incognita was maintained through 19c. by those
+scrupulous about Latin. Incog was a common 18c. colloquial abbreviation.
+
+
+incognizant (adj.)
+
+1837, from in- (1) not, opposite of + cognizant.
+
+
+lexicographer (n.)
+
+1650s, from French lexicographe lexicographer, from Greek lexikographos, from lexikon wordbook (see
+lexicon) + -graphos writer, from graphein to write (see -graphy).
+
+
+lexicography (n.)
+
+1670s, from lexico- + -graphy. Related: Lexicographic; lexicographical.
+
+
+oncogene (n.)
+
+1969, from onco- + -gene, from root of Greek gignere (perf. genui) beget, from PIE *gen- produce
+(see genus). Related: Oncogenesis (1832).
+
+
+precognition (n.)
+
+foreknowledge, mid-15c., from Late Latin praecognitionem (nom. praecognitio), noun of action from
+past participle stem of Latin praecognoscere to foreknow, from prae before (see pre-) + cognoscere
+to know (see cognizance).
+
+
+recognise (v.)
+
+chiefly British English spelling of recognize; for spelling, see -ize. Related: Recognised;
+recognising; recognisance.
+
+
+recognition (n.)
+
+mid-15c., knowledge of an event or incident; understanding, from Middle French recognition (15c.)
+and directly from Latin recognitionem (nominative recognitio) a reviewing, investigation,
+examination, noun of action from past participle stem of recognoscere to acknowledge, know again;
+examine (see recognize).    Sense of formal avowal of knowledge and approval is from 1590s;
+especially acknowledgement of the independence of a country by a state formerly exercising
+sovereignty (1824). Meaning a knowing again is from 1798.
+
+
+recognizance (n.)
+
+early 14c., reconisaunce, a bond acknowledging some obligation binding one over to do some
+particular act, from Old French reconissance acknowledgment, recognition (12c., Modern French
+reconnaissance), from reconoiss-, present participle stem of reconoistre (see recognize). Related:
+Recognizant.
+
+
+recognization (n.)
+
+act of recognizing, 1550s, from recognize + -ation.
+
+
+recognize (v.)
+
+early 15c., resume possession of land, back-formation from recognizance, or else from Old French
+reconoiss-, stem of reconoistre to know again, identify, recognize, from Latin recognoscere
+acknowledge, recall to mind, know again; examine; certify, from re- again (see re-) + cognoscere
+know (see cognizance). Meaning know again, recall or recover the knowledge of, perceive an identity
+with something formerly known or felt first recorded 1530s. Related: Recognized; recognizing.
+
+
+terra incognita (n.)
+
+unknown or unexplored region, 1610s, Latin, literally unknown land, from terra (see terrain) + fem.
+of incognito.
+
+
+unrecognizable (adj.)
+
+1817, from un- (1) not + recognizable (see recognize (v.)). Related: Unrecognizably.
+
+

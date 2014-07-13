@@ -5,3 +5,16 @@ express, assert; divulge, disclose, reveal, betray, from ex- out (see ex-) + nun
 (see nuncio). Or perhaps a back-formation from enunciation. Meaning to articulate, pronounce is from
 1759. Related: Enunciated; enunciating.
 
+
+enunciative (adj.)
+
+1530s, from Latin enuntiativus, from enuntiare (see enunciate).
+
+
+enunciation (n.)
+
+1550s, declaration, from Latin enuntiationem (nominative enuntiatio) enunciation, declaration, noun
+of action from past participle stem of enuntiare (see enunciate). Meaning articulation of words is
+from 1750.
+
+

@@ -2,3 +2,4 @@ parallelism (n.)
 
 c.1600, from Greek parallelismos, from parallelizein (see parallel).
 
+

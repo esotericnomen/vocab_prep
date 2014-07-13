@@ -3,3 +3,13 @@ depose (v.)
 c.1300, from Old French deposer (12c.), from de- down (see de-) + poser put, place (see pose (v.1)).
 Related: Deposed; deposing.
 
+
+deposition (n.)
+
+late 14c., dethronement, putting down from dignity or authority, from Old French deposicion (12c.),
+from Latin depositionem (nominative depositio), noun of action from past participle stem of deponere
+(see deposit (v.)).    Meaning statements made in court under oath is from early 15c. Meaning action
+of depositing is from 1590s. Properly, deposition belongs to deposit, but deposit and depose have
+become totally confused and English deposition partakes of senses belonging to both.
+
+

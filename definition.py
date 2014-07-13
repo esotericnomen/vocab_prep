@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import sys					# for system io
+import datetime
 import sqlite3					# for DB Activities
 import urllib2					# for url parssing et al
 import textwrap					# To limit o/p characters per line
@@ -17,6 +18,7 @@ from pattern.en import conjugate, pluralize, singularize, comparative, superlati
 
 rpath = "/home/shingu/workspace/vocab_prep/"
 #rpath = "/home/rajkumar.r/backup/workspace/users/raj/vocab_prep/"
+#tdef_file = open("/home/shingu/rtrt","w")
 
 sup_vocal = 0
 sup_syn = 0
@@ -172,8 +174,10 @@ def wndef(word,cur):
 		return
 	for ss in wn.synsets(word):
 		print bcolors.Green + "%20s : %s\n" % (word,ss.definition)
+		#tdef_file.write( "%20s : %s\n" % (word,ss.definition))
 		#eplay(ss.definition, cur)
 		time.sleep(0.5)
+	#tdef_file.write( "\n")
 
 def print_list(l,col):
 	try:
@@ -287,6 +291,7 @@ def jdef(word,cur):
 					rshort = rshort.replace("â&euro;&trade;","\'")
 					def_file = open(def_file_path,"w")
 					def_file.write("%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100)))
+					def_file.close()
 					print  bcolors.White + "%s\n\n%s\n\n" % (textwrap.fill(rshort, width=100),textwrap.fill(rlong, width=100))
 				except:
 					pass
@@ -298,6 +303,72 @@ def jdef(word,cur):
 		print "----------------------------------------------------------------------------------------------------"
 		print bcolors.White + def_file.read()
 		print "----------------------------------------------------------------------------------------------------"
+		def_file.close()
+
+
+def wrdinfo_def(word,cur):
+	def_file_path = rpath+"wordinfo_cache/"+word+".txt"
+	retry = 0
+	try:
+		size = os.path.getsize(def_file_path)
+	except:
+		size = 0
+	if((os.path.isfile(def_file_path) is False) or (size is 0) ):
+		if(sup_cache_only is 0):
+			url="http://wordinfo.info/results?searchString="+word
+			while 1:
+				retry = retry+1
+				print "try %d" %(retry)
+				try:
+					response = urllib2.urlopen(url)
+					replace = ["\"","<dt>","</dt>","<dd>","</dd>","<p>","<i>","</i>","</a>","<dt class=highlight>","<dd class=highlight>","<span class=foreign>","</dd>","</span>","<br />","</dt>","<blockquote>","</blockquote>","</div>"]
+					
+					html = response.read()
+					soup = BeautifulSoup(html)
+					title = soup.findAll(attrs={"class" : "title"})
+					title = str(title)
+					title = re.sub(r'<span.*?>', '', title)
+					title = re.sub(r'<a.*?>', '', title)
+					title = re.sub(r'<div.*?>', '', title)
+					for rep in replace:
+						title=title.replace(rep,"")
+					#print title
+					#print "len : %d" %(len(title))
+					word = str(soup.findAll(attrs={"class" : "definition"}))
+					word=word.replace("<br />","\n")
+					word=word.replace("</p>","\n\n")
+					word = re.sub(r'<div.*?>', '', word)
+					for rep in replace:
+						word=word.replace(rep,"")
+					#print word
+					#print "-----------------------------------------------------\nI exit exit"
+					def_file = open(def_file_path,"w")
+					def_file.write("%s\n\n%s\n\n" % (textwrap.fill(title, width=100),textwrap.fill(word, width=100)))
+					def_file.close()
+					print  bcolors.White + "%s\n\n%s\n\n" % (textwrap.fill(title, width=100),textwrap.fill(word, width=100))
+					sys.exit()
+
+				except:
+					pass
+				break
+				if((os.path.isfile(def_file_path) is not False) or (retry is 3)):
+					break;
+				print "wordinfo error for word : %s\n" %(word)
+	else:
+		def_file = open(def_file_path,"r")
+		print "----------------------------------------------------------------------------------------------------"
+		etym = def_file.read()
+		etym = re.sub(r'<a.*?>', '', etym)
+		print bcolors.Blue + bcolors.BOLD + etym + bcolors.END
+		print "----------------------------------------------------------------------------------------------------"
+		def_file.close()
+
+
+
+
+
+
+
 
 def ety_def(word,cur):
 	def_file_path = rpath+"etymology_cache/"+word+".txt"
@@ -314,27 +385,36 @@ def ety_def(word,cur):
 				print "try %d" %(retry)
 				try:
 					response = urllib2.urlopen(url)
-					replace = ["\"","<i>","</i>","</a>","<dt class=highlight>","<dd class=highlight>","<span class=foreign>","</dd>","</span>","<br />","</dt>"]
+					replace = ["\"","<dt>","</dt>","<dd>","</dd>","<i>","</i>","</a>","<dt class=highlight>","<dd class=highlight>","<span class=foreign>","</dd>","</span>","<br />","</dt>","<blockquote>","</blockquote>"]
+					
 					html = response.read()
 					soup = BeautifulSoup(html)
-					etym = soup.findAll(attrs={"class" : "highlight"})
-					try:
-						etym_wrd = str(etym[0])
-						etym = str(etym[1])
-					except:
-						pass
-					for rep in replace:
-						etym=etym.replace(rep,"")
-						etym_wrd=etym_wrd.replace(rep,"")
-					# Replace all etym words after removing hyperlink
-					etym = re.sub(r'<a.*?>', '', etym)
-					etym_wrd = re.sub(r'<a.*?>', '', etym_wrd)
-					etym_wrd = re.sub(r'<img.*?>', '', etym_wrd)
+					dtt = soup.findAll('dt',text=False)
+					ddd = soup.findAll('dd',text=False)
+					dt_list = []
+					dd_list = []
+					for dt in dtt:
+						dt = str(dt)
+						dt = re.sub(r'<a.*?>', '', dt)
+						dt = re.sub(r'<img.*?>', '', dt)
+						for rep in replace:
+							dt=dt.replace(rep,"")
+						dt_list.append(dt)
+					for dd in ddd:
+						dd = str(dd)
+						dd = re.sub(r'<a.*?>', '', dd)
+						dd = re.sub(r'<img.*?>', '', dd)
+						for rep in replace:
+							dd=dd.replace(rep,"")
+						dd_list.append(dd)
+					i = 0
 					def_file = open(def_file_path,"w")
-					def_file.write("%s\n\n" % (textwrap.fill(etym_wrd, width=100)))
-					def_file.write("%s\n\n" % (textwrap.fill(etym, width=100)))
-					print  bcolors.White + bcolors.BOLD + "%s" % (textwrap.fill(etym_wrd, width=100)) +bcolors.END
-					print  bcolors.White + bcolors.BOLD + "%s\n\n" % (textwrap.fill(etym, width=100)) +bcolors.END
+					for i in range(0,len(dd_list)):
+						def_file.write("%s\n\n%s\n\n\n" %(textwrap.fill(dt_list[i], width=100),textwrap.fill(dd_list[i], width=100)))
+						print  bcolors.White + bcolors.BOLD + "%s" % (textwrap.fill(dt_list[i], width=100)) +bcolors.END
+						print  bcolors.White + bcolors.BOLD + "%s\n\n" % (textwrap.fill(dd_list[i], width=100)) +bcolors.END
+					def_file.close()
+
 				except:
 					pass
 				if((os.path.isfile(def_file_path) is not False) or (retry is 3)):
@@ -344,6 +424,7 @@ def ety_def(word,cur):
 		def_file = open(def_file_path,"r")
 		print "----------------------------------------------------------------------------------------------------"
 		etym = def_file.read()
+		def_file.close()
 		etym = re.sub(r'<a.*?>', '', etym)
 		print bcolors.Blue + bcolors.BOLD + etym + bcolors.END
 		print "----------------------------------------------------------------------------------------------------"
@@ -368,10 +449,11 @@ def sub_main(word,cur):
 	if(sup_desc):
 		jdef(word,cur)
 		ety_def(word,cur)
+		#wrdinfo_def(word,cur)
 	if(sup_hyp):
 		similar_Wrd(word,cur)
-        pos_all(word)
-		#wrd_hyponyms(word,cur)
+        #pos_all(word)
+	#wrd_hyponyms(word,cur)
 
 def rspellbee():
 	for entity in wrong:
@@ -492,7 +574,8 @@ if __name__ == "__main__":
 				if(iterator >= int(sys.argv[4])):
 					break
 			if(sup_manual):
-				opt = raw_input( bcolors.White+"Display %3d / %3d %20s  : ? " % (iterator,no_of_word,word))
+				dt = datetime.datetime.now().time()
+				opt = raw_input( bcolors.White+"%s : Display %3d / %3d %20s  : ? " % (dt,iterator,no_of_word,word))
 				if opt == '/':
 					sub_main(word.lower(),cur)
 				if opt == 'e':

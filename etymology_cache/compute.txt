@@ -3,3 +3,102 @@ compute (v.)
 1630s, from French computer, from Latin computare to count, sum up, reckon together, from com- with
 (see com-) + putare to reckon, originally to prune (see pave). Related: Computed; computing.
 
+
+computer (n.)
+
+1640s, one who calculates, agent noun from compute (v.). Meaning calculating machine (of any type)
+is from 1897; in modern use, programmable digital electronic computer (1945 under this name;
+theoretical from 1937, as Turing machine). ENIAC (1946) usually is considered the first. Computer
+literacy is recorded from 1970; an attempt to establish computerate (adjective, on model of
+literate) in this sense in the early 1980s didn't catch on. Computerese the jargon of programmers is
+from 1960, as are computerize and computerization.    WASHINGTON (AP) -- A New York Congressman says
+the use of computers to record personal data on individuals, such as their credit background, is
+just frightening to me. [news article, March 17, 1968]
+
+
+computation (n.)
+
+early 15c., from Middle French computation, from Latin computationem (nominative computatio), noun
+of action from past participle stem of computare to sum up, reckon, compute (see compute).
+
+
+calculate (v.)
+
+1560s, to compute, to estimate by mathematical means, from Latin calculatus, past participle of
+calculare to reckon, compute, from calculus (see calculus). Meaning to plan, devise is from 1650s.
+Replaced earlier calculen (mid-14c.), from Old French calculer. Related: Calculable.
+
+
+deem (v.)
+
+Old English deman to judge, condemn, think, compute, from root of dom (see doom (n.)). Originally to
+pronounce judgment as well as to form an opinion. The two judges of the Isle of Man were called
+deemsters in 17c., a title formerly common throughout England and Scotland and preserved in the
+surname Dempster.
+
+
+calculation (n.)
+
+late 14c., from Late Latin calculationem (nominative calculatio), noun of action from past
+participle stem of calculare to reckon, compute, from Latin calculus reckoning, account, originally
+pebble used in counting, diminutive of calx (genitive calcis) limestone (see chalk (n.)).
+
+
+counter (n.)
+
+mid-14c., table where a money lender does business, from Old French contouer, comptoir (14c.)
+counting room, table of a bank, from Medieval Latin computatorium place of accounts, from Latin
+computatus, past participle of computare (see compute). Generalized 19c. from banks to shops, then
+extended to display cases for goods. Phrase under the counter is from 1926.
+
+
+calculator (n.)
+
+late 14c., mathematician, one who calculates, from Latin calculator, from calculatus, past
+participle of calculare to reckon, compute, from calculus (see calculus). Of mechanical adding
+machine contraptions, from 1784. Of electronic ones, from 1946.    Electronic calculator uses 18,000
+tubes to solve complex problems [Scientific American headline, June 1946]
+
+
+count (v.)
+
+mid-14c., from Old French conter add up, but also tell a story, from Latin computare (see compute).
+Related: Counted; counting. Modern French differentiates compter to count and conter to tell, but
+they are cognates.
+
+
+syllogism (n.)
+
+late 14c., from Old French silogisme a syllogism, scholastic argument based on a formula or proof
+(13c., Modern French syllogisme), from Latin syllogismus, from Greek syllogismos a syllogism,
+originally inference, conclusion; computation, calculation, from syllogizesthai bring together
+before the mind, compute, conclude, literally think together, from assimilated form of syn- together
+(see syn-) + logizesthai to reason, count, from logos a reckoning, reason (see logos).
+
+
+account (n.)
+
+c.1300, reckoning of money received and paid, from Old French acont account, reckoning, terminal
+payment, from a to (see ad-) + cont counting, reckoning of money to be paid, from Late Latin
+computus a calculation, from Latin computare calculate (see compute).    Meaning sum of (one's)
+money in a bank is from 1833. Sense of narration is first attested 1610s. Plural accounts used as a
+collective or singular in phrases such as to give accounts (of something), is from mid-13c. Phrase
+by all accounts is attested from 1798.
+
+
+tell (v.)
+
+Old English tellan to reckon, calculate, number, compute; consider, think, esteem, account (past
+tense tealde, past participle teald), from Proto-Germanic *taljan to mention in order (cognates: Old
+Saxon tellian tell, Old Norse telja to count, number; to tell, say, Old Frisian tella to count; to
+tell, Middle Dutch and Dutch tellen, Old Saxon talon to count, reckon, Danish tale to speak, Old
+High German zalon, German z&auml;hlen to count, reckon), from PIE root *del- (2) to count, reckon
+(see tale).    Meaning to narrate, announce, relate in English is from c.1000; that of to make known
+by speech or writing, announce is from early 12c. Sense of to reveal or disclose is from c.1400;
+that of to act as an informer, to 'peach'  is recorded from 1901. Meaning to order (someone to do
+something) is from 1590s. To tell (someone) off reprimand is from 1919.    Original sense in teller
+and phrase to tell time. For sense evolution, compare French conter to count, raconter to recount;
+Italian contare, Spanish contar to count, recount, narrate; German z&auml;hlen to count,
+erz&auml;hlen to recount, narrate. Klein also compares Hebrew saphar he counted, sipper he told.
+
+

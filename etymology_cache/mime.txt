@@ -4,3 +4,53 @@ c.1600, a buffoon who practices gesticulations [Johnson], from French mime (16c.
 Latin mimus, from Greek mimos imitator, mimic, actor, mime, buffoon, of unknown origin. In reference
 to a performance, 1640s in a classical context; 1932 as a pantomime.
 
+
+mime (v.)
+
+1610s, to act without words, from mime (n.). The transferred sense of to imitate is from 1733 (Greek
+mimeisthai meant to imitate). Meaning to pretend to be singing a pre-recorded song is from 1965.
+Related: mimed; miming.
+
+
+mimeograph (n.)
+
+1889, copying machine (invented by Edison), from Greek mimeisthai to mimic, represent, imitate,
+portray, in art, to express by means of imitation, from mimos mime (see mime (n.)) + -graphos, from
+graphein to write (see -graphy). A proprietary name from 1903 to 1948. The verb meaning to reproduce
+by means of a mimeograph is first attested 1895. Related: Mimeographed; mimeographing.
+
+
+pantomime (n.)
+
+1610s, mime actor, from Latin pantomimus mime, dancer, from Greek pantomimos actor, literally
+imitator of all, from panto- (genitive of pan) all (see pan-) + mimos imitator (see mime (n.)).
+Meaning drama or play without words first recorded 1735. The English dramatic performances so
+called, usually at Christmas and with words and songs and stock characters, are attested by this
+name from 1739; said to have originated c.1717. Related: Pantomimic; pantomimical.
+
+
+mimic (n.)
+
+1580s, a mime, from Latin mimicus, from Greek mimikos of or pertaining to mimes, from mimos mime.
+
+
+mimosa (n.)
+
+genus of leguminous shrubs, 1731, coined in Modern Latin (1619) from Latin mimus mime (see mime
+(n.)) + -osa, adjectival suffix (fem. of -osus). So called because some species (including the
+common Sensitive Plant) fold leaves when touched, seeming to mimic animal behavior. The alcoholic
+drink (by 1977) is so called from its yellowish color, which resembles that of the mimosa flower.
+
+
+meme (n.)
+
+1976, introduced by evolutionary biologist Richard Dawkins in The Selfish Gene, coined by him from
+Greek sources, such as mimeisthai to imitate (see mime), and intended to echo gene.    We need a
+name for the new replicator, a noun that conveys the idea of a unit of cultural transmission, or a
+unit of imitation. 'Mimeme' comes from a suitable Greek root, but I want a monosyllable that sounds
+a bit like 'gene'. I hope my classicist friends will forgive me if I abbreviate mimeme to meme. If
+it is any consolation, it could alternatively be thought of as being related to 'memory', or to the
+French word m&#234;me. It should be pronounced to rhyme with 'cream'. [Richard Dawkins, The Selfish
+Gene, 1976]
+
+

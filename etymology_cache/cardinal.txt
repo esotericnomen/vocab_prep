@@ -6,9 +6,118 @@ unknown origin. Related: Cardinally.    The cardinal points (1540s) are north, s
 The cardinal sins (c.1600) are too well known to require rehearsal. The cardinal virtues (c.1300)
 were divided into natural (justice prudence, temperance, fortitude) and theological (faith, hope,
 charity). The natural ones were the original classical ones, which were amended by Christians. But
-typically in Middle English only the first four were counted as the cardinal virtues:  <blockquote>
-Of &#254;e uour uirtues cardinales speke&#254; moche &#254;e yealde philosofes. [Ayenbite of Inwyt,
-c.1340]  </blockquote>  By analogy of this, and cardinal points, cardinal winds, cardinal signs
-(four zodiacal signs marking the equinoxes and the solstices), the adjective in Middle English
-acquired an association with the number four.
+typically in Middle English only the first four were counted as the cardinal virtues:    Of &#254;e
+uour uirtues cardinales speke&#254; moche &#254;e yealde philosofes. [Ayenbite of Inwyt, c.1340]
+By analogy of this, and cardinal points, cardinal winds, cardinal signs (four zodiacal signs marking
+the equinoxes and the solstices), the adjective in Middle English acquired an association with the
+number four.
+
+
+cardinality (n.)
+
+1520s, condition of being a cardinal, from cardinal (n.) + -ity. Mathematical sense is from 1935
+(see cardinal (adj.)).
+
+
+cardinal (n.)
+
+early 12c., one of the ecclesiastical princes who constitute the sacred college (short for
+cardinalis ecclesiae Romanae or episcopus cardinalis), from Latin cardinalis principal, chief,
+essential (see cardinal (adj.)).    Ecclesiastical use began for the presbyters of the chief
+(cardinal) churches of Rome. The North American songbird (Cardinalis virginianus) is attested from
+1670s, so named for its resemblance to the cardinals in their red robes.
+
+
+cardinal number (n.)
+
+1590s, one, two, three, etc. as opposed to ordinal numbers first, second, third, etc.; so called
+because they are the principal numbers and the ordinals depend on them (see cardinal (adj.)).
+
+
+redbird (n.)
+
+mid-13c., a name for sundry red or partly red birds, including the common bullfinch and the scarlet
+tanager, but in U.S. especially the cardinal, from red (adj.1) + bird (n.).
+
+
+angular (adj.)
+
+1590s, from Latin angularis having corners or angles, from angulus (see angle (n.)). Earlier in an
+astrological sense, occupying a cardinal point of the zodiac (late 14c.). Angulous having many
+corners is from mid-15c.
+
+
+pasquinade (n.)
+
+a lampoon, 1650s, from Middle French, from Italian pasquinata (c.1500), from Pasquino, name given to
+a mutilated ancient statue (now known to represent Menelaus dragging the dead Patroclus) set up by
+Cardinal Caraffa in his palace in Rome in 1501; the locals named it after a schoolmaster (or tailor,
+or barber) named Pasquino who lived nearby. A custom developed of posting satirical verses and
+lampoons on the statue.
+
+
+prudence (n.)
+
+mid-14c. (c.1200 as a surname), mid-14c., intelligence; discretion, foresight; wisdom to see what is
+suitable or profitable; also one of the four cardinal virtues, wisdom to see what is virtuous; from
+Old French prudence (13c.) and directly from Latin prudentia a foreseeing, foresight, sagacity,
+practical judgment, contraction of providentia foresight (see providence). Secondary sense of wisdom
+(late 14c.) is preserved in jurisprudence.
+
+
+-teen
+
+word-forming element making cardinal numbers from 13 to 19, meaning ten more than, from Old English
+-tene, -tiene, from Proto-Germanic *tekhuniz (cognates: Old Saxon -tein, Dutch -tien, Old High
+German -zehan, German -zehn, Gothic -taihun), an inflected form of the root of ten; cognate with
+Latin -decim (source of Italian -dici, Spanish -ce, French -ze).
+
+
+virtue (n.)
+
+c.1200, vertu, moral life and conduct; a particular moral excellence, from Anglo-French and Old
+French vertu force, strength, vigor; moral strength; qualities, abilities (10c. in Old French), from
+Latin virtutem (nominative virtus) moral strength, high character, goodness; manliness; valor,
+bravery, courage (in war); excellence, worth, from vir man (see virile).    For my part I honour
+with the name of virtue the habit of acting in a way troublesome to oneself and useful to others.
+[Stendhal de l'Amour, 1822]    Especially (in women) chastity, sexual purity from 1590s. Phrase by
+virtue of (early 13c.) preserves alternative Middle English sense of efficacy. Wyclif Bible has
+virtue where KJV uses power. The seven cardinal virtues (early 14c.) were divided into the natural
+(justice, prudence, temperance, fortitude) and the theological (hope, faith, charity). To make a
+virtue of a necessity (late 14c.) translates Latin facere de necessitate virtutem [Jerome].
+
+
+south (adv.)
+
+Old English su&eth; southward, to the south, southern, in the south, from Proto-Germanic *sunthaz,
+perhaps literally sun-side (cognates: Old Saxon, Old Frisian suth southward, in the south, Middle
+Dutch suut, Dutch zuid, German S&uuml;den), and related to base of *sunnon sun (see sun (v.)). Old
+French sur, sud (French sud), Spanish sur, sud are loan-words from Germanic, perhaps from Old Norse
+su&eth;r.    As an adjective from c.1300; as a noun, one of the four cardinal points, also southern
+region of a country, both late 13c. The Southern states of the U.S. have been collectively called
+The South since 1779 (in early use this often referred only to Georgia and South Carolina). South
+country in Britain means the part below the Tweed, in England the part below the Wash, and in
+Scotland the part below the Forth. South Sea meant the Mediterranean (late 14c.) and the English
+Channel (early 15c.) before it came to mean (in plural) the South Pacific Ocean (1520s). The
+nautical coat called a sou'wester (1836) protects the wearer against severe weather, such as a gale
+out of the southwest.
+
+
+-ty (1)
+
+suffix representing ten in cardinal numbers that are multiples of 10 (sixty, seventy, etc.), from
+Old English -tig, from a Germanic root (cognates: Old Saxon, Dutch -tig, Old Frisian -tich, Old
+Norse -tigr, Old High German -zug, German -zig) that existed as a distinct word in Gothic (tigjus)
+and Old Norse (tigir) meaning tens, decades. Compare tithe (n.).    English, like many other
+Germanic languages, retains traces of a base-12 number system. The most obvious instance is eleven
+and twelve which ought to be the first two numbers of the teens series. Their Old English forms,
+enleofan and twel(eo)f(an), are more transparent: leave one and leave two.    Old English also had
+hund endleofantig for 110 and hund twelftig for 120. One hundred was hund teantig. The -tig
+formation ran through 12 cycles, and could have bequeathed us numbers *eleventy (110) and *twelfty
+(120) had it endured, but already during the Anglo-Saxon period it was being obscured.    Old Norse
+used hundra&eth; for 120 and &thorn;usend for 1,200. Tvauhundra&eth; was 240 and
+&thorn;riuhundra&eth; was 360. Older Germanic legal texts distinguished a common hundred (100) from
+a great hundred (120). This duodecimal system is perhaps due to contact with Babylonia [Lass, Old
+English].
+
 

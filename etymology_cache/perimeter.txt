@@ -4,3 +4,21 @@ early 15c., line around a figure or surface, from Latin perimetros, from Greek p
 circumference, from peri-  around (see peri-) + metron measure (see meter (n.2)). Military sense of
 boundary of a defended position is attested from 1943.
 
+
+coaster (n.)
+
+1570s, one who sails along coasts, agent noun from coast (v.) in its original sense to go around the
+sides or border of something. Applied to vessels for such sailing from 1680s. Tabletop drink stand
+(c.1887), originally round tray for a decanter, so called from a resemblance to a sled, or because
+it coasted around the perimeter of the table to each guest in turn after dinner.
+
+
+parameter (n.)
+
+1650s in geometry, from Modern Latin parameter (1630s), from Greek para- beside, subsidiary (see
+para- (1)) + metron measure (see meter (n.2)).    A geometry term until 1920s when it yielded sense
+of measurable factor which helps to define a particular system (1927). Common modern meaning
+(influenced by perimeter) of boundary, limit, characteristic factor is from 1950s. Related:
+Parametric.
+
+

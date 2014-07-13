@@ -4,3 +4,59 @@ science of the atmosphere, weather forecasting, 1610s, from French m&eacute;t&ea
 directly from Greek meteorologia treatise on celestial phenomena, discussion of high things, from
 meteoron, literally thing high up (see meteor), + -logia treatment of (see -logy).
 
+
+continentality (n.)
+
+1897, a term in meteorology, from German kontinentalit&auml;t (1895), from Latin continentem (see
+continent (adj.)).
+
+
+meteorologist (n.)
+
+1620s, from meteorology + -ist. Earlier was meteorologician (1570s). Greek meteorologos meant one
+who deals with celestial phenomena, astronomer.
+
+
+pentad (n.)
+
+1650s, from Greek pentas (genitive pentados) group of five (see five). Meaning period of five years
+is from 1880; meaning period of five days is from 1906, originally in meteorology.
+
+
+cirrous (adj.)
+
+1650s in biology; 1815 in meteorology, from Latin cirrus (see cirrus) + -ous.
+
+
+cirrus (n.)
+
+1708, curl-like fringe or tuft, from Latin cirrus a lock of hair, tendril, curl, ringlet of hair;
+the fringe of a garment. In meteorology, cirrus clouds attested from 1803. So called from fancied
+resemblance of shape.
+
+
+meteorological (adj.)
+
+1560s, from Middle French m&#233;t&#233;orologique or Greek meteorologikos; see meteorology + -ical.
+Related: Meteorologically.
+
+
+butterfly (n.)
+
+Old English buttorfleoge, evidently butter (n.) + fly (n.), but of obscure signification. Perhaps
+based on the old notion that the insects (or witches disguised as butterflies) consume butter or
+milk that is left uncovered. Or, less creatively, simply because the pale yellow color of many
+species' wings suggests the color of butter. Another theory connects it to the color of the insect's
+excrement, based on Dutch cognate boterschijte. An overview of words for butterfly in various
+languages can be found here. Also see papillon.    Applied to persons from c.1600, originally in
+reference to vain and gaudy attire; by 1806 in reference to transformation from early lowly state;
+in reference to flitting tendencies by 1873. The swimming stroke so called from 1936. Butterflies
+light stomach spasms caused by anxiety is from 1908.    The butterfly effect is a deceptively simple
+insight extracted from a complex modern field. As a low-profile assistant professor in MIT's
+department of meteorology in 1961, [Edward] Lorenz created an early computer program to simulate
+weather. One day he changed one of a dozen numbers representing atmospheric conditions, from .506127
+to .506. That tiny alteration utterly transformed his long-term forecast, a point Lorenz amplified
+in his 1972 paper, Predictability: Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado
+in Texas? [Peter Dizikes, The Meaning of the Butterfly, The Boston Globe, June 8, 2008]
+
+

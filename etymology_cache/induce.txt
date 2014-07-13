@@ -2,3 +2,121 @@ inducement (n.)
 
 1590s, that which induces, from induce + -ment.
 
+
+induce (v.)
+
+late 14c., to lead by persuasions or other influences, from Latin inducere lead into, bring in,
+introduce, conduct, persuade, from in- into, in, on, upon (see in- (2)) + ducere to lead (see duke
+(n.)). Meaning to bring about, of concrete situations, etc., is from early 15c.; sense of to infer
+by reasoning is from 1560s. Electro-magnetic sense first recorded 1777. Related: Induced; inducing.
+
+
+inductor (n.)
+
+1650s, from Latin inductor, agent noun from past participle stem of inducere (see induce).
+Electromagnetic sense begins in 1837.
+
+
+inductive (adj.)
+
+early 15c., from Old French inductif or directly from Late Latin inductivus, from induct-, past
+participle stem of inducere (see induce). As a term in logic, from 1764.
+
+
+inducive (adj.)
+
+1610s, from induce + -ive.
+
+
+induct (v.)
+
+late 14c., from Latin inductus, past participle of inducere to lead (see induce). Originally of
+church offices; sense of bring into military service is 1934 in American English. Related: Inducted;
+inducting.
+
+
+endue (v.)
+
+also indue, c.1400, from Old French enduire lead, drive, initiate, indoctrinate (12c.), from Latin
+inducere to lead (see induce). Related: Endued.
+
+
+Greenland
+
+Old Norse Groenland, so named by its discoverer (986 C.E.) because it would induce settlers to go
+there, if the land had a good name:   Hann gaf nafn landinu ok kalla&eth;i Groenland, ok kva&eth;
+menn &thorn;at myndu fysa &thorn;angat farar, at landit &aelig;tti nafn gott. [Islendingabok,
+1122-1133]
+
+
+inspire (v.)
+
+mid-14c., enspiren, to fill (the mind, heart, etc., with grace, etc.); also to prompt or induce
+(someone to do something), from Old French enspirer (13c.), from Latin inspirare inflame; blow into
+(see inspiration), a loan-translation of Greek pnein in the Bible. General sense of influence or
+animate with an idea or purpose is from late 14c. Also sometimes used in literal sense in Middle
+English. Related: Inspired; inspires; inspiring.
+
+
+suborn (v.)
+
+to procure unlawfully, to bribe to accomplish a wicked purpose, especially to induce a witness to
+perjury, to lure (someone) to commit a crime, 1530s, from Middle French suborner seduce, instigate,
+bribe (13c.) and directly from Latin subornare employ as a secret agent, incite secretly, originally
+equip, fit out, furnish, from sub under, secretly (see sub-) + ornare equip, related to ordo order
+(see order (n.)). Related: Suborned; suborning.
+
+
+induction (n.)
+
+late 14c., advancement toward the grace of God; also (c.1400) formal installation of a clergyman,
+from Old French induction (14c.) or directly from Latin inductionem (nominative inductio) a leading
+in, introduction, noun of action from past participle stem of inducere to lead (see induce).    As a
+term in logic (early 15c.) it is from Cicero's use of inductio to translate Greek epagoge leading to
+in Aristotle. Induction starts with known instances and arrives at generalizations; deduction starts
+from the general principle and arrives at some individual fact. As a term of science, c.1800;
+military service sense is from 1934, American English.
+
+
+nest (n.)
+
+Old English nest bird's nest, snug retreat, also young bird, brood, from Proto-Germanic *nistaz
+(cognates: Middle Low German, Middle Dutch nest, German Nest), from PIE *nizdo- (cognates: Sanskrit
+nidah resting place, nest, Latin nidus nest, Old Church Slavonic gnezdo, Old Irish net, Welsh nyth,
+Breton nez nest), probably from *ni down + *sed- (1) to sit (see sedentary).    Used since Middle
+English in reference to various accumulations of things (such as a nest of drawers, early 18c.).
+Nest egg retirement savings is from 1700, originally a real or artificial egg left in a nest to
+induce the hen to go on laying there (c.1600).
+
+
+fetch (v.)
+
+Old English feccan, apparently a variant of fetian, fatian to fetch, bring near, bring back, obtain;
+induce; to marry, probably from Proto-Germanic *fetan (cognates: Old Frisian fatia to grasp, seize,
+contain, Old Norse feta to find one's way, Middle Dutch vatten, Old High German sih faggon to mount,
+climb, German fassen to grasp, contain), from PIE verbal root *ped- to walk, from root *ped- (1)
+foot (see foot (n.)). Variant form fet, a derivation of the older Old English version of the word,
+survived as a competitor until 17c. Related: Fetched; fetching.
+
+
+sheep (n.)
+
+ruminant mammal, Old English sceap, scep, from West Germanic *sk&aelig;pan (cognates: Old Saxon
+scap, Old Frisian skep, Middle Low German schap, Middle Dutch scaep, Dutch schaap, Old High German
+scaf, German Schaf), of unknown origin. Not found in Scandinavian (Danish has faar for sheep) or
+Gothic (which uses lamb), and with no known cognates outside Germanic. The more usual Indo-European
+word for the animal is represented in English by ewe.    The plural form was leveled with the
+singular in Old English, but Old Northumbrian had a plural scipo. Used since Old English as a type
+of timidity and figuratively of those under the guidance of God. The meaning stupid, timid person is
+attested from 1540s. The image of the wolf in sheep's clothing was in Old English (from Matt.
+vii:15); that of separating the sheep from the goats is from Matt. xxv:33. To count sheep in a bid
+to induce sleep is recorded from 1854 but seems not to have been commonly written about until 1870s.
+It might simply be a type of a tedious activity, but an account of shepherd life from Australia from
+1849 [Sidney's Emigrant's Journal] describes the night-shepherd (hut-keeper) taking a count of the
+sheep regularly at the end of his shift to protect against being answerable for any animals later
+lost or killed.    Sheep's eyes loving looks is attested from 1520s (compare West Frisian
+skiepseach, Dutch schaapsoog, German Schafsauge). A sheep-biter was a dog that worries sheep
+(1540s); a mutton-monger (1590s); and a whore-monger (1610s, i.e. one who chases mutton); hence
+Shakespeare's sheep-biting thieving, sneaky.
+
+

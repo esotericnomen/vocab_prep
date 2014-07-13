@@ -1,7 +1,36 @@
 debauchee (n.)
 
 1660s, from French d&eacute;bauch&eacute; debauched (person), noun use of past participle of
-debaucher (see debauch).  <blockquote><b>Debauchee</b>, n. One who has so earnestly pursued pleasure
-that he has had the misfortune to overtake it. [Ambrose Bierce, Devil's Dictionary,
-1911]</blockquote>
+debaucher (see debauch).  <b>Debauchee</b>, n. One who has so earnestly pursued pleasure that he has
+had the misfortune to overtake it. [Ambrose Bierce, Devil's Dictionary, 1911]
+
+
+debauchery (n.)
+
+1640s, from debauch + -ery. With a variety of spellings in 17c., such as debaush-, deboich-,
+debosh-.
+
+
+debauch (v.)
+
+1590s, from Middle French d&eacute;baucher entice from work or duty, from Old French desbaucher to
+lead astray, supposedly literally to trim (wood) to make a beam (from bauch beam, from Frankish balk
+or some other Germanic source akin to English balk (n.)). A sense of shaving something away,
+perhaps, but the root is also said to be a word meaning workshop, which gets toward the notion of to
+lure someone off the job; either way the sense evolution is unclear.
+
+
+deboshed (adj.)
+
+1590s, anglicized spelling of French pronunciation of debauched dissolute (see debauch). Obsolete in
+England after mid-17c., retained in Scotland, and given a revival of sorts by Scott (1826), so that
+it turns up in 19c. literary works.
+
+
+adulteration (n.)
+
+c.1500, from Latin adulterationem (nominative adulteratio), noun of action from past participle stem
+of adulterare corrupt, falsify; debauch; commit adultery, from ad- to (see ad-) + alterare to alter
+(see alter).
+
 

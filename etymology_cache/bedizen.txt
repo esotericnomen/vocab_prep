@@ -2,7 +2,18 @@ bedizen (v.)
 
 1660s, from be- + dizen to dress (1610s), especially, from late 18c., to dress finely, adorn,
 originally to dress (a distaff) for spinning (1520s), and evidently the verbal form of the first
-element in distaff.  <blockquote>  It is remarkable that neither the vb., nor the sb. as a separate
-word, has been found in OE. or ME., and that on the other hand no vb. corresponding to dizen is
-known in L.G. or Du. [OED]  </blockquote>
+element in distaff.    It is remarkable that neither the vb., nor the sb. as a separate word, has
+been found in OE. or ME., and that on the other hand no vb. corresponding to dizen is known in L.G.
+or Du. [OED]
+
+
+distaff (n.)
+
+Old English dist&aelig;f stick that holds flax for spinning, from dis- bunch of flax (cognates:
+Middle Low German dise, Low German diesse a bunch of flax on a distaff; see bedizen) + st&aelig;f
+stick, staff (see staff).     A synonym in English for the female sex, female authority in the
+family, since at least the late 1400s, probably because in the Middle Ages spinning was typically
+done by women. St. Distaff's Day was Jan. 7, when women resumed their spinning and other ordinary
+employments after the holidays [OED].
+
 

@@ -3,3 +3,102 @@ humus (n.)
 1796, from Latin humus earth, soil, probably from humi on the ground, from PIE *dhghem- earth
 (source also of Latin humilis low; see chthonic). Related: Humous (adj.).
 
+
+inhume (v.)
+
+c.1600 (implied in inhumed), from Latin inhumare to bury, literally to put into the ground, from in-
+in (see in- (2)) + humus earth, soil (see humus).
+
+
+hummus (n.)
+
+1955, from Turkish humus mashed chick peas.
+
+
+humid (adj.)
+
+early 15c., from Old French humide or directly from Latin humidus moist, wet, variant (probably by
+influence of humus earth) of umidus, from umere be moist, from PIE *wegw- wet.
+
+
+Semele
+
+daughter of Cadmus and mother of Dionysus, from Latin, from Greek Semele, a Thraco-Phrygian earth
+goddess, from Phrygian Zemele mother of the earth, probably cognate with Old Church Slavonic zemlja
+earth, Latin humus earth, ground, soil (see chthonic).
+
+
+exhume (v.)
+
+early 15c., from Medieval Latin exhumare to unearth (13c.), from Latin ex- out of (see ex-) + humare
+bury, from humus earth (see chthonic). An alternative form was exhumate (1540s), taken directly from
+Medieval Latin. Related: Exhumed; exhuming.
+
+
+Adam
+
+masc. proper name, Biblical name of the first man, progenitor of the human race, from Hebrew adam
+man, literally (the one formed from the) ground (Hebrew adamah ground); compare Latin homo man,
+humanus human, humus earth, ground, soil. To not know (someone) from Adam not know him at all is
+first recorded 1784.
+
+
+chthonic (adj.)
+
+1882, with suffix -ic, from Greek khthonios of the earth, in the earth, from khthon the earth, solid
+surface of the earth (mostly poetic) from PIE root *dhghem- (cognates: Greek khamai on the ground,
+first element in chameleon; also Latin humus earth, soil, humilis low; Lithuanian &#382;eme, Old
+Church Slavonic zemlja earth; Sanskrit ksam- earth (opposed to sky); Old Irish du, genitive don
+place, earlier earth).
+
+
+humble (adj.)
+
+mid-13c., from Old French humble, earlier humele, from Latin humilis lowly, humble, literally on the
+ground, from humus earth. Senses of not self-asserting and of low birth or rank were both in Middle
+English Related: Humbly; humbleness.Don't be so humble; you're not that great. [Golda Meir]To eat
+humble pie (1830) is from umble pie (1640s), pie made from umbles edible inner parts of an animal
+(especially deer), considered a low-class food. The similar sense of similar-sounding words (the h
+of humble was not pronounced then) converged in the pun. Umbles, meanwhile, is Middle English
+numbles offal (with loss of n- through assimilation into preceding article).
+
+
+human (adj.)
+
+mid-15c., humain, humaigne, from Old French humain, umain (adj.) of or belonging to man (12c.), from
+Latin humanus of man, human, also humane, philanthropic, kind, gentle, polite; learned, refined,
+civilized, probably related to homo (genitive hominis) man (see homunculus) and to humus earth, on
+notion of earthly beings, as opposed to the gods (compare Hebrew adam man, from adamah ground).
+Cognate with Old Lithuanian zmuo (accusative zmuni) man, male person.    As a noun, from 1530s. Its
+Old English cognate guma (from Proto-Germanic *guman-) survives only in disguise in bridegroom.
+Related: Humanness. Human rights attested by 1680s; human being by 1690s. Human relations is from
+1916; human resources attested by 1907, American English, apparently originally among social
+Christians and drawn from natural resources.
+
+
+humor (n.)
+
+mid-14c., fluid or juice of an animal or plant, from Old North French humour (Old French humor;
+Modern French humeur), from Latin umor body fluid (also humor, by false association with humus
+earth); related to umere be wet, moist, and to uvescere become wet, from PIE *wegw- wet.    In
+ancient and medieval physiology, any of the four body fluids (blood, phlegm, choler, and melancholy
+or black bile) whose relative proportions were thought to determine state of mind. This led to a
+sense of mood, temporary state of mind (first recorded 1520s); the sense of amusing quality,
+funniness is first recorded 1680s, probably via sense of whim, caprice (1560s), which also produced
+the verb sense of indulge, first attested 1580s. The pronunciation of the initial h is only of
+recent date, and is sometimes omitted .... [OED] For types of humor, see the useful table below,
+from H.W. Fowler [Modern English Usage, 1926].   <table width=90% bgcolor=#CCFFFF align=center
+cellspacing=1 cellpadding=4 border=1> <tr> <td><b>device</b></td> <td>HUMOR</td> <td>WIT</td>
+<td>SATIRE</td> <td>SARCASM</td> <td>INVECTIVE</td> <td>IRONY</td> <td>CYNICISM</td>
+<td>SARDONIC</td> </tr> <tr> <td><b>motive/aim</b></td> <td>discovery</td> <td>throwing light</td>
+<td>amendment</td> <td>inflicting pain</td> <td>discredit</td> <td>exclusiveness</td> <td>self-
+justification</td> <td>self-relief</td> </tr> <tr> <td><b>province</b></td> <td>human nature</td>
+<td>words &amp; ideas</td> <td>morals &amp; manners</td> <td>faults &amp; foibles</td>
+<td>misconduct</td> <td>statement of facts</td> <td>morals</td> <td>adversity</td> </tr> <tr>
+<td><b>method/means</b></td> <td>observation</td> <td>surprise</td> <td>accentuation</td>
+<td>inversion</td> <td>direct statement</td> <td>mystification</td> <td>exposure of nakedness</td>
+<td>pessimism</td> </tr> <tr> <td><b>audience</b></td> <td>the sympathetic</td> <td>the
+intelligent</td> <td>the self-satisfied</td> <td>victim &amp; bystander</td> <td>the public</td>
+<td>an inner circle</td> <td>the respectable</td> <td>the self</td> </tr> </table>
+
+

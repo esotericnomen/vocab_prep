@@ -3,3 +3,92 @@ alleged (adj.)
 mid-15c., quoted, past participle adjective from allege. Attested from 1610s in sense of brought
 forth in court; 1670s as asserted but not proved.
 
+
+alleger (n.)
+
+1570s, agent noun from allege. The Latinate form, allegator (1680s) rarely was used, for some
+reason.
+
+
+allege (v.)
+
+c.1300. It has the form of one French verb and the meaning of another. The form is Anglo-French
+aleger, Old French eslegier to clear at law, from Latin ex- out of (see ex-) and litigare bring suit
+(see litigate); however eslegier meant acquit, clear of charges in a lawsuit. It somehow acquired
+the meaning of French all&eacute;guer, from Latin allegare send for, bring forth, name, produce in
+evidence, from ad- to (see ad-) + legare to depute, send (see legate). Related: Alleged; alleging.
+
+
+allay (v.)
+
+Old English alecgan to put down, remit, give up, a Germanic compound (cognates: Gothic uslagjan, Old
+High German irleccan, German erlegen), from a- down, aside + lecgan to lay (see lay).    Early
+Middle English pronunciations of -y- and -g- were not always distinct, and the word was confused in
+Middle English with various senses of Romanic-derived alloy and allege, especially the latter in an
+obsolete sense of to lighten, from Latin ad- to + levis (see lever).  Amid the overlapping of
+meanings that thus arose, there was developed a perplexing network of uses of allay and allege, that
+belong entirely to no one of the original vbs., but combine the senses of two or more of them.
+[OED]The double -l- is 17c., a mistaken Latinism. Related: Allayed; allaying.
+
+
+allegation (n.)
+
+early 15c., action of alleging, from Middle French all&eacute;gation, from Latin allegationem
+(nominative allegatio) a sending, despatching, noun of action from past participle stem of allegare
+(see allege).
+
+
+pretension (n.)
+
+mid-15c., assertion, allegation; objection; intention; signification, from Medieval Latin
+pretensionem (nominative praetensio), noun of action from past participle stem of Latin praetendere
+stretch in front, put forward, allege (see pretend (v.)). Meaning unproven claim is from c.1600.
+Sense of ostentation is from 1727.
+
+
+surmise (v.)
+
+c.1400, in law, to charge, allege, from Old French surmis, past participle of surmettre to accuse,
+from sur- upon (see sur- (1)) + mettre put, from Latin mittere to send (see mission). Meaning to
+infer conjecturally is recorded from 1700, from the noun. Related: Surmised; surmising.
+
+
+defend (v.)
+
+mid-13c., from Old French defendre (12c.) defend, resist, and directly from Latin defendere ward
+off, protect, guard, allege in defense, from de- from, away (see de-) + -fendere to strike, push,
+from PIE root *gwhen- to strike, kill (see bane). In the Mercian hymns, Latin defendet is glossed by
+Old English gescilde&eth;. Related: Defended; defending.
+
+
+stultify (v.)
+
+1766, allege to be of unsound mind (legal term), from Late Latin stultificare turn into foolishness,
+from Latin stultus foolish (literally uneducated, unmovable, from PIE root *stel- to put, stand) +
+root of facere to make (see factitious). The first element is cognate with Latin stolidus slow,
+dull, obtuse (see stolid). Meaning cause to appear foolish or absurd is from 1809. Hence stultiloquy
+foolish talk, silly babbling (1650s). Related: Stultified; stultifying.
+
+
+ruse (n.)
+
+early 15c., dodging movements of a hunted animal; 1620s, a trick, from Old French ruse, reuse
+diversion, switch in flight; trick, jest (14c.), back-formed noun from reuser to dodge, repel,
+retreat; deceive, cheat, from Latin recusare deny, reject, oppose, from re-, intensive prefix (see
+re-), + causari plead as a reason, object, allege, from causa reason, cause (see cause (n.)). It
+also has been proposed that the French word may be from Latin rursus backwards, or a Vulgar Latin
+form of refusare. Johnson calls it, A French word neither elegant nor necessary. The verb ruse was
+used in Middle English.
+
+
+pretend (v.)
+
+late 14c., to profess, assert, maintain (a claim, etc.), to direct (one's) efforts, from Old French
+pretendre to lay claim, from Latin praetendere stretch in front, put forward, allege, from prae
+before (see pre-) + tendere to stretch, from PIE root *ten- to stretch (see tend).    Main modern
+sense of feign, put forward a false claim is recorded from c.1400; the older sense of simply to
+claim is behind the string of royal pretenders (1690s) in English history. Meaning to play, make
+believe is recorded from 1865. In 17c. pretend also could mean make a suit of marriage for, from a
+sense in French. Related: Pretended; pretending.
+
+

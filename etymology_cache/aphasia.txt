@@ -2,12 +2,18 @@ aphasia (n.)
 
 loss of ability to speak, especially as result of brain injury or disorder, 1867, from Modern Latin
 aphasia, from Greek aphasia speechlessness, from a- without (see a- (3)) + phasis utterance, from
-phanai to speak, related to pheme voice, report, rumor (see fame (n.)).  <blockquote>  APHASIA is
-the term which has recently been given to the loss of the faculty of articulate language, the organs
-of phonation and of articulation, as well as the intelligence, being unimpaired. The pathology of
-this affection is at the present time the subject of much discussion in the scientific world; the
-French Academy devoted several of their s&#233;ances during the year 1865 to its special
-elucidation, and the Medical Journals of France and of our own country have lately contained a good
-deal of original matter bearing upon this obscure feature in cerebral pathology. [Frederic Bateman,
-M.D., Aphasia, London, 1868]  </blockquote>
+phanai to speak, related to pheme voice, report, rumor (see fame (n.)).    APHASIA is the term which
+has recently been given to the loss of the faculty of articulate language, the organs of phonation
+and of articulation, as well as the intelligence, being unimpaired. The pathology of this affection
+is at the present time the subject of much discussion in the scientific world; the French Academy
+devoted several of their s&#233;ances during the year 1865 to its special elucidation, and the
+Medical Journals of France and of our own country have lately contained a good deal of original
+matter bearing upon this obscure feature in cerebral pathology. [Frederic Bateman, M.D., Aphasia,
+London, 1868]
+
+
+aphasic
+
+1868 (n.); 1892 (adj.), from aphasia + -ic.
+
 

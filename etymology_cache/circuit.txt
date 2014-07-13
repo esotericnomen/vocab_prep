@@ -6,3 +6,194 @@ from circum round (see circum-) + ire to go (see ion). Electrical sense is from 
 assignments, from 1570s; of venues for itinerant entertainers, from 1834. Circuit breaker is
 recorded from 1874. Related: Circuital.
 
+
+circuit (v.)
+
+to go around, early 15c., from circuit (n.). Related: Circuited; circuiting.
+
+
+circuitry (n.)
+
+1946, from circuit (n.)+ -ry.
+
+
+circuitous (adj.)
+
+1660s, from Medieval Latin circuitous full of roundabout ways, from Latin circuitus a going round
+(see circuit (n.)). Related: Circuitously; circuitousness.
+
+
+short circuit (n.)
+
+also short-circuit, 1854, in electricity, from short (adj.) + circuit (n.). As a verb, introduce a
+shunt of low resistance, from 1867; intransitive sense from 1902; in the figurative sense is
+recorded by 1899. Related: short-circuited; short-circuiting.
+
+
+short (n.)
+
+1580s, the short the result, the total, from short (adj.). Meaning electrical short circuit first
+recorded 1906 (see short circuit). Meaning contraction of a name or phrase is from 1873 (as in for
+short). Slang meaning car is attested from 1897; originally street car, so called because street
+cars (or the rides taken in them) were shorter than railroad cars.
+
+
+microchip (n.)
+
+integrated circuit, 1975, from micro- + chip (n.1).
+
+
+ambit (n.)
+
+late 14c., space surrounding a building or town; precinct; 1590s, a circuit, from Latin ambitus a
+going round, past participle of ambire to go round, to go about (see ambient).
+
+
+microcircuit (n.)
+
+1959, from micro- + circuit (n.). Related: Microcircuitry.
+
+
+gyrus (n.)
+
+convolution between grooves, 1842, from Latin gyrus circle, circuit, career, from Greek gyros ring,
+circle (see gyre).
+
+
+closed (adj.)
+
+c.1200, past participle adjective from close (v.). Closed circuit is attested from 1827; closed shop
+in union sense from 1904; closed system first recorded 1896 in William James.
+
+
+bout (n.)
+
+1540s, from Middle English bught, probably from an unrecorded Old English variant of byht a bend,
+from Proto-Germanic *bukhta- (see bight (n.)). Sense evolved from a circuit of any kind (as of a
+plow) to a round at any kind of exercise (1570s), a round at fighting (1590s), a fit of drinking
+(1660s).
+
+
+short (v.)
+
+Old English sceortian to grow short, become short; run short, fail, from the source of short (adj.).
+Transitive meaning make short is from late 12c. Meaning to short-circuit is by 1904. Related:
+Shorted; shorting.
+
+
+channel (n.)
+
+early 14c., bed of running water, from Old French chanel bed of a waterway; tube, pipe, gutter, from
+Latin canalis groove, channel, waterpipe (see canal). Given a broader, figurative sense 1530s (of
+information, commerce, etc.); meaning circuit for telegraph communication (1848) probably led to
+that of band of frequency for radio or TV signals (1928). The Channel Islands are the French
+&#206;les Anglo-Normandes.
+
+
+itinerant (adj.)
+
+1560s (attested in Anglo-Latin from late 13c.), from Late Latin itinerantem (nominative itinerans),
+present participle of itinerare to travel, from Latin iter (genitive itineris) journey, from ire go
+(see ion). Originally in reference to circuit courts.
+
+
+jumpstart (v.)
+
+also jump-start, to start a car using battery booster cables, by 1970, from jumper wire used to cut
+out part of a circuit or close a gap (1901 in telegraphy); see jump + start. Related: Jumpstarted;
+jumpstarting. Figurative use by 1975.
+
+
+round (v.)
+
+late 14c., to make round, from round (adj.). Sense of make a circuit round is from 1590s. Sense of
+bring to completeness is from c.1600; meaning to approximate (a number) is from 1934. Meaning turn
+round and face, turn on and assault is from 1882. Round out fill up is from 1856. Related: Rounded;
+rounding.
+
+
+environ (v.)
+
+late 14c. (implied in environing), to surround, from Old French environer to surround, enclose,
+encircle, from environ round about, from en- in (see en- (1)) + viron circle, circuit, from virer to
+turn (see veer). Related: Environed.
+
+
+environs (n.)
+
+outskirts, 1660s, from French environs, plural of Old French environ compass, circuit, from environ
+(adv.) around, round about (see environ).
+
+
+entourage (n.)
+
+1832, surroundings, environment, picked up by De Quincey from French entourage, from Middle French
+entourer to surround (16c.), from Old French entour that which surrounds (10c.), from en- in (see
+en- (1)) + tour a circuit (see tour). Sense of attendant persons first recorded in English by 1860.
+
+
+fuse (n.)
+
+combustible cord or tube for lighting an explosive device, also fuze, 1640s, from Italian fuso
+spindle (so called because the originals were long, thin tubes filled with gunpowder), from Latin
+fusus spindle, of uncertain origin. Influenced by French fus&eacute;e spindleful of hemp fiber, and
+obsolete English fusee musket fired by a fuse. Meaning device that breaks an electrical circuit
+first recorded 1884, so named for its shape, but erroneously attributed to fuse (v.) because it
+melts.
+
+
+tour (n.)
+
+c.1300, a turn, a shift on duty, from Old French tor, tourn, tourn a turn, trick, round, circuit,
+circumference, from torner, tourner to turn (see turn (v.)). Sense of a continued ramble or
+excursion is from 1640s. Tour de France as a bicycle race is recorded in English from 1916 (Tour de
+France Cycliste), distinguished from a motorcar race of the same name. The Grand Tour, a journey
+through France, Germany, Switzerland, and Italy formerly was the finishing touch in the education of
+a gentleman.
+
+
+ember days (n.)
+
+Old English Ymbrendaeg, Ymbren, 12 days of the year (divided into four seasonal periods, hence Latin
+name quatuor tempora) set aside by the Church for fasting and prayers, from Old English ymbren
+recurring, corruption of ymbryne a circuit, revolution, course, anniversary, literally a running
+around, from ymb round (cognate with Greek amphi, Latin ambo; see ambi-) + ryne course, running (see
+run (n.)). Perhaps influenced by a corruption of the Latin name (compare German quatember).
+
+
+button (n.)
+
+c.1300 (surname Botouner button-maker attested from mid-13c.), from Old French boton a button,
+originally a bud (12c., Modern French bouton), from bouter, boter to thrust, common Romanic (Spanish
+boton, Italian bottone), ultimately from Germanic (see butt (v.)). Thus a button is, etymologically,
+something that pushes up, or thrusts out.    Meaning point of the chin is pugilistic slang, by 1921.
+A button as something you push to create an effect by closing an (electrical) circuit is attested
+from 1840s. Button-pusher as deliberately annoying or provocative person is attested by 1990 (in
+reference to Bill Gates, in InfoWorld magazine, Nov. 19). In the 1980s it meant photographer.
+
+
+round (n.)
+
+early 14c., a spherical body, from round (adj.) and Old French roond. Compare Dutch rond, Danish and
+Swedish rund, German runde, all nouns from adjectives. Meaning large round piece of beef is recorded
+from 1650s. Theatrical sense (in phrase in the round) is recorded from 1944. Sense of circuit
+performed by a sentinel is from 1590s; that of recurring course of time is from 1710. Meaning song
+sung by two or more, beginning at different times is from 1520s. Golfing sense attested from 1775.
+Meaning quantity of liquor served to a company at one time is from 1630s; that of single bout in a
+fight or boxing match is from 1812; single discharge of a firearm is from 1725. Sense of recurring
+session of meetings or negotiations is from 1964.
+
+
+period (n.)
+
+early 15c., course or extent of time, from Middle French periode (14c.) and directly from Medieval
+Latin periodus recurring portion, cycle, from Latin periodus a complete sentence, also cycle of the
+Greek games, from Greek periodos cycle, circuit, period of time, literally a going around, from
+peri- around (see peri-) + hodos a going, way, journey (see cede).    Sense of repeated cycle of
+events led to that of interval of time. Meaning dot marking end of a sentence first recorded c.1600,
+from similar use in Medieval Latin (in late 16c. English it meant full pause at the end of a
+sentence). Sense of menstruation dates from 1822. Educational sense of portion of time set apart for
+a lesson is from 1876. Sporting sense attested from 1898. As an adjective from 1905; period piece
+attested from 1911.
+
+

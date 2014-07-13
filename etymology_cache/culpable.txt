@@ -4,3 +4,24 @@ late 13c., coupable, from Old French coupable (12c., Modern French coupable), fr
 worthy of blame, from culpare to blame, from culpa crime, fault, blame, guilt, error. English (and
 for a time French) restored the first Latin -l- in later Middle Ages.
 
+
+culprit (n.)
+
+1670s, from Anglo-French cul prit, contraction of Culpable: prest (d'averrer nostre bille) guilty,
+ready (to prove our case), words used by prosecutor in opening a trial. It seems the abbreviation
+cul. prit was mistaken in English for an address to the defendant.
+
+
+culpability (n.)
+
+1670s, from Late Latin culpabilitas guilt, culpability, from Latin culpabilis (see culpable).
+
+
+inculpate (v.)
+
+1799, to accuse, bring charges against, from Medieval Latin inculpatus, past participle of inculpare
+to reproach, blame, censure, from Latin in- in (see in- (2)) + culpare to blame, from culpa fault.
+But inculpable (late 15c.) means not culpable, free from blame, from Latin in- not (see in- (1)) +
+culpare.
+
+

@@ -4,3 +4,59 @@ before vowels crypt-, word-forming element meaning secret or hidden, used in for
 since at least 1760, from Latinized form of Greek kryptos hidden, concealed, secret (see crypt; the
 Greek comb. form was krypho-). Crypto-fascist is attested from 1937; crypto-communist from 1946.
 
+
+cryptic (adj.)
+
+1630s, hidden, occult, mystical, from Late Latin crypticus, from Greek kryptikos fit for concealing,
+from kryptos hidden (see crypt). Meaning mysterious, enigmatic is recorded from 1920. Related:
+Cryptically.
+
+
+cryptography (n.)
+
+1650s, from French cryptographie or directly from Modern Latin cryptographia, from Greek kryptos
+hidden (see crypt) + -graphy. Related: Cryptograph; cryptographer.
+
+
+crypt (n.)
+
+early 15c., grotto, cavern, from Latin crypta vault, cavern, from Greek krypte (short for krypte
+kamara hidden vault), fem. of kryptos hidden, verbal adjective from kryptein to hide, from PIE
+*krau- to conceal, hide (cognates: Old Church Slavonic kryjo, kryti to hide). Meaning underground
+burial vault or chapel in a church first attested 1789.
+
+
+undercroft (n.)
+
+crypt of a church; underground vault, late 14c., from under + croft.
+
+
+krypton (n.)
+
+inert gaseous element, 1898, coined by its discoverers (Sir William Ramsay and Morris W. Travers)
+from Greek krypton, neuter of adjective kryptos hidden (see crypt); so called because it was so
+difficult to find.
+
+
+grotto (n.)
+
+1610s, from Italian grotta, ultimately from Latin crypta vault, cavern, from Greek krypte hidden
+place (see crypt). Terminal -o may be from its being spelled that way in many translations of
+Dante's Divine Comedy.
+
+
+encrypt (v.)
+
+1975 in computer sense, from en- (1) + crypt (see crypto-). Related: Encrypted; encrypting;
+encryption.
+
+
+Apocrypha
+
+late 14c., neuter plural of Late Latin apocryphus secret, not approved for public reading, from
+Greek apokryphos hidden; obscure, thus (books) of unknown authorship (especially those included in
+the Septuagint and Vulgate but not originally written in Hebrew and not counted as genuine by the
+Jews), from apo- away (see apo-) + kryptein to hide (see crypt). Properly plural (the single would
+be Apocryphon or apocryphum), but commonly treated as a collective singular.
+
+

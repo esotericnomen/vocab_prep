@@ -4,3 +4,64 @@ rabies (n.)
 of extremely fatal infectious disease causing madness in dogs was a secondary meaning in Latin.
 Known hydrophobia in humans.
 
+
+rage (n.)
+
+c.1300, madness, insanity; fit of frenzy; anger, wrath; fierceness in battle; violence of storm,
+fire, etc., from Old French rage, raige spirit, passion, rage, fury, madness (11c.), from Medieval
+Latin rabia, from Latin rabies madness, rage, fury, related to rabere be mad, rave (compare rabies,
+which originally had this sense), from PIE *rebh- violent, impetuous (cognates: Old English rabbian
+to rage). Similarly, Welsh (cynddaredd) and Breton (kounnar) words for rage, fury originally meant
+hydrophobia and are compounds based on the word for dog (Welsh ci, plural cwn; Breton ki). In
+15c.-16c. it also could mean rabies. The rage fashion, vogue dates from 1785.
+
+
+rabid (adj.)
+
+1610s, furious, raving, from Latin rabidus raging, furious, enraged; inspired; ungoverned; rabid,
+from rabere be mad, rave (see rage (v.)). Meaning made mad by rabies in English first recorded 1804.
+Related: Rabidly; rabidness.
+
+
+enrage (v.)
+
+late 14c. (implied in enraged), from Old French enragier go wild, go mad, lose one's senses, from
+en- make, put in (see en- (1)) + rage rabies, rage (see rage (n.)). Related: Enraging. Intransitive
+only in Old French; transitive sense is oldest in English.
+
+
+Alyssum (n.)
+
+genus name for plants of the mustard family, 1550s, from Latin alysson, from Greek alysson, which is
+perhaps the neuter of adjective alyssos curing madness, from privative prefix a- + lyssa madness,
+martial rage, fury, rabies, literally wolf-ness, related to lykos wolf (see wolf (n.)).
+
+
+hydrophobia (n.)
+
+late 14c., idroforbia, a symptom of rabies in man (sometimes used for the disease itself), from Late
+Latin hydrophobia (Celsius, 50 C.E.), from Greek hydrophobos dreading water, from hydr-, stem of
+hydros water (see water (n.1)) + phobos dread, fear (see phobia). So called because human sufferers
+show aversion to water and have difficulty swallowing it. In Old English as w&aelig;terfyrhtness.
+
+
+mad (adj.)
+
+late 13c., from Old English gem&aelig;dde (plural) out of one's mind (usually implying also violent
+excitement), also foolish, extremely stupid, earlier gem&aelig;ded rendered insane, past participle
+of a lost verb *gem&aelig;dan to make insane or foolish, from Proto-Germanic *ga-maid-jan,
+demonstrative form of *ga-maid-az changed (for the worse), abnormal (cognates: Old Saxon gimed
+foolish, Old High German gimeit foolish, vain, boastful, Gothic gamai&thorn;s crippled, wounded, Old
+Norse mei&eth;a to hurt, maim), from intensive prefix *ga- + PIE *moito-, past participle of root
+*mei- (1) to change (cognates: Latin mutare to change, mutuus done in exchange, migrare to change
+one's place of residence; see mutable).    Emerged in Middle English to replace the more usual Old
+English word, wod (see wood (adj.)). Sense of beside oneself with excitement or enthusiasm is from
+early 14c. Meaning beside oneself with anger is attested from early 14c., but deplored by Rev. John
+Witherspoon (1781) as an Americanism. It now competes in American English with angry for this sense.
+Of animals, affected with rabies, from late 13c. Phrase mad as a March hare is attested from 1520s,
+via notion of breeding season; mad as a hatter is from 1829 as demented, 1837 as enraged, according
+to a modern theory supposedly from erratic behavior caused by prolonged exposure to poison mercuric
+nitrate, used in making felt hats. For mad as a wet hen see hen. Mad money is attested from 1922;
+mad scientist is from 1891.
+
+

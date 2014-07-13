@@ -7,3 +7,161 @@ Meaning pertaining to theory, making deductions from theory not from fact (oppos
 from 1650s; earlier in this sense was theorical (c.1500). Meaning ideal, hypothetical is from 1790s
 (implied in theoretically). Related: theoretician.
 
+
+global warming (n.)
+
+by 1983 as the name for a condition of overall rising temperatures and attendant consequences as a
+result of human activity. Originally theoretical, popularized as a reality from 1989.
+
+
+propeller (n.)
+
+1780, anything that propels, agent noun from propel. In mechanical sense, 1809, of ships; of flying
+machines (in a broad, theoretical sense) 1842, in the specific modern sense 1853.
+
+
+Einstein (n.)
+
+as a type-name for a genius, 1920, in reference to German-born theoretical physicist Albert Einstein
+(1879-1955). According to German-American Names (George F. Jones, 3rd ed., 2006) it means literally
+place encompassed by a stone wall.
+
+
+biplane (n.)
+
+airplane with two full wings, one above the other, 1874, as a theoretical notion; first attested
+1908 in reference to the real thing; from bi- + plane (n.1). So called from the two planes of the
+double wings.
+
+
+applied (adj.)
+
+put to practical use, (as opposed to abstract or theoretical), 1650s, from past participle of apply.
+Earlier it was used in a sense of folded (c.1500).
+
+
+telephonic (adj.)
+
+1830, pertaining to communication by sound over great distances, originally theoretical, from tele-
++ phonic. From 1834 in reference to the system of Sudr&eacute; using musical sounds (see telephone),
+and with reference to Bell's invention from 1876, in which cases it can be taken as from telephone +
+-ic.
+
+
+academic (adj.)
+
+1580s, relating to an academy, also collegiate, scholarly, from Latin academicus of the Academy,
+from academia (see academy). Meaning theoretical, not practical, not leading to a decision (such as
+university debates or classroom legal exercises) is from 1886. Academic freedom is attested from
+1901. Related: Academically.
+
+
+speculative (adj.)
+
+late 14c., contemplative, also purely scientific, in theory only (opposed to practical), from Old
+French speculatif worth great attention; theoretical, or directly from Late Latin speculativus, from
+past participle stem of speculari (see speculation). Meaning given to (financial) speculation is
+from 1763. Related: Speculatively.
+
+
+practic (n.)
+
+late 14c., a way of doing something, method; practice, custom, usage; also an applied science; from
+Old French practique practice, usage (13c.) and directly from Medieval Latin practica practice,
+practical knowledge, ultimately from Greek praktike practical (as opposed to theoretical; see
+practical). From early 15c. as practical aspect or application of something; practice as opposed to
+theory; also, knowledge of the practical aspect of something, practical experience.
+
+
+nucleus (n.)
+
+1704, kernel of a nut, 1708, head of a comet, from Latin nucleus kernel, from nucula little nut,
+diminutive of nux (genitive nucis) nut, from PIE *kneu- nut (cognates: Middle Irish cnu, Welsh
+cneuen, Middle Breton knoen nut, Old Norse hnot, Old English hnutu nut). General sense of central
+part or thing, about which others cluster is from 1762. Use in reference to cells first recorded
+1831. Modern atomic meaning is 1912, first by Ernest Rutherford, though theoretical use for central
+point of an atom is from 1844, in Faraday.
+
+
+protein (n.)
+
+1844, from French prot&eacute;ine, coined 1838 by Dutch chemist Gerhard Johan Mulder (1802-1880),
+perhaps on suggestion of Berzelius, from Greek proteios the first quality, from protos first (see
+proto-) + -ine (2).    Originally a theoretical substance thought to be essential to life, further
+studies of the substances he was working with overthrew this, but the words protein and proteid
+continued to be used in international work on the matter and also for other organic compounds; the
+modern use as a general name for a class of bodies arose in German. The confusion became so great a
+committee was set up in 1907 to sort out the nomenclature, which it did, giving protein its modern
+meaning and banishing proteid.
+
+
+computer (n.)
+
+1640s, one who calculates, agent noun from compute (v.). Meaning calculating machine (of any type)
+is from 1897; in modern use, programmable digital electronic computer (1945 under this name;
+theoretical from 1937, as Turing machine). ENIAC (1946) usually is considered the first. Computer
+literacy is recorded from 1970; an attempt to establish computerate (adjective, on model of
+literate) in this sense in the early 1980s didn't catch on. Computerese the jargon of programmers is
+from 1960, as are computerize and computerization.    WASHINGTON (AP) -- A New York Congressman says
+the use of computers to record personal data on individuals, such as their credit background, is
+just frightening to me. [news article, March 17, 1968]
+
+
+practical (adj.)
+
+early 15c., practicale of or pertaining to matters of practice; applied, with -al (1) + earlier
+practic (adj.) dealing with practical matters, applied, not merely theoretical (early 15c.), or
+practic (n.) method, practice, use (late 14c.). In some cases directly from Old French practique
+(adj.) fit for action, earlier pratique (13c.) and Medieval Latin practicalis, from Late Latin
+practicus practical, active, from Greek praktikos fit for action, fit for business; business-like,
+practical; active, effective, vigorous, from praktos done; to be done, verbal adjective of prassein,
+prattein to do, act, effect, accomplish.
+
+
+television (n.)
+
+1907, as a theoretical system to transmit moving images over telegraph or telephone wires; formed in
+English or borrowed from French t&eacute;l&eacute;vision, from tele- + vision.    Television is not
+impossible in theory. In practice it would be very costly without being capable of serious
+application. But we do not want that. On that day when it will be possible to accelerate our methods
+of telephotography by at least ten times, which does not appear to be impossible in the future, we
+shall arrive at television with a hundred telegraph wires. Then the problem of sight at a distance
+will without doubt cease to be a chimera. [Telegraphing Pictures in Windsor Magazine, 1907]    Other
+proposals for the name of a then-hypothetical technology for sending pictures over distance were
+telephote (1880) and televista (1904). The technology was developed in the 1920s and '30s. Nativized
+in German as Fernsehen. Shortened form TV is from 1948. Meaning a television set is from 1941.
+Meaning television as a medium is from 1927.  Television is the first truly democratic culture --
+the first culture available to everyone and entirely governed by what the people want. The most
+terrifying thing is what people do want. [Clive Barnes, New York Times, Dec. 30, 1969]
+
+
+science (n.)
+
+mid-14c., what is known, knowledge (of something) acquired by study; information; also assurance of
+knowledge, certitude, certainty, from Old French science knowledge, learning, application; corpus of
+human knowledge (12c.), from Latin scientia knowledge, a knowing; expertness, from sciens (genitive
+scientis) intelligent, skilled, present participle of scire to know, probably originally to separate
+one thing from another, to distinguish, related to scindere to cut, divide, from PIE root *skei- to
+cut, to split (cognates: Greek skhizein to split, rend, cleave, Gothic skaidan, Old English sceadan
+to divide, separate; see shed (v.)).    From late 14c. in English as book-learning, also a
+particular branch of knowledge or of learning; also skillfulness, cleverness; craftiness. From
+c.1400 as experiential knowledge; also a skill, handicraft; a trade. From late 14c. as collective
+human knowledge (especially that gained by systematic observation, experiment, and reasoning).
+Modern (restricted) sense of body of regular or methodical observations or propositions concerning a
+particular subject or speculation is attested from 1725; in 17c.-18c. this concept commonly was
+called philosophy. Sense of non-arts studies is attested from 1670s.    Science, since people must
+do it, is a socially embedded activity. It progresses by hunch, vision, and intuition. Much of its
+change through time does not record a closer approach to absolute truth, but the alteration of
+cultural contexts that influence it so strongly. Facts are not pure and unsullied bits of
+information; culture also influences what we see and how we see it. Theories, moreover, are not
+inexorable inductions from facts. The most creative theories are often imaginative visions imposed
+upon facts; the source of imagination is also strongly cultural. [Stephen Jay Gould, introduction to
+The Mismeasure of Man, 1981]   <hr />   In science you must not talk before you know. In art you
+must not talk before you do. In literature you must not talk before you think. [John Ruskin, The
+Eagle's Nest, 1872]    The distinction is commonly understood as between theoretical truth (Greek
+episteme) and methods for effecting practical results (tekhne), but science sometimes is used for
+practical applications and art for applications of skill. To blind (someone) with science confuse by
+the use of big words or complex explanations is attested from 1937, originally noted as a phrase
+from Australia and New Zealand.
+
+

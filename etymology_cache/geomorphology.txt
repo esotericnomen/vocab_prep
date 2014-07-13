@@ -3,3 +3,25 @@ geomorphology (n.)
 1893, from geo- + morphology. Form geomorphy is from 1889. Related: Geomorphological;
 geomorphologically; geomorphologist.
 
+
+hill (n.)
+
+Old English hyll hill, from Proto-Germanic *hulni- (cognates: Middle Dutch hille, Low German hull
+hill, Old Norse hallr stone, Gothic hallus rock, Old Norse holmr islet in a bay, Old English holm
+rising land, island), from PIE root *kel- (4) to rise, be elevated, be prominent; hill (cognates:
+Sanskrit kutam top, skull; Latin collis hill, columna projecting object, culmen top, summit, cellere
+raise, celsus high; Greek kolonos hill, kolophon summit; Lithuanian kalnas mountain, kalnelis hill,
+kelti raise). Formerly including mountains, now usually confined to heights under 2,000 feet. In
+Great Britain heights under 2,000 feet are generally called hills; 'mountain' being confined to the
+greater elevations of the Lake District, of North Wales, and of the Scottish Highlands; but, in
+India, ranges of 5,000 and even 10,000 feet are commonly called 'hills,' in contrast with the
+Himalaya Mountains, many peaks of which rise beyond 20,000 feet. [OED]   <hr />   The term mountain
+is very loosely used. It commonly means any unusual elevation. In New England and central New York,
+elevations of from one to two thousand feet are called hills, but on the plains of Texas, a hill of
+a few hundred feet is called a mountain. [Ralph S. Tarr, Elementary Geology, Macmillan, 1903]   <hr
+/>   Despite the differences in defining mountain systems, Penck (1896), Supan (1911) and Obst
+(1914) agreed that the distinction between hills, mountains, and mountain systems according to areal
+extent or height is not a suitable classification. [Geographic Information Science and Mountain
+Geomorphology, 2004]    Phrase over the hill past one's prime is first recorded 1950.
+
+

@@ -3,3 +3,23 @@ contagion (n.)
 late 14c., from Old French contagion, from Latin contagionem (nominative contagio) a touching,
 contact, contagion, related to contingere touch closely (see contact (n.)).
 
+
+infection (n.)
+
+late 14c., infectious disease; contaminated condition; from Old French infeccion contamination,
+poisoning (13c.) and directly from Late Latin infectionem (nominative infectio), noun of action from
+past participle stem of Latin inficere (see infect). Meaning communication of disease by agency of
+air or water (distinguished from contagion, which is body-to-body communication), is from 1540s.
+
+
+acrophobia (n.)
+
+morbid fear of heights, 1887, medical Latin, from Greek akros at the end, the top (see acrid) +
+-phobia fear. Coined by Italian physician Dr. Andrea Verga in a paper describing the condition, from
+which Verga himself suffered.    In this paper, read somewhat over a year ago at the congress of
+alienists at Pavia, the author makes confession of his own extreme dread of high places. Though
+fearless of the contagion of cholera, he has palpitations on mounting a step-ladder, finds it
+unpleasant to ride on the top of a coach or to look out of even a first-story window, and has never
+used an elevator. [American Journal of Psychology, Nov. 1888, abstract of Verga's report]
+
+

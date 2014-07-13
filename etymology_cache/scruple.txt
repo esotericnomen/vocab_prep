@@ -2,3 +2,31 @@ scruple (v.)
 
 to have or make scruples, 1620s, from scruple (n.). Related: Scrupled; scrupling.
 
+
+scruple (n.)
+
+moral misgiving, pang of conscience, late 14c., from Old French scrupule (14c.), from Latin
+scrupulus uneasiness, anxiety, pricking of conscience, literally small sharp stone, diminutive of
+scrupus sharp stone or pebble, used figuratively by Cicero for a cause of uneasiness or anxiety,
+probably from the notion of having a pebble in one's shoe. The word in the more literal Latin sense
+of small unit of weight or measurement is attested in English from late 14c.
+
+
+scrupulous (adj.)
+
+mid-15c., from Anglo-French scrupulus, Middle French scrupuleux, or directly from Latin scrupulosus,
+from scrupulus (see scruple). Related: Scrupulously; scrupulousness.
+
+
+qualm (n.)
+
+Old English cwealm (West Saxon) death, murder, slaughter; disaster; plague; torment, utcualm
+(Anglian) utter destruction, probably related to cwellan to kill, murder, execute, cwelan to die
+(see quell). Sense softened to feeling of faintness 1520s; figurative meaning uneasiness, doubt is
+from 1550s; that of scruple of conscience is 1640s.    Evidence of a direct path from the Old
+English to the modern senses is wanting, but it is plausible, via the notion of fit of sickness. The
+other suggested etymology, less satisfying, is to take the fit of uneasiness sense from Dutch kwalm
+steam, vapor, mist (cognate with German Qualm smoke, vapor, stupor), which also might be ultimately
+from the same Germanic root as quell.
+
+

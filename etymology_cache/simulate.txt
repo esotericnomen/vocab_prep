@@ -4,3 +4,45 @@ simulated (adj.)
 experiment or training is from 1966 (agent noun simulator in the related sense dates from 1947; also
 see simulation). In commercial jargon, artificial, imitation by 1942.
 
+
+simulate (v.)
+
+1620s, feign, pretend, assume falsely (implied in simulated), back-formation from simulation or else
+from Latin simulatus, past participle of simulare to make like, imitate, copy. Meaning to use a
+model to imitate certain conditions for purposes of study or training is from 1947. Related:
+Simulating.
+
+
+dissimulation (n.)
+
+late 14c., from Old French dissimulation (12c.), from Latin dissimulationem (nominative
+dissimulatio) a disguising, concealment, noun of action from past participle stem of dissimulare
+make unlike, conceal, disguise, from dis- completely + simulare pretend, assume, simulate (see
+simulation).
+
+
+dissimulate (v.)
+
+1530s, from Latin dissimulatus, past participle of dissimulare to disguise, hide, conceal, keep
+secret, from dis- (see dis-) + simulare (see simulate). Related: Dissimulated; dissimulating.
+
+
+butterfly (n.)
+
+Old English buttorfleoge, evidently butter (n.) + fly (n.), but of obscure signification. Perhaps
+based on the old notion that the insects (or witches disguised as butterflies) consume butter or
+milk that is left uncovered. Or, less creatively, simply because the pale yellow color of many
+species' wings suggests the color of butter. Another theory connects it to the color of the insect's
+excrement, based on Dutch cognate boterschijte. An overview of words for butterfly in various
+languages can be found here. Also see papillon.    Applied to persons from c.1600, originally in
+reference to vain and gaudy attire; by 1806 in reference to transformation from early lowly state;
+in reference to flitting tendencies by 1873. The swimming stroke so called from 1936. Butterflies
+light stomach spasms caused by anxiety is from 1908.    The butterfly effect is a deceptively simple
+insight extracted from a complex modern field. As a low-profile assistant professor in MIT's
+department of meteorology in 1961, [Edward] Lorenz created an early computer program to simulate
+weather. One day he changed one of a dozen numbers representing atmospheric conditions, from .506127
+to .506. That tiny alteration utterly transformed his long-term forecast, a point Lorenz amplified
+in his 1972 paper, Predictability: Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado
+in Texas? [Peter Dizikes, The Meaning of the Butterfly, The Boston Globe, June 8, 2008]
+
+

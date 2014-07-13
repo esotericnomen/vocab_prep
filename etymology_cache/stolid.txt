@@ -3,3 +3,20 @@ stolidity (n.)
 1560s, from Middle French stolidite and directly from Late Latin stoliditatem (nominative
 stoliditas) dullness, obtuseness, stupidity, from Latin stolidus (see stolid).
 
+
+stolid (adj.)
+
+c.1600, back-formation from stolidity, or else from Middle French stolide (16c.), from Latin
+stolidus insensible, dull, slow, brutish, rude, stupid, properly unmovable, related to stultus
+foolish, from PIE root *stel- to put, stand (see stall (n.1)).
+
+
+stultify (v.)
+
+1766, allege to be of unsound mind (legal term), from Late Latin stultificare turn into foolishness,
+from Latin stultus foolish (literally uneducated, unmovable, from PIE root *stel- to put, stand) +
+root of facere to make (see factitious). The first element is cognate with Latin stolidus slow,
+dull, obtuse (see stolid). Meaning cause to appear foolish or absurd is from 1809. Hence stultiloquy
+foolish talk, silly babbling (1650s). Related: Stultified; stultifying.
+
+

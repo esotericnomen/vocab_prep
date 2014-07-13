@@ -3,7 +3,17 @@ phlegmatic (adj.)
 cool, calm, self-possessed, and in a more pejorative sense, cold, dull, apathetic, 1570s, from
 literal sense abounding in phlegm (as a bodily humor) (mid-14c., fleumatik), from Old French
 fleumatique (13c., Modern French flegmatique), from Late Latin phlegmaticus, from Greek phlegmatikos
-abounding in phlegm (see phlegm).<blockquote>A verry flewmatike man is in the body lustles, heuy and
-slow. [John of Trevisa, translation of Bartholomew de Glanville's De proprietatibus rerum,
-1398]</blockquote>
+abounding in phlegm (see phlegm).A verry flewmatike man is in the body lustles, heuy and slow. [John
+of Trevisa, translation of Bartholomew de Glanville's De proprietatibus rerum, 1398]
+
+
+temperament (n.)
+
+late 14c., proportioned mixture of elements, from Latin temperamentum proper mixture, a mixing in
+due proportion, from temperare to mix (see temper (v.)). In medieval theory, it meant a combination
+of qualities (hot, cold, moist, dry) that determined the nature of an organism; thus also a
+combination of the four humors (sanguine, choleric, phlegmatic, and melancholic) that made up a
+person's characteristic disposition. General sense of habit of mind, natural disposition is from
+1821.
+
 

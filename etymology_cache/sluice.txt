@@ -2,3 +2,33 @@ sluice (v.)
 
 1590s, from sluice (n.). Related: Sluiced; sluicing.
 
+
+sluice (n.)
+
+c.1400, earlier scluse (mid-14c.), a shortening of Old French escluse sluice, floodgate (Modern
+French &#233;cluse), from Late Latin exclusa barrier to shut out water (in aqua exclusa water shut
+out, i.e. separated from the river), from fem. singular of Latin exclusus, past participle of
+excludere to shut out (see exclude).
+
+
+sewer (n.1)
+
+c.1400, conduit, from Anglo-French sewere, Old North French sewiere sluice from a pond (13c.),
+literally something that makes water flow, from shortened form of Gallo-Roman *exaquaria (source of
+Middle French esseveur), from Latin ex- out (see ex-) + aquaria, fem. of aquarius pertaining to
+water, from aqua water (see aqua-).    Specifically of underground channels for wastewater from
+c.1600; figurative use of this is from 1640s.
+
+
+lock (n.1)
+
+means of fastening, Old English loc bolt, fastening; barrier, enclosure, from Proto-Germanic *lukan
+(cognates: Old Norse lok fastening, lock, Gothic usluks opening, Old High German loh dungeon, German
+Loch opening, hole, Dutch luik shutter, trapdoor). The great diversity of meaning in the Teut. words
+seems to indicate two or more independent but formally identical substantival formations from the
+root.    The Old English sense barrier, enclosure led to the specific meaning barrier on a river
+(c.1300), and the more specific sense gate and sluice system on a water channel used as a means of
+raising and lowering boats (1570s). Wrestling sense is from c.1600. Phrase under lock and key
+attested from early 14c.
+
+

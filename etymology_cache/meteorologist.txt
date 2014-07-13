@@ -3,3 +3,39 @@ meteorologist (n.)
 1620s, from meteorology + -ist. Earlier was meteorologician (1570s). Greek meteorologos meant one
 who deals with celestial phenomena, astronomer.
 
+
+anticyclone (n.)
+
+1863, coined by Francis Galton (1822-1911), English polymath, explorer, and meteorologist, from
+anti- + cyclone. Related: Anticyclonic.
+
+
+troposphere (n.)
+
+1914, from French troposph&egrave;re, literally sphere of change, coined by French meteorologist
+Philippe Teisserenc de Bort (1855-1913) from Greek tropos a turn, change (see trope) + sphaira
+sphere (see sphere). Related: Tropopause.
+
+
+stratosphere (n.)
+
+1908, from French stratosph&egrave;re, literally sphere of layers, coined by French meteorologist
+L&eacute;on-Philippe Teisserenc de Bort (1855-1913) from Latin stratus a spreading out (from past
+participle stem of sternere to spread out; see structure (n.)) + French -sph&egrave;re, as in
+atmosph&egrave;re (see sphere).    The region where the temperature increases or remains steady as
+you go higher. An earlier stratosphere, attested in English 1908 and coined in German 1901, was a
+geological term for part of the Earth's crust. It is now obsolete. Related: Stratospheric.
+
+
+cloud (n.)
+
+Old English clud mass of rock, hill, related to clod. Metaphoric extension to raincloud, mass of
+evaporated water in the sky is attested by c.1200 based on similarity of cumulus clouds and rock
+masses. The usual Old English word for cloud was weolcan. In Middle English, skie also originally
+meant cloud.    The four fundamental types of cloud classification (cirrus, cumulus, stratus,
+nimbus) were proposed by British amateur meteorologist Luke Howard (1772-1864) in 1802.
+Figuratively, as something that casts a shadow, from early 15c.; hence under a cloud (c.1500). In
+the clouds removed from earthly things; obscure, fanciful, unreal is from 1640s. Cloud-compeller
+translates (poetically) Greek nephelegereta, a Homeric epithet of Zeus.
+
+

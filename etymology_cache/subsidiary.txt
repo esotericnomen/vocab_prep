@@ -4,3 +4,26 @@ subsidiary (adj.)
 supplement, from subsidium a help, aid, relief, troops in reserve (see subsidy). As a noun, c.1600,
 subsidiary thing. In Latin the word was used as a noun meaning the reserve.
 
+
+subsidiarity (n.)
+
+1936, from German Subsidiarit&auml;t, paraphrasing the Latin of Pius XI in his Quadragesimo Anno of
+1931; see subsidiary + -ity.
+
+
+appurtenance (n.)
+
+c.1300, right, privilege or possession subsidiary to a principal one, from Anglo-French apurtenance
+(12c.), Old French apartenance, present participle of apartenir be related to, from Latin
+appertinere to pertain to, from ad- to (see ad-) + pertinere belong to (see pertain).
+
+
+parameter (n.)
+
+1650s in geometry, from Modern Latin parameter (1630s), from Greek para- beside, subsidiary (see
+para- (1)) + metron measure (see meter (n.2)).    A geometry term until 1920s when it yielded sense
+of measurable factor which helps to define a particular system (1927). Common modern meaning
+(influenced by perimeter) of boundary, limit, characteristic factor is from 1950s. Related:
+Parametric.
+
+

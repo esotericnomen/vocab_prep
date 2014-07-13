@@ -6,3 +6,384 @@ singularis single, solitary, one by one, one at a time; peculiar, remarkable, fr
 single (adj.)). Meaning remarkably good, unusual, rare, separated from others (by excellence),
 uncommon is from c.1400 in English; this also was a common meaning of Latin singularis.
 
+
+singularly (adv.)
+
+late 14c., exclusively, alone, solely; uniquely; individually; in an unusual way, especially, from
+singular + -ly (2).
+
+
+singularity (n.)
+
+c.1400, unusual behavior, also singleness of aim or purpose, from Old French singulerte peculiarity
+(12c., Modern French singularit&eacute;) or directly from Late Latin singularitatem (nominative
+singularitas) a being alone, from singularis (see singular (adj.)). Meaning fact of being different
+from others is c.1500. Mathematical sense of point at which a function takes an infinite value is
+from 1893. Astronomical use is from 1965.
+
+
+morituri te salutant
+
+Latin, literally those about to die salute you, words addressed to emperor by gladiators upon
+entering the arena. Third person singular is moriturus te salutat, first person singular is
+moriturus te saluto.
+
+
+experto crede
+
+Latin (Aeneid, xi.283), take it from one who knows; from dative singular of expertus (see expert
+(adj.)) + imperative singular of credere (see credo).
+
+
+&#039;s
+
+suffix forming the possessive singular case of most Modern English nouns; its use gradually was
+extended in Middle English from Old English -es, the most common genitive inflection of masculine
+and neuter nouns (such as d&aelig;g day, genitive d&aelig;ges day's).    Old English also had
+genitives in -e, -re, -an, as well as mutation-genitives (boc book, plural bec), and the -es form
+never was used in plural (where -a, -ra, -na prevailed), thus avoiding the verbal ambiguity of words
+like kings'.    In Middle English, both the possessive singular and the common plural forms were
+regularly spelled es, and when the e was dropped in pronunciation and from the written word, the
+habit grew up of writing an apostrophe in place of the lost e in the possessive singular to
+distinguish it from the plural. Later the apostrophe, which had come to be looked upon as the sign
+of the possessive, was carried over into the plural, but was written after the s to differentiate
+that form from the possessive singular. By a process of popular interpretation, the 's was supposed
+to be a contraction for his, and in some cases the his was actually restored. [Samuel C. Earle, et
+al, Sentences and their Elements, New York: Macmillan, 1911]    As a suffix forming some adverbs, it
+represents the genitive singular ending of Old English masculine and neuter nouns and some
+adjectives.
+
+
+aborigine (n.)
+
+1858, mistaken singular of aborigines (1540s; the correct singular is aboriginal), from Latin
+Aborigines the first ancestors of the Romans; the first inhabitants (especially of Latium), possibly
+a tribal name, or from ab origine, literally from the beginning. Extended 1789 to natives of other
+countries which Europeans have colonized. Australian slang shortening Abo attested from 1922.
+
+
+agenda (n.)
+
+1650s, from Latin agenda, literally things to be done, neuter plural of agendus, gerundive of agere
+to do (see act (n.)). Originally theological (opposed to matters of belief), sense of items of
+business to be done at a meeting first attested 1882. If a singular is required (=one item of the
+agenda) it is now agendum, the former singular agend being obsolete [Fowler].
+
+
+phase (n.)
+
+1705, phase of the moon, back-formed as a singular from Modern Latin phases, plural of phasis, from
+Greek phasis appearance (of a star), phase (of the moon), from stem of phainein to show, to make
+appear (see phantasm). Latin singular phasis was used in English from 1660. Non-lunar application is
+first attested 1841. Meaning temporary difficult period (especially of adolescents) is attested from
+1913.
+
+
+were (v.)
+
+Old English w&aelig;ron (past plural indicative of wesan) and w&aelig;re (second person singular
+past indicative); see was. The forms illustrate Verner's Law (named for Danish linguist Karl Verner,
+1875), which predicts the s to z sound shift, and rhotacism, which changed z to r. Wast (second
+person singular) was formed 1500s on analogy of be/beest, displacing were. An intermediate form,
+wert, was used in literature 17c.-18c., before were reclaimed the job.
+
+
+be (v.)
+
+Old English beon, beom, bion be, exist, come to be, become, happen, from Proto-Germanic *biju- I am,
+I will be. This b-root is from PIE root *bheue- to be, exist, grow, come into being, and in addition
+to the words in English it yielded German present first and second person singular (bin, bist, from
+Old High German bim I am, bist thou art), Latin perfective tenses of esse (fui I was, etc.), Old
+Church Slavonic byti be, Greek phu- become, Old Irish bi'u I am, Lithuanian bu'ti to be, Russian
+byt' to be, etc. It also is behind Sanskrit bhavah becoming, bhavati becomes, happens, bhumih earth,
+world.     The modern verb to be in its entirety represents the merger of two once-distinct verbs,
+the b-root represented by be and the am/was verb, which was itself a conglomerate. Roger Lass (Old
+English) describes the verb as a collection of semantically related paradigm fragments, while
+Weekley calls it an accidental conglomeration from the different Old English dial[ect]s. It is the
+most irregular verb in Modern English and the most common. Collective in all Germanic languages, it
+has eight different forms in Modern English:   BE (infinitive, subjunctive, imperative)  AM (present
+1st person singular)  ARE (present 2nd person singular and all plural)  IS (present 3rd person
+singular)  WAS (past 1st and 3rd persons singular)  WERE (past 2nd person singular, all plural;
+subjunctive)  BEING (progressive &amp; present participle; gerund)  BEEN (perfect participle).
+The paradigm in Old English was:<table width=400 bgcolor=#CCFFFF cellspacing=1 cellpadding=4
+border=1><tr><td> </td><td>SING.</td><td>PL.</td></tr><tr><td>1st pres.</td><td>ic eomic
+beo</td><td>we sind(on)we beo&eth;</td></tr><tr><td>2nd pres.</td><td>&thorn;u eart&thorn;u
+bist</td><td>ge sind(on)ge beo&eth;</td></tr><tr><td>3rd pres.</td><td>he ishe bi&eth;</td><td>hie
+sind(on)hie beo&eth;</td></tr><tr><td>1st pret.</td><td>ic w&aelig;s</td><td>we
+w&aelig;ron</td></tr><tr><td>2nd pret.</td><td>&thorn;u w&aelig;re</td><td>ge
+waeron</td></tr><tr><td>3rd pret.</td><td>heo w&aelig;s</td><td>hie w&aelig;ron</td></tr><tr><td>1st
+pret. subj.</td><td>ic w&aelig;re</td><td>we w&aelig;ren</td></tr><tr><td>2nd pret.
+subj.</td><td>&thorn;u w&aelig;re</td><td>ge w&aelig;ren</td></tr><tr><td>3rd pret.
+subj.</td><td>Egcfer&eth; w&aelig;re</td><td>hie w&aelig;ren</td></tr></table>The b-root had no past
+tense in Old English, but often served as future tense of am/was. In 13c. it took the place of the
+infinitive, participle and imperative forms of am/was. Later its plural forms (we beth, ye ben, they
+be) became standard in Middle English and it made inroads into the singular (I be, thou beest, he
+beth), but forms of are claimed this turf in the 1500s and replaced be in the plural. For the origin
+and evolution of the am/was branches of this tangle, see am and was.    That but this blow Might be
+the be all, and the end all. [Macbeth I.vii.5]
+
+
+eave (n.)
+
+1570s, from Southwest Midlands dialectal eovese (singular), from Old English efes edge of a roof,
+also edge of a forest, from Proto-Germanic *ubaswa-/*ubiswa (cognates: Old Frisian ose eaves, Old
+High German obasa porch, hall, roof, German Obsen, Old Norse ups, Gothic ubizwa porch; German oben
+above), from the root of over. Treated as plural and a new singular form eave emerged 16c.
+
+
+marvel (n.)
+
+c.1300, miracle, also wonderful story or legend, from Old French merveille a wonder, surprise,
+miracle, from Vulgar Latin *miribilia (also source of Spanish maravilla, Portuguese maravilha,
+Italian maraviglia), altered from Latin mirabilia wonderful things, from neuter plural of mirabilis
+wonderful, marvelous, extraordinary; strange, singular, from mirari to wonder at, from mirus
+wonderful (see smile). A neuter plural treated in Vulgar Latin as a feminine singular. Related:
+Marvels.
+
+
+assets (n.)
+
+1530s, sufficient estate, from Anglo-French asetz (singular), from Old French assez (11c.)
+sufficiency, satisfaction; compensation, noun use of adverb meaning enough, sufficiently; very much,
+a great deal, from Vulgar Latin *ad satis to sufficiency, from Latin ad- to (see ad-) + satis enough
+(see sad).    Beginning as a legal term, sufficient estate (to satisfy debts and legacies), it
+passed into general use; meaning any property that theoretically can be converted to ready money is
+from 1580s. Asset is a 19c. artificial singular. Asset stripping attested from 1972.
+
+
+phenomena (n.)
+
+plural of phenomenon. Sometimes also erroneously used as a singular.
+
+
+arcanum (n.)
+
+proper singular form of arcana.
+
+
+datum (n.)
+
+proper Latin singular of data (q.v.).
+
+
+nare (n.)
+
+nostril, late 14c., singular of nares.
+
+
+jakes (n.)
+
+a privy, mid-15c., genitive singular of jack (n.).
+
+
+annal (n.)
+
+rare singular of annals (q.v.).
+
+
+bacterium (n.)
+
+c.1848, singular of bacteria (q.v.).
+
+
+bicep (n.)
+
+false singular of biceps (q.v.).
+
+
+billiard
+
+singular of billiards, used only in combinations.
+
+
+buttock (n.)
+
+late 13c., singular of buttocks (q.v.).
+
+
+didst
+
+archaic 2nd person singular past indicative of do (q.v.).
+
+
+hath (v.)
+
+archaic third person singular present indicative of have.
+
+
+hast (v.)
+
+archaic second person singular present indicative of have.
+
+
+breech (n.)
+
+back part of a gun or firearm, 1570s, from singular of breeches (q.v.).
+
+
+bollock (n.)
+
+singular of bollocks (q.v.).
+
+
+mitochondrion (n.)
+
+singular of mitochondria.
+
+
+gallow
+
+singular of gallows.
+
+
+graffito (n.)
+
+singular of graffiti (q.v.).
+
+
+thee (pron.)
+
+Old English &thorn;e (accusative and dative singular of &thorn;u thou), from Proto-Germanic *theke
+(cognates: Old Frisian thi, Middle Dutch di, Old High German dih, German dich, Old Norse &thorn;ik,
+Norwegian deg, Gothic &thorn;uk), from PIE *tege-, accusative of root *tu-, second person singular
+pronoun (see thou). The verb meaning to use the pronoun 'thee' to someone is recorded from 1662, in
+connection with the rise of Quakerism.    In Middle English, people began to use plural forms in all
+cases, at first as a sign of respect to superiors, then as a courtesy to equals. By the 1600s, the
+singular forms had come to represent familiarity and lack of status, and fell from use except in the
+case of a few dialects, notably in the north of England. People in Lancashire north of the
+Rossendale Forest and Yorkshire formerly were noted for use of the singular second person pronouns
+tha (nom.) and thee (acc.). For religious reasons (Christian equality of persons, but also justified
+as grammatically correct), the Quakers also retained the familiar forms.    Thou and Thee was a sore
+cut to proud flesh and them that sought self-honour, who, though they would say it to God and
+Christ, could not endure to have it said to themselves. So that we were often beaten and abused, and
+sometimes in danger of our lives, for using those words to some proud men, who would say, What! you
+ill-bred clown, do you Thou me? as though Christian breeding consisted in saying You to one; which
+is contrary to all their grammar and teaching books, by which they instructed their youth. [George
+Fox's journal, 1661]   <hr />   While the Quakers originally adopted thee and thou on account of
+their grammatical correctness, they soon fell into the careless habit of using thee, the objective,
+instead of thou, the nominative. Common illustrations are: How does thee do? or Will thee, etc.
+[George Fox Tucker, A Quaker Home, Boston, 1891]
+
+
+Magus (n.)
+
+member of the ancient Persian priestly caste, late 14c., singular of magi (q.v.).
+
+
+likes (n.)
+
+predilections, preferences, 1851, plural of like (n.); earlier used in singular in this sense (early
+15c.).
+
+
+metaphysics (n.)
+
+1560s, plural of Middle English metaphisik, methaphesik (late 14c.), branch of speculation which
+deals with the first causes of things, from Medieval Latin metaphysica, neuter plural of Medieval
+Greek (ta) metaphysika, from Greek ta meta ta physika the (works) after the Physics, title of the 13
+treatises which traditionally were arranged after those on physics and natural sciences in
+Aristotle's writings. The name was given c.70 B.C.E. by Andronicus of Rhodes, and was a reference to
+the customary ordering of the books, but it was misinterpreted by Latin writers as meaning the
+science of what is beyond the physical. See meta- + physics. The word originally was used in English
+in the singular; plural form predominated after 17c., but singular made a comeback late 19c. in
+certain usages under German influence.
+
+
+spectacles (n.)
+
+glass lenses to help a person's sight, early 15c., from plural of spectacle. Earlier in singular
+form (late 14c.).
+
+
+incunabulum (n.)
+
+1861, singular of incunabula; taken up (originally in German) as a word for any book printed late
+15c., in the infancy of the printer's art.
+
+
+exit (n.)
+
+1530s, from Latin exit he or she goes out, third person singular present indicative of exire go out,
+from ex- out (see ex-) + ire to go (see ion). Also from Latin exitus a leaving, a going out, noun of
+action from exire. Originally in English a Latin stage direction (late 15c.); sense of door for
+leaving is 1786. Meaning departure (originally from the stage) is from 1580s. The verb is c.1600,
+from the noun; it ought to be left to stage directions and the clunky jargon of police reports.
+Related: Exited; exiting.  Those who neither know Latin nor read plays are apt to forget or not know
+that this is a singular verb with plural exeunt. [Fowler]
+
+
+clevis (n.)
+
+U-shaped iron bar with holes for a bolt or pin, used as a fastener, 1590s, of unknown origin,
+perhaps from the root of cleave (v.2). Also uncertain is whether it is originally a plural or a
+singular.
+
+
+mathematic (n.)
+
+late 14c. as singular noun, replaced by early 17c. by mathematics, from Latin mathematica (plural),
+from Greek mathematike tekhne mathematical science, feminine singular of mathematikos (adj.)
+relating to mathematics, scientific, astronomical; disposed to learn, from mathema (genitive
+mathematos) science, knowledge, mathematical knowledge; a lesson, literally that which is learnt;
+related to manthanein to learn, from PIE root *mendh- to learn (cognates: Greek menthere to care,
+Lithuanian mandras wide-awake, Old Church Slavonic madru wise, sage, Gothic mundonsis to look at,
+German munter awake, lively). As an adjective, 1540s, from French math&#233;matique or directly from
+Latin mathematicus.
+
+
+dare (v.)
+
+from first and third person singular of Old English durran to brave danger, dare; venture, presume,
+from Proto-Germanic *ders- (cognates: Old Norse dearr, Old High German giturran, Gothic gadaursan),
+from PIE *dhers- to dare, be courageous (cognates: Sanskrit dadharsha to be bold; Old Persian
+dar&#353;- to dare; Greek thrasys bold; Old Church Slavonic druzate to be bold, dare; Lithuanian
+dristi to dare, drasus courageous).    An Old English irregular preterite-present verb: darr,
+dearst, dear were first, second and third person singular present indicative; mostly regularized
+16c., though past tense dorste survived as durst, but is now dying, persisting mainly in northern
+English dialect. Meaning to challenge or defy (someone) is first recorded 1570s.
+
+
+toto
+
+Latin ablative singular (masc. and neuter) of totus whole, entire (see total (adj.)).
+
+
+Taliban (n.)
+
+Sunni fundamentalist movement begun in Afghanistan, Pashto plural of Arabic t&#257;lib student; so
+called because it originated among students in Pakistani religious schools. Group formed c.1993.
+Often incorrectly treated as singular in English.
+
+
+loquitur
+
+stage direction, he or she speaks, Latin, third person present indicative singular of loqui to talk
+(see locution).
+
+
+cometh (v.)
+
+obsolete or poetic 2nd and 3rd person singular of come, from Old English cyme&eth;.
+
+
+vide
+
+see, Latin imperative singular of videre to see (see vision).
+
+
+says
+
+third person singular of say (v.), c.1300, eventually replacing saith.
+
+
+vade
+
+Latin, imperative singular of vadere to go (see vamoose).
+
+
+plains (n.)
+
+of the American Midwest, 1755 (in singular form from 1680s), see plain (n.). Plains Indian attested
+from 1844.
+
+

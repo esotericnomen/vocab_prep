@@ -3,3 +3,42 @@ axiomatic (adj.)
 1797, from Greek axiomatikos, from axioma (genitive axiomatos); see axiom. Form axiomatical is
 attested from 1580s.
 
+
+axiom (n.)
+
+late 15c., from Middle French axiome, from Latin axioma, from Greek axioma authority, literally that
+which is thought worthy or fit, from axioun to think worthy, from axios worthy, worth, of like
+value, weighing as much, from PIE adjective *ag-ty-o- weighty, from root *ag- to drive, draw, move
+(see act (n.)).    Axioms in philosophy are not axioms until they are proved upon our pulses.
+[Keats, letter, May 3, 1818]
+
+
+maxim (n.)
+
+precept, principle, early 15c., from Middle French maxime, from Late Latin maxima, shortened from
+phrases such as maxima propositio, maxima sententarium axiom, literally greatest premise, greatest
+among propositions (one which is general and absolute), from fem. of maximus greatest (see maximum).
+
+
+principle (n.)
+
+late 14c., origin, source, beginning; rule of conduct; axiom, basic assumption; elemental aspect of
+a craft or discipline, from Anglo-French principle, Old French principe origin, cause, principle,
+from Latin principium (plural principia) a beginning, commencement, origin, first part, in plural
+foundation, elements, from princeps (see prince). Used absolutely for (good or moral) principle from
+1650s.It is often easier to fight for principles than to live up to them. [Adlai Stevenson, speech,
+New York City, Aug. 27, 1952]  Scientific sense of general law of nature is recorded from 1802. The
+English -l- apparently is by analogy of participle, etc.
+
+
+aphorism (n.)
+
+1520s (especially in reference to the Aphorisms of Hippocrates), from Middle French aphorisme (14c.,
+aufforisme), from Late Latin aphorismus, from Greek aphorismos definition, pithy sentence, from
+aphorizein to mark off, divide, from apo- from (see apo-) + horizein to bound (see horizon).    An
+aphorism is a short, pithy statement containing a truth of general import; an axiom is a statement
+of self-evident truth; a theorem is a demonstrable proposition in science or mathematics; an epigram
+is like an aphorism, but lacking in general import. Maxim and saying can be used as synonyms for
+aphorism.
+
+

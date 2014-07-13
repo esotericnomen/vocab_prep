@@ -4,3 +4,139 @@ c.1400, perhaps a causative or frequentative form of Middle English suken to suc
 OED suggests instead a back-formation from suckling (though this word is attested only from mid-
 15c.). Related: Suckled; suckling.
 
+
+fecund (adj.)
+
+early 15c., from Middle French fecond, from Latin fecundus fruitful, fertile, productive, from *fe-
+kwondo-, suffixed form of Latin root *fe-, corresponding to PIE *dhe(i)- to suck, suckle, also
+produce, yield (cognates: Sanskrit dhayati sucks, dhayah nourishing; Greek thele mother's breast,
+nipple, thelys female, fruitful; Old Church Slavonic dojiti to suckle, dojilica nurse, deti child;
+Lithuanian dele leech; Old Prussian dadan milk; Gothic daddjan to suckle; Old Swedish dia suckle;
+Old High German tila female breast; Old Irish denaim I suck, dinu lamb).    Also from the same Latin
+root come felare to suck; femina woman (*fe-mna-, literally she who suckles); felix happy,
+auspicious, fruitful; fetus offspring, pregnancy; fenum hay (probably literally produce); and
+probably filia/filius daughter/son, assimilated from *felios, originally a suckling.
+
+
+nutriment (n.)
+
+1540s, from Latin nutrimentum nourishment; support, from nutrire to nourish, suckle, feed, from PIE
+*nu-tri-, from root *(s)nau- to swim, flow, let flow, hence to suckle (cognates: Sanskrit snauti she
+drips, gives milk; Greek nan I flow), extended form of root *sna- to swim (see natatorium).
+
+
+dug (n.)
+
+animal nipple, or, contemptuously, the human female breast, 1520s, origin obscure, related to
+Swedish dagga, Danish d&aelig;gge to suckle.
+
+
+nutrient (n.)
+
+a nutritious substance, 1828, noun use of adjective (1640s) meaning providing nourishment, from
+Latin nutrientem (nominative nutriens), present participle of nutrire to nourish, suckle, feed,
+foster (see nourish).
+
+
+nurse (v.)
+
+1530s, to suckle (an infant); 1520s in the passive sense, to bring up (a child); alteration of
+Middle English nurshen (13c.; see nourish), Sense of take care of (a sick person) is first recorded
+1736. Related: Nursed; nursing.
+
+
+nutrition (n.)
+
+early 15c., from Old French nutrition (14c.) and directly from Latin nutritionem (nominative
+nutritio) a nourishing, noun of action from past participle stem of nutrire to nourish, suckle (see
+nourish).
+
+
+felicity (n.)
+
+late 14c., from Old French felicite (14c.) happiness, from Latin felicitatem (nominative felicitas)
+happiness, fertility, from felix (genitive felicis) happy, fortunate, fruitful, fertile, from Latin
+root *fe-, equivalent of PIE *dhe(i)- to suck, suckle, produce, yield (see fecund).
+
+
+masto-
+
+before vowels mast-, word-forming element meaning breast, from comb. form of Greek mastos woman's
+breast, from madan to be wet, to flow, from PIE *mad- wet, moist, dripping (cognates: Latin madere
+be moist; Albanian mend suckle; see mast (n.2)).
+
+
+nursery (n.)
+
+c.1400, breeding, nursing, from Old French norture, norreture food, nourishment; education,
+training, from Late Latin nutritia a nursing, suckling, from Latin nutrire to nourish, suckle (see
+nourish). Meaning place or room for infants and young children and their nurse is from c.1300. As a
+type of school, 1580s. Horticultural sense is from 1560s. Nursery rhyme is from 1832.
+
+
+filial (adj.)
+
+late 14c., from Middle French filial, from Late Latin filialis of a son or daughter, from Latin
+filius son, filia daughter, possibly from a suffixed form of PIE root *bheue- to be, exist, grow
+(see be), though *dhe(i)- to suck, suckle (see fecund) is more likely [Watkins].
+
+
+milk (v.)
+
+Old English melcan, milcian, meolcian to milk, give milk, suckle, from Proto-Germanic *melk- to milk
+(cognates: Dutch melken, Old High German melchan, German melken), from PIE root *melg- (see milk
+(n.)). Figurative sense of exploit for profit is first found 1520s. Related: Milked; milking.
+
+
+fetus (n.)
+
+late 14c., the young while in the womb or egg, from Latin fetus (often, incorrectly, foetus) the
+bearing, bringing forth, or hatching of young, from Latin base *fe- to generate, bear, also to suck,
+suckle (see fecund).    In Latin, fetus sometimes was transferred figuratively to the newborn
+creature itself, or used in a sense of offspring, brood (as in Horace's Germania quos horrida
+parturit Fetus), but this was not the basic meaning. Also used of plants, in the sense of fruit,
+produce, shoot. The spelling foetus is sometimes attempted as a learned Latinism, but it is not
+historic.
+
+
+nurse (n.1)
+
+12c., nurrice wet-nurse, foster-mother to a young child (modern form from late 14c.), from Old
+French norrice foster-mother, wet-nurse, nanny (source of proper name Norris), from Late Latin
+*nutricia nurse, governess, tutoress, noun use of fem. of Latin nutricius that suckles, nourishes,
+from nutrix (genitive nutricis) wet-nurse, from nutrire to suckle (see nourish). Meaning person who
+takes care of sick in English first recorded 1580s.
+
+
+nourish (v.)
+
+late 13c., to bring up, nurture (a child, a feeling, etc.), from Old French norriss-, stem of norrir
+raise, bring up, nurture, foster; maintain, provide for (12c., Modern French nourrir), from Latin
+nutrire to feed, nurse, foster, support, preserve, from *nutri (older form of nutrix nurse),
+literally she who gives suck, from PIE *nu- (from root *(s)nau- to swim, flow, let flow, hence to
+suckle; see nutriment) + fem. agent suffix. Related: Nourished; nourishing.
+
+
+lactation (n.)
+
+1660s, process of suckling an infant, from French lactation, from Late Latin lactationem (nominative
+lactatio) a suckling, noun of action from past participle stem of lactare suckle, from lac (genitive
+lactis) milk, from PIE root *glakt- (cognates: Greek gala, genitive galaktos, milk), which, along
+with *melg- (see milk (n.)), accounts for words for milk in most Indo-European languages (the
+absence of a common word for it is considered a mystery). Meaning process of secreting milk from the
+breasts first recorded 1857. Middle Irish lacht, Welsh llaeth milk are loan words from Latin.
+
+
+feminine (adj.)
+
+mid-14c., of the female sex, from Old French femenin (12c.) feminine, female; with feminine
+qualities, effeminate, from Latin femininus feminine (in the grammatical sense at first), from
+femina woman, female, literally she who suckles, from root of felare to suck, suckle (see fecund).
+Sense of woman-like, proper to or characteristic of women is recorded from mid-15c.    The interplay
+of meanings now represented in female, feminine, and effeminate, and the attempt to make them clear
+and separate, has led to many coinages: feminitude (1878); feminile feminine (1640s); feminility
+womanliness (1838); femality (17c., effeminacy; 1754 female nature). Also feminality (1640s, quality
+or state of being female), from rare adjective feminal (late 14c.), from Old French feminal. And
+femineity quality or state of being feminine, from Latin femineus of a woman, pertaining to a woman.
+
+

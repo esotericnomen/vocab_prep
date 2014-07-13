@@ -3,3 +3,214 @@ defect (n.)
 early 15c., from Middle French defect and directly from Latin defectus failure, revolt, falling
 away, noun use of past participle of deficere to fail, desert (see deficient).
 
+
+defect (v.)
+
+1570s, from Latin defectus, past participle of deficere to fail, desert (see defect (n.)). Related:
+Defected; defecting.
+
+
+defective (adj.)
+
+mid-14c., from Middle French d&eacute;fectif (14c.) and directly from Late Latin defectivus, from
+defect-, past participle stem of deficere (see deficient). A euphemism for mentally ill from 1898 to
+c.1935. Related: Defectively; defectiveness.
+
+
+defector (n.)
+
+1660s, agent noun in Latin form from defect, or else from Latin defector revolter, agent noun from
+deficere (see deficient).
+
+
+mendacious (adj.)
+
+1610s, from Middle French mendacieux, from Latin mendacium a lie, untruth, falsehood, fiction, from
+mendax (genitive mendacis) lying, deceitful, from menda fault, defect, carelessness in writing, from
+PIE root *mend- physical defect, fault (see amend (v.)). The sense evolution of Latin mendax was
+influenced by mentiri to speak falsely, lie, deceive. Related: Mendaciously; mendaciousness.
+
+
+failing (n.)
+
+defect, fault, 1580s, verbal noun from fail (v.).
+
+
+vice (n.1)
+
+moral fault, wickedness, c.1300, from Old French vice fault, failing, defect, irregularity,
+misdemeanor (12c.), from Latin vitium defect, offense, blemish, imperfection, in both physical and
+moral senses (in Medieval Latin also vicium; source also of Italian vezzo usage, entertainment),
+from PIE *wi-tio-, from root *wei- (3) vice, fault, guilt.  Horace and Aristotle have already spoken
+to us about the virtues of their forefathers and the vices of their own times, and through the
+centuries, authors have talked the same way.  If all this were true, we would be bears today.
+[Montesquieu]   Vice squad special police unit targeting prostitution, narcotics, gambling, etc., is
+attested from 1905, American English. Vice anglais fetish for corporal punishment, literally the
+English vice, is attested from 1942, from French. In Old French, the seven deadly sins were les set
+vices.
+
+
+wrinkle (n.)
+
+fold or crease in the extenal body, late 14c.; in cloth or clothing from early 15c., probably from
+wrinkle (v.). Meaning defect, problem first recorded 1640s; that of idea, device, notion (especially
+a new one) is from 1817.
+
+
+flaw (n.)
+
+early 14c., a flake (of snow), also in Middle English a spark of fire; a splinter, from Old Norse
+flaga stone slab, flake (see flagstone); sense of defect, fault first recorded 1580s, first of
+character, later (c.1600) of material things; probably via notion of a fragment broken off.
+
+
+far-sighted (adj.)
+
+also farsighted, 1640s, forecasting, prescient; 1878 as a defect of the eyes (hypermetropic); see
+far + sight. Related: Farsightedness.
+
+
+debug (v.)
+
+1945, of machine systems, from de- + bug (n.) glitch, defect in a machine. Meaning to remove a
+concealed microphone is from 1964. Related: Debugged; debugging.
+
+
+mongoloid
+
+in reference to the genetic defect causing mental retardation (mongolism), 1899, from Mongoloid. So
+called for facial appearance. See Down's Syndrome. Such people were called Mongolian from 1866.
+
+
+vitiate (v.)
+
+1530s, from Latin vitiatus, past participle of vitiare to make faulty, injure, spoil, corrupt, from
+vitium fault, defect, blemish, crime, vice (see vice (n.1)). Related: Vitiated; vitiating.
+
+
+caries (n.)
+
+1630s, from Latin caries rottenness, decay, from Proto-Italic *kas-, usually said to be from PIE
+root *kere- to injure, break apart (cognates: Greek ker death, destruction, Old Irish krin withered,
+faded). Related: Carious. But de Vaan writes that semantically, caries may just as well belong to
+careocared 'to lack' as 'defect, state of defectiveness' ....
+
+
+apostate (n.)
+
+mid-14c., one who forsakes his religion or faith, from Old French apostate (Modern French apostat)
+and directly from Late Latin apostata, from Greek apostasia defection, desertion, rebellion, from
+apostenai to defect, literally to stand off, from apo- away from (see apo-) + stenai to stand. Used
+in non-religious situations (politics, etc.) from mid-14c.
+
+
+ellipsis (n.)
+
+1560s, an ellipse, from Latin ellipsis, from Greek elleipsis a falling short, defect, ellipse, from
+elleipein to fall short, leave out, from en- in + leipein to leave (see relinquish). Grammatical
+sense first recorded 1610s.
+
+
+error (n.)
+
+also, through 18c., errour, c.1300, from Old French error mistake, flaw, defect, heresy, from Latin
+errorem (nominative error) a wandering, straying, mistake, from errare to wander (see err).    Words
+for error in most Indo-European languages originally meant wander, go astray (but Irish has dearmad
+error, from dermat a forgetting).
+
+
+mendicant (adj.)
+
+late 14c., from Latin mendicantem (nominative mendicans) present participle of mendicare to beg, ask
+alms, from mendicus beggar, originally cripple (connection via cripples who must beg), from menda
+fault, physical defect (see mendacious). As an adjective from 1540s. Also in Middle English was
+mendinant (mid-14c.), from Old French mendinant, present participle of mendiner to beg, from the
+same Latin source.
+
+
+default (n.)
+
+early 13c., offense, crime, sin, later (late 13c.) failure, failure to act, from Old French defaute
+(12c.) fault, defect, failure, culpability, lack, privation, from Vulgar Latin *defallita a
+deficiency or failure, past participle of *defallere, from Latin de- away (see de-) + fallere to
+deceive, to cheat; to put wrong, to lead astray, cause to be mistaken; to escape notice of, be
+concealed from (see fail (v.)). The financial sense is first recorded 1858; the computing sense is
+from 1966.
+
+
+vituperation (n.)
+
+mid-15c., but rare before early 19c., from Latin vituperationem (nominative vituperatio) blame, a
+blaming, censuring, from  past participle stem of vituperare disparage, find fault with, from
+vitiperos having faults, from vitium fault, defect (see vice (n.1)) + parare prepare, provide,
+procure (see pare). Vituperatio was stronger than either Latin reprehensio or Modern English
+vituperation.
+
+
+fault (n.)
+
+late 13c., faute, deficiency, from Old French faute (12c.) opening, gap; failure, flaw, blemish;
+lack, deficiency, from Vulgar Latin *fallita a shortcoming, falling, noun use of fem. past
+participle, from Latin falsus deceptive, feigned, spurious, past participle of fallere deceive,
+disappoint (see fail (v.)).    The -l- was restored 16c., probably in imitation of Latin, but was
+not pronounced till 18c. Sense of physical defect is from early 14c.; that of moral culpability is
+first recorded late 14c. Geological sense is from 1796. The use in tennis (c.1600) is closer to the
+etymological sense.
+
+
+amend (v.)
+
+early 13c., to free from faults, rectify, from Old French amender (12c.), from Latin emendare to
+correct, free from fault, from ex- out (see ex-) + menda fault, blemish, from PIE *mend- physical
+defect, fault (cognates: Sanskrit minda physical blemish, Old Irish mennar stain, blemish, Welsh
+mann sign, mark).    Supplanted in senses of repair, cure by its shortened offspring mend (v.).
+Meaning to add to legislation (ostensibly to correct or improve it) is recorded from 1777. Related:
+Amended; amending.
+
+
+monster (n.)
+
+early 14c., malformed animal or human, creature afflicted with a birth defect, from Old French
+monstre, mostre monster, monstrosity (12c.), and directly from Latin monstrum divine omen, portent,
+sign; abnormal shape; monster, monstrosity, figuratively repulsive character, object of dread, awful
+deed, abomination, from root of monere warn (see monitor (n.)). Abnormal or prodigious animals were
+regarded as signs or omens of impending evil. Extended by late 14c. to imaginary animals composed of
+parts of creatures (centaur, griffin, etc.). Meaning animal of vast size is from 1520s; sense of
+person of inhuman cruelty or wickedness is from 1550s. As an adjective, of extraordinary size, from
+1837. In Old English, the monster Grendel was an agl&aelig;ca, a word related to agl&aelig;c
+calamity, terror, distress, oppression.
+
+
+sound (adj.)
+
+free from special defect or injury, c.1200, from Old English gesund sound, safe, having the organs
+and faculties complete and in perfect action, from Proto-Germanic *sunda-, from Germanic root *swen-
+to- healthy, strong (cognates: Old Saxon gisund, Old Frisian sund, Dutch gezond, Old High German
+gisunt, German gesund healthy, as in the post-sneezing interjection gesundheit; also Old English
+swi&eth; strong, Gothic swin&thorn;s strong, German geschwind fast, quick), with connections in
+Indo-Iranian and Balto-Slavic. Meaning right, correct, free from error is from mid-15c. Meaning
+financially solid or safe is attested from c.1600; of sleep, undisturbed, from 1540s. Sense of
+holding accepted opinions is from 1520s.
+
+
+bug (n.)
+
+insect, 1620s (earliest reference is to bedbugs), of unknown origin, probably but not certainly from
+or influenced by Middle English bugge something frightening, scarecrow (late 14c.), a meaning
+obsolete since the insect sense arose except in bugbear (1570s) and bugaboo (q.v.).    Probably
+connected with Scottish bogill goblin, bugbear, or obsolete Welsh bwg ghost, goblin (compare Welsh
+bwgwl threat, earlier fear, Middle Irish bocan&#225;ch supernatural being). Some speculate that
+these words are from a root meaning goat (see buck (n.1)) and represent originally a goat-like
+spectre. Compare also bogey (n.1) and German b&ouml;gge, b&ouml;ggel-mann goblin. Perhaps influenced
+in meaning by Old English -budda used in compounds for beetle (compare Low German budde louse, grub,
+Middle Low German buddech thick, swollen).     In the United States bug is not confined, as in
+England, to the domestic pest, but is applied to all insects of the Coleoptera order, which includes
+what in this country are generally called beetles. [Farmer &amp; Henley, Dictionary of Slang and
+Colloquial English, 1912 abridged edition]    Meaning defect in a machine (1889) may have been
+coined c.1878 by Thomas Edison (perhaps with the notion of an insect getting into the works).
+Meaning person obsessed by an idea (such as firebug) is from 1841, perhaps from notion of
+persistence. Sense of microbe, germ is from 1919. Bugs crazy is from c.1900. Bug juice as a slang
+name for drink is from 1869, originally bad whiskey. The 1811 slang dictionary has bug-hunter an
+upholsterer. Bug-word word or words meant to irritate and vex is from 1560s.
+
+

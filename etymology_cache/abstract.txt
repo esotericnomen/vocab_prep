@@ -3,3 +3,371 @@ abstract (n.)
 abridgement or summary of a document, mid-15c., from abstract (adj.). The general sense of a smaller
 quantity containing the virtue or power of a greater [Johnson] is recorded from 1560s.
 
+
+abstract (v.)
+
+1540s, from Latin abstractus or else from the adjective abstract. Related: Abstracted; abstracting,
+abstractedly.
+
+
+abstract (adj.)
+
+late 14c., originally in grammar (of nouns), from Latin abstractus drawn away, past participle of
+abstrahere to drag away, detach, pull away, divert; also figuratively, from ab(s)- away (see ab-) +
+trahere draw (see tract (n.1)).    Meaning withdrawn or separated from material objects or practical
+matters is from mid-15c. That of difficult to understand, abstruse is from c.1400. Specifically in
+reference to modern art, it dates from 1914; abstract expressionism as an American-based uninhibited
+approach to art exemplified by Jackson Pollock is from 1952, but the term itself had been used in
+the 1920s of Kandinsky and others.    Oswald Herzog, in an article on Der Abstrakte Expressionismus
+(Sturm, heft 50, 1919) gives us a statement which with equal felicity may be applied to the artistic
+attitude of the Dadaists. Abstract Expressionism is perfect Expressionism, he writes. It is pure
+creation. It casts spiritual processes into a corporeal mould. It does not borrow objects from the
+real world; it creates its own objects .... The abstract reveals the will of the artist; it becomes
+expression. ... [William A. Drake, The Life and Deeds of Dada, 1922]   <hr />   Then, that art we
+have called abstract for want of any possible descriptive term, with which we have been patient,
+and, even, appreciative, getting high stimulation by the new Guggenheim non-objective Art Museum, is
+reflected in our examples of surrealism, dadaism, and what-not, to assert our acquaintance in every
+art, fine or other. [Report of the Art Reference Department of Pratt Institute Free Library for year
+ending June 30, 1937]
+
+
+abstractly (adv.)
+
+late 14c., by itself, absolutely, from abstract (adj.) + -ly (2).
+
+
+abstraction (n.)
+
+c.1400, a withdrawal from worldly affairs, asceticism, from Old French abstraction (14c.), from
+Latin abstractionem (nominative abstractio), noun of action from past participle stem of abstrahere
+(see abstract (adj.)). Meaning idea of something that has no actual existence is from 1640s.
+
+
+-cy
+
+abstract noun suffix of quality or rank, from Latin -cia, -tia, from Greek -kia, -tia, from abstract
+ending -ia + stem ending -c- or -t-. The native correspondents are -ship, -hood.
+
+
+-dom
+
+abstract suffix of state, from Old English dom statute, judgment (see doom (n.)). Already active as
+a suffix in Old English (as in freodom, wisdom); from stem *do- do + *-moz abstract suffix. Cognate
+with German -tum, Old High German tuom.
+
+
+dearth (n.)
+
+mid-13c., derthe scarcity (originally used of famines, when food was costly because scarce; extended
+to other situations of scarcity from early 14c.), abstract noun formed from root of Old English
+deore precious, costly (see dear) + abstract noun suffix -th (2). Common Germanic formation, though
+not always with the same sense (cognates: Old Saxon diurtha splendor, glory, love, Middle Dutch
+dierte, Dutch duurte, Old High German tiurida glory).
+
+
+-ness
+
+word-forming element denoting action, quality, or state, attached to an adjective or past participle
+to form an abstract noun, from Old English -nes(s), from Proto-Germanic *in-assu- (cognates: Old
+Saxon -nissi, Middle Dutch -nisse, Dutch -nis, Old High German -nissa, German -nis, Gothic
+-inassus), from *-in-, noun stem, + *-assu-, abstract noun suffix, probably from the same root as
+Latin -tudo (see -tude).
+
+
+hysteria (n.)
+
+1801, coined in medical Latin as an abstract noun from hysteric (see hysterical).
+
+
+constructivism (n.)
+
+1924, in reference to an abstract artistic movement begun in Russia c.1920, from Russian
+konstruktivizm. Related: Constructivist (1928).
+
+
+docket (n.)
+
+mid-15c., a summary or abstract, of unknown origin, perhaps a diminutive form related to dock (v.).
+An early form was doggette. Meaning list of lawsuits to be tried is from 1709.
+
+
+Boolean (adj.)
+
+in reference to abstract algebraic systems, 1851, named for George Boole (1815-1864), English
+mathematician. The surname is a variant of Bull.
+
+
+Fahrenheit
+
+temperature scale, 1753, named for Gabriel Daniel Fahrenheit (1686-1736), Prussian physicist who
+proposed the scale in 1714. The zero in it is arbitrary, based on the lowest temperature observed by
+him in the winter of 1709. An abstract surname meaning literally experience.
+
+
+applied (adj.)
+
+put to practical use, (as opposed to abstract or theoretical), 1650s, from past participle of apply.
+Earlier it was used in a sense of folded (c.1500).
+
+
+-ure
+
+suffix forming abstract nouns of action, from Old French -ure, from Latin -ura, an ending of fem.
+nouns denoting employment or result.
+
+
+optical (adj.)
+
+1560s, from optic + -al (1). Of abstract art, from 1964. Related: Optically.
+
+
+metapolitics (n.)
+
+1784, abstract political science; see meta- + politics. Related: metapolitical, attested from 1670s
+in sense outside the realm of politics.
+
+
+idealism (n.)
+
+1796, in the abstract sense, originally belief that reality is made up only of ideas, from ideal
+(adj.) + -ism; on model of French id&eacute;alisme. Meaning representing things in an ideal form is
+from 1829.
+
+
+summary (n.)
+
+a summary statement or account, c.1500, from Latin summarium an epitome, abstract, summary, from
+summa totality, gist (see sum (n.)).
+
+
+Arian (adj.)
+
+1530s, pertaining to the doctrines of Arius, priest in Alexandria early 4c., who posed the question
+of Christ's nature in terms which appeared to debase the Savior's relation to God (denial of
+consubstantiation). Besides taking an abstract view of Christ's nature, he reaffirmed man's capacity
+for perfection. The dissention was widespread and split the Church for about a century during a
+crucial time.
+
+
+beau-ideal (n.)
+
+1801, from French beau id&eacute;al the ideal beauty, beautifulness as an abstract ideal, in which
+beau is the subject, but as English usually puts the adjective first, the sense has shifted in
+English toward perfect type or model.
+
+
+pedophilia (n.)
+
+1900, from Greek pais (genitive paidos) child (see pedo-) + philos loving see -phile). First
+attested in an abstract of a report by Krafft-Ebing.
+
+
+nominalism (n.)
+
+1820, view that treats abstract concepts as names only, not realities, from French nominalisme
+(1752), from nominal, from Latin nominalis (see nominal). Related: Nominalist.
+
+
+-tude
+
+syllable formed when the word-forming element -ude, making abstract nouns from adjectives and
+participles, is fixed to a base or to another suffix ending in -t or -te; from French -ude, from
+Latin -udo (stem -udin-). The equivalent of native -ness.
+
+
+concept (n.)
+
+1550s, from Medieval Latin conceptum draft, abstract, in classical Latin (a thing) conceived, from
+concep-, past participle stem of concipere to take in (see conceive). In some 16c. cases a
+refashioning of conceit (perhaps to avoid negative connotations).
+
+
+servitude (n.)
+
+early 15c., condition of being enslaved, from Old French servitude, servitute (13c.) and directly
+from Late Latin servitudo slavery, from Latin servus a slave (see serve (v.)) + abstract noun
+suffix.
+
+
+-ancy
+
+word-forming element denoting quality or state, from Latin -antia, forming abstract nouns on pp.
+adjectives in -antem, appearing in English mostly in words borrowed directly from Latin (those
+passing through French usually have -ance or -ence; see -ance).
+
+
+Ferdinand
+
+masc. proper name, of Germanic origin, first element perhaps Proto-Germanic *farthi, abstract noun
+from root *far- to fare, travel (see fare (v.)); second element perhaps related to Old English
+ne&eth;an, Old High German nendan to risk, venture.
+
+
+magnitude (n.)
+
+c.1400, greatness of size or character, from Latin magnitudo greatness, bulk, size, from magnus
+great (see magnate) + -tudo, suffix forming abstract nouns from adjectives and participles (see
+-tude). Meaning size, extent is from early 15c. Of stars, brightness, from 1640s.
+
+
+broad-minded (adj.)
+
+1590s; see broad (adj.) + minded. This abstract mental sense of broad existed in Old English; for
+example in bradnes breadth, also liberality.
+
+
+hourglass (n.)
+
+1510s, from hour + glass. Used 19c. in a variety of technical and scientific senses to describe the
+shape; reference to women's bodies is attested by 1897.    Men condemn corsets in the abstract, and
+are sometimes brave enough to insist that the women of their households shall be emancipated from
+them; and yet their eyes have been so generally educated to the approval of the small waist, and the
+hourglass figure, that they often hinder women who seek a hygienic style of dress. [Mary Ashton Rice
+Livermore, The Story of My Life, 1898]
+
+
+berth (n.)
+
+1620s, convenient sea room (both for ships and sailors), of uncertain origin, probably from bear
+(v.) + abstract noun suffix -th (2) as in strength, health, etc. Original sense is preserved in
+phrase to give (something or someone) wide berth. Meaning place on a ship to stow chests, room for
+sailors is from 1706; extended to non-nautical situations by 1778.
+
+
+metaphysical (adj.)
+
+early 15c., pertaining to metaphysics, from methaphesik (late 14c.) + -al, and in part from Medieval
+Latin metaphysicalis, from Medieval Latin metaphysica (see metaphysics). It came to be used in the
+sense of abstract, speculative (among others by Johnson, who applied it to certain 17c. poets,
+notably Donne and Cowley, who used witty conceits and abstruse imagery). Related: Metaphysically.
+
+
+kind (adj.)
+
+friendly, deliberately doing good to others, from Old English gecynde natural, native, innate,
+originally with the feeling of relatives for each other, from Proto-Germanic *kundi- natural,
+native, from *kunjam family (see kin), with collective prefix *ga- and abstract suffix *-iz. Sense
+development from with natural feelings, to well-disposed (c.1300), benign, compassionate (c.1300).
+
+
+valetudinarian (n.)
+
+one who is constantly concerned with his own ailments, 1703, from valetudinary (1580s), from Latin
+valetudinarius, from valetudo state of health (either good or bad), from valere be strong (see
+valiant) + -tudo, abstract noun suffix (see -tude). Valetudinary (adj.) sickly is recorded from
+1580s.
+
+
+feint (n.)
+
+1670s, a false show, a pretended blow, from French feinte a feint, sham, abstract noun from Old
+French feint (13c.) false, deceitful, originally fem. past participle of feindre (see feign).
+Borrowed late 13c. as adjective, but now obsolete in that sense. Also as a noun in Middle English
+with sense false-heartedness (early 14c.), also bodily weakness (c.1400).
+
+
+entity (n.)
+
+1590s, from Late Latin entitatem (nominative entitas), from ens (genitive entis) a thing, proposed
+by Caesar as present participle of esse be (see is), to render Greek philosophical term to on that
+which is (from neuter of present participle of einai to be; see essence). Originally abstract;
+concrete sense in English is from 1620s.
+
+
+Sophia
+
+fem. proper name, from Greek sophia skill, knowledge of, acquaintance with; sound judgement,
+practical wisdom; cunning, shrewdness; philosophy, also wisdom personified, abstract noun from
+sophos wise (see sophist). Saint Sophia in ancient church names and place names in the East is not
+necessarily a reference to a person; the phrase also is the English translation of the Greek for
+divine wisdom, holy wisdom, to which churches were dedicated.
+
+
+enterprise (n.)
+
+early 15c., an undertaking, from Old French enterprise an undertaking, noun use of fem. past
+participle of entreprendre undertake, take in hand, from entre- between (see entre-) + prendre to
+take, contraction of prehendere (see prehensile). Abstract sense of readiness to undertake
+challenges, spirit of daring is from late 15c.
+
+
+appearance (n.)
+
+late 14c., visible state or form, figure; mere show, from Anglo-French apparaunce, Old French
+aparance appearance, display, pomp (13c.), from Latin apparentia, abstract noun from aparentem, past
+participle of apparere (see appear). Meaning semblance is recorded from early 15c.; that of action
+of coming into view is mid-15c. Phrase keep up appearances attested from 1760 (save appearances in
+same sense is 1711).
+
+
+epitome (n.)
+
+1520s, an abstract; brief statement of the chief points of some writing, from Middle French
+&eacute;pitom&eacute; (16c.), from Latin epitome abridgment, from Greek epitome abridgment, from
+epitemnein cut short, abridge, from epi into (see epi-) + temnein to cut (see tome). Sense of person
+or thing that typifies something is first recorded c.1600.
+
+
+-ty (2)
+
+suffix used in forming abstract nouns from adjectives (such as safety, surety), Middle English -tie,
+-te, from Old French -te (Modern French -t&#233;), from Latin -tatem (nominative -tas, genitive
+-tatis), cognate with Greek -tes, Sanskrit -tati-. Also see -ity.
+
+
+beverage (n.)
+
+mid-13c., from Anglo-French beverage, Old French bevrage, from Old French boivre to drink (Modern
+French boire; from Latin bibere to imbibe; see imbibe) + -age, suffix forming mass or abstract
+nouns.
+
+
+-y (4)
+
+suffix indicating state, condition, or quality; also activity or the result of it (as in victory,
+history, etc.), via Anglo-French and Old French &#233;, from Latin -ia, Greek -ia, from PIE *-a-,
+suffix forming abstract or collective nouns. It is etymologically identical with -ia and the second
+element in -cy, -ery, -logy, etc.
+
+
+drought (n.)
+
+Old English druga&eth;, drugo&eth; drought, dryness, desert, from Proto-Germanic *drugothaz, from
+Germanic root *dreug- dry (cf high/height) with *-itho, Germanic suffix for forming abstract nouns
+(see -th (2)). Drouth was a Middle English variant continued in Scottish and northern English
+dialect and in poetry.
+
+
+ruth (n.)
+
+sorrow for the misery of another; repentance, regret, c.1200, ruthe, from Old Norse hrygg&eth; ruth,
+sorrow, from hryggr sorrowful, grieved (see rue (v.)) + Proto-Germanic abstract noun suffix *-itho
+(see -th (2)). Or else formed in English from reuwen to rue on the model of true/truth, etc. The Old
+English word was rue (n.2).
+
+
+theft (n.)
+
+mid-13c., from Old English &thorn;eof&eth; (West Saxon &thorn;ief&eth;) theft, from Proto-Germanic
+*theubitho (cognates: Old Frisian thiufthe, Old Norse &thorn;yf&eth;), from *theubaz thief (see
+thief) + abstract formative suffix *-itha (cognate with Latin -itatem; see -th (2)).
+
+
+stress (n.)
+
+c.1300, hardship, adversity, force, pressure, in part a shortening of Middle English distress (n.);
+in part from Old French estrece narrowness, oppression, from Vulgar Latin *strictia, from Latin
+strictus tight, compressed, drawn together, past participle of stringere draw tight (see strain
+(v.)). Meaning physical strain on a material object is from mid-15c. As an abstract force in
+mechanics from 1855. The purely psychological sense is attested from 1955.
+
+
+length (n.)
+
+Old English leng&eth;u length, from Proto-Germanic *langitho, noun of quality from *langgaz (root of
+Old English lang; see long (adj.)) + *-itho, abstract noun suffix (see -th (2)).    Cognate with Old
+Norse lengd, Old Frisian lengethe, Dutch lengte. Figurative sense of the distance one goes,
+extremity to which something is carried is from 1690s. Phrase at length to full extent is attested
+from c.1500.
+
+

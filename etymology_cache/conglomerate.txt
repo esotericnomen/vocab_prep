@@ -2,3 +2,66 @@ conglomerate (n.)
 
 large business group, 1967, from conglomerate (adj.).
 
+
+conglomerate (v.)
+
+1590s, from Latin conglomeratus, past participle of conglomerare (see conglomerate (adj.)). Related:
+Conglomerated; conglomerating.
+
+
+conglomerate (adj.)
+
+1570s, from Latin conglomeratus, past participle of conglomerare to roll together, from com-
+together (see com-) + glomerare to gather into a ball, from glomus (genitive glomeris) a ball, from
+PIE root *glem-.
+
+
+conglomeration (n.)
+
+1620s, from Latin conglomerationem (nominative conglomeratio), noun of action from past participle
+stem of conglomerare (see conglomerate (adj.)).
+
+
+clew (n.)
+
+ball of thread or yarn, northern English and Scottish relic of Old English cliewen sphere, ball,
+skein, ball of thread or yarn, probably from West Germanic *kleuwin (cognates: Old Saxon cleuwin,
+Dutch kluwen), from Proto-Germanic *kliwjo-, from PIE *gleu- gather into a mass, conglomerate (see
+clay).
+
+
+be (v.)
+
+Old English beon, beom, bion be, exist, come to be, become, happen, from Proto-Germanic *biju- I am,
+I will be. This b-root is from PIE root *bheue- to be, exist, grow, come into being, and in addition
+to the words in English it yielded German present first and second person singular (bin, bist, from
+Old High German bim I am, bist thou art), Latin perfective tenses of esse (fui I was, etc.), Old
+Church Slavonic byti be, Greek phu- become, Old Irish bi'u I am, Lithuanian bu'ti to be, Russian
+byt' to be, etc. It also is behind Sanskrit bhavah becoming, bhavati becomes, happens, bhumih earth,
+world.     The modern verb to be in its entirety represents the merger of two once-distinct verbs,
+the b-root represented by be and the am/was verb, which was itself a conglomerate. Roger Lass (Old
+English) describes the verb as a collection of semantically related paradigm fragments, while
+Weekley calls it an accidental conglomeration from the different Old English dial[ect]s. It is the
+most irregular verb in Modern English and the most common. Collective in all Germanic languages, it
+has eight different forms in Modern English:   BE (infinitive, subjunctive, imperative)  AM (present
+1st person singular)  ARE (present 2nd person singular and all plural)  IS (present 3rd person
+singular)  WAS (past 1st and 3rd persons singular)  WERE (past 2nd person singular, all plural;
+subjunctive)  BEING (progressive &amp; present participle; gerund)  BEEN (perfect participle).
+The paradigm in Old English was:<table width=400 bgcolor=#CCFFFF cellspacing=1 cellpadding=4
+border=1><tr><td> </td><td>SING.</td><td>PL.</td></tr><tr><td>1st pres.</td><td>ic eomic
+beo</td><td>we sind(on)we beo&eth;</td></tr><tr><td>2nd pres.</td><td>&thorn;u eart&thorn;u
+bist</td><td>ge sind(on)ge beo&eth;</td></tr><tr><td>3rd pres.</td><td>he ishe bi&eth;</td><td>hie
+sind(on)hie beo&eth;</td></tr><tr><td>1st pret.</td><td>ic w&aelig;s</td><td>we
+w&aelig;ron</td></tr><tr><td>2nd pret.</td><td>&thorn;u w&aelig;re</td><td>ge
+waeron</td></tr><tr><td>3rd pret.</td><td>heo w&aelig;s</td><td>hie w&aelig;ron</td></tr><tr><td>1st
+pret. subj.</td><td>ic w&aelig;re</td><td>we w&aelig;ren</td></tr><tr><td>2nd pret.
+subj.</td><td>&thorn;u w&aelig;re</td><td>ge w&aelig;ren</td></tr><tr><td>3rd pret.
+subj.</td><td>Egcfer&eth; w&aelig;re</td><td>hie w&aelig;ren</td></tr></table>The b-root had no past
+tense in Old English, but often served as future tense of am/was. In 13c. it took the place of the
+infinitive, participle and imperative forms of am/was. Later its plural forms (we beth, ye ben, they
+be) became standard in Middle English and it made inroads into the singular (I be, thou beest, he
+beth), but forms of are claimed this turf in the 1500s and replaced be in the plural. For the origin
+and evolution of the am/was branches of this tangle, see am and was.    That but this blow Might be
+the be all, and the end all. [Macbeth I.vii.5]
+
+

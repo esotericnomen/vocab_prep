@@ -2,3 +2,120 @@ query (v.)
 
 to question, 1650s, from query (n.).  Related: Queried; querying.
 
+
+query (n.)
+
+1530s, quaere a question, from Latin quaere ask, imperative of quaerere to seek, look for; strive,
+endeavor, strive to gain; ask, require, demand; figuratively seek mentally, seek to learn, make
+inquiry, probably ultimately from PIE *kwo-, root forming the stem of relative and interrogative
+pronouns (see who). Spelling Englished or altered c.1600 by influence of inquiry.
+
+
+quaere
+
+Latin imperative of quaerere to ask, inquire (see query (v.)). Hence one may ask (1530s) as an
+introduction to a question.
+
+
+querent (n.)
+
+1590s, originally in astrology, from Latin quaerentem, present participle of quaerere (see query
+(v.)).
+
+
+disquisition (n.)
+
+c.1600, subject for investigation, also systematic search, from Latin disquisitionem (nominative
+disquisitio) an inquiry, investigation, noun of action from past participle stem of disquirere
+inquire, from dis- apart (see dis-) + quaerere seek, ask (see query (v.)). Sense of long speech
+first recorded 1640s.
+
+
+Nome
+
+city in Alaska, founded in the 1898 gold rush and originally Anvil City after the nearby Anvil
+Creek, later renamed for nearby Cape Nome, which, according to one story is from a misreading of a
+British cartographer's query, ?Name, written beside the peninsula on an 1849 map, and according to
+another is from a supposed native no-me meaning I don't know, a plea of noncomprehension when asked
+what the name of the place was.
+
+
+conquer (v.)
+
+c.1200, cunquearen, from Old French conquerre conquer, defeat, vanquish, from Vulgar Latin
+*conquaerere (for Latin conquirere) to search for, procure by effort, win, from Latin com-,
+intensive prefix (see com-), + quaerere to seek, gain (see query (v.)). Related: Conquered;
+conquering.
+
+
+acquisition (n.)
+
+late 14c., act of obtaining, from Old French acquisicion (13c.) or directly from Latin acquisitionem
+(nominative acquisitio), noun of action from past participle stem of acquirere get in addition,
+accumulate, from ad- extra (see ad-) + quaerere to seek to obtain (see query (v.)). Meaning thing
+obtained is from late 15c. The vowel change of -ae- to -i- in Latin is due to a Latin phonetic rule
+involving unaccented syllables in compounds.
+
+
+perquisite (n.)
+
+mid-15c., property acquired other than by inheritance, from Medieval Latin perquisitum thing gained,
+profit, in classical Latin, thing sought after, noun use of neuter past participle of perquirere to
+seek, ask for, from per- thoroughly (see per) + qu&aelig;rere to seek (see query (v.)). For Latin
+vowel change, see acquisition. General meaning fee or profit on top of regular wages first recorded
+1560s.
+
+
+inquire (v.)
+
+late 13c., from Old French enquerre ask, inquire about (Modern French enqu&eacute;rir), from Vulgar
+Latin *inquaerere, from Latin in- into (see in- (2)) + quaerere ask, seek (see query (v.)).
+Respelled 14c. on Latin model, but half-Latinized enquire still persists. Related: Inquired;
+inquiring; inquiringly.
+
+
+exquisite (adj.)
+
+early 15c., carefully selected, from Latin exquisitus carefully sought out, thus, choice, from past
+participle of exquirere search out thoroughly, from ex- out (see ex-) + quaerere to seek (see query
+(v.)).    Of any thing (good or bad, torture as well as art) brought to a highly wrought condition,
+sometimes shading into disapproval. A vogue word 15c.-18c., given wide extensions of meaning, none
+of which survives. The main modern sense of of consummate and delightful excellence is first
+attested 1579, in Lyly's Euphues. Related: Exquisitely; exquisiteness. The noun meaning a dandy, fop
+is from 1819.
+
+
+require (v.)
+
+late 14c., to ask a question, inquire, from Old French requerre seek, procure; beg, ask, petition;
+demand, from Vulgar Latin *requaerere, from Latin requirere seek to know, ask, from re-, here
+perhaps meaning repeatedly (see re-), + quaerere ask, seek (see query (v.)).    The original sense
+of this word has been taken over by request (v.). Sense of demand (someone) to do (something) is
+from 1751, via the notion of to ask for imperatively, or as a right (late 14c.). Related: Required;
+requiring.
+
+
+quest (n.)
+
+c.1300, an inquest; early 14c., a search for something (especially of judicial inquiries or hounds
+seeking game), from Old French queste search, quest, chase, hunt, pursuit; inquest, inquiry (12c.,
+Modern French qu&ecirc;te), properly the act of seeking, and directly from Medieval Latin questa
+search, inquiry, alteration of Latin quaesitus (fem. quaesita) sought-out, select, past participle
+of quaerere seek, gain, ask (see query (n.)). Romance sense of adventure undertaken by a knight
+(especially the search for the Grail) is attested from late 14c. Johnson's dictionary has
+questmonger Starter of lawsuits or prosecutions.
+
+
+question (n.)
+
+early 13c., philosophical or theological problem; early 14c. as utterance meant to elicit an answer
+or discussion, also as a difficulty, a doubt, from Anglo-French questiun, Old French question
+question, difficulty, problem; legal inquest, interrogation, torture, from Latin quaestionem
+(nominative quaestio) a seeking, a questioning, inquiry, examining, judicial investigation, noun of
+action from past participle stem of quaerere ask, seek (see query (v.)).   No question undoubtedly
+is from mid-15c; no questions asked accountability not required is from 1879 (especially in
+newspaper advertisements seeking the return of something lost or stolen). Question mark is from
+1849, sometimes also question stop (1862); figurative use is from 1869. To be out of the question
+(c.1700) is to be not pertinent to the subject, hence not to be considered.
+
+

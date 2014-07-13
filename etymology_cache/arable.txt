@@ -3,6 +3,15 @@ arable (adj.)
 early 15c., suitable for plowing (as opposed to pasture- or wood-land), from Old French arable
 (12c.), from Latin arabilis, from arare to plow, from PIE *are- to plow (cognates: Greek aroun, Old
 Church Slavonic orja, Lithuanian ariu to plow; Gothic arjan, Old English erian, Middle Irish airim,
-Welsh arddu to plow; Old Norse ar&thorn;r a plow). Replaced by late 18c. native erable, from Old
+Welsh arddu to plow; Old Norse ar&thorn;r a plow). By late 18c. it replaced native erable, from Old
 English erian to plow, from the same PIE source.
+
+
+gain (n.)
+
+late 15c., from Middle French gain, from Old French gaaigne gain, profit, advantage; booty; arable
+land (12c.), from gaaignier to gain (see gain (v.)). The original French sense enfolded the notions
+of profit from agriculture and booty, prey. Implied earlier in Middle English gaignage (late 14c.)
+profit from agriculture.
+
 

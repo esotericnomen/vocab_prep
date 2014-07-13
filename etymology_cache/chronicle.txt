@@ -7,3 +7,225 @@ from khronos time (see chrono-). Ending modified in Anglo-French, perhaps by inf
 Old English had cranic chronicle, cranicwritere chronicler. The classical -h- was restored in
 English from 16c.
 
+
+chronicle (v.)
+
+c.1400, croniclen, from chronicle (n.). Related: Chronicled; chronicling.
+
+
+chronicler (n.)
+
+early 15c., agent noun from chronicle (v.).
+
+
+annalist (n.)
+
+one who keeps a chronicle of events by year, 1610s, from French analiste; see annals + -ist.
+
+
+coracle (n.)
+
+round boat of wicker, coated with skins, 1540s (the thing is described, but not named, in the Anglo-
+Saxon Chronicle from 9c.), from Welsh corwgl, from corwg, cognate with Gaelic curachan, Middle Irish
+curach boat, which probably is the source of Middle English currock coracle (mid-15c.). The name is
+perhaps from the hides that cover it (see corium).
+
+
+hayseed (n.)
+
+1570s in the literal sense of grass seed shaken out of hay, from hay + seed (n.). In U.S. slang
+sense of comical rustic it dates from 1875. To have hayseed in (one's) hair was a common mid-19c.
+way in U.S. to indicate a country person.    The opinion of the court was delivered by Justice Hunt;
+the chief justice, in whose hair the Ohio hayseed still lingers, delivering a dissenting opinion
+(etc.) [The Chronicle, New York, Nov. 12, 1874]
+
+
+Hastings
+
+Old English H&aelig;stingas The Hastings; settlement of the family or followers of a man called
+*H&aelig;sta; literally H&aelig;sta's People.    The H&aelig;stingas were an important tribal group
+referred to in an 8th cent. Northumbrian chronicle as the gens Hestingorum which seems to have kept
+a separate identity as late as the early 11th cent. [Cambridge Dictionary of English Place-Names]
+
+
+sweat (v.)
+
+Old English sw&aelig;tan perspire, also work hard, from Proto-Germanic *swaitjan to sweat, from the
+source of sweat (n.). Compare Frisian swette, Dutch zweeten, Danish svede, German schwitzen. Meaning
+to be worried, vexed is recorded from c.1400. Transitive sense is from late 14c. Related: Sweated;
+sweating. Sweating sickness was a sudden, often-fatal fever, accompanied by intense sweating, that
+struck England 1485 and returned periodically through mid-16c., described in the original citation
+(a chronicle from 1502) as a grete deth and hasty.
+
+
+dentist (n.)
+
+1759, from French dentiste, from dent tooth, from Latin dens (see tooth) + -ist.  Dentist figures it
+now in our newspapers, and may do well enough for a French puffer, but we fancy Rutter is content
+with being called a tooth-drawer [Edinburgh Chronicle, Sept. 15, 1759].   Tooth-drawer is attested
+from late 14c.
+
+
+Xmas (n.)
+
+Christmas, 1551, X'temmas, wherein the X is an abbreviation for Christ in Christmas, English letter
+X being identical in form (but not sound signification) to Greek chi, the first letter of Greek
+Christos Christ (see Christ). The earlier way to abbreviate the word in English was Xp- or Xr-
+(corresponding to the Chr- in Greek &#935;&#961;&#953;&#963;&#964;&#959;&#962;), and the form Xres
+m&aelig;sse for Christmas appears in the Anglo-Saxon Chronicle (c.1100).
+
+
+giant (n.)
+
+c.1300, from Old French geant, earlier jaiant (12c.), from Vulgar Latin *gagantem (nominative
+gagas), from Latin gigas giant, from Greek gigas (genitive gigantos), one of a race of savage
+beings, sons of Gaia and Uranus, eventually destroyed by the gods, probably from a pre-Greek
+language. Replaced Old English ent, eoten, also gigant. The Greek word was used in Septuagint to
+refer to men of great size and strength, hence the expanded use in modern languages. Of very tall
+persons from 1550s; of persons who have any quality in extraordinary degree, from 1530s.  In
+&thorn;at tyme wer here non hauntes Of no men bot of geauntes. [Wace's Chronicle, c.1330]
+
+
+ant (n.)
+
+c.1500, from Middle English ampte (late 14c.), from Old English &aelig;mette ant, from West Germanic
+*amaitjo (cognates: Old High German ameiza, German Ameise) from a compound of bases *ai- off, away +
+*mai- cut, from PIE *mai- to cut (cognates: maim). Thus the insect's name is, etymologically, the
+biter off.  As &thorn;ycke as ameten crepe&thorn; in an amete hulle [chronicle of Robert of
+Gloucester, 1297] Emmet survived into 20c. as an alternative form. White ant termite is from 1729.
+To have ants in one's pants be nervous and fidgety is from 1934, made current by a popular song;
+antsy embodies the same notion.
+
+
+goblin (n.)
+
+early 14c., a devil, incubus, fairy, from Old French gobelin (12c., as Medieval Latin Gobelinus, the
+name of a spirit haunting the region of Evreux, in chronicle of Ordericus Vitalis), of uncertain
+origin, perhaps related to German kobold (see cobalt), or from Medieval Latin cabalus, from Greek
+kobalos rogue, knave, kobaloi wicked spirits invoked by rogues, of unknown origin. Another
+suggestion is that it is a diminutive of the proper name Gobel.    Though French gobelin was not
+recorded until almost 250 years after appearance of the English term, it is mentioned in the
+Medieval Latin text of the 1100's, and few people who believed in folk magic used Medieval Latin.
+[Barnhart]
+
+
+flee (v.)
+
+Old English fleon take flight, fly from, avoid, escape (contracted class II strong verb; past tense
+fleah, past participle flogen), from Proto-Germanic *fleuhan (cognates: Old High German fliohan, Old
+Norse fl&ouml;ja, Old Frisian flia, Dutch vlieden, German fliehen, Gothic &thorn;liuhan to flee),
+possibly from PIE *pleu- to flow (see pluvial).    Weak past tense and past participle fled emerged
+Middle English, under influence of Scandinavian. Old English had a transitive form, geflieman put to
+flight, which came in handy in the Anglo-Saxon Chronicle. Related: Fleeing.
+
+
+strumpet (n.)
+
+harlot; bold, lascivious woman, early 14c., of uncertain origin. One theory connects it with Latin
+stuprata, fem. past participle of stuprare have illicit sexual relations with, or Late Latin strupum
+dishonor, violation. But evidence for this is wanting and others suggest Middle Dutch strompe a
+stocking, or strompen to stride, to stalk (as a prostitute might a customer). The major sources
+don't seem to give much preference to any of these. Weekley notes Gregory's Chronicle (c.1450) has
+streppett in same sense. In 18c.-early 19c., often abbreviated as strum and also used as a verb,
+which led to some odd dictionary entries:    TO STRUM: to have carnal knowledge of a woman, also to
+play badly on the harpsichord or any other stringed instrument. [Capt. Francis Grose, A Classical
+Dictionary of the Vulgar Tongue, 1785]
+
+
+snow (v.)
+
+c.1300, from the noun, replacing Old English sniwan, which would have yielded modern snew (which
+existed as a parallel form until 17c. and, in Yorkshire, even later), from the root of snow (n.).
+The Old English verb is cognate with Middle Dutch sneuuwen, Dutch sneeuwen, Old Norse snjova,
+Swedish sn&#246;ga.  Also &thorn;ikke as snow &thorn;at snew,  Or al so hail &thorn;at stormes blew.
+[Robert Mannyng of Brunne, transl. Wace's Chronicle, c.1330]    The figurative sense of overwhelm;
+surround, cover, and imprison (as deep snows can do to livestock) is 1880, American English, in
+phrase to snow (someone) under. Snow job strong, persistent persuasion in a dubious cause is World
+War II armed forces slang, probably from the same metaphoric image.
+
+
+story (n.1)
+
+connected account or narration of some happening, c.1200, originally narrative of important events
+or celebrated persons of the past, from Old French estorie, estoire story, chronicle, history, from
+Late Latin storia, shortened from Latin historia history, account, tale, story (see history).
+Meaning recital of true events first recorded late 14c.; sense of narrative of fictitious events
+meant to entertain is from c.1500. Not differentiated from history till 1500s. As a euphemism for a
+lie it dates from 1690s. Meaning newspaper article is from 1892. Story-line first attested 1941.
+That's another story that requires different treatment is attested from 1818. Story of my life sad
+truth first recorded 1938, from typical title of an autobiography.
+
+
+toe (n.)
+
+Old English ta toe (plural tan), contraction of *tahe (Mercian tah&aelig;), from Proto-Germanic
+*taihwo (cognates: Old Norse ta, Old Frisian tane, Middle Dutch te, Dutch teen (perhaps originally a
+plural), Old High German zecha, German Zehe toe). Perhaps originally meaning fingers as well (many
+PIE languages still use one word to mean both fingers and toes), and thus from PIE root *deik- to
+show (see diction).    &#222;o stode hii I-armed fram heued to &#254;e ton. [Robert of Gloucester,
+Chronicle, c.1300]    The old plural survived regionally into Middle English as tan, ton. To be on
+(one's) toes alert, eager is recorded from 1921. To step on (someone's) toes in the figurative sense
+give offense is from late 14c. Toe-hold support for the toe of a boot in climbing is from 1880.
+
+
+army (n.)
+
+late 14c., armed expedition, from Old French arm&eacute;e (14c.) armed troop, armed expedition, from
+Medieval Latin armata armed force, from Latin armata, fem. of armatus armed, equipped, in arms, past
+participle of armare to arm, literally act of arming, related to arma tools, arms (see arm (n.2)).
+Originally used of expeditions on sea or land; the specific meaning land force first recorded 1786.
+Transferred meaning host, multitude is c.1500.    The Old English words were here (still preserved
+in derivatives like harrier), from PIE *kor- people, crowd; and fierd, with an original sense of
+expedition, from faran travel. In spite of etymology, in the Anglo-Saxon Chronicle, here generally
+meant invading Vikings and fierd was used for the local militias raised to fight them.
+
+
+history (n.)
+
+late 14c., relation of incidents (true or false), from Old French estoire, estorie chronicle,
+history, story (12c., Modern French histoire), from Latin historia narrative of past events,
+account, tale, story, from Greek historia a learning or knowing by inquiry; an account of one's
+inquiries, history, record, narrative, from historein inquire, from histor wise man, judge, from PIE
+*wid-tor-, from root *weid- to know, literally to see (see vision).    Related to Greek idein to
+see, and to eidenai to know. In Middle English, not differentiated from story; sense of record of
+past events probably first attested late 15c. As a branch of knowledge, from 1842. Sense of
+systematic account (without reference to time) of a set of natural phenomena (1560s) is now obsolete
+except in natural history.    One difference between history and imaginative literature ... is that
+history neither anticipates nor satisfies our curiosity, whereas literature does. [Guy Davenport,
+Wheel Ruts, 1996]
+
+
+harry (v.)
+
+Old English hergian make war, lay waste, ravage, plunder, the word used in the Anglo-Saxon Chronicle
+for what the Vikings did to England, from Proto-Germanic *harjon (cognates: Old Frisian urheria lay
+waste, ravage, plunder, Old Norse herja to make a raid, to plunder, Old Saxon and Old High German
+herion, German verheeren to destroy, lay waste, devastate), from *harjaz an armed force (cognates:
+Old English here, Old Norse herr crowd, great number; army, troop, Old Saxon and Old Frisian heri,
+Dutch heir, Old High German har, German Heer host, army, Gothic harjis), from PIE root *koro- war
+also war-band, hose, army (cognates: Lithuanian karas war, quarrel, karias host, army; Old Church
+Slavonic kara strife; Middle Irish cuire troop; Old Persian kara host, people, army; Greek koiranos
+ruler, leader, commander). Weakened sense of worry, goad, harass is from c.1400. Related: Harried;
+harrying.
+
+
+Viking (n.)
+
+Scandinavian pirate, 1801, vikingr, in The History of the Anglo-Saxons by English historian Sharon
+H. Turner (1768-1847); he suggested the second element might be connected to king:    The name by
+which the pirates were at first distinguished was Vikingr, which perhaps originally meant kings of
+the bays. It was in bays that they ambushed, to dart upon the passing voyager.     But this later
+was dismissed as incorrect. The form viking is attested in 1820, in Jamieson's notes to The Bruce.
+The word is a historians' revival; it was not used in Middle English, but it was reintroduced from
+Old Norse vikingr freebooter, sea-rover, pirate, viking, which usually is explained as meaning
+properly one who came from the fjords, from vik creek, inlet, small bay (cognates: Old English wic,
+Middle High German wich bay, and second element in Reykjavik). But Old English wicing and Old
+Frisian wizing are almost 300 years older than the earliest attestation of the Old Norse word, and
+probably derive from wic village, camp (large temporary camps were a feature of the Viking raids),
+related to Latin vicus village, habitation (see villa).    The connection between the Norse and Old
+English words is still much debated. The period of Viking activity was roughly 8c. to 11c. In the
+Anglo-Saxon Chronicle, the raiding armies generally were referred to as &thorn;a Deniscan the Danes,
+while those who settled in England were identified by their place of settlement. Old Norse viking
+(n.) meant freebooting voyage, piracy; one would go on a viking (fara &#237; viking).
+
+

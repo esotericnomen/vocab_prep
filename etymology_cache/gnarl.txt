@@ -1,9 +1,29 @@
 gnarled (adj.)
 
 the source of the group of words that includes gnarl (v.), gnarl (n.), gnarly is Shakespeare's use
-of gnarled in 1603:  <blockquote>  Thy sharpe and sulpherous bolt Splits the vn-wedgable and gnarled
-Oke. [Measure for Measure, II.ii.116]  </blockquote>  OED and Barnhart call it a variant of knurled,
-from Middle English knar knot in wood (late 14c.), originally a rock, a stone; of uncertain origin.
-(Gnarled) occurs in one passage of Shakes. (for which the sole authority is the folio of 1623),
-whence it came into general use in the nineteenth century [OED].
+of gnarled in 1603:    Thy sharpe and sulpherous bolt Splits the vn-wedgable and gnarled Oke.
+[Measure for Measure, II.ii.116]    OED and Barnhart call it a variant of knurled, from Middle
+English knar knot in wood (late 14c.), originally a rock, a stone; of uncertain origin. (Gnarled)
+occurs in one passage of Shakes. (for which the sole authority is the folio of 1623), whence it came
+into general use in the nineteenth century [OED].
+
+
+gnarl (v.)
+
+contort, twist, 1814, a back-formation from gnarled. As a noun from 1824. Earlier the verb was used
+in a sense of to snarl (1590s).
+
+
+gnarly (adj.)
+
+1829, knotted and rugged, from gnarl (see gnarled) + -y (2). Picked up 1970s as surfer slang to
+describe a dangerous wave; it had spread in teen slang by 1982, where it meant both excellent and
+disgusting.
+
+
+knurl (n.)
+
+hard excrescence, c.1600, probably a diminutive of Middle English knor knot (c.1400), related to
+gnarl, from Proto-Germanic *knur- (cognates: German knorren a knotty excrescence). Related: Knurly.
+
 

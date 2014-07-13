@@ -6,3 +6,63 @@ died out 13c., leaving legal sense of transfer by will. Closely related to beque
 alive in wills [OED 1st ed.]. Old English beque&eth;ere meant interpreter, translator. Related:
 Bequeathed; bequeathing.
 
+
+bequest (n.)
+
+c.1300, act of bequeathing, from be- + *cwis, *cwiss saying (related to quoth; from Proto-Germanic
+*kwessiz; see bequeath), with excrescent -t. Meaning that which is bequeathed is recorded from late
+15c.
+
+
+legate (n.)
+
+mid-12c., authorized representative of the Pope, from Old French legat and directly from Latin
+legatus ambassador, envoy, originally provided with a commission, past participle of legare send as
+a deputy, send with a commission, bequeath, from lex (genitive legis) contract, law (see legal).
+General sense of ambassador, delegate, messenger is from late 14c.
+
+
+lease (n.)
+
+late 14c., legal contract conveying property, usually for a fixed period of time and with a fixed
+compensation, from Anglo-French les (late 13c.), from lesser to let, let go, from Old French
+laissier to let, allow, permit; bequeath, leave, from Latin laxare loosen, open, make wide, from
+laxus loose (see lax). Modern French equivalent legs is altered by erroneous derivation from Latin
+legatum bequest, legacy.
+
+
+quoth (v.)
+
+Old English cw&aelig;&eth;, third person singular past tense of cwe&eth;an to say, speak; name,
+call; declare, proclaim (Middle English quethan), from Proto-Germanic *kwithan (cognates: Old Saxon
+quethan, Old Norse kve&eth;a, Old Frisian quetha, Old High German quedan, Gothic qi&thorn;an), from
+PIE root *gwet- to say, speak (see bequeath). Compare also archaic quotha said he (1510s) for Old
+English cw&aelig;&eth;e ge think you?
+
+
+let (v.)
+
+Old English l&aelig;tan to allow to remain; let go, leave, depart from; leave undone; to allow;
+bequeath, also to rent (class VII strong verb; past tense let, past participle l&aelig;ten), from
+Proto-Germanic *letan (cognates: Old Saxon latan, Old Frisian leta, Dutch laten, German lassen,
+Gothic letan to leave, let), from PIE *le- (2) to let go, slacken (cognates: Latin lassus faint,
+weary, Lithuanian leisti to let, to let loose; see lenient). If that derivation is correct, the
+primary sense would be let go through weariness, neglect.    Of blood, from late Old English. To let
+(something) slip originally (1520s) was a reference to hounds on a leash; figurative use from 1540s.
+To let (someone) off allow to go unpunished is from 1814. To let on reveal, divulge is from 1725; to
+let up cease, stop is from 1787. Let alone not to mention is from 1812.
+
+
+leave (v.)
+
+Old English l&aelig;fan to let remain; remain; have left; bequeath, from Proto-Germanic *laibijan
+(cognates: Old Frisian leva to leave, Old Saxon farlebid left over), causative of *liban remain,
+(source of Old English belifan, German bleiben, Gothic bileiban to remain), from root *laf- remnant,
+what remains, from PIE *leip- to stick, adhere; also fat.    The Germanic root has only the sense
+remain, continue, which also is in Greek lipares persevering, importunate. But this usually is
+regarded as a development from the primary PIE sense of adhere, be sticky (compare Lithuanian lipti,
+Old Church Slavonic lipet to adhere, Greek lipos grease, Sanskrit rip-/lip- to smear, adhere to.
+Seemingly contradictory meaning of depart (early 13c.) comes from notion of to leave behind (as in
+to leave the earth to die; to leave the field retreat).
+
+

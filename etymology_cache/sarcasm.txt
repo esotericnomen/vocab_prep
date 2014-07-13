@@ -5,3 +5,134 @@ mockery, from sarkazein to speak bitterly, sneer, literally to strip off the fle
 (genitive sarkos) flesh, properly piece of meat, from PIE root *twerk- to cut (cognates: Avestan
 thwares to cut). Current form of the English word is from 1610s. For nuances of usage, see humor.
 
+
+cut (n.)
+
+1520s, gash, incision, from cut (v.); meaning piece cut off is from 1590s; sense of a wounding
+sarcasm is from 1560s.
+
+
+solon (n.)
+
+legislator, 1620s, from Greek Solon, name of early lawgiver of Athens, one of the seven sages.
+Often, especially in U.S., applied (with perhaps a whiff of sarcasm) by journalists to Congressmen,
+township supervisors, etc. It also is a useful short headline word.
+
+
+Momus (n.)
+
+humorously disagreeable person, 1560s, from Latin, from Greek Momos, nme of the god of ridicule and
+sarcasm (Greek momos, literally blame, ridicule, disgrace, of unknown origin); also used in English
+as personification of fault-finding and captious criticism.
+
+
+mockery (n.)
+
+early 15c., from Old French moquerie sneering, mockery, sarcasm (13c.), from moquer (see mock (v.)).
+
+
+sarcastic (adj.)
+
+1690s, from sarcasm, perhaps on the model of enthusiastic. Related: Sarcastical (1640s);
+sarcastically.
+
+
+sarco-
+
+before vowels sarc-, word-forming element meaning flesh, fleshy, of the flesh, from Latinized form
+of Greek sark-, comb. form of sarx flesh (see sarcasm).
+
+
+sarcoma (n.)
+
+1650s, fleshy excrescence, Medical Latin, from Greek sarkoma fleshy substance (Galen), from sarkoun
+to produce flesh, grow fleshy, from sarx (genitive sarkos) flesh (see sarcasm) + -oma. Meaning
+harmful tumor of the connective tissue first recorded 1804.
+
+
+anasarca (n.)
+
+subcutaneous dropsy, late 14c., medical Latin, from Greek ana up, throughout (see ana-) + sarx
+(genitive sarkos) flesh (see sarcasm). Abbreviation of Greek phrase hydrops ana sarka dropsy
+throughout the flesh.
+
+
+not
+
+negative particle, mid-13c., unstressed variant of noht, naht in no way (see naught). As an
+interjection to negate what was said before or reveal it as sarcasm, it is first attested 1900;
+popularized 1989 by Wayne's World sketches on Saturday Night Live TV show. To not know X from Y
+(one's ass from one's elbow, shit from Shinola, etc.) was a construction first attested c.1930.
+Double negative construction not un- was derided by Orwell, but is persistent and ancient in
+English, popular with Milton and the Anglo-Saxon poets.
+
+
+retort (v.)
+
+1550s, make return in kind (especially of an injury), from Old French retort and directly from Latin
+retortus, past participle of retorquere turn back, twist back, throw back, from re- back (see re-) +
+torquere to twist (see torque (n.)). Applied to exchanges of jest or sarcasm by c.1600, hence say or
+utter sharply and aggressively in reply (1620s). Related: Retorted; retorting.
+
+
+cynic (n.)
+
+mid-16c., in reference to the ancient philosophy, from Greek kynikos a follower of Antisthenes,
+literally dog-like, from kyon (genitive kynos) dog (see canine). Supposedly from the sneering
+sarcasm of the philosophers, but more likely from Kynosarge Gray Dog, name of the gymnasium outside
+ancient Athens (for the use of those who were not pure Athenians) where the founder, Antisthenes (a
+pupil of Socrates), taught. Diogenes was the most famous. Popular association even in ancient times
+was dog-like (Lucian has kyniskos a little cynic, literally puppy). Meaning sneering sarcastic
+person is from 1590s.
+
+
+sarcophagus (n.)
+
+c.1600, type of stone used for coffins, from Latin sarcophagus, from Greek sarkophagos limestone
+used for coffins, literally flesh-eating, in reference to the supposed action of this type of
+limestone (quarried near Assos in Troas, hence the Latin lapis Assius) in quickly decomposing the
+body, from sarx (genitive sarkos) flesh (see sarcasm) + phagein to eat (see -phagous). Related:
+Sarcophagal.    The stone sense was the earliest in English; meaning stone coffin, often with
+inscriptions or decorative carvings is recorded from 1705. The Latin word, shortened in Vulgar Latin
+to *sarcus, is the source of French cercueil, German Sarg coffin, Dutch zerk tombstone.
+
+
+choke (v.)
+
+c.1300, transitive, to strangle; late 14c., to make to suffocate, of persons as well as swallowed
+objects, a shortening of acheken (c.1200), from Old English aceocian to choke, suffocate (with
+intensive a-), probably from root of ceoke jaw, cheek (see cheek (n.)).    Intransitive sense from
+c.1400. Meaning gasp for breath is from early 15c. Figurative use from c.1400, in early use often
+with reference to weeds stifling the growth of useful plants (a Biblical image). Meaning to fail in
+the clutch is attested by 1976, American English. Related: Choked; choking. Choke-cherry (1785)
+supposedly so called for its astringent qualities. Johnson also has choke-pear Any aspersion or
+sarcasm, by which another person is put to silence. Choked up overcome with emotion and unable to
+speak is attested by 1896. The baseball batting sense is by 1907.
+
+
+humor (n.)
+
+mid-14c., fluid or juice of an animal or plant, from Old North French humour (Old French humor;
+Modern French humeur), from Latin umor body fluid (also humor, by false association with humus
+earth); related to umere be wet, moist, and to uvescere become wet, from PIE *wegw- wet.    In
+ancient and medieval physiology, any of the four body fluids (blood, phlegm, choler, and melancholy
+or black bile) whose relative proportions were thought to determine state of mind. This led to a
+sense of mood, temporary state of mind (first recorded 1520s); the sense of amusing quality,
+funniness is first recorded 1680s, probably via sense of whim, caprice (1560s), which also produced
+the verb sense of indulge, first attested 1580s. The pronunciation of the initial h is only of
+recent date, and is sometimes omitted .... [OED] For types of humor, see the useful table below,
+from H.W. Fowler [Modern English Usage, 1926].   <table width=90% bgcolor=#CCFFFF align=center
+cellspacing=1 cellpadding=4 border=1> <tr> <td><b>device</b></td> <td>HUMOR</td> <td>WIT</td>
+<td>SATIRE</td> <td>SARCASM</td> <td>INVECTIVE</td> <td>IRONY</td> <td>CYNICISM</td>
+<td>SARDONIC</td> </tr> <tr> <td><b>motive/aim</b></td> <td>discovery</td> <td>throwing light</td>
+<td>amendment</td> <td>inflicting pain</td> <td>discredit</td> <td>exclusiveness</td> <td>self-
+justification</td> <td>self-relief</td> </tr> <tr> <td><b>province</b></td> <td>human nature</td>
+<td>words &amp; ideas</td> <td>morals &amp; manners</td> <td>faults &amp; foibles</td>
+<td>misconduct</td> <td>statement of facts</td> <td>morals</td> <td>adversity</td> </tr> <tr>
+<td><b>method/means</b></td> <td>observation</td> <td>surprise</td> <td>accentuation</td>
+<td>inversion</td> <td>direct statement</td> <td>mystification</td> <td>exposure of nakedness</td>
+<td>pessimism</td> </tr> <tr> <td><b>audience</b></td> <td>the sympathetic</td> <td>the
+intelligent</td> <td>the self-satisfied</td> <td>victim &amp; bystander</td> <td>the public</td>
+<td>an inner circle</td> <td>the respectable</td> <td>the self</td> </tr> </table>
+
+

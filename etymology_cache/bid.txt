@@ -11,3 +11,191 @@ aware, make aware (cognates: Sanskrit bodhati is awake, is watchful, observes, b
 enlightened; Old Church Slavonic bljudo to observe; Lithuanian budeti to be awake; Old Irish buide
 contentment, thanks). As a noun, 1788, from the verb.
 
+
+bidden
+
+past participle of bid and bide.
+
+
+biddy (n.)
+
+old woman, 1785; meaning Irish maid-servant (1861) is American English; both from Biddy, pet form of
+common Irish proper name Bridget.
+
+
+bide (v.)
+
+Old English bidan to stay, continue, live, remain, also to trust, rely (cognate with Old Norse
+bi&eth;a, Old Saxon bidan, Old Frisian bidia, Middle Dutch biden, Old High German bitan, Gothic
+beidan to wait), apparently from PIE *bheidh-, an extended stem of one root of Old English biddan
+(see bid (v.)), the original sense of which was to command, and to trust (compare Greek peithein to
+persuade, pistis faith; Latin fidere to trust, foedus compact, treaty, Old Church Slavonic beda
+need). Perhaps the sense evolved in prehistoric times through endure, and endure a wait, to to wait.
+Preserved in Scotland and northern England, replaced elsewhere by abide in all senses except to bide
+one's time. Related: Bided; biding.
+
+
+bidet (n.)
+
+1620s, small horse, from French bidet (16c.), of unknown etymology. Originally in French a small
+horse, a pony, thus a vessel on a low narrow stand, which can be bestridden for bathing purposes, a
+sense attested in English from 1766.
+
+
+bidirectional (adj.)
+
+also bi-directional, 1941, from bi- + direction + -al (1). Originally of microphones. Related:
+Bidirectionally.
+
+
+abidance (n.)
+
+1640s, from abide + -ance.
+
+
+abide (v.)
+
+Old English abidan, gebidan remain, wait, delay, remain behind, from ge- completive prefix (denoting
+onward motion; see a- (1)) + bidan bide, remain, wait, dwell (see bide). Originally intransitive
+(with genitive of the object: we abidon his we waited for him); transitive sense emerged in Middle
+English. Meaning to put up with (now usually negative) first recorded 1520s. Related: Abided;
+abiding. The historical conjugation is abide, abode, abidden, but the modern formation is now
+generally weak.
+
+
+abiding (adj.)
+
+late 14c., enduring, present participle adjective from abide (v.).
+
+
+ambidexterity (n.)
+
+1650s, from obsolete adjective ambidexter two-sided, using both hands with equal facility, also
+double-dealing, from Medieval Latin ambidexter (see ambidextrous) + -ity.
+
+
+ambidextrous (adj.)
+
+1640s, with -ous, from ambidexter (adj.) double-dealing (1610s), from French ambidextre or directly
+from Latin ambidexter, literally right-handed on both sides, from ambi- both (see ambi-) + dexter
+right-handed (see dexterity). Its opposite, ambilevous left-handed on both sides, clumsy (1640s) is
+rare. Ambidexter as a noun, one who takes bribes from both sides, is attested from 1530s and is the
+earliest form of the word in English; its sense of one who uses both hands equally well appears by
+1590s.
+
+
+carbide (n.)
+
+compound formed by combination of carbon and another element, 1848, from carb-, comb. form of carbon
++ chemical suffix -ide. The earlier word was carburet.
+
+
+comorbidity (n.)
+
+1985, from co- along with + morbidity diseased condition. Comorbid (adj.) is a 1990 back-formation.
+
+
+forbid (v.)
+
+Old English forbeodan forbid, prohibit, from for- against + beodan to command (see bid). Common
+Germanic compound (cognates: Dutch verbieden, Old High German farbiotan, German verbieten, Old Norse
+fyrirbjo&eth;a, Gothic faurbiudan to forbid). Related: Forbade; forbidden.
+
+
+forbidding (adj.)
+
+uninviting, 1712, present participle adjective from forbid. Related: Forbiddingly; forbiddingness.
+
+
+ibid.
+
+also ibid, 1660s, abbreviation of Latin ibidem in the same place, from ibi there, pronomial adverb
+of place, + demonstrative suffix -dem.
+
+
+law-abiding (adj.)
+
+1839, from law + abiding.
+
+
+libidinal (adj.)
+
+1922, in psychology jargon, from libido (Latin genitive libidinis) + -al (1).
+
+
+libidinous (adj.)
+
+lustful, mid-15c., Old French libidineus (13c., Modern French libidineux), from Latin libidinosus
+full of desire, lustful, from libido pleasure, desire, sensual passion, lust (see libido). Related:
+Libidinously; libidinousness.
+
+
+libido (n.)
+
+psychic drive or energy, usually associated with sexual instinct, 1892, carried over untranslated in
+English edition of Krafft-Ebing's Psychopathia Sexualis; and used in 1909 in A.A. Brill's
+translation of Freud's Selected Papers on Hysteria (Freud's use of the term led to its popularity);
+from Latin libido desire, lust, from libere to be pleasing, to please, ultimately cognate with Old
+English lufu (see love (n.)).
+
+
+morbid (adj.)
+
+1650s, of the nature of a disease, indicative of a disease, from Latin morbidus diseased, from
+morbus sickness, disease, ailment, illness, from root of mori to die, which is possibly from PIE
+root *mer- to rub, pound, wear away (cognates: Sanskrit mrnati crushes, bruises; Greek marainein to
+consume, exhaust, put out, quench, marasmus consumption). Transferred use, of mental states, is from
+1777. Related: Morbidly; morbidness.
+
+
+morbidity (n.)
+
+1721, from morbid + -ity.
+
+
+out-bid (v.)
+
+1580s, from out (adv.) + bid (v.). Related: Out-bidding; out-bidden.
+
+
+premorbid (adj.)
+
+also pre-morbid, 1905, from pre- + morbid.
+
+
+rabid (adj.)
+
+1610s, furious, raving, from Latin rabidus raging, furious, enraged; inspired; ungoverned; rabid,
+from rabere be mad, rave (see rage (v.)). Meaning made mad by rabies in English first recorded 1804.
+Related: Rabidly; rabidness.
+
+
+rabidity (n.)
+
+1831, from rabid + -ity.
+
+
+turbid (adj.)
+
+1620s, from Latin turbidus muddy, full of confusion, from turbare to confuse, bewilder, from turba
+turmoil, crowd, probably from Greek tyrbe turmoil, tumult, disorder, from PIE *(s)twer- (1) to turn,
+whirl (see storm (n.)). Related: Turbidly; turbidness.
+
+
+turbidity (n.)
+
+1782, from Medieval Latin turbiditas, from Latin turbidus (see turbid). Turbidity current is from
+1939.
+
+
+unbidden (adj.)
+
+Old English unbedene, not asked or invited, from un- (1) not + bidden. Similar formation in Middle
+Dutch ongebeden, German ungebeten, Old Norse ube&eth;inn.
+
+
+underbid (v.)
+
+1610s, from under + bid (v.). Related: Underbidding.
+
+

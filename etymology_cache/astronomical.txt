@@ -5,3 +5,238 @@ distances in astronomy) is attested from 1899. Astronomical unit (abbreviation A
 from Earth to Sun, used as a unit of measure of distance in space, is from 1909. Related:
 Astronomically.
 
+
+Schmidt (n.)
+
+type of astronomical telescope lens used for photography, 1939, from Estonian-born German optician
+Bernhard Voldemar Schmidt (1879-1935), who invented it.
+
+
+photosphere (n.)
+
+1660s, orb of light, from photo- + -sphere. Astronomical sense is from 1848.
+
+
+observatory (n.)
+
+building for observing astronomical phenomena, 1670s (in reference to Greenwich), from French
+observatoire, from observer (v.); see observe.
+
+
+nebular (adj.)
+
+1821, pertaining to an (astronomical) nebula or nebulae, from nebula + -ar.
+
+
+transit (v.)
+
+mid-15c., from Latin transitus, past participle of transire go or cross over (see transient).
+Astronomical sense is from 1680s. Related: Transited; transiting.
+
+
+umbra (n.)
+
+1590s, phantom, ghost, a figurative use from Latin umbra shade, shadow (see umbrage). Astronomical
+sense of shadow cast by the earth or moon during an eclipse is first recorded 1670s. Meaning an
+uninvited guest accompanying an invited one is from 1690s in English, from a secondary sense among
+the Romans. Related: Umbral.
+
+
+quartile (adj.)
+
+mid-15c., 90 degrees apart (of astronomical measurements), from Middle French quartil, from Medieval
+Latin quartilus of a quartile, from Latin quartus fourth (see quart).
+
+
+nutation (n.)
+
+1610s, action of nodding, from Latin nutationem (nominative nutatio), noun of action from past
+participle stem of nutare to nod, from PIE *neu- to nod (see numinous). Astronomical use is from
+1715. Related: Nutational.
+
+
+orbit (n.)
+
+late 14c., the eye socket, from Old French orbite or directly from Medieval Latin orbita,
+transferred use of Latin orbita wheel track, beaten path, rut, course, orbit (see orb). Astronomical
+sense first recorded 1690s in English; it was in classical Latin, revived in Gerard of Cremona's
+translation of Avicenna.
+
+
+ascension (n.)
+
+c.1300, ascent of Christ into Heaven on the 40th day after the Resurrection, from Latin ascensionem
+(nominative ascensio) a rising, noun of action from past participle stem of ascendere to mount,
+ascend, go up (see ascend). Astronomical sense is recorded late 14c.; meaning action of ascending is
+from 1590s. Related: Ascensional.
+
+
+singularity (n.)
+
+c.1400, unusual behavior, also singleness of aim or purpose, from Old French singulerte peculiarity
+(12c., Modern French singularit&eacute;) or directly from Late Latin singularitatem (nominative
+singularitas) a being alone, from singularis (see singular (adj.)). Meaning fact of being different
+from others is c.1500. Mathematical sense of point at which a function takes an infinite value is
+from 1893. Astronomical use is from 1965.
+
+
+nebulous (adj.)
+
+late 14c., cloudy, misty, from Latin nebulosus cloudy, misty, foggy, full of vapor, from nebula (see
+nebula). The figurative sense of hazy, vague, formless is first attested 1831. Astronomical sense is
+from 1670s. Related: Nebulously; nebulousness.
+
+
+plage (n.)
+
+a region, late 14c., from Old French plage (13c.), from Late Latin plagia a plain, shore, noun use
+of adjective (plagia regio), from plaga a region, stretch of country (see pelagic). Astronomical
+sense is from 1949.
+
+
+limb (n.2)
+
+late 14c., edge of a quadrant or other instrument, from Latin limbus border, hem, fringe, edge, of
+uncertain origin. Klein suggests cognate with Sanskrit lambate hangs down, and English limp. But
+Tucker writes that the sense appears to be that of something which twists, goes round, or binds ...
+not of something which hangs loose, and suggests cognates in Lithuanian linta ribbon, Old Norse
+linnr whether. Astronomical sense of edge of the disk of a heavenly body first attested 1670s.
+
+
+almanac (n.)
+
+late 14c., attested in Anglo-Latin from mid-13c., via Old French almanach or Medieval Latin
+almanachus, of uncertain origin. It is sometimes said to be from a Spanish-Arabic al-manakh
+calendar, almanac, but possibly ultimately from Late Greek almenichiakon calendar, which is said to
+be of Coptic origin.    This word has been the subject of much speculation. Originally a book of
+permanent tables of astronomical data; one-year versions, combined with ecclesiastical calendars,
+date from 16c.; astrological and weather predictions appear in 16-17th c.; the 'useful statistics'
+are a modern feature [OED].
+
+
+nadir (n.)
+
+late 14c., in astronomical sense, from Medieval Latin nadir, from Arabic nazir opposite to, in nazir
+as-samt, literally opposite direction, from nazir opposite + as-samt road, path (see zenith).
+Transferred sense of lowest point (of anything) is first recorded 1793.
+
+
+orb (n.)
+
+mid-15c., sphere, globe, something spherical or circular, from Old French orbe orb, globe (13c.) and
+directly from Latin orbem (nominative orbis) circle, disk, ring, hoop, orbit, probably related to
+orbita wheel track, rut, of unknown origin. Watkins suggests a connection with the root of orchid.
+A three-dimensional extension of a word originally describing two-dimensional shapes. Astronomical
+sense is in reference to the hollow spheres that carried the planets and stars in the Ptolemaic
+system. As a verb from c.1600. Orb weaver spider is first recorded 1889.
+
+
+constellation (n.)
+
+early 14c., from Old French constellacion constellation, conjuncture (of planets), from Late Latin
+constellationem (nominative constellatio) set with stars, from constellatus, from Latin com- with
+(see com-) + past participle of stellare to shine, from stella star (see star). Originally in
+astrology, of position of planets (stars) in regard to one another on a given day, usually one's
+birth day, as a determination of one's character. I folwed ay myn inclinacioun/By vertu of my
+constillacioun (Chaucer, Wife's Prologue, c.1386). Modern astronomical sense is from 1550s.
+
+
+galaxy (n.)
+
+late 14c., from Old French galaxie, from Late Latin galaxias Milky Way, from Greek galaxias (adj.),
+in galaxias kyklos, literally milky circle, from gala (genitive galaktos) milk (see lactation). The
+technical astronomical sense emerged 1848. Figurative sense of brilliant assembly of persons is from
+1580s. Milky Way is a translation of Latin via lactea.See yonder, lo, the Galaxy&#235; Which men
+clepeth the Milky Wey, For hit is whyt. [Chaucer, House of Fame]  Astronomers began to speculate by
+mid-19c. that some of the spiral nebulae they could see in telescopes were actually immense and
+immensely distant structures the size and shape of the Milky Way. But the matter was not settled
+until the 1920s.
+
+
+nebula (n.)
+
+early 15c., nebule a cloud, mist, from Latin nebula mist, vapor, fog, smoke, exhalation,
+figuratively darkness, obscurity, from PIE *nebh- cloud (cognates: Sanskrit nabhas- vapor, cloud,
+mists, fog, sky; Greek nephele, nephos cloud; German nebel fog; Old English nifol dark, gloomy;
+Welsh niwl cloud, fog; Slavic nebo).    Re-borrowed from Latin 1660s in sense of cataracts in the
+eye; astronomical meaning cloud-like patch in the night sky first recorded c.1730. As early as
+Hershel (1802) astronomers realized that some nebulae were star clusters, but certain distinction of
+relatively nearby cosmic gas clouds from distant galaxies was not made until 1920s, using the new
+100-inch Mt. Wilson telescope.
+
+
+proper (adj.)
+
+c.1300, adapted to some purpose, fit, apt; commendable, excellent (sometimes ironic), from Old
+French propre own, particular; exact, neat, fitting, appropriate (11c.), from Latin proprius one's
+own, particular to itself, from pro privo for the individual, in particular, from ablative of privus
+one's own, individual (see private (adj.)) + pro for (see pro-). Related: Properly.    From early
+14c. as belonging or pertaining to oneself; individual; intrinsic; from mid-14c. as pertaining to a
+person or thing in particular, special, specific; distinctive, characteristic; also what is by the
+rules, correct, appropriate, acceptable. From early 15c. as separate, distinct; itself. Meaning
+socially appropriate, decent, respectable is first recorded 1704. Proper name name belonging to or
+relating to the person or thing in question, is from late 13c., a sense also preserved in
+astronomical proper motion (c.1300). Proper noun is from c.1500.
+
+
+circle (n.)
+
+c.1300, figure of a circle, from Old French cercle circle, ring (for the finger); hoop of a helmet
+or barrel (12c.), from Latin circulus circular figure; small ring, hoop; circular orbit (also source
+of Italian cerchio), diminutive of circus ring (see circus).    Replaced Old English trendel and
+hring. Late Old English used circul, from Latin, but only in an astronomical sense. Meaning group of
+persons surrounding a center of interest is from 1714 (it also was a secondary sense of Latin
+circulus); that of coterie is from 1640s (a sense also found in Latin circulus). To come full circle
+is in Shakespeare.
+
+
+mathematic (n.)
+
+late 14c. as singular noun, replaced by early 17c. by mathematics, from Latin mathematica (plural),
+from Greek mathematike tekhne mathematical science, feminine singular of mathematikos (adj.)
+relating to mathematics, scientific, astronomical; disposed to learn, from mathema (genitive
+mathematos) science, knowledge, mathematical knowledge; a lesson, literally that which is learnt;
+related to manthanein to learn, from PIE root *mendh- to learn (cognates: Greek menthere to care,
+Lithuanian mandras wide-awake, Old Church Slavonic madru wise, sage, Gothic mundonsis to look at,
+German munter awake, lively). As an adjective, 1540s, from French math&#233;matique or directly from
+Latin mathematicus.
+
+
+space (n.)
+
+c.1300, extent or area; room (to do something), a shortening of Old French espace period of time,
+distance, interval (12c.), from Latin spatium room, area, distance, stretch of time, of unknown
+origin (also source of Spanish espacio, Italian spazio).    From early 14c. as a place, also amount
+or extent of time. From mid-14c. as distance, interval of space; from late 14c. as ground, land,
+territory; extension in three dimensions; distance between two or more points. From early 15c. as
+size, bulk, also an assigned position. Typographical sense is attested from 1670s (typewriter space-
+bar is from 1876, earlier space-key, 1860).    Astronomical sense of stellar depths apparently is
+first recorded 1667 in Paradise Lost, common from 1890s. Space age is attested from 1946. Many
+compounds first appeared in science fiction and speculative writing, such as spaceship (1894, A
+Journey in Other Worlds, John Jacob Astor); spacecraft (1928, Popular Science); space travel (1931);
+space station (1936, Rockets Through Space); spaceman (1942, Thrilling Wonder Stories). Space race
+attested from 1959. Space shuttle attested by 1970.    Space isn't remote at all. It's only an
+hour's drive away if your car could go straight upwards. [Sir Fred Hoyle, London Observer, 1979]
+
+
+white (adj.)
+
+Old English hwit bright, radiant; clear, fair, also as a noun (see separate entry), from Proto-
+Germanic *hwitaz (cognates: Old Saxon and Old Frisian hwit, Old Norse hvitr, Dutch wit, Old High
+German hwiz, German wei&szlig;, Gothic hveits), from PIE *kweid-o-, suffixed form of root *kweit-
+white; to shine (cognates: Sanskrit svetah white; Old Church Slavonic sviteti to shine, svetu light;
+Lithuanian &#353;viesti to shine, svaityti to brighten).    As a surname, originally with reference
+to fair hair or complexion, it is one of the oldest in English, being well-established before the
+Conquest. Meaning morally pure was in Old English. Association with royalist causes is late 18c.
+Slang sense of honorable, fair is 1877, American English; in Middle English it meant gracious,
+friendly, favorable. The racial sense of those races (chiefly European or of European extraction)
+characterized by light complexion is recorded from c.1600; meaning characteristic of or pertaining
+to white people is from 1852, American English. White supremacy attested from 1884, American
+English; white flight is from 1966, American English.   White way brightly illuminated street in a
+big city is from 1908. White flag of truce or surrender is from c.1600. White lie is attested from
+1741. White Christmas is attested from 1847. White House as the name of the U.S. presidential
+residence is recorded from 1811. White water river rapids is recorded from 1580s. White Russian
+language of Byelorussia is recorded from 1850; the mixed drink is from c.1978. Astronomical white
+dwarf is from 1924. White witch, one who used the power for good, is from 1620s.
+
+

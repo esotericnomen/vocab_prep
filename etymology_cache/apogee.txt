@@ -5,3 +5,12 @@ apogaeum, from Greek apogaion, neuter adjective, away from the earth, a term fro
 astronomy, from apo off, away (see apo-) + gaia/ge earth (see Gaia). Adjective forms are apogeal,
 apogean.
 
+
+aphelion (n.)
+
+point farthest from the sun (of a celestial body's orbit), 1670s, a Grecianized form of Modern Latin
+aphelium, altered by Johannes Kepler based on Greek apo heliou away from the sun, from apo away from
+(see apo-) + heliou, genitive of helios sun (see sol). The whole was formed on the model of
+Ptolemaic apogaeum (see apogee) to reflect the new helio-centric model of the universe.
+
+

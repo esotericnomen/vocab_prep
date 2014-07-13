@@ -3,3 +3,22 @@ absolve (v.)
 early 15c., from Latin absolvere set free, loosen, acquit, from ab- from (see ab-) + solvere loosen
 (see solve). Related: Absolved; absolving.
 
+
+absolution (n.)
+
+remission, forgiveness, c.1200, from Old French absolucion, earlier assolucion, from Latin
+absolutionem (nominative absolutio) completion, acquittal, noun of action from past participle stem
+of absolvere to absolve (see absolve). Originally of sins; in general use from c.1400.
+
+
+absolute (adj.)
+
+late 14c., unrestricted; complete, perfect; also not relative to something else (mid-15c.), from
+Middle French absolut (14c., Old French asolu, Modern French absolu), from Latin absolutus, past
+participle of absolvere to set free, make separate (see absolve).    Most of the current senses also
+were in the Latin word. Sense evolution was detached, disengaged, thus perfect, pure. Meaning
+despotic (1610s) is from notion of absolute in position. Absolute monarchy is recorded from 1735
+(absolute king is recorded from 1610s); scientific absolute magnitude (1902), absolute value (1907)
+are from early 20c. In metaphysics, the absolute that which is absolute is from 1809.
+
+

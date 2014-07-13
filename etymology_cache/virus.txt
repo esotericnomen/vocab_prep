@@ -8,3 +8,143 @@ mistletoe, birdlime; Old Church Slavonic vi&#353;nja cherry; Old Irish fi poison
 water, gwyar blood). Main modern meaning agent that causes infectious disease first recorded 1728
 (in reference to venereal disease). The computer sense is from 1972.
 
+
+viral (adj.)
+
+of the nature of, or caused by, a virus, 1948, see virus + -al. Sense of become suddenly widely
+popular through Internet sharing is attested by 1999, originally in reference to marketing and based
+on the similarity of the effect to the spread of a computer virus. Related: Virally.
+
+
+rotavirus (n.)
+
+wheel-shaped virus causing inflammation of the lining of the intestines, 1974, from Latin rota wheel
+(see rotary) + virus.
+
+
+virulent (adj.)
+
+c.1400, in reference to wounds, ulcers, etc., full of corrupt or poisonous matter, from Latin
+virulentus poisonous, from virus poison (see virus). Figurative sense of violent, spiteful is
+attested from c.1600. Related: Virulently.
+
+
+virion (n.)
+
+coined in French, 1959, from virus (see virus) + -on.
+
+
+HIV (n.)
+
+1986, initialism (acronym) from human immunodeficiency virus, name for either of the two viruses
+that cause AIDS.
+
+
+phage (n.)
+
+virus that destroys bacteria, 1917, an abbreviated form of bacteriophage.
+
+
+ebola (n.)
+
+virus, 1976, named for Ebola River valley in Congo, where it first was studied.
+
+
+reovirus (n.)
+
+1959, coined by U.S. medical researcher Dr. Albert B. Sabin (1906-1993), acronym for respiratory
+enteric orphan virus; orphan because it was not connected to any of the diseases it is associated
+with.
+
+
+echovirus (n.)
+
+also ECHO virus, 1955, acronym for enteric cytopathogenic human orphan; orphan because when
+discovered they were not known to cause any disease.
+
+
+virology (n.)
+
+1935, from comb. form of virus + -ology. Related: Virological.
+
+
+enterovirus (n.)
+
+1957; see entero- + virus.
+
+
+antivirus (n.)
+
+1903, from anti- + virus.
+
+
+rhinovirus (n.)
+
+1961, from rhino- + virus.
+
+
+parvovirus (n.)
+
+1965, from parvi- + connecting element -o- + virus.
+
+
+Epstein-Barr virus
+
+1968, named for British virologist Michael Anthony Epstein and Irish-born virologist Yvonne M. Barr.
+
+
+retrovirus (n.)
+
+1977, earlier retravirus (1974), from re(verse) tra(nscriptase) + virus. So called because it
+contains reverse transcriptase, an enzyme that uses RNA instead of DNA to encode genetic
+information, which reverses the usual pattern. Remodeled by influence of retro- backwards.
+
+
+viscous (adj.)
+
+late 14c., from Anglo-French viscous and directly from Late Latin viscosus sticky, from Latin viscum
+anything sticky, birdlime made from mistletoe, mistletoe, probably from PIE root *weis- to melt
+away, flow (used of foul or malodorous fluids); see virus.
+
+
+vaccination (n.)
+
+1800, used by British physician Edward Jenner (1749-1823) for the technique he devised of preventing
+smallpox by injecting people with the cowpox virus (variolae vaccinae), from vaccine (adj.)
+pertaining to cows, from cows (1798), from Latin vaccinus from cows, from vacca cow (Latin bos cow
+being originally ox, a loan word from a rural dialect according to Buck, who cites Umbrian bue). The
+use of the term for diseases other than smallpox is due to Pasteur [OED].
+
+
+Trojan (adj.)
+
+Old English Troian of or pertaining to ancient Troy, from Latin Trojanus, from Troia, Troja Troy,
+from the Greek name for the city, said to be from Tros, name of a king of Phrygia, the mythical
+founder of Troy. Trojan horse was figurative of ambush-from-within in Roman times (equus Troianus);
+attested in English from 1570s; the computer virus sense is attested by 1982.    As a noun from mid-
+14c., inhabitant of ancient Troy; in early modern English, the noun could mean a determined fellow,
+one who fights or works hard, from the Trojans' long resistance to the Greeks in the Trojan War, but
+also in 17c., it was a colloquial term for person of dissolute life, carousing companion. The trade
+name for a brand of prophylactic contraceptive was registered 1927 in U.S.
+
+
+poison (n.)
+
+c.1200, a deadly potion or substance, also figuratively, from Old French poison, puison (12c.,
+Modern French poison) a drink, especially a medical drink, later a (magic) potion, poisonous drink
+(14c.), from Latin potionem (nominative potio) a drinking, a drink, also poisonous drink (Cicero),
+from potare to drink (see potion).    For form evolution from Latin to French, compare raison from
+rationem. The Latin word also is the source of Old Spanish pozon, Italian pozione, Spanish pocion.
+The more usual Indo-European word for this is represented in English by virus. The Old English word
+was ator (see attercop) or lybb. Slang sense of alcoholic drink first attested 1805, American
+English.    For sense evolution, compare Old French enerber, enherber to kill with poisonous plants.
+In many Germanic languages poison is named by a word equivalent to English gift (such as Old High
+German gift, German Gift, Danish and Swedish gift; Dutch gift, vergift). This shift might have been
+partly euphemistic, partly by influence of Greek dosis a portion prescribed, literally a giving,
+used by Galen and other Greek physicians to mean an amount of medicine (see dose (n.)).
+Figuratively from late 15c.; of persons by 1910. As an adjective from 1520s; with plant names from
+18c. Poison ivy first recorded 1784; poison oak is from 1743. Poison gas first recorded 1915.
+Poison-pen (letter) popularized 1913 by a notorious criminal case in Pennsylvania, U.S.; the phrase
+dates to 1898.
+
+

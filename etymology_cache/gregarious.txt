@@ -2,7 +2,73 @@ gregarious (adj.)
 
 1660s, living in flocks (of animals), from Latin gregarius pertaining to a flock; of the herd, of
 the common sort, common, from grex (genitive gregis) flock, herd, reduplication of PIE root *ger- to
-gather together, assemble (cognates: Greek ageirein to assemble, agora assembly; Old Church Slavonic
-grusti handful; Lithuanian gurgulys chaos, confusion, gurguole crowd, mass). Sense of sociable first
-recorded 1789. Related: Gregariously;  gregariousness.
+gather together, assemble (cognates: Sanskrit gramah heap, troop; Greek ageirein to assemble, agora
+assembly; Latin gremium bosom, lap; Old Church Slavonic grusti handful, gramota heap; Lithuanian
+gurgulys chaos, confusion, gurguole crowd, mass). Sense of sociable first recorded 1789. Related:
+Gregariously;  gregariousness.
+
+
+agora (n.)
+
+assembly place, 1590s, from Greek agora open space (typically a marketplace), from ageirein to
+assemble, from PIE root *ger- to gather (see gregarious).
+
+
+aggregate (adj.)
+
+c.1400, from Latin aggregatus associated, literally united in a flock, past participle of aggregare
+add to (a flock), lead to a flock, bring together (in a flock), from ad- to (see ad-) + gregare herd
+(see gregarious).
+
+
+cram (v.)
+
+Old English crammian press something into something else, from Proto-Germanic *kram-/*krem-
+(cognates: Old High German krimman to press, pinch, Old Norse kremja to squeeze, pinch), from PIE
+root *ger- to gather (see gregarious). Meaning study intensely for an exam originally was British
+student slang first recorded 1803. Related: Crammed; cramming.
+
+
+Gregory
+
+masc. proper name, common in England and Scotland by mid-12c. (Pope Gregory I sent the men who
+converted the English to Christianity), from Late Latin Gregorius, from Greek gregorios, a
+derivative of gregoros to be watchful, from PIE root *ger- to be awake (cognates: Sanskrit jagarti
+he is awake, Avestan agarayeiti wakes up, rouses). At times confused with Latin gregarius (see
+gregarious).
+
+
+congregate (v.)
+
+mid-15c., from Latin congregatus flocking together, past participle of congregare to herd together,
+collect in a flock, swarm; assemble, from com- together (see com-) + gregare to collect into a
+flock, gather, from grex (genitive gregis) a flock (see gregarious). Related: Congregated;
+congregating.
+
+
+segregate (v.)
+
+1540s, from Latin segregatus, past participle of segregare set apart, lay aside; isolate; divide,
+literally separate from the flock, from *se gregare, from se apart from (see secret (n.)) + grege,
+ablative of grex herd, flock (see gregarious). Originally often with reference to the religious
+notion of separating the flock of the godly from sinners. In modern social context, to force or
+enforce racial separation and exclusion, 1908. Related: Segregated; segregating.
+
+
+egregious (adj.)
+
+1530s, distinguished, eminent, excellent, from Latin egregius distinguished, excellent,
+extraordinary, from the phrase ex grege rising above the flock, from ex out of (see ex-) + grege,
+ablative of grex herd, flock (see gregarious).    Disapproving sense, now predominant, arose late
+16c., originally ironic and is not in the Latin word, which etymologically means simply exceptional.
+Related: Egregiously; egregiousness.
+
+
+paregoric (n.)
+
+medicine that soothes pain, 1704, from adjective (1680s) soothing, from Late Latin paregoricus, from
+Greek paregorikos soothing, encouraging, consoling, from paregorein speak soothingly to, from
+paregoros consoling, from para- beside (see para- (1)) + root of agoreuein speak in public, from
+agora public assembly, from PIE root *ger- to gather (see gregarious).
+
 

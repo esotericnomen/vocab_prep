@@ -1,9 +1,28 @@
 gourmand (n.)
 
 late 15c., glutton, from Middle French gourmant glutton, originally an adj., gluttonous, of
-uncertain origin. Not connected with gourmet. Meaning one fond of good eating is from 1758.
-<blockquote>  The gourmand is one whose chief pleasure is eating; but a gourmet is a connoisseur of
-food and wines. In England the difference is this: a gourmand regards quantity more than quality, a
-gourmet quality more than quantity. [Brewer, Dictionary of Phrase and Fable, Philadelphia, 1898]
-</blockquote>
+uncertain origin. Not connected with gourmet. Meaning one fond of good eating is from 1758.    The
+gourmand is one whose chief pleasure is eating; but a gourmet is a connoisseur of food and wines. In
+England the difference is this: a gourmand regards quantity more than quality, a gourmet quality
+more than quantity. [Brewer, Dictionary of Phrase and Fable, Philadelphia, 1898]
+
+
+gormandize (v.)
+
+1540s, from gourmand + -ize.
+
+
+deipnosophist (n.)
+
+gourmand, 1650s, from Greek deipnosophistes one learned in the mysteries of the kitchen, from
+deipnon chief meal, dinner (of unknown origin) + sophistes master of a craft (see sophist). the word
+has come down thanks to Deipnosophistai, 3c. work on gastronomy by Athenaeus.
+
+
+gourmet (n.)
+
+connoisseur in eating and drinking, 1820, from French gourmet, altered (by influence of Middle
+French gourmant glutton) from Old French groume, originally wine-taster, wine merchant's servant (in
+13c. a lad generally), of uncertain origin. As an adjective from 1900. See gourmand.
+
 

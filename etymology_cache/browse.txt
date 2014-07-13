@@ -1,8 +1,17 @@
 browser (n.)
 
-1845, animal which browses, agent noun from browse (v.). In the computer sense by 1982.
-<blockquote>  The first browser was invented at PARC by Larry Tesler, now a designer at Apple
-Computer. Tesler's first Smalltalk browser was a tree-structured device. It enabled programmers to
-hunt quickly for items in a Smalltalk dictionary. [InfoWorld magazine, vol. v., no. 4, Jan. 24,
-1983]  </blockquote>
+1845, animal which browses, agent noun from browse (v.). In the computer sense by 1982.    The first
+browser was invented at PARC by Larry Tesler, now a designer at Apple Computer. Tesler's first
+Smalltalk browser was a tree-structured device. It enabled programmers to hunt quickly for items in
+a Smalltalk dictionary. [InfoWorld magazine, vol. v., no. 4, Jan. 24, 1983]
+
+
+browse (v.)
+
+mid-15c., feed on buds, from Middle French brouster, from Old French broster to sprout, bud, from
+brost young shoot, twig, probably from Proto-Germanic *brust- bud, shoot, from PIE *bhreus- to
+swell, sprout (see breast (n.)). Lost its final -t in English on the mistaken notion that the letter
+was a past participle inflection. Figurative extension to peruse (books) is 1870s, American English.
+Related: Browsed; browsing.
+
 

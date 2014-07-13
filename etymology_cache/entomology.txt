@@ -4,8 +4,42 @@ entomology (n.)
 -logy). Entomon is neuter of entomos having a notch or cut (at the waist), from en in (see en- (2))
 + temnein to cut (see tome).    So called by Aristotle in reference to the segmented division of
 insect bodies. Compare insect. Related: Entomological. Hybrid insectology (1766, from French
-insectologie, 1744) is not much used.  <blockquote>I have given the name insectology to that part of
-natural history which has insects for its object; that of entomology ... would undoubtedly have been
-more suitable ... but its barbarous sound terryfy'd me. [Charles Bonnet's English translation of his
-Contemplation de la nature, 1766]</blockquote>
+insectologie, 1744) is not much used.  I have given the name insectology to that part of natural
+history which has insects for its object; that of entomology ... would undoubtedly have been more
+suitable ... but its barbarous sound terryfy'd me. [Charles Bonnet's English translation of his
+Contemplation de la nature, 1766]
+
+
+entomologist (n.)
+
+1771; see entomology + -ist.
+
+
+insect (n.)
+
+c.1600, from Latin (animal) insectum (animal) with a notched or divided body, literally cut into,
+from neuter past participle of insectare to cut into, to cut up, from in- into (see in- (2)) +
+secare to cut (see section (n.)). Pliny's loan-translation of Greek entomon insect (see entomology),
+which was Aristotle's term for this class of life, in reference to their notched bodies.    First in
+English in 1601 in Holland's translation of Pliny. Translations of Aristotle's term also form the
+usual word for insect in Welsh (trychfil, from trychu cut + mil animal), Serbo-Croatian (zareznik,
+from rezati cut), Russian (nasekomoe, from sekat cut), etc.
+
+
+boll (n.)
+
+Old English bolla bowl, cup, pot, merged with Middle Dutch bolle round object, borrowed 13c., both
+from Proto-Germanic *bul-, from PIE *bhel- (2) to blow, inflate, swell (see bole). Influenced in
+meaning by Latin bulla bubble, ball, ultimately from the same PIE root. Extended c.1500 to round
+seed pod of flax or cotton. Boll weevil is 1895, American English.    In south Texas, among Spanish-
+speaking people, the insect is generally known as the 'picudo,' a descriptive name which refers to
+the snout or beak of the insect. English-speaking planters generally referred to the insect at first
+as 'the sharpshooter,' a term which for many years has been applied to any insect which causes
+through its punctures the shedding of the squares or the rotting of the bolls. As there are several
+native insects that are commonly called sharpshooters and which, though injurious, are by no means
+to be compared with this insect, it becomes necessary to discourage in every way the use of the word
+sharpshooter as applied to this weevil. The adoption of the term 'Mexican cotton-boll weevil' for
+the new pest is recommended. [New Mexico College of Agriculture and the Mechanic Arts Agricultural
+Experiment Station Bulletin No. 19, April 1896]    A case of entomology meddling in etymology.
+
 

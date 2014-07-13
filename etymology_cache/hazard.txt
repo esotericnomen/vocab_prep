@@ -3,3 +3,55 @@ hazard (v.)
 put something at stake in a game of chance, 1520s, from Middle French hasarder to play at gambling
 (15c.), from hasard (see hazard (n.)). Related: Hazarded; hazarding.
 
+
+hazardous (adj.)
+
+1580s, venturesome; 1610s, perilous, from hazard (n.) + -ous or from Middle French hasardeux (16c.).
+
+
+hazard (n.)
+
+c.1300, from Old French hasard, hasart (12c.) game of chance played with dice, possibly from Spanish
+azar an unfortunate card or throw at dice, which is said to be from Arabic az-zahr (for al-zahr) the
+die. But this is doubtful because of the absence of zahr in classical Arabic dictionaries. Klein
+suggests Arabic yasara he played at dice; Arabic -s- regularly becomes Spanish -z-. The -d was added
+in French in confusion with the native suffix -ard. Sense evolved in French to chances in gambling,
+then chances in life. In English, sense of chance of loss or harm, risk first recorded 1540s.
+
+
+biohazard (n.)
+
+also bio-hazard, 1973, from bio- + hazard (n.).
+
+
+haphazard (adj.)
+
+1570s, from hap chance, luck (see hap) + hazard risk, danger, peril. Related: Haphazardly.
+
+
+aleatory (adj.)
+
+of uncertain outcome, literally depending on the throw of a die, 1690s, from Latin aleatorius
+pertaining to a gamester, from aleator a dice player, from alea a game with dice; chance, hazard,
+risk; a die, the dice; perhaps literally a joint-bone, a pivot-bone, and related to axis.
+
+
+stake (n.2)
+
+that which is placed at hazard, 1530s, from stake (v.). Perhaps literally that which is put up, from
+notion of post on which a gambling wager was placed, though OED points out there is no evidence of
+the existence of such a custom. Weekley suggests there is a tinge of the burning or baiting metaphor
+in this usage. Hence, an interest, something to gain or lose (1784). Plural stakes, sum of money to
+be won in a (horse) race, first recorded 1690s (compare sweepstakes). To have a stake in is recorded
+from 1784.
+
+
+craps (n.)
+
+1843, American English, unrelated to the term for excrement, instead it is from Louisiana French
+craps the game of hazard, from an 18c. continental French corruption of English crabs, which was
+18c. slang for a throw of two or three (the lowest throw), which perhaps is from crab (n.2), the
+sense in crab apple. The 1843 citation (in an anti-gambling publication, An Exposure of the Arts and
+Miseries of Gambling) calls it a game lately introduced into New Orleans.
+
+

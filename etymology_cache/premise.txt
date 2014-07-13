@@ -2,3 +2,61 @@ premise (v.)
 
 to state before something else, mid-15c., from premise (n.). Related: Premised; premising.
 
+
+premises (n.)
+
+building and grounds, 1730; see premise (n.).
+
+
+premise (n.)
+
+late 14c., in logic, a previous proposition from which another follows, from Old French premisse
+(14c.), from Medieval Latin premissa (propositio or sententia) (the proposition) set before, noun
+use of fem. past participle of Latin praemittere send forward, put before, from prae before (see
+pre-) + mittere to send (see mission). In legal documents it meant matter previously stated (early
+15c.), which in deeds or wills often was a house or building, hence the extended meaning house or
+building, with grounds (1730).
+
+
+dilemma (n.)
+
+1520s, from Late Latin dilemma, from Greek dilemma double proposition, a technical term in rhetoric,
+from di- two + lemma premise, anything received or taken, from root of lambanein to take (see
+analemma). It should be used only of situations where someone is forced to choose between two
+alternatives, both unfavorable to him. But even logicians disagree on whether certain situations are
+dilemmas or mere syllogisms.
+
+
+maxim (n.)
+
+precept, principle, early 15c., from Middle French maxime, from Late Latin maxima, shortened from
+phrases such as maxima propositio, maxima sententarium axiom, literally greatest premise, greatest
+among propositions (one which is general and absolute), from fem. of maximus greatest (see maximum).
+
+
+enthymeme (n.)
+
+a syllogism in which one premise is omitted, 1580s, from Latin enthymema, from Greek enthymema
+thought, argument, from enthymesthai to think, consider, literally to keep in mind, take to heart,
+from en in (see en- (2)) + thymos mind (see fume (n.)).
+
+
+minor (n.)
+
+early 14c., a Franciscan, from Latin Fratres Minores lesser brethren, name chosen by St. Francis,
+who founded the order, for the sake of humility; see minor (adj.). From c.1400 as minor premise of a
+syllogism. From 1610s as person under legal age (Latin used minores (plural) for the young). Musical
+sense is from 1797. Meaning secondary subject of study, subject of study with fewer credits than a
+major is from 1890; as a verb in this sense from 1934.
+
+
+assumption (n.)
+
+c.1300, the reception, uncorrupted, of the Virgin Mary into Heaven, also the Church festival (Aug.
+15) commemorating this, Feast of the Assumption, from Old French assumpcion and directly from Latin
+assumptionem (nominative assumptio) a taking, receiving, noun of action from past participle stem of
+assumere take up, take to oneself (see assume).    Meaning minor premise of a syllogism is late 14c.
+Meaning appropriation of a right or possession is mid-15c. Meaning action of taking for oneself is
+recorded from 1580s; that of something taken for granted is from 1620s.
+
+

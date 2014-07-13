@@ -3,3 +3,171 @@ network (v.)
 1887, to cover with a network, from network (n.). From 1940 as to broadcast over a (radio) network;
 1972 in reference to computers; 1980s in reference to persons. Related: Networked; networking.
 
+
+network (n.)
+
+net-like arrangement of threads, wires, etc., 1550s, from net (n.) + work (n.). Extended sense of
+any complex, interlocking system is from 1839 (originally in reference to transport by rivers,
+canals, and railways). Meaning broadcasting system of multiple transmitters is from 1914; sense of
+interconnected group of people is from 1947.
+
+
+ARPANET
+
+acronym from Advanced Research Projects Agency Network, set up in 1969 by a branch of the U.S.
+Department of Defense in partnership with four universities; acknowledged as the world's first
+operational packet switching network and predecessor of the Internet.
+
+
+plexus (n.)
+
+1680s, Modern Latin, literally braid, network, noun use of past participle of Latin plectere to
+twine, braid, fold (see complex (adj.)); used of a network, such as solar plexus network of nerves
+in the abdomen (see solar). Related: Plexal.
+
+
+Teletex (n.)
+
+proprietary name for a computer data-sharing network, 1978.
+
+
+Underground Railroad (n.)
+
+network of U.S. anti-slavery activists helping runaways elude capture, attested from 1847, but said
+to date from 1831 and to have been coined in jest by bewildered trackers after their slaves vanished
+without a trace. Originally mostly the term for escape networks in the (then) western states of the
+U.S.
+
+
+grid (n.)
+
+1839, shortening of gridiron. City planning sense is from 1954 (hence gridlock). Meaning network of
+transmission lines first recorded 1926.
+
+
+Internet (n.)
+
+1985, the linked computer networks of the U.S. Defense Department, shortened from internetwork, from
+inter- + network (n.).
+
+
+fibrin (n.)
+
+blood-clotting substance, 1800, from Latin fibra (see fiber) + chemical suffix -in (2). So called
+because it is deposited as a network of fibers that cause the blood to clot.
+
+
+reticule (n.)
+
+a ladies' small bag, 1801, from French r&eacute;ticule (18c.) a net for the hair, a reticule, from
+Latin reticulum a little net, network bag (see reticulate (adj.)).
+
+
+flame (v.)
+
+early 14c., flamen, from Old French flamer, from flamme (see flame (n.)). The sense of unleash
+invective on a computer network is from 1980s. Related: Flamed; flaming.
+
+
+retina (n.)
+
+late 14c., from Medieval Latin retina the retina, probably from Vulgar Latin (tunica) *retina,
+literally net-like tunic, on resemblance to the network of blood vessels at the back of the eye, and
+ultimately from Latin rete net (see reticulate (adj.)). The Vulgar Latin phrase might be Gerard of
+Cremona's 12c. translation of Arabic (tabaqa) shabakiyyah netlike (layer), itself probably a
+translation of Greek amphiblestroeides (khiton).
+
+
+net (n.)
+
+Old English net netting, network, spider web, mesh used for capturing, also figuratively, moral or
+mental snare or trap, from Proto-Germanic *natjan (cognates: Old Saxon net, Old Norse, Dutch net,
+Swedish n&auml;t, Old High German nezzi, German Netz, Gothic nati net), originally something
+knotted, from PIE *ned- to twist, knot (cognates: Sanskrit nahyati binds, ties, Latin nodus knot,
+Old Irish nascim I bind, oblige).
+
+
+phreak (n.)
+
+1972, originally in phone phreak, one of a set of technically creative people who electronically
+hacked or defrauded telephone companies of the day.    The phreaks first appeared on the US scene in
+the early 1960s, when a group of MIT students were found to have conducted a late night dialling
+experiment on the Defense Department's secret network. They were rewarded with jobs when they
+explained their system to Bell investigators. ... The name phone phreak identified the enthisiasts
+with the common underground usage of freak as someone who was cool and used drugs. [New Scientist,
+Dec. 13, 1973]    The ph- in phone may have suggested the alteration, and this seems to be the
+original of the 1990s slang fad for substituting ph- for f- (as in phat).
+
+
+nuts (adj.)
+
+crazy, 1846, from earlier be nutts upon be very fond of (1785), which is possibly from nuts (plural
+noun) any source of pleasure (1610s), from nut (q.v.). Sense influenced probably by metaphoric
+application of nut to head (1846, as in to be off one's nut be insane, 1860). Nuts as a derisive
+retort is attested from 1931.    Connection with the slang testicle sense has tended to nudge it
+toward taboo. On the N.B.C. network, it is forbidden to call any character a nut; you have to call
+him a screwball. [New Yorker, Dec. 23, 1950] Please eliminate the expression 'nuts to you' from
+Egbert's speech. [Request from the Hays Office regarding the script of The Bank Dick, 1940] This
+desire for avoidance accounts for the euphemism nerts (c.1925).
+
+
+irrepressible (adj.)
+
+1767, from assimilated form of in- (1) not, opposite of + repressible (see repress).    Increase of
+population, which is filling the States out to their very borders, together with a new and extended
+network of railroads and other avenues, and an internal commerce which daily becomes more intimate,
+is rapidly bringing the States into a higher and more perfect social unity or consolidation. Thus,
+these antagonistic systems are continually coming into closer contact, and collision results.
+Shall I tell you what this collision means? They who think that it is accidental, unnecessary, the
+work of interested or fanatical agitators, and therefor ephemeral, mistake the case altogether. It
+is an irrepressible conflict between opposing and enduring forces, and it means that the United
+States must and will, sooner or later, become either entirely a slaveholding nation, or entirely a
+free-labor nation. [William H. Seward, speech at Rochester, N.Y., Oct. 2, 1858]    Related:
+Irrepressibly.
+
+
+allay (v.)
+
+Old English alecgan to put down, remit, give up, a Germanic compound (cognates: Gothic uslagjan, Old
+High German irleccan, German erlegen), from a- down, aside + lecgan to lay (see lay).    Early
+Middle English pronunciations of -y- and -g- were not always distinct, and the word was confused in
+Middle English with various senses of Romanic-derived alloy and allege, especially the latter in an
+obsolete sense of to lighten, from Latin ad- to + levis (see lever).  Amid the overlapping of
+meanings that thus arose, there was developed a perplexing network of uses of allay and allege, that
+belong entirely to no one of the original vbs., but combine the senses of two or more of them.
+[OED]The double -l- is 17c., a mistaken Latinism. Related: Allayed; allaying.
+
+
+texture (n.)
+
+early 15c., network, structure, from Middle French texture and directly from Latin textura web,
+texture, structure, from stem of texere to weave, from PIE root *teks- to weave, to fabricate, to
+make; make wicker or wattle framework (cognates: Sanskrit taksati he fashions, constructs, taksan
+carpenter; Avestan ta&#353;a ax, hatchet, thwax&#353;- be busy; Old Persian tax&#353;- be active;
+Latin tela web, net, warp of a fabric; Greek tekton carpenter, tekhne art; Old Church Slavonic tesla
+ax, hatchet; Lithuanian tasau to carve; Old Irish tal cooper's ax; Old High German dahs, German
+Dachs badger, literally builder; Hittite taksh- to join, unite, build). Meaning structural character
+is recorded from 1650s. Related: Textural.
+
+
+social (adj.)
+
+late 15c., devoted to or relating to home life; 1560s as living with others, from Middle French
+social (14c.) and directly from Latin socialis of companionship, of allies; united, living with
+others; of marriage, conjugal, from socius companion, ally, probably originally follower, from PIE
+*sokw-yo-, suffixed form of root *sekw- (1) to follow, and thus related to sequi to follow (see
+sequel). Compare Old English secg, Old Norse seggr companion, which seem to have been formed on the
+same notion). Related: Socially.    Sense of characterized by friendliness or geniality is from
+1660s. Meaning living or liking to live with others; companionable, disposed to friendly intercourse
+is from 1720s. Meaning of or pertaining to society as a natural condition of human life first
+attested 1695, in Locke. Sense of pertaining to fashionable society is from 1873.  Social climber is
+from 1893; social work is 1890; social worker 1886. Social drinking first attested 1807. Social
+studies as an inclusive term for history, geography, economics, etc., is attested from 1916. Social
+security system of state support for needy citizens is attested from 1907 (the Social Security Act
+was passed by U.S. Congress in 1935). Social butterfly is from 1867, in figurative reference to
+flitting.   Social contract (1763) is from translations of Rousseau. Social Darwinism attested from
+1887. Social engineering attested from 1899. Social science is from 1785.  In late 19c. newspapers,
+social evil is prostitution. Social justice is attested by 1718; social network by 1971; social
+networking by 1984; social media by 2008.
+
+

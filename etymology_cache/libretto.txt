@@ -3,3 +3,14 @@ libretto (n.)
 (plural libretti), 1742, from Italian libretto, diminutive of libro book, from Latin liber (genitive
 libri), see library. Related: Librettist.
 
+
+book (n.)
+
+Old English boc book, writing, written document, traditionally from Proto-Germanic *bokiz beech
+(cognates: German Buch book Buche beech; see beech), the notion being of beechwood tablets on which
+runes were inscribed, but it may be from the tree itself (people still carve initials in them). The
+Old English word originally meant any written document. Latin and Sanskrit also have words for
+writing that are based on tree names (birch and ash, respectively). Meaning libretto of an opera is
+from 1768. A betting book is from 1856.
+
+

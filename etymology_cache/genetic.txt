@@ -3,3 +3,75 @@ genetics (n.)
 1872, laws of origination; see genetic + -ics. A coinage of English biologist William Bateson
 (1861-1926). Meaning study of heredity is from 1891.
 
+
+geneticist (adj.)
+
+1913, from genetic + -ist.
+
+
+genetic (adj.)
+
+pertaining to origins, coined 1831 by Carlyle from Greek genetikos genitive, from genesis origin
+(see genus). Biological sense first recorded in Darwin, 1859. Related: Genetically. Genetical is
+attested from 1650s.
+
+
+clone (v.)
+
+1959, from clone (n.). Related: Cloned; cloning. Extension to genetic duplication of animals and
+human beings is from 1970.
+
+
+inbred (adj.)
+
+1590s, native, also inherent by nature, from in + bred. The genetic sense is from 1892 (also see
+inbreeding).
+
+
+carrier (n.)
+
+late 14c., agent noun from carry (v.). Meaning person or animal that carries and disseminates
+infection without suffering obvious disease is from 1899; genetic sense is 1933. As a short form of
+aircraft carrier it dates from 1917. Carrier pigeon is from 1640s.
+
+
+retrovirus (n.)
+
+1977, earlier retravirus (1974), from re(verse) tra(nscriptase) + virus. So called because it
+contains reverse transcriptase, an enzyme that uses RNA instead of DNA to encode genetic
+information, which reverses the usual pattern. Remodeled by influence of retro- backwards.
+
+
+genotype (n.)
+
+genetic constitution of an individual, 1910, from German Genotypus (Wilhelm Johannsen, 1909); see
+gene + type. Earlier the same word was used with a sense of type species of a genus (1897); in this
+case, the first element is from genus.
+
+
+mongoloid
+
+in reference to the genetic defect causing mental retardation (mongolism), 1899, from Mongoloid. So
+called for facial appearance. See Down's Syndrome. Such people were called Mongolian from 1866.
+
+
+replicate (v.)
+
+early 15c., repeat, from Latin replicatus, past participle of replicare (see reply). Meaning to
+copy, reproduce, make a replica of is from 1882, a back-formation from replication. Genetic sense is
+first recorded 1957. Related: Replicated; replicating.
+
+
+mutation (n.)
+
+late 14c., action of changing, from Old French mutacion (13c.), and directly from Latin mutationem
+(nominative mutatio) a changing, alteration, a turn for the worse, noun of action from past
+participle stem of mutare to change (see mutable). Genetic sense is from 1894.
+
+
+mutate (v.)
+
+to change state or condition, 1818, back-formation from mutation. In genetic sense, 1913, from Latin
+mutatus, past participle of mutare to change (see mutable). Related: Mutated; mutating.
+
+

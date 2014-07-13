@@ -2,3 +2,92 @@ ambler (n.)
 
 late 14c., agent noun from amble (v.).
 
+
+amble (v.)
+
+early 14c., from Old French ambler walk as a horse does, from Latin ambulare to walk, to go about,
+take a walk, perhaps a compound of ambi- around (see ambi-) and -ulare, from PIE root *el- to go
+(cognates: Greek ale wandering, alaomai wander about; Latvian aluot go around or astray). Until
+1590s used only of horses or persons on horseback. Related: Ambled; ambling. As a noun, from late
+14c.
+
+
+ambulant (adj.)
+
+1610s, from Latin ambulantem (nominative ambulans), present participle of ambulare (see amble). Of
+diseases, denoting cases in which the patient may be up and around, by 1913.
+
+
+funambulist (n.)
+
+rope-walker, 1793, coined from Latin funis rope + ambulare to walk (see amble (v.)).
+
+
+ambulation (n.)
+
+1540s, from Latin ambulationem (nominative ambulatio), noun of action from past participle stem of
+ambulare (see amble).
+
+
+ambulate (v.)
+
+1620s, from Latin ambulatus, past participle of ambulare to walk (see amble). Related: Ambulated;
+ambulating.
+
+
+ambulatory (adj.)
+
+pertaining to walking; also shifting, not permanent, 1620s, from Latin ambulatorius of or pertaining
+to a walker; movable, from ambulator, agent noun from past participle stem of ambulare to walk (see
+amble). Middle English had ambulary movable (mid-15c.).
+
+
+ambulatory (n.)
+
+from Medieval Latin ambulatorium, from Latin ambulatorius movable, from ambulare (see amble).
+
+
+preamble (n.)
+
+late 14c., from Old French preambule (13c.) and directly from Medieval Latin preambulum, neuter
+adjective used as a noun, properly preliminary, from Late Latin praeambulus walking before, from
+Latin prae- before (see pre-) + ambulare to walk (see amble (v.)).
+
+
+perambulate (v.)
+
+1560s, from Latin perambulatus, past participle of perambulare to walk through, go through, ramble
+through, from per- through (see per) + ambulare to walk (see amble). Related: Perambulated;
+perambulating.
+
+
+circumambulate (v.)
+
+1650s, from Latin circumambulatus, past participle of circumambulare to walk around, from circum
+around (see circum-) + ambulare to walk (see amble). Related: Circumambulated; circumambulating;
+circumambulation.
+
+
+somnambulism (n.)
+
+1786, walking in one's sleep or under hypnosis, from French somnambulisme, from Modern Latin
+somnambulus sleepwalker, from Latin somnus sleep (see Somnus) + ambulare to walk (see amble (v.)).
+Originally brought into use during the excitement over animal magnetism; it won out over
+noctambulation. A stack of related words came into use early 19c., such as somnambule sleepwalker
+(1837, from French somnambule, 1690s), earlier somnambulator (1803); as adjectives, somnambulary
+(1827), somnambular (1820).
+
+
+ambulance (n.)
+
+1798, mobile or field hospital, from French (h&ocirc;pital) ambulant, literally walking (hospital),
+from Latin ambulantem (nominative ambulans), present participle of ambulare to walk (see amble).
+AMBULANCE, s. f. a moveable hospital. These were houses constructed in a manner so as to be taken to
+pieces, and carried from place to place, according to the movements of the army; and served as
+receptacles in which the sick and wounded men might be received and attended. [Lexicographica-
+Neologica Gallica (The Neological French Dictionary), William Dupr&#233;, London, 1801]    The word
+was not common in English until the meaning transferred from field hospital to vehicle for conveying
+wounded from field (1854) during the Crimean War. In late 19c. U.S. the word was used dialectally to
+mean prairie wagon. Ambulance-chaser as a contemptuous term for a type of lawyer dates from 1897.
+
+

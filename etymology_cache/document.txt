@@ -3,3 +3,377 @@ document (v.)
 1640s, to teach; see document (n.). Meaning to support by documentary evidence is from 1711.
 Related: Documented; documenting.
 
+
+documentation (n.)
+
+1754, admonition, from Medieval Latin documentationem (nominative documentio) admonition (see
+document). Meaning furnishing with documents or papers is from 1884, probably from document. Meaning
+collection of informational papers is from 1927.
+
+
+document (n.)
+
+early 15c., teaching, instruction, from Old French document (13c.) lesson, written evidence, from
+Latin documentum example, proof, lesson, in Medieval Latin official written instrument, from docere
+to show, teach (see doctor (n.)). Meaning something written that provides proof or evidence is from
+early 18c. Related: Documents.
+
+
+documentary (adj.)
+
+c.1810, pertaining to documents, from document + -ary. Meaning factual, meant to provide a record of
+something is from 1926, from French film documentarie (1924). The noun (short for documentary film)
+is attested from 1935. Docudrama is a 1961 coinage.
+
+
+charter (n.)
+
+c.1200, from Old French chartre (12c.) charter, letter, document, covenant, from Latin chartula,
+literally little paper, diminutive of charta, carta paper, document (see chart (n.)).
+
+
+instrument (n.)
+
+late 13c., musical instrument, from Old French instrument means, device; musical instrument (14c.,
+earlier estrument, 13c.) and directly from Latin instrumentem a tool, apparatus, furniture, dress,
+document, from instruere arrange, furnish (see instruct). Meaning tool, implement, utensil is early
+14c. in English; meaning written document by which formal expression is given to a legal act is from
+early 15c.
+
+
+caption (n.)
+
+late 14c., taking, seizure, from Old French capcion arrest, capture, imprisonment, or directly from
+Latin captionem (nominative capito) a catching, seizing, holding, taking, noun of action from past
+participle stem of capere to take (see capable).    From 17c. used especially in law, and there via
+its appearance at the head of legal document involving seizure (Certificate of caption, etc.), the
+word's sense was extended to the beginning of any document; thus heading of a chapter or section of
+an article (1789), and, especially in U.S., description or title below an illustration (1919).
+
+
+book (n.)
+
+Old English boc book, writing, written document, traditionally from Proto-Germanic *bokiz beech
+(cognates: German Buch book Buche beech; see beech), the notion being of beechwood tablets on which
+runes were inscribed, but it may be from the tree itself (people still carve initials in them). The
+Old English word originally meant any written document. Latin and Sanskrit also have words for
+writing that are based on tree names (birch and ash, respectively). Meaning libretto of an opera is
+from 1768. A betting book is from 1856.
+
+
+placard (n.)
+
+late 15c., formal document authenticated by an affixed seal, from Middle French placquard official
+document with a large, flat seal, also plate of armor, from Old French plaquier to lay on, cover up,
+plaster over, from Middle Dutch placken to patch (a garment), to plaster, related to Middle High
+German placke patch, stain, German Placken spot, patch. Meaning poster first recorded 1550s in
+English; this sense is in Middle French from 15c.
+
+
+manuscript (n.)
+
+document or book written by hand, 1590s (adj.), c.1600 (n.), from Medieval Latin manuscriptum
+document written by hand, from Latin manu scriptus written by hand, from manu, ablative of manus
+hand (see manual (adj.)) + scriptus (neuter scriptum), past participle of scribere to write (see
+script (n.)). Abbreviation is MS, plural MSS.
+
+
+pdf
+
+by 1992, initialism (acronym) for portable document format, a generic term.
+
+
+abstract (n.)
+
+abridgement or summary of a document, mid-15c., from abstract (adj.). The general sense of a smaller
+quantity containing the virtue or power of a greater [Johnson] is recorded from 1560s.
+
+
+billet (n.2)
+
+document, note; see billet-doux.
+
+
+protocol (n.)
+
+1540s, as prothogall draft of a document, from Middle French prothocole (c.1200, Modern French
+protocole), from Medieval Latin protocollum draft, literally the first sheet of a volume (on which
+contents and errata were written), from Greek protokollon first sheet glued onto a manuscript, from
+protos first (see proto-) + kolla glue.    Sense developed in Medieval Latin and French from
+official account to official record of a transaction, to diplomatic document, and finally, in
+French, to formula of diplomatic etiquette. Meaning diplomatic rules of etiquette in English first
+recorded 1896, from French; general sense of conventional proper conduct is from 1952. Protocols of
+the (Learned) Elders of Zion, Russian anti-Semitic forgery purporting to reveal Jewish plan for
+world domination, first published in English 1920 under title The Jewish Peril.
+
+
+statement (n.)
+
+1775, what is stated, from state (v.) + -ment. From 1789 as action of stating; 1885 in the
+commercial sense document displaying debits and credits.
+
+
+voucher (n.)
+
+1520s, originally summoning of a person into court to warrant the title to a property, a calling to
+vouch; see vouch. Meaning receipt from a business transaction is first attested 1690s; sense of
+document which can be exchanged for goods or services is attested from 1947.
+
+
+undocumented (adj.)
+
+1883, from un- (1) not + past participle of document (v.).
+
+
+spell-check (v.)
+
+to use a computer's spell checker application on a document, by 1985. The applications themselves
+date to the late 1970s. Related: Spell-checked; spell-checking.
+
+
+transcript (n.)
+
+written copy of a document, c.1300, from Medieval Latin transcriptum, neuter past participle of
+Latin transcribere (see transcribe).
+
+
+rider (n.)
+
+one who rides, Old English ridere rider, trooper, knight, mounted warrior, agent noun from ride
+(v.). Meaning clause tacked on to a document after first draft is from 1660s. Related: Riderless.
+
+
+indictment (n.)
+
+c.1300, endytement action of accusing, from Anglo-French enditement, from enditer (see indict).
+Meaning legal document containing a charge is from c.1500. Latin spelling restored 17c.
+
+
+conveyance (n.)
+
+mid-15c., act of conveying, from convey + -ance. Meaning document by which something is legally
+conveyed is from 1570s; sense means of transportation is attested from 1590s. Related: Conveyanced;
+conveyancing.
+
+
+certificate (n.)
+
+early 15c., action of certifying, from French certificat, from Medieval Latin certificatum thing
+certified, noun use of neuter past participle of certificare (see certify). Of documents, from mid-
+15c., especially a document which attests to someone's authorization to practice or do something
+(1540s).
+
+
+witness (v.)
+
+c.1300, bear testimony, from witness (n.). Meaning affix one's signature to (a document) to
+establish its identity is from early 14c. Meaning see or know by personal presence, observe is from
+1580s. Related: Witnessed; witnessing.
+
+
+passbook (n.)
+
+also pass-book, 1828, from pass (v.) + book (n.); apparently the notion is of the document passing
+between bank and customer.
+
+
+interline (v.)
+
+c.1400, make corrections or insertions between the lines of (a document), from inter- + line;
+perhaps modeled on Medieval Latin interlineare. Related: Interlined; interlining.
+
+
+contents (n.)
+
+things contained in something (the stomach, a document, etc.), early 15c., Latin contentum (plural
+contenta), neuter past participle of continere (see contain). Table of contents is late 15c.
+
+
+chirography (n.)
+
+handwriting, 1650s, from chiro- + -graphy. Chirograph formal written legal document is attested from
+late 13c. in Anglo-French, from Latin chirographum, from Greek kheirographia written testimony.
+
+
+exhibit (n.)
+
+1620s, document or object produced as evidence in court, from Latin exhibitum, neuter past
+participle of exhibere (see exhibition). Meaning object displayed in a fair, museum, etc. is from
+1862. Transferred use of exhibit A important piece of evidence is by 1906.
+
+
+date (v.1)
+
+to mark (a document) with the date, late 14c., from date (n.1). Meaning to assign to or indicate a
+date (of an event) is from c.1400. Meaning to mark as old-fashioned is from 1895. Related: Dated;
+dating.
+
+
+enclose (v.)
+
+early 14c., from en- (1) + close, and partially from Old French enclos, past participle of enclore.
+Specific sense of to fence in waste or common ground for the purpose of cultivation or to give it to
+private owners, is from c.1500. Meaning place a document with a letter for transmission is from
+1707. Related: Enclosed; enclosing.
+
+
+indenture (n.)
+
+contract for services, late 14c., from Anglo-French endenture, Old French endenteure indentation,
+from endenter (see indent). Such contracts (especially between master craftsmen and apprentices)
+were written in full identical versions on a sheet of parchment, which was then cut apart in a
+zigzag, or notched line. Each party took one, and the genuineness of a document of indenture could
+be proved by juxtaposition with its counterpart. As a verb, 1650s, from the noun.
+
+
+antedate (v.)
+
+1580s, earlier as noun meaning a backdating, false early date attached to a document or event
+(1570s); from Latin ante before (see ante) + date (v.1). Related: Antedated; antedating.
+
+
+counterpart (n.)
+
+mid-15c., originally countre part duplicate of a legal document, from Middle French contrepartie,
+from contre facing, opposite (see contra-) + partie copy of a person or thing, originally fem. past
+participle of partir to divide (see party (n.)).
+
+
+subscription (n.)
+
+c.1400, piece of writing at the end of a document, from Middle French subscription (Modern French
+souscription) and directly from Latin subscriptionem (nominative subscriptio) anything written
+underneath, a signature, noun of action from past participle stem of subscribere (see subscribe).
+Meaning act of subscribing money is from 1640s.
+
+
+blank (n.)
+
+late 14c. as the name of a small French coin; 1550s as white space in the center of a target, from
+the same source as blank (adj.). Meaning empty space (in a document, etc.) is from c.1570. Meaning
+losing lottery ticket (1560s) is behind the expression draw a blank. The word has been for decorum's
+sake, substituted for a word of execration [OED] from 1854. From 1896 as short for blank cartridge
+(itself from 1826).
+
+
+identification (n.)
+
+1640s, treating of a thing as the same as another, from French identification, probably from
+identifier (see identify). Sense of becoming or feeling oneself one with another is from 1857. Sense
+of determination of identity is from 1859. Meaning object or document which marks identity is from
+1947 (short for identification tag, card, etc.).
+
+
+appendix (n.)
+
+1540s, subjoined addition to a document or book, from Latin appendix an addition, continuation,
+something attached, from appendere (see append). Used for small outgrowth of an internal organ from
+1610s, especially in reference to the vermiform appendix. This sense perhaps from or influenced by
+French appendix, where the term was in use from 1540s.
+
+
+declaration (n.)
+
+mid-14c., action of stating, from Old French declaration, from Latin declarationem (nominative
+declaratio), noun of action from past participle stem of declarare (see declare). Meaning
+proclamation, public statement is from 1650s. Declaration of independence is recorded from 1776 (the
+one by the British American colonies seems to be the first so called; though the phrase is not in
+the document itself, it was titled that from the first in the press).
+
+
+holograph (n.)
+
+document written entirely by the person from whom it proceeds, 1620s, from Late Latin holographus,
+from Greek holographos written entirely by the same hand, literally written in full, from holos
+whole (see safe (adj.)) + graphos written, from graphein to write (see -graphy). Modern use, with
+reference to holograms, is a 1960s back-formation from holography.
+
+
+diploma (n.)
+
+1640s, state paper, official document, from Latin diploma, from Greek diploma license, chart,
+originally paper folded double, from diploun to double, fold over, from diploos double (see diploid)
++ -oma. Specific academic sense is 1680s in English.
+
+
+form (n.)
+
+early 13c., from Old French forme physical form, appearance, pleasing looks; shape, image, from
+Latin forma form, contour, figure, shape; appearance, looks' model, pattern, design; sort, kind
+condition, origin unknown. One theory holds that it is from Greek morphe form, beauty, outward
+appearance (see Morpheus) via Etruscan [Klein]. Sense of behavior is first recorded late 14c.
+Meaning a document with blanks to be filled in is from 1855.
+
+
+bulletin (n.)
+
+1765, from French bulletin (16c.), modeled on Italian bulletino, diminutive of bulletta document,
+voting slip, itself a diminutive of Latin bulla (see bull (n.2)). The word was used earlier in
+English in the Italian form (mid-17c.). Popularized by their use in the Napoleonic Wars as the name
+for dispatches sent from the front and meant for the home public (which led to the proverbial
+expression as false as a bulletin). Bulletin board is from 1831.
+
+
+instruction (n.)
+
+c.1400, instruccioun, action or process of teaching, from Old French instruccion (14c.), from Latin
+instructionem (nominative instructio) building, arrangement, teaching, from past participle stem of
+instruere arrange, inform, teach, from in- on (see in- (2)) + struere to pile, build (see structure
+(n.)). Meaning an authoritative direction telling someone what to do; a document giving such
+directions, is early 15c. Related: Instructions.
+
+
+bill (n.1)
+
+written statement, mid-14c., from Anglo-French bille, Anglo-Latin billa list, from Medieval Latin
+bulla decree, seal, sealed document, in classical Latin bubble, boss, stud, amulet for the neck
+(hence seal; see bull (n.2)). Sense of account, invoice first recorded c.1400; that of order to pay
+(technically bill of exchange) is from 1570s; that of paper money is from 1660s. Meaning draft of an
+act of Parliament is from 1510s.
+
+
+seal (v.)
+
+to fasten with (or as with) a seal, c.1200, from seal (n.1). Meaning to place a seal on (a document)
+is recorded from mid-14c.; hence to conclude, ratify, render official (late 15c.). Sense of to close
+up with wax, lead, cement, etc. is attested from 1660s, from the notion of wax seals on envelopes.
+In reference to the actions of wood-coatings, 1940. Related: Sealed; sealing. Sealing-wax is
+attested from c.1300. To seal (one's) fate (1799) probably reflects the notion of a seal on an
+execution warrant.
+
+
+cachet (n.)
+
+1630s, Scottish borrowing of French cachet seal affixed to a letter or document (16c.), from Old
+French dialectal cacher to press, crowd, from Latin coactare constrain (see cache). Meaning evolving
+through (letter under) personal stamp (of the king) to prestige. Compare French lettre de cachet
+letter under seal of the king.
+
+
+inhibition (n.)
+
+late 14c., formal prohibition; interdiction of legal proceedings by authority; also, the document
+setting forth such a prohibition, from Old French inibicion and directly from Latin inhibitionem
+(nominative inhibitio) a restraining, from past participle stem of inhibere to hold in, hold back,
+keep back, from in- in, on (see in- (2)) + habere to hold (see habit (n.)). Psychological sense of
+involuntary check on an expression of an impulse is from 1876.
+
+
+bull (n.2)
+
+papal edict, c.1300, from Medieval Latin bulla sealed document (source of Old French bulle, Italian
+bulla), originally the word for the seal itself, from Latin bulla round swelling, knob, said
+ultimately to be from Gaulish, from PIE *beu-, a root supposed to have formed words associated with
+swelling (cognates: Lithuanian bule buttocks, Middle Dutch puyl bag, also possibly Latin bucca
+cheek).
+
+
+subscribe (v.)
+
+early 15c., to sign at the bottom of a document, from Latin subscribere write, write underneath,
+sign one's name; register, also figuratively assent, agree to, approve, from sub underneath (see
+sub-) + scribere write (see script (n.)). The meaning give one's consent (by subscribing one's name)
+first recorded mid-15c.; that of contribute money to 1630s; and that of become a regular buyer of a
+publication 1711, all originally literal. Related: Subscribed; subscribing.
+
+

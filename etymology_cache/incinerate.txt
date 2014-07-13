@@ -5,3 +5,27 @@ in- (2)) + cinis (genitive cineris) ashes, from PIE root *keni- dust, ashes (cog
 dust). Used earlier in English as a past participle adjective meaning reduced to ashes (early 15c.).
 Related: Incinerated; incinerating.
 
+
+incinerator (n.)
+
+1883, American English, originally in the terminology of cremation, from incinerate + Latinate agent
+noun suffix -or. Meaning device for waste disposal by burning is from 1889.
+
+
+incineration (n.)
+
+1520s, from Middle French incin&eacute;ration (14c.), from Medieval Latin incinerationem (nominative
+incineratio), noun of action from past participle stem of incinerare (see incinerate).
+
+
+cinder (n.)
+
+Old English sinder dross of iron, slag, from Proto-Germanic *sendra- slag (cognates: Old Saxon
+sinder slag, dross, Old Norse sindr, Middle Low German and Middle Dutch sinder, Dutch sintel, Old
+High German sintar, German Sinter), from PIE root *sendhro- coagulating fluid (cognates: Old Church
+Slavonic sedra cinder).    Initial s- changed to c- under influence of unrelated French cendre
+ashes, from Latin cinerem (nominative cinis) ashes, from or related to Greek konis dust (see
+incinerate). The French word also apparently shifted the sense of the English one to small piece of
+burnt coal (16c.). Volcanic cinder cone is recorded from 1849.
+
+

@@ -2,3 +2,157 @@ compress (n.)
 
 1590s in the surgical sense, from compress (v.).
 
+
+compress (v.)
+
+late 14c., to press (something) together, from Old French compresser compress, put under pressure,
+from Latin compressare to press together, frequentative of comprimere to squeeze, from com- together
+(see com-) + premere to press (see press (v.1)). Related: Compressed; compressing.
+
+
+compressor (n.)
+
+1839, from Latin compressor, agent noun from comprimere (see compress (v.)). As a type of surgical
+instrument, from 1870. As short for air compressor, from 1874.
+
+
+compression (n.)
+
+c.1400, from Middle French compression (14c.), from Latin compressionem (nominative compressio) a
+pressing together, noun of action from past participle stem of comprimere (see compress (v.)).
+Related: Compressional. Compressional wave is attested from 1887.
+
+
+constriction (n.)
+
+c.1400, from Latin constrictionem (nominative constrictio), noun of action from past participle stem
+of constringere compress (see constrain).
+
+
+stringent (adj.)
+
+c.1600, astringent, especially with reference to taste, from Latin stringentem (nominative
+stringens), present participle of stringere (2) to compress, contract, bind or draw tight (see
+strain (v.)). Of regulations, procedures, etc., 1846.
+
+
+cramp (v.2)
+
+to bend or twist, early 14c., from cramp (n.2) and Old French crampir. Later compress forcibly
+(1550s), and, figuratively, to restrict (1620s). Related: Cramped; cramping.
+
+
+stipule (n.)
+
+small appendage at the base of the petiole of a leaf, 1793, from French stipule, from Latin stipula
+stalk (of hay), straw, from PIE *stip-ola-, from root *steip- to stick, compress (see stiff (adj.)).
+
+
+compile (v.)
+
+early 14c., from Old French compiler compile, collect (13c.), from Latin compilare to plunder, rob,
+probably originally bundle together, heap up; hence to pack up and carry off, from com- together
+(see com-) + pilare to compress, ram down. Related: Compiled; compiling.
+
+
+decompress (v.)
+
+1905, from de- + compress (v.). Related: Decompressed; decompressing.
+
+
+stipple (v.)
+
+paint with dots, 1670s, from Dutch stippelen to make points, frequentative of stippen to prick,
+speckle, from stip a point, perhaps ultimately from PIE root *st(e)ig- pointed (see stick (v.)), or
+from *steip- to stick, compress. Related: Stippled; stippling.
+
+
+constrict (v.)
+
+early 15c., from Latin constrictus, past participle of constringere compress (see constrain). A
+direct borrowing from Latin of the same word which, via French, became constrain. Related:
+Constricted; constricting.
+
+
+foment (v.)
+
+early 15c., apply hot liquids, from Old French fomenter (13c.) apply hot compress (to a wound), from
+Late Latin fomentare, from Latin fomentum warm application, poultice, contraction of *fovimentum,
+from fovere to warm; cherish, encourage (see fever). Extended sense of stimulate, instigate (1620s)
+was in the French. Related: Fomented; fomenting.
+
+
+cache (n.)
+
+1797, hiding place, from French Canadian trappers' slang, hiding place for stores (1660s), a back-
+formation from French cacher to hide, conceal (13c., Old French cachier), from Vulgar Latin
+*coacticare store up, collect, compress, frequentative of Latin coactare constrain, from coactus,
+past participle of cogere to collect (see cogent). Sense extended by 1830s to anything stored in a
+hiding place.
+
+
+squat (v.)
+
+mid-14c., to crush; early 15c., crouch on the heels, from Old French esquatir, escatir compress,
+press down, lay flat, crush, from es- out (see ex-) + Old French quatir press down, flatten, from
+Vulgar Latin *coactire press together, force, from Latin coactus, past participle of cogere to
+compel, curdle, collect (see cogent). Meaning to settle on land without any title or right is from
+1800. Related: Squatted; squatting.
+
+
+press (v.1)
+
+push against, early 14c., to clasp, embrace; mid-14c. to squeeze out; also to cluster, gather in a
+crowd;  late 14c., to press against, exert pressure, also assault, assail; also forge ahead, push
+one's way, move forward, from Old French presser squeeze, press upon; torture (13c.), from Latin
+pressare to press, frequentative formation from pressus, past participle of premere to press, hold
+fast, cover, crowd, compress, from PIE *per- (4) to strike. Related: Pressed; pressing. Figurative
+sense is from late 14c. Meaning to urge, argue for is from 1590s.
+
+
+angle (n.)
+
+space between intersecting lines, late 14c., from Old French angle angle, corner, and directly from
+Latin angulus an angle, corner, a diminutive form from PIE root *ang-/*ank- to bend (cognates: Greek
+ankylos bent, crooked, Latin ang(u)ere to compress in a bend, fold, strangle; Old Church Slavonic
+aglu corner; Lithuanian anka loop; Sanskrit ankah hook, bent, angam limb; Old English ancleo ankle;
+Old High German ango hook). Angle bracket is 1875 in carpentry; 1956 in typography.
+
+
+hem (n.)
+
+Old English hem a border, especially of cloth or a garment, from Proto-Germanic *hamjam (cognates:
+Old Norse hemja to bridle, curb, Swedish h&auml;mma to stop, restrain, Old Frisian hemma to hinder,
+Middle Dutch, German hemmen to hem in, stop, hinder), from PIE *kem- to compress. Apparently the
+same root yielded Old English hamm, common in place names (where it means enclosure, land hemmed in
+by water or high ground, land in a river bend). In Middle English, hem also was a symbol of pride or
+ostentation.    If &thorn;ei wer &thorn;e first &thorn;at schuld puplysch &thorn;ese grete myracles
+of her mayster, men myth sey of hem, as Crist ded of &thorn;e Pharisees, &thorn;at &thorn;ei
+magnified her owne hemmys. [John Capgrave, Life of Saint Gilbert of Sempringham, 1451]
+
+
+strain (v.)
+
+c.1300, tie, bind, fasten, gird, from present participle stem of Old French estreindre bind tightly,
+clasp, squeeze, from Latin stringere (2) draw tight, bind tight, compress, press together, from PIE
+root *streig- to stroke, rub, press (cognates: Lithuanian stregti congeal, freeze, become stiff;
+Greek strangein twist; Old High German strician mends nets; Old English streccian to stretch; German
+stramm, Dutch stram stiff).    From late 14c. as tighten; make taut, also exert oneself; overexert
+(a body part), Sense of press through a filter, put (a liquid) through a strainer is from early 14c.
+(implied in strainer); that of to stress beyond measure, carry too far, make a forced interpretation
+of is from mid-15c. Related: Strained; straining.
+
+
+turf (n.)
+
+Old English turf, tyrf slab of soil and grass, sod, also surface of grassland, from Proto-Germanic
+*turb- (cognates: Old Norse torf, Danish t&oslash;rv, Old Frisian turf, Old High German zurba,
+German Torf), from PIE root *drebh- to wind, compress (cognates: Sanskrit darbhah tuft of grass).
+Especially the race course, hence the turf the profession of racing horses (1755). French tourbe
+turf is a Germanic loan-word. The Old English plural was identical with the singular, but in Middle
+English turves sometimes was used. Slang meaning territory claimed by a gang is attested from 1953
+in Brooklyn, N.Y.; earlier it had a jive talk sense of the street, the sidewalk (1930s), which is
+attested in hobo use from 1899, and before that the work and venue of a prostitute (1860). Turf war
+is recorded from 1962.
+
+

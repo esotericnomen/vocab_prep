@@ -4,3 +4,80 @@ purge (n.)
 Political sense from 1730. Earliest sense in English was the now-obsolete one examination in a legal
 court (mid-15c.).
 
+
+purgery (n.)
+
+bleaching room for sugar, 1847, from French purgerie (1838), from purger (see purge (v.)). For the
+legal term, see perjury.
+
+
+purge (v.)
+
+c.1300, clear of a charge or suspicion; late 14c., cleanse, clear, purify, from Anglo-French purger,
+Old French purgier wash, clean; refine, purify morally or physically (12c., Modern French purger)
+and directly from Latin purgare cleanse, make clean; purify, especially of the body, free from what
+is superfluous; remove, clear away, figuratively refute, justify, vindicate (also source of Spanish
+purgar, Italian purgare), from Old Latin purigare, from purus pure (see pure) + root of agere to
+drive, make (see act (n.)). Related: Purged; purging.
+
+
+expurgation (n.)
+
+early 15c., a cleansing from impurity, from Latin expurgationem (nominative expurgatio), noun of
+action from past participle stem of expurgare to cleanse out, purge, purify, from ex- out (see ex-)
++ purgare to purge (see purge (v.)). Sense of remove objectionable passages from a literary work
+first recorded in English 1610s.
+
+
+spurge (n.)
+
+plant species, late 14c., from Old French espurge, from espurgier to purge (transitive and
+intransitive), from Latin expurgare, from ex- out (see ex-) + purgare to purge (see purge (v.)). So
+called from the purgative and emetic properties of the plant's root.
+
+
+purgative (adj.)
+
+late 14c., from Old French purgatif (14c.) and directly from Late Latin purgativus, from purgat-,
+past participle stem of Latin purgare (see purge (v.)). The noun is attested from early 15c. (Old
+English medical texts have cl&#230;nsungdrenc).
+
+
+expurgate (v.)
+
+1620s, back-formation from expurgation or from Latin expurgatus, past participle of expurgare to
+cleanse out, purge, purify (see expurgation). Related: Expurgated; expurgating. The earlier verb was
+simply expurge (late 15c.), from Middle French expurger.
+
+
+purgatory (n.)
+
+c.1200, from Old French purgatore and directly from Medieval Latin purgatorium (St. Bernard, early
+12c.), in Latin, means of cleansing, noun use of neuter of purgatorius (adj.) purging, cleansing,
+from purgat-, past participle stem of Latin purgare (see purge (v.)). Figurative use from late 14c.
+
+
+cleanse (v.)
+
+Old English cl&aelig;nsian to cleanse, purge, purify, chasten, justify, from West Germanic
+*klainson, from *klainoz (see clean (adj.)). Despite its modern spelling (16c.), it retains its
+Middle English pronunciation. Related: Cleansed; cleansing.
+
+
+purgation (n.)
+
+late 14c., purification from sin, also discharge of waste, from Old French purgacion a cleansing,
+medical or spiritual (12c., Modern French purgation) and directly from Latin purgationem (nominative
+purgatio) a cleansing, purging, figuratively an apology, justification, noun of action from past
+participle stem of purgare (see purge (v.)).
+
+
+catharsis (n.)
+
+1803, bodily purging, from Latinized form of Greek katharsis purging, cleansing, from stem of
+kathairein to purify, purge, from katharos pure, clear of dirt, clean, spotless; open, free; clear
+of shame or guilt; purified (with most of the extended senses now found in Modern English clear,
+clean, pure), of unknown origin. Originally medical in English; of emotions from 1872; psychotherapy
+sense first recorded 1909, in Brill's translation of Freud.
+
+

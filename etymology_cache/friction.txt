@@ -5,3 +5,185 @@ friction (n.)
 rub, of uncertain origin. Sense of resistance to motion is from 1722; figurative sense of
 disagreement, clash first recorded 1761. Related: Frictional.
 
+
+frottage (n.)
+
+1933, from French frottage rubbing, friction, from frotter to rub, from Old French froter to rub,
+wipe; beat, thrash (12c.), from Latin fricare to rub (see friction). As a paraphilia, it is known as
+frotteurism.
+
+
+bearing (n.)
+
+carrying of oneself, deportment, mid-13c., verbal noun from bear (v.). Mechanical sense of part of a
+machine that bears the friction is from 1791.
+
+
+electricity (n.)
+
+1640s (Browne), from electric + -ity. Originally in reference to friction.
+
+
+bearings (n.)
+
+parts of a machine which 'bear' the friction, 1791, from present participle of bear (v.). Meaning
+direction from a point of reference is from 1630s; to take (one's) bearings is from 1711.
+
+
+tribology (n.)
+
+1965, study of friction, from comb. form of Greek tribos rubbing, from tribein to rub, rub down,
+wear away (from PIE root *tere- (1) to rub, turn, twist; see throw (v.)) + -logy.
+
+
+fricative
+
+1860 (adj.), 1863 (n.), from Modern Latin fricativus, from Latin fricatus, past participle of
+fricare to rub (see friction).
+
+
+lubricant (adj.)
+
+reducing friction, 1809, from Latin lubricantem (nominative lubricans), present participle of
+lubricare to make slippery or smooth, from lubricus slippery; easily moved, sliding, gliding;
+figuratively uncertain, hazardous, dangerous; seductive, from PIE *sleubh- to slip, slide (see
+sleeve).
+
+
+friable (adj.)
+
+1560s, from Middle French friable and directly from Latin friabilis easily crumbled or broken, from
+friare rub away, crumble into small pieces, related to fricare to rub (see friction). Related:
+Friability.
+
+
+affricative (n.)
+
+1879, perhaps via German, from Latin affricat-, past participle stem of affricare rub against, from
+ad- (see ad-) + fricare to rub (see friction).
+
+
+fray (v.)
+
+wear out by rubbing, c.1400, from Middle French frayer to rub against, from Old French froiier rub,
+scrape, from Latin fricare to rub, rub down (see friction). Related: Frayed; fraying.
+
+
+trypsin (n.)
+
+chief digestive enzyme of pancreatic juice, 1876, coined 1874 by German physiologist Wilhelm
+Friedrich K&#252;hne (1837-1900), apparently from Greek tripsis rubbing, friction (from tribein to
+rub, rub down, wear away, from PIE root *tere- (1) to rub, turn, twist (see throw (v.)) + chemical
+suffix -in (2). Said to be so called because it first was obtained (in 1862) by rubbing the pancreas
+with glycerin.
+
+
+dentifrice (n.)
+
+early 15c., from Middle French dentifrice (15c.), from Latin dentifricium powder for rubbing the
+teeth, from dens (genitive dentis) tooth (see tooth) + fricare to rub (see friction).
+
+
+traction (n.)
+
+early 15c., a drawing or pulling (originally the pulling of a dislocated limb to reposition it),
+from Medieval Latin tractionem (nominative tractio) a drawing (mid-13c.), noun of action from past
+participle stem of Latin trahere to pull, draw (see tract (n.1)). Sense of rolling friction of a
+vehicle first appears 1825. In modern medical care, a sustained pull to a part of the body to hold
+fractured bones in position, 1885.
+
+
+massage (n.)
+
+1874, from French massage friction of kneading, from masser to massage, possibly from Arabic massa
+to touch, feel, handle; if so, probably picked up in Egypt during the Napoleonic campaign there.
+Other possibility is that French got it in colonial India from Portuguese amassar knead, a verb from
+Latin massa mass, dough (see mass (n.1)). Massage parlor first attested 1894, from the start a
+euphemism for house of prostitution.
+
+
+skid (n.)
+
+c.1600, beam or plank on which something rests, especially on which something heavy can be rolled
+from place to place (1782), of uncertain origin, probably from a Scandinavian source akin to Old
+Norse ski&eth; stick of wood (see ski (n.)). As a sliding along from 1890; specifically of motor
+vehicles from 1903. Skid-mark is from 1914.    In the timber regions of the American West, skids
+laid down one after another to form a road were a poor thing for pleasure walks, but admirably
+adapted for hauling logs on the ground with a minimum of friction [Out West magazine, October 1903].
+A skid as something used to facilitate downhill motion led to figurative phrases such as hit the
+skids go into rapid decline (1909), and see skid row.
+
+
+traffic (n.)
+
+c.1500, trade, commerce, from Middle French trafique (15c.), from Italian traffico (14c.), from
+trafficare carry on trade, of uncertain origin, perhaps from a Vulgar Latin *transfricare to rub
+across, from Latin trans- across (see trans-) + fricare to rub (see friction), with the original
+sense of the Italian verb being touch repeatedly, handle.    Or the second element may be an
+unexplained alteration of Latin facere to make, do. Klein suggests ultimate derivation of the
+Italian word from Arabic tafriq distribution. Meaning people and vehicles coming and going first
+recorded 1825. Traffic jam is 1917, ousting earlier traffic block (1895). Traffic circle is from
+1938.
+
+
+grind (v.)
+
+Old English grindan to rub together, grate, scrape, forgrindan destroy by crushing (class III strong
+verb; past tense grand, past participle grunden), from Proto-Germanic *grindanan (cognates: Dutch
+grenden), related to ground, from PIE *ghrendh- to grind (cognates: Latin frendere to gnash the
+teeth, Greek khondros corn, grain, Lithuanian grendu to scrape, scratch). Meaning to make smooth or
+sharp by friction is from c.1300. Most other Germanic languages use a verb cognate with Latin molere
+(compare Dutch malen, Old Norse mala, German mahlen).
+
+
+tape (n.)
+
+Old English t&aelig;ppe narrow strip of cloth used for tying, measuring, etc., of uncertain origin;
+perhaps [Klein] a back-formation from Latin tapete cloth, carpet, compare also Old Frisian tapia,
+Middle Low German tapen to pull, pluck, tear. The original short vowel became long in Middle
+English.   Adhesive tape is from 1885; also in early use sometimes friction tape. Tape recorder
+device for recording sound on magnetic tape first attested 1932; from earlier meaning device for
+recording data on ticker tape (1892), from tape in the sense of paper strip of a printer (1884).
+Tape-record (v.) is from 1950. Tape-measure is attested from 1873; tape-delay is from 1968.
+
+
+Lucifer
+
+Old English Lucifer Satan, also morning star, from Latin Lucifer morning star, literally light-
+bringing, from lux (genitive lucis) light (see light (n.)) + ferre carry (see infer).    Belief that
+it was the proper name of Satan began with its use in Bible to translate Greek Phosphoros, which
+translates Hebrew Helel ben Shahar in Isaiah xiv:12 -- How art thou fallen from heaven, O Lucifer,
+son of the morning! [KJV] Because of the mention of a fall from Heaven, the verse was interpreted by
+Christians as a reference to Satan, even though it is literally a reference to the King of Babylon
+(see Isaiah xiv:4).   Lucifer match friction match is from 1831. Adjectival forms include
+Luciferian, Luciferine, Luciferous. There was a noted Bishop Lucifer of Cagliari in Sardinia in the
+4th century, regarded locally as a saint.
+
+
+match (n.1)
+
+stick for striking fire, late 14c., macche, wick of a candle or lamp, from Old French meiche wick of
+a candle, from Vulgar Latin *micca/*miccia (source also of Catalan metxa, Spanish mecha, Italian
+miccia), probably ultimately from Latin myxa, from Greek myxa lamp wick, originally mucus, based on
+notion of wick dangling from the spout of a lamp like snot from a nostril, from PIE root *meug-
+slimy, slippery (see mucus). Modern spelling is from mid-15c. (English snot also had a secondary
+sense of snuff of a candle, burnt part of a wick from late 14c., surviving at least to late 19c. in
+northern dialects.)    Meaning piece of cord or splinter of wood soaked in sulfur, used for lighting
+fires, lamps, candles, etc. is from 1530. First used 1831 for the modern type of wooden friction
+match, and competed with lucifer for much of 19c. as the name for this invention.
+
+
+bear (v.)
+
+Old English beran to bear, bring; bring forth, produce; to endure, sustain; to wear (class IV strong
+verb; past tense b&aelig;r, past participle boren), from Proto-Germanic *beran (cognates: Old Saxon
+beran, Old Frisian bera, Old High German beran, German geb&auml;ren, Old Norse bera, Gothic bairan
+to carry, bear, give birth to), from PIE root *bher- (1) meaning both give birth (though only
+English and German strongly retain this sense, and Russian has beremennaya pregnant) and carry a
+burden, bring (see infer).   Ball bearings bear the friction. Many senses are from notion of move
+onward by pressure. Old English past tense b&aelig;r became Middle English bare; alternative bore
+began to appear c.1400, but bare remained the literary form till after 1600. Past participle
+distinction of borne for carried and born for given birth is from late 18c. To bear (something) in
+mind is from 1530s.
+
+

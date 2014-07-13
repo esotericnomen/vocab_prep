@@ -6,3 +6,108 @@ off, from temnein to cut, from PIE *tem- to cut (cognates: second element in Lat
 value, appraise, Old Church Slavonic tina to cleave, split, Middle Irish tamnaim I cut off, Welsh
 tam morsel). Sense of a large book is attested from 1570s.
 
+
+-tomy
+
+word-forming element meaning a cutting (especially a surgical incision or removal), from Greek
+-tomia a cutting of, from tome a cutting, section (see tome).
+
+
+tmesis (n.)
+
+1580s, from Greek tmesis a cutting, related to temnein to cut, tome a cutting (see tome). The
+separation of the elements of a compound word by the interposition of another word or words (such as
+a whole nother).
+
+
+phlebotomy (n.)
+
+bloodletting, c.1400, flebotomye, from Old French flebotomie (13c., Modern French phl&#233;botomie),
+from medical Latin phlebotomia, from Greek phlebotomia blood-letting, from phlebotomos opening
+veins, from phleps (genitive phlebos) vein + -tomia cutting of, from tome a cutting (see tome).
+
+
+tomography (n.)
+
+1935, from comb. form of Greek tomos slice, section (see tome) + -graphy.
+
+
+dichotomy (n.)
+
+c.1600, from Greek dichotomia a cutting in half, from dicha in two, asunder (related to dis twice) +
+temnein to cut (see tome).
+
+
+-ectomy
+
+word-forming element meaning surgical removal, from Greek -ektomia a cutting out of, from ektemnein
+to cut out, from ek out (see ex-) + temnein to cut (see tome).
+
+
+diatom (n.)
+
+1845, coined from Greek diatomos cut in two, from diatemnein to cut through, from dia- through (see
+dia-) + temnein to cut (see tome). So called because they typically appear to have been cut in half.
+Related: Diatomic.
+
+
+epitome (n.)
+
+1520s, an abstract; brief statement of the chief points of some writing, from Middle French
+&eacute;pitom&eacute; (16c.), from Latin epitome abridgment, from Greek epitome abridgment, from
+epitemnein cut short, abridge, from epi into (see epi-) + temnein to cut (see tome). Sense of person
+or thing that typifies something is first recorded c.1600.
+
+
+tonsure (n.)
+
+late 14c., shaving of the head or part of it, especially as a religious rite, from Anglo-French
+tonsure (mid-14c.), Old French tonsure ecclesiastical tonsure; sheep-shearing (14c.), from Latin
+tonsura a shearing, clipping, from tonsus, past participle of tondere to shear, shave, clip, crop,
+from PIE *tend-, from root *tem- to cut (see tome). The verb is attested from 1706 (implied in
+tonsured). Related: Tonsuring.
+
+
+atom (n.)
+
+late 15c., as a hypothetical indivisible body, the building block of the universe, from Latin atomus
+(especially in Lucretius) indivisible particle, from Greek atomos uncut, unhewn; indivisible, from
+a- not + tomos a cutting, from temnein to cut (see tome). An ancient term of philosophical
+speculation (in Leucippus, Democritus), revived 1805 by British chemist John Dalton. In late
+classical and medieval use also a unit of time, 22,560 to the hour. Atom bomb is from 1945 as both a
+noun and a verb; compare atomic.
+
+
+anatomy (n.)
+
+late 14c., study of the structure of living beings; c.1400, anatomical structures, from Old French
+anatomie, from Late Latin anatomia, from Greek anatomia, from anatome dissection, from ana- up (see
+ana-) + temnein to cut (see tome). Dissection (1540s), mummy (1580s), and skeleton (1590s) were
+primary senses of this word in Shakespeare's day; meaning the science of the structure of organized
+bodies predominated from 17c. Often mistakenly divided as an atomy or a natomy.The scyence of the
+Nathomy is nedefull and necessarye to the Cyrurgyen [1541]
+
+
+temple (n.1)
+
+building for worship, edifice dedicated to the service of a deity or deities, Old English tempel,
+from Latin templum piece of ground consecrated for the taking of auspices, building for worship of a
+god, of uncertain signification. Commonly referred to PIE root *tem- to cut (see tome), on notion of
+place reserved or cut out [Watkins], or to root *temp- to stretch [Klein's sources], on notion of
+cleared space in front of an altar (see tenet). Compare Greek temenos sacred area around a temple,
+literally place cut off, from stem of temnein to cut. Figurative sense of any place regarded as
+occupied by divine presence was in Old English. Applied to Jewish synagogues from 1590s.
+
+
+entomology (n.)
+
+1766, from French entomologie (1764), coined from Greek entomon insect + -logia study of (see
+-logy). Entomon is neuter of entomos having a notch or cut (at the waist), from en in (see en- (2))
++ temnein to cut (see tome).    So called by Aristotle in reference to the segmented division of
+insect bodies. Compare insect. Related: Entomological. Hybrid insectology (1766, from French
+insectologie, 1744) is not much used.  I have given the name insectology to that part of natural
+history which has insects for its object; that of entomology ... would undoubtedly have been more
+suitable ... but its barbarous sound terryfy'd me. [Charles Bonnet's English translation of his
+Contemplation de la nature, 1766]
+
+

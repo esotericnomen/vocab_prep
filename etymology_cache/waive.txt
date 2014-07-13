@@ -3,10 +3,18 @@ waive (v.)
 c.1300, deprive of legal protection, from Anglo-French weyver to abandon, waive (Old French guever
 to abandon, give back), probably from a Scandinavian source akin to Old Norse veifa to swing about,
 from Proto-Germanic *waif- (see waif). In Middle English legal language, used of rights, goods, or
-women.  <blockquote>  If the defendant be a woman, the proceeding is called a waiver; for as women
-were not sworn to the law by taking the oath of allegiance in the leet (as men anciently were when
-of the age of twelve years and upwards), they could not properly be outlawed, but were said to be
-waived, i.e., derelicta, left out, or not regarded. [from section subtitled Outlawry in J.J.S.
-Wharton, Law-Lexicon, or Dictionary of Jurisprudence, London, 1867]  </blockquote>  Related: Waived;
-waiving.
+women.    If the defendant be a woman, the proceeding is called a waiver; for as women were not
+sworn to the law by taking the oath of allegiance in the leet (as men anciently were when of the age
+of twelve years and upwards), they could not properly be outlawed, but were said to be waived, i.e.,
+derelicta, left out, or not regarded. [from section subtitled Outlawry in J.J.S. Wharton, Law-
+Lexicon, or Dictionary of Jurisprudence, London, 1867]    Related: Waived; waiving.
+
+
+waiver (n.)
+
+act of waiving, 1620s (modern usage is often short for waiver clause); from Anglo-French legal usage
+of infinitive as a noun (see waive). Baseball waivers is recorded from 1907. Other survivals of noun
+use of infinitives in Anglo-French legalese include disclaimer, merger, rejoinder, misnomer, ouster,
+retainer, attainder.
+
 

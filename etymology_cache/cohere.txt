@@ -3,3 +3,23 @@ cohere (v.)
 1590s, from Latin cohaerere to cleave together, in transferred use, be coherent or consistent, from
 com- together (see co-) + haerere to stick (see hesitation). Related: Cohered; cohering.
 
+
+coherent (adj.)
+
+1550s, from Middle French coh&eacute;rent (16c.), from Latin cohaerentem (nominative cohaerens),
+present participle of cohaerere cohere, from com- together (see co-)  + haerere to stick (see
+hesitation).
+
+
+cohesion (n.)
+
+1670s, from French coh&eacute;sion, from Latin cohaesionem (nominative cohaesio) a sticking
+together, noun of action from past participle stem of cohaerere to stick together (see cohere).
+
+
+cohesive (adj.)
+
+c.1730 (implied in cohesiveness), from Latin cohaes-, past participle stem of cohaerere (see cohere)
++ -ive. Related: Cohesively.
+
+

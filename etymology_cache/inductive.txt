@@ -3,3 +3,14 @@ inductive (adj.)
 early 15c., from Old French inductif or directly from Late Latin inductivus, from induct-, past
 participle stem of inducere (see induce). As a term in logic, from 1764.
 
+
+physicist (n.)
+
+1836, from physics + -ist. Coined by the Rev. William Whewell (1794-1866), English polymath, to
+denote a cultivator of physics as opposed to a physician.    As we cannot use physician for a
+cultivator of physics, I have called him a physicist. We need very much a name to describe a
+cultivator of science in general. I should incline to call him a Scientist. Thus we might say, that
+as an Artist is a Musician, Painter, or Poet, a Scientist is a Mathematician, Physicist, or
+Naturalist. [William Whewell, The Philosophy of the Inductive Sciences, London, 1840]
+
+

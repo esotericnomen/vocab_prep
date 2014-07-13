@@ -5,3 +5,165 @@ Latin physiologia natural science, study of nature, from Greek physiologia natur
 into nature, from physio- nature (see physio-) + logia study (see -logy). Meaning science of the
 normal function of living things is attested from 1610s. Related: Physiologic; physiologist.
 
+
+physiological (adj.)
+
+c.1600, pertaining to natural science, from physiology + -ical. From 1814 as pertaining to
+physiology. Related: Physiologically.
+
+
+hot-blooded (adj.)
+
+passionate, 1590s; a relic of medieval physiology theory.
+
+
+autonomic (adj.)
+
+1832, pertaining to autonomy (q.v.); used mostly in physiology. Autonomical is recorded from 1650s.
+
+
+sinusoid
+
+1823 in mathematics; 1900 in physiology, from sinus + -oid. Related: Sinusoidal.
+
+
+consensus (n.)
+
+1854 as a term in physiology; 1861 of persons; from Latin consensus agreement, accord, past
+participle of consentire (see consent). There is an isolated instance of the word from 1633.
+
+
+pathophysiology (adj.)
+
+1952, from patho- + physiology.
+
+
+anthropology (n.)
+
+science of the natural history of man, 1590s, originally especially of the relation between
+physiology and psychology, from Modern Latin anthropologia or coined independently in English from
+anthropo- + -logy. In Aristotle, anthropologos is used literally, as speaking of man.
+
+
+saturnine (adj.)
+
+gloomy, morose, sluggish, grave, mid-15c., literally born under the influence of the planet Saturn,
+from Middle English Saturne (see Saturn) + -ine (1). Medieval physiology believed these
+characteristics to be caused by the astrological influence of the planet Saturn, which was the most
+remote from the Sun (in the limited knowledge of the times) and thus coldest and slowest in its
+revolution.
+
+
+bipolar (adj.)
+
+having two poles, from bi- + polar; 1810 with figurative sense of of double aspect; 1859 with
+reference to physiology. Psychiatric use in reference to what had been called manic-depressive
+psychosis is said to have begun 1957 with German psychiatrist Karl Leonhard. The term became popular
+early 1990s. Bipolar disorder was in DSM III (1980).
+
+
+parenchyma (n.)
+
+1650s, Modern Latin, from Greek parenkhyma something poured in beside, from para- beside (see para-
+(1)) + enkhyma infusion, from en- in + khein to pour (see found (v.2)). In ancient physiology, the
+stuff that was supposed to make up the liver, lungs, etc., which was believed to be formed from
+blood strained through the capillaries and congealed.
+
+
+metabolism (n.)
+
+in physiology sense, 1878, from French m&eacute;tabolisme, from Greek metabole a change, from
+metaballein to change, from meta- over (see meta-) + ballein to throw (see ballistics).
+
+
+sanguine (adj.)
+
+blood-red, late 14c. (late 12c. as a surname), from Old French sanguin (fem. sanguine), from Latin
+sanguineus of blood, also bloody, bloodthirsty, from sanguis (genitive sanguinis) blood (see
+sanguinary). Meaning cheerful, hopeful, confident first attested c.1500, because these qualities
+were thought in medieval physiology to spring from an excess of blood as one of the four humors.
+Also in Middle English as a noun, type of red cloth (early 14c.).
+
+
+complexion (n.)
+
+mid-14c., bodily constitution, from Old French complexion, complession combination of humors, hence
+temperament, character, make-up, from Latin complexionem (nominative complexio) combination (in Late
+Latin, physical constitution), from complexus (see complex (adj.)). Meaning appearance of the skin
+of the face is first recorded mid-15c. In medieval physiology, the color of the face indicated
+temperament or health.
+
+
+lymph (n.)
+
+1725 in physiology sense, colorless fluid found in the body, from French lymphe, from Latin lympha
+water, clear water, a goddess of water, variant of lump&aelig; waters, altered by influence of Greek
+nymphe goddess of a spring, nymph. The word was used earlier in English in the classical sense pure
+water, water (1620s), also (1670s) with reference to colorless fluids in plants. Also see lymphatic.
+Lymph node is attested from 1892.
+
+
+bursa (n.)
+
+by 1788 as an English word in physiology, shortened from medieval Latin bursa mucosa mucus pouch,
+from Medieval Latin bursa bag, purse, from Late Latin bursa, variant of byrsa hide, from Greek byrsa
+hide, skin, wineskin, drum, of unknown origin; compare purse (n.).
+
+
+spleen (n.)
+
+c.1300, from Old French esplen, from Latin splen, from Greek splen the milt, spleen, from PIE
+*spelgh- spleen, milt (cognates: Sanskrit plihan-, Avestan sperezan, Armenian p'aicaln, Latin lien,
+Old Church Slavonic slezena, Lithuanian blu&#382;nis, Old Prussian blusne, Old Irish selg spleen).
+Regarded in medieval physiology as the seat of morose feelings and bad temper. Hence figurative
+sense of violent ill-temper (1580s, implied in spleenful); and thence spleenless free from anger,
+ill-humor, malice, or spite (1610s).
+
+
+phlegm (n.)
+
+late 14c., fleem viscid mucus (the stuff itself and also regarded as a bodily humor), from Old
+French fleume (13c., Modern French flegme), from Late Latin phlegma, one of the four humors of the
+body, from Greek phlegma humor caused by heat, lit inflammation, heat, from phlegein to burn,
+related to phlox (genitive phlogos) flame, blaze, from PIE *bhleg- to shine, flash, from root *bhel-
+(1) to shine, flash, burn (see bleach (v.)). Modern form is attested from c.1660. The cold, moist
+humor of the body, in medieval physiology, it was believed to cause apathy.
+
+
+melancholy (n.)
+
+c.1300, condition characterized by sullenness, gloom, irritability, from Old French melancolie black
+bile, ill disposition, anger, annoyance (13c.), from Late Latin melancholia, from Greek melankholia
+sadness, literally (excess of) black bile, from melas (genitive melanos) black (see melanin) + khole
+bile (see Chloe). Medieval physiology attributed depression to excess of black bile, a secretion of
+the spleen and one of the body's four humors.    The Latin word also is the source of Spanish
+melancolia, Italian melancolia, German Melancholie, Danish melankoli, etc. Old French variant
+malencolie (also in Middle English) is by false association with mal sickness.
+
+
+humor (n.)
+
+mid-14c., fluid or juice of an animal or plant, from Old North French humour (Old French humor;
+Modern French humeur), from Latin umor body fluid (also humor, by false association with humus
+earth); related to umere be wet, moist, and to uvescere become wet, from PIE *wegw- wet.    In
+ancient and medieval physiology, any of the four body fluids (blood, phlegm, choler, and melancholy
+or black bile) whose relative proportions were thought to determine state of mind. This led to a
+sense of mood, temporary state of mind (first recorded 1520s); the sense of amusing quality,
+funniness is first recorded 1680s, probably via sense of whim, caprice (1560s), which also produced
+the verb sense of indulge, first attested 1580s. The pronunciation of the initial h is only of
+recent date, and is sometimes omitted .... [OED] For types of humor, see the useful table below,
+from H.W. Fowler [Modern English Usage, 1926].   <table width=90% bgcolor=#CCFFFF align=center
+cellspacing=1 cellpadding=4 border=1> <tr> <td><b>device</b></td> <td>HUMOR</td> <td>WIT</td>
+<td>SATIRE</td> <td>SARCASM</td> <td>INVECTIVE</td> <td>IRONY</td> <td>CYNICISM</td>
+<td>SARDONIC</td> </tr> <tr> <td><b>motive/aim</b></td> <td>discovery</td> <td>throwing light</td>
+<td>amendment</td> <td>inflicting pain</td> <td>discredit</td> <td>exclusiveness</td> <td>self-
+justification</td> <td>self-relief</td> </tr> <tr> <td><b>province</b></td> <td>human nature</td>
+<td>words &amp; ideas</td> <td>morals &amp; manners</td> <td>faults &amp; foibles</td>
+<td>misconduct</td> <td>statement of facts</td> <td>morals</td> <td>adversity</td> </tr> <tr>
+<td><b>method/means</b></td> <td>observation</td> <td>surprise</td> <td>accentuation</td>
+<td>inversion</td> <td>direct statement</td> <td>mystification</td> <td>exposure of nakedness</td>
+<td>pessimism</td> </tr> <tr> <td><b>audience</b></td> <td>the sympathetic</td> <td>the
+intelligent</td> <td>the self-satisfied</td> <td>victim &amp; bystander</td> <td>the public</td>
+<td>an inner circle</td> <td>the respectable</td> <td>the self</td> </tr> </table>
+
+

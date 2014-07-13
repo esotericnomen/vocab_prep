@@ -6,3 +6,148 @@ from Latin ordinantem (nominative ordinans), present participle of ordinare put 
 ordain). By early 14c. senses had emerged of arrangement in ranks or rows (especially in order of
 battle), also warlike provisions, equipment (a sense now in ordnance).
 
+
+maypole (n.)
+
+high striped pole decorated with flowers and ribbons for May Day merrymakers to dance around,
+attested from 1550s but certainly much older, as the first mention of it is in an ordinance banning
+them, and there are references to such erections, though not by this name, from a mid-14c. Welsh
+poem. See May Day.
+
+
+setness (n.)
+
+1640s, from set (n.2) + -ness. Old English had setnes, which was pressed into service to translate
+various ideas in Roman law and Christianity: foundation, creation, construction; size, extent; law,
+ordinance; instruction; sentence.
+
+
+short-sleeve (n.)
+
+1630s, from short (adj.) + sleeve. First recorded in an ordinance of Massachusetts Bay colony,
+forbidding short sleeves, whereby the nakedness of the arme may be discovered.
+
+
+ordination (n.)
+
+early 15c., the act of conferring holy orders, from Old French ordinacion (12c.) or directly from
+Latin ordinationem (nominative ordinatio) a setting in order, ordinance, noun of action from past
+participle stem of ordinare arrange (see ordain).
+
+
+sanction (n.)
+
+early 15c., confirmation or enactment of a law, from Latin sanctionem (nominative sanctio) act of
+decreeing or ordaining, also decree, ordinance, noun of action from past participle stem of sancire
+to decree, confirm, ratify, make sacred (see saint (n.)). Originally especially of ecclesiastical
+decrees.
+
+
+blacksmith (n.)
+
+late 15c. (mid-13c. as a surname), from black + smith (n.). Listed in royal ordinance (along with
+bladesmiths, spurriers and goldbeaters). Those who work in heated, heavy metals as opposed to those
+who beat gold, tin, or pewter (whitesmith).
+
+
+tar (v.)
+
+late Old English, to smear with tar, from tar (n.1). To tar and feather (1769) was famously a mob
+action in America in Revolutionary times (used by both sides) and several decades thereafter. The
+punishment itself first is found in an ordinance of Richard I (1189) as the penalty in the Crusader
+navy for theft. Among other applications over the years was its use in 1623 by a bishop on a party
+of incontinent friars and nuns [OED], but the verbal phrase is not attested until 18c. Related:
+Tarred; tarring.
+
+
+ordnance (n.)
+
+cannon, artillery, 1540s, a clipped form of ordinance (q.v.) which was attested from late 14c. in
+the sense of military materials, provisions of war; a sense now obsolete but which led to those of
+engines for discharging missiles (early 15c.) and branch of the military concerned with stores and
+materials (late 15c.). The shorter word was established in these distinct senses by 17c. Ordnance
+survey (1833), official survey of Great Britain and Ireland, was undertaken by the government under
+the direction of the Master-General of the Ordnance (a natural choice, because gunners have to be
+skilled at surveying ranges and distances).
+
+
+size (n.)
+
+c.1300, an ordinance to fix the amount of a payment or tax, from Old French sise, shortened form of
+assise session, assessment, regulation, manner (see assize), probably a misdivision of l'assise as
+la sise. The sense of extent, amount, volume, magnitude (c.1300) is from the notion of regulating
+something by fixing the amount of it (weights, food portions, etc.). Specific sense of set of
+dimensions of a manufactured article for sale is attested from 1590s.
+
+
+bylaw (n.)
+
+late 13c., bilage local ordinance, from Old Norse or Old Danish bi-lagu town law, from byr place
+where people dwell, town, village, from bua to dwell (see bower) + lagu law (see law). So, a local
+law pertaining to local residents, or rule of a corporation or association. Sense influenced by by.
+
+
+edict (n.)
+
+late 15c., edycte; earlier edit, late 13c., proclamation having the force of law, from Old French
+edit, from Latin edictum proclamation, ordinance, edict, neuter past participle of edicere publish,
+proclaim, from e- out (see ex-) + dicere to say (see diction).
+
+
+standard (n.2)
+
+weight, measure, or instrument by which the accuracy of others is determined, late 14c., from
+standard (n.1) military standard, banner, a particular use in English of this word, but the sense
+evolution is somewhat obscure [OED]. The standard weights and measures were set by royal ordinance
+and were known as the king's standard, so perhaps metaphoric, the royal standard coming to stand for
+royal authority in matters like setting weights and measures. Hence the meaning authoritative or
+recognized exemplar of quality or correctness (late 15c.). Meaning rule, principal or means of
+judgment is from 1560s. That of definite level of attainment is attested from 1711 (as in standard
+of living, 1903).
+
+
+bard (n.)
+
+mid-15c., from Scottish, from Old Celtic bardos poet, singer, from PIE root *gwer- to lift up the
+voice, praise. In historical times, a term of contempt among the Scots (who considered them
+itinerant troublemakers), but one of great respect among the Welsh. All vagabundis, fulis, bardis,
+scudlaris, and siclike idill pepill, sall be brint on the cheek. [local Scottish ordinance,
+c.1500]Subsequently idealized by Scott in the more ancient sense of lyric poet, singer. Poetic use
+of the word in English is from Greek bardos, Latin bardus, both from Gaulish.
+
+
+law (n.)
+
+Old English lagu (plural laga, comb. form lah-) law, ordinance, rule, regulation; district governed
+by the same laws, from Old Norse *lagu law, collective plural of lag layer, measure, stroke,
+literally something laid down or fixed, from Proto-Germanic *lagan put, lay (see lay (v.)).
+Replaced Old English &aelig; and gesetnes, which had the same sense development as law. Compare also
+statute, from Latin statuere; German Gesetz law, from Old High German gisatzida; Lithuanian
+istatymas, from istatyti set up, establish. In physics, from 1660s. Law and order have been coupled
+since 1796.
+
+
+constitution (n.)
+
+mid-14c., law, regulation, edict, from Old French constitucion (12c.) constitution, establishment,
+and directly from Latin constitutionem (nominative constitutio) act of settling, settled condition,
+anything arranged or settled upon, regulation, order, ordinance, from constitut-, past participle
+stem of constituere (see constitute).    Meaning action of establishing is from 1580s; that of way
+in which a thing is constituted is from c.1600; that of physical health, strength and vigor of the
+body is from 1550s; of the mind, temperament, character from 1580s. Sense of mode of organization of
+a state is from c.1600; that of system of principles by which a community is governed dates from
+1730s; especially of a document of written laws since the U.S. and French constitutions, late 18c.
+
+
+send (v.)
+
+Old English sendan send, send forth; throw, impel, from Proto-Germanic *sandijan (cognates: Old
+Saxon sendian, Old Norse and Old Frisian senda, Middle Low German and Middle Dutch senden, Dutch
+zenden, German senden, Gothic sandjan), causative form of base *sin&thorn;an, denoting go, journey
+(source of Old English si&eth; way, journey, Old Norse sinn, Gothic sin&thorn;s going, walk, time),
+from PIE root *sent- to head for, go (cognates: Lithuanian siusti send; see sense (n.)).    Also
+used in Old English of divine ordinance (as in godsend, from Old English sand messenger, message,
+from Proto-Germanic *sandaz that which is sent). Slang sense of to transport with emotion, delight
+is recorded from 1932, in American English jazz slang.
+
+

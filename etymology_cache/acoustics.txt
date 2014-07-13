@@ -3,3 +3,20 @@ acoustics (n.)
 1680s, science of sound, from acoustic (also see -ics). Meaning acoustic properties of a building,
 etc., attested from 1885.
 
+
+resonance (n.)
+
+mid-15c., in acoustics, prolongation of sound by reverberation; 1660s, act of resonating; from
+Middle French resonance (15c.), from Latin resonantia echo, from resonare to sound again (see
+resound). Earlier in same sense was resonation (early 15c.).
+
+
+-ics
+
+in the names of sciences or disciplines (acoustics, aerobics, economics, etc.) it represents a 16c.
+revival of the classical custom of using the neuter plural of adjectives with -ikos (see -ic) to
+mean matters relevant to and also as the titles of treatises about them. Subject matters that
+acquired their names in English before c.1500, however, tend to remain in singular (such as
+arithmetic, logic).
+
+

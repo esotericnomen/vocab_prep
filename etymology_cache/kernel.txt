@@ -4,3 +4,100 @@ Old English cyrnel seed, kernel, pip, from Proto-Germanic *kurnilo- (cognates: M
 kornel, Middle Dutch cornel), from the root of corn seed, grain (see corn (n.1)) + -el, diminutive
 suffix. Figurative sense of core or central part of anything is from 1550s.
 
+
+churn (n.)
+
+Old English cyrin, from Proto-Germanic *kernjon (cognates: Old Norse kirna, Swedish k&auml;rna,
+Danish kjerne, Dutch karn, Middle High German kern); probably akin to cyrnel kernel (see kernel) and
+describing the grainy appearance of churned cream.
+
+
+nucleus (n.)
+
+1704, kernel of a nut, 1708, head of a comet, from Latin nucleus kernel, from nucula little nut,
+diminutive of nux (genitive nucis) nut, from PIE *kneu- nut (cognates: Middle Irish cnu, Welsh
+cneuen, Middle Breton knoen nut, Old Norse hnot, Old English hnutu nut). General sense of central
+part or thing, about which others cluster is from 1762. Use in reference to cells first recorded
+1831. Modern atomic meaning is 1912, first by Ernest Rutherford, though theoretical use for central
+point of an atom is from 1844, in Faraday.
+
+
+Linux
+
+computer operating system, named for Linux kernel,  written 1991 by Linus Torvalds of Finland (who
+coined the word but did not choose it as the name).
+
+
+karyo-
+
+before vowels kary-, word-forming element used since c.1874 in biological terms referring to cell
+nuclei, from Greek karyon nut, kernel, possibly from PIE root *kar- hard (see hard (adj.)).
+
+
+pit (n.2)
+
+hard seed, 1841, from Dutch pit kernel, seed, marrow, from Middle Dutch pitte, ultimately from West
+Germanic *pithan-, source of pith (q.v.).
+
+
+pip (n.1)
+
+seed of an apple, 1797, shortened form of pipin seed of a fleshy fruit (early 14c.), from Old French
+pepin (13c.), probably from a root *pipp-, expressing smallness (compare Italian pippolo, Spanish
+pepita seed, kernel).
+
+
+prokaryote (n.)
+
+1963, from French procaryote (1925), from Greek pro- (see pro-) + karyon nut, kernel (see karyo-).
+
+
+enucleation (n.)
+
+1640s, from verb enucleate (1540s), from Latin enucleatus pure, clean, past participle of enucleare
+to lay open, explain in detail, literally to remove the kernel of (see ex- + nucleus). Mostly
+figurative in Latin (the notion is of getting at the core of some matter); until mid-19c. advances
+in science and medicine, usually figurative in English.
+
+
+eukaryotic (adj.)
+
+also eucaryotic, characterized by well-defined cells (with nuclei and cell walls), 1957, from French
+eucaryote (1925), from Greek eu well (see eu-) + karyon nut, kernel (see karyo-). Related:
+Eukaryote; eucaryote.
+
+
+copra (n.)
+
+dried kernel of coconut, 1580s, from Portuguese copra (16c.), from Malayalam koppara (cognate with
+Hindi khopra) coconut; related to Hindi khopri skull, from Sanskrit kharparah skull.
+
+
+grit (n.)
+
+Old English greot sand, dust, earth, gravel, from Proto-Germanic *greutan tiny particles of crushed
+rock (cognates: Old Saxon griot, Old Frisian gret, Old Norse grjot rock, stone, German Grie&szlig;
+grit, sand), from PIE *ghreu- rub, grind (cognates: Lithuanian grudas corn, kernel, Old Church
+Slavonic gruda clod). Sense of pluck, spirit first recorded American English, 1808.
+
+
+newel (n.)
+
+mid-14c., pillar from which steps of a winding staircase radiate, from Old French noel, novel knob,
+newel, kernel, stone (Modern French noyau), from Vulgar Latin *nodellus little knot, diminutive of
+Latin nodulus, diminutive of nodus knot (see net (n.)). Klein's sources suggest the French word may
+be from Gallo-Roman *nucale, from Latin nux nut. The meaning post at the top or bottom of a
+staircase is from 1833.
+
+
+grain (n.)
+
+early 13c., scarlet dye made from insects (late 12c. in surnames), from Old French grain (12c.)
+seed, grain, particle, berry, scarlet dye (see kermes for last sense), from Latin granum seed, a
+grain, small kernel (see corn (n.1)).    As a collective singular meaning seed of wheat and allied
+grasses used as food, it is attested from early 14c. Extended from c.1300 to other objects (such as
+salt, sand). As a unit of weight, from 1540s. Used of wood (1560s), from the arrangement of fibers,
+which resemble seeds. Hence, against the grain (1650), a metaphor from carpentry: cutting across the
+fibers of the wood is more difficult than cutting along them.
+
+

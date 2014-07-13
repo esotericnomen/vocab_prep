@@ -5,3 +5,356 @@ regulate by a scale is from 1798, from scale (n.3); that of weigh out in proper 
 1841. Scale down reduce proportionately is attested from 1887. Scale factor is from 1948. Related:
 Scaled; scaling.
 
+
+scale (n.3)
+
+series of registering marks to measure by; marks laid down to determine distance along a line, late
+14c., from Latin scala ladder, staircase (see scale (v.1)). Meaning succession or series of steps is
+from c.1600; that of standard for estimation (large scale, small scale, etc.) is from 1620s. Musical
+sense (1590s), and the meaning proportion of a representation to the actual object (1660s) are via
+Italian scala, from Latin scala.
+
+
+scale (n.2)
+
+weighing instrument, early 15c.; earlier pan of a balance (late 14c.); earlier still drinking cup
+(c.1200), from Old Norse skal bowl, drinking cup, in plural, weighing scale from a noun derivative
+of Proto-Germanic *sk&aelig;la split, divide (cognates: Old Norse skel shell, Old English scealu,
+Old Saxon skala a bowl (to drink from), Old High German scala, German Schale a bowl, dish, cup,
+Middle Dutch scale, Dutch schaal drinking cup, bowl, shell, scale of a balance), from PIE root
+*skel- (1) to cut (see scale (n.1)).    The connecting sense seems to be of half of a bivalve
+(split) shell used as a drinking cup or a pan for weighing. But according to Paulus Diaconus the
+drinking cup sense originated from a supposed custom of making goblets from skulls (see skull).
+Related: Scales. This, as a name for the zodiac constellation Libra, is attested in English from
+1630s.
+
+
+scale (n.1)
+
+skin plates on fish or snakes, c.1300, from Old French escale cup, scale, shell pod, husk (12c.,
+Modern French &eacute;cale) scale, husk, from Frankish *skala or some other Germanic source, from
+Proto-Germanic *sk&aelig;lo split, divide (cognates: Dutch schaal a scale, husk, Old High German
+scala shell, Gothic skalja tile, Old English scealu shell, husk), from PIE root *(s)kel- (1) to cut,
+cleave, split (cognates: Latin culter knife, scalpere to cut, scrape; Old Church Slavonic skolika
+mussel, shell, Russian skala rind, bark, Lithuanian skelti split, Old English scell shell, scalu
+drinking cup, bowl, scale of a balance).    In reference to humans, as a condition of certain skin
+diseases, it is attested from c.1400. As what falls from one's eye when blindness ends (usually
+figurative), it echoes Acts ix:18 (Latin tanquam squam&aelig;, Greek hosei lepides).
+
+
+scale (v.2)
+
+remove the scales of (a fish, etc.), c.1400, from scale (n.1). Intransitive sense to come off in
+scales is from 1520s. Related: Scaled; scaling.
+
+
+scale (v.1)
+
+to climb by or as by a ladder, late 14c., from scale (n.) a ladder, from Latin scala ladder, flight
+of stairs, from *scansla, from stem of scandere to climb (see scan (v.)). Related: Scaled; scaling.
+
+
+scale-pan (n.)
+
+1830, from scale (n.2) + pan (n.).
+
+
+scalene (adj.)
+
+having unequal sides, 1680s, from Late Latin scalenus, from Greek skalenos uneven, unequal, odd
+(numbered), as a noun, triangle with unequal sides, from skallein chop, hoe, from PIE *(s)kel- (1)
+to cut (see scale (n.1)).
+
+
+gamut (n.)
+
+1520s, originally, lowest note in the medieval musical scale, in the system of notation devised by
+Guido d'Arezzo, contraction of Medieval Latin gamma ut, from gamma, the Greek letter, indicating a
+note below A, + ut, the low note on the six-note musical scale that took names from corresponding
+syllables in a Latin hymn for St. John the Baptist's Day:<b>Ut</b> queant laxis <b>re</b>sonare
+fibris  <b>Mi</b>ra gestorum <b>fa</b>muli tuorum  <b>Sol</b>ve polluti <b>la</b>bii reatum,etc.
+Gamut came to be used for the whole musical scale; the figurative sense of entire scale or range of
+anything is first recorded 1620s. When the modern octave scale was set early 16c., si was added,
+changed to ti in Britain and U.S. to keep the syllables as different from each other as possible. Ut
+later was replaced by more sonorous do (n.). See also solmisation.
+
+
+Fahrenheit
+
+temperature scale, 1753, named for Gabriel Daniel Fahrenheit (1686-1736), Prussian physicist who
+proposed the scale in 1714. The zero in it is arbitrary, based on the lowest temperature observed by
+him in the winter of 1709. An abstract surname meaning literally experience.
+
+
+keynote (n.)
+
+also key-note, lowest note of a musical scale, basis of a scale, 1776, from key (n.1) in sense of
+musical scale + note (n.). Figurative sense of leading idea is from 1783; keynote address is 1905,
+American English.
+
+
+upscale (adj.)
+
+1966, at the higher end of a scale, superior, a commercial word, from up (adv.) + scale (v.3).
+
+
+Mercalli
+
+in reference to Mercalli scale, 1900, named for Italian geologist Giuseppe Mercalli (1850-1914), who
+invented it (I Terremoti della Liguria e del Piemonte, Naples, 1897). It was a modification of the
+Rossi-Forel scale (1883).
+
+
+scalable (adj.)
+
+1570s, able to be climbed; see scale (v.1) + -able. From 1936 as able to be graded by scale.
+Related: Scalably; scalability.
+
+
+squamous (adj.)
+
+1540s, from Latin squamosus covered with scales, scaly, from squama scale, perhaps related to
+squalus foul, filthy (see squalid). Middle English had squame a scale (late 14c.), from Old French
+esquame, from Latin squama. Alternative form squamose attested from 1660s.
+
+
+leper (n.)
+
+one afflicted with leprosy, late 14c., from Late Latin lepra, from Greek lepra leprosy, from fem. of
+lepros (adj.) scaly, from leops a scale, related to lepein to peel, from lopos a peel, from PIE root
+*lep- to peel, scale (see leaf (n.)). Originally the word for the disease itself (mid-13c.); because
+of the -er ending it came to mean person with leprosy, so leprosy was coined 16c. from adjective
+leprous.
+
+
+fa
+
+fourth note in Guidonian scale; see gamut.
+
+
+balance (n.)
+
+early 13c., apparatus for weighing, from Old French balance (12c.) balance, scales for weighing,
+also in the figurative sense; from Medieval Latin bilancia, from Late Latin bilanx, from Latin
+(libra) bilanx (scale) having two pans, possibly from Latin bis twice + lanx dish, plate, scale of a
+balance. The accounting sense is from 1580s; the meaning general harmony between parts is from 1732;
+sense of physical equipoise is from 1660s. Balance of power in the geopolitical sense is from 1701.
+Many figurative uses (such as hang in the balance, late 14c.), are from Middle English image of the
+scales in the hands of personified Justice, Fortune, Fate, etc.
+
+
+Brobdingnag
+
+(not *brobdignag), 1727, Swift's name in Gulliver's Travels for imaginary country where everything
+was on a gigantic scale.
+
+
+Richter scale
+
+1938, devised by U.S. seismologist Charles Francis Richter (1900-1985).
+
+
+one-horse (adj.)
+
+small-scale, petty 1853, American English, colloquial, in reference to towns so small they only had
+one horse.
+
+
+Celsius
+
+1850, for Swedish astronomer Anders Celsius (1701-1744) inventor of the centigrade scale in 1742.
+
+
+Beaufort scale
+
+to measure wind velocity, developed 1806 by Francis Beaufort (1774-1857), surveyor and hydrologist.
+
+
+Kelvin
+
+unit of absolute temperature scale, 1911, in honor of British physicist Sir William Thompson, Lord
+Kelvin (1824-1907).
+
+
+shell (n.)
+
+Old English sciell, scill, Anglian scell seashell, eggshell, related to Old English scealu shell,
+husk, from Proto-Germanic *skaljo piece cut off; shell; scale (cognates: West Frisian skyl peel,
+rind, Middle Low German schelle pod, rind, egg shell, Gothic skalja tile), with the shared notion of
+covering that splits off, from PIE root *(s)kel- (1) to cut, cleave (cognates: Old Church Slavonic
+skolika shell, Russian skala bark, rind; see scale (n.1)). Italian scaglia chip is from Germanic.
+Sense of mere exterior is from 1650s; that of hollow framework is from 1791. Meaning structure for a
+band or orchestra is attested from 1938. Military use (1640s) was first of hand grenades, in
+reference to the metal case in which the gunpowder and shot were mixed; the notion is of a hollow
+object filled with explosives. Hence shell shock, first recorded 1915. Shell game a swindle is from
+1890, from a version of three-card monte played with a pea and walnut shells.
+
+
+la
+
+musical note (sixth note of the diatonic scale), early 14c., see gamut. It represents the initial
+syllable of Latin labii of the lips.
+
+
+stanine (n.)
+
+nine-point scale for test scores, introduced by the U.S. Air Force in 1942, from sta(ndard) + nine.
+
+
+downscale (v.)
+
+1945, American English, from down (adv.) + scale (v.). From 1966 as an adjective.
+
+
+Libra (n.)
+
+zodiac constellation, late Old English, from Latin libra, literally pound, balance, from
+Mediterranean base *lithra- a scale. Nativized in Old Norse as skala-merki.
+
+
+ramp (n.1)
+
+1778, slope, from French rampe, back-formation from Old French verb ramper to climb, scale, mount;
+see ramp (v.). Meaning road on or off a major highway is from 1952, American English.
+
+
+scalar (adj.)
+
+resembling a ladder, 1650s, from Latin scalaris of or pertaining to a ladder, from scalae (plural)
+ladder, steps, flight of steps (see scale (n.2)). Mathematical sense first recorded 1846.
+
+
+ti
+
+seventh note of the musical scale, 1842, earlier te (1839), replacing si to avoid confusion with so,
+sol (see gamut).
+
+
+sol-fa (n.)
+
+syllables used in solmization taken collectively, 1540s, from Italian, from Medieval Latin sol and
+fa, two notes of the musical scale (see gamut). As a verb from 1560s; compare solfeggio use the sol-
+fa system (1774), from Italian solfeggiare.
+
+
+mediant (n.)
+
+third note of the diatonic scale, 1753, from Italian mediante, from Late Latin mediantem (nominative
+medians) dividing in the middle, present participle of mediare to be in the middle (see medial
+(adj.)). So called from being midway between the tonic and the dominant.
+
+
+diorama (n.)
+
+1823 as a type of picture-viewing device, from French diorama (1822), from Greek di- through (see
+dia-) + orama that which is seen, a sight (see panorama). Meaning small-scale replica of a scene,
+etc. is from 1902.
+
+
+do (n.)
+
+first (and last) note of the diatonic scale, by 1754, from do, used as a substitution for ut (see
+gamut) for sonority's sake, first in Italy and Germany. U.S. slang do-re-mi money is from 1920s,
+probably a pun on dough in its slang sense of cash.
+
+
+projection (n.)
+
+late 15c., in alchemy, transmutation by casting a powder on molten metal; 1550s in the
+cartographical sense drawing of a map or chart according to scale, from Middle French projection,
+from Latin proiectionem (nominative proiectio), from past participle stem of proicere (see project
+(n.)). From 1590s as action of projecting.
+
+
+shuffleboard (n.)
+
+1530s, shovillaborde shovel board, an unexplained alteration of shove-board (1520s), from shove (v.)
++ board (n.1). Originally a tabletop game (c.1600), the large-scale version (1877) was invented for
+play on ocean liners.
+
+
+scaly (adj.)
+
+also scaley, late 14c., from scale (n.1) + -y (2). Related: Scaliness.
+
+
+solmization (n.)
+
+act of using certain syllables to name tones of a music scale, 1730, from French solmisation, from
+solmiser, from sol + mi, two of the syllables so used (see gamut).
+
+
+scalpel (n.)
+
+1742, from Latin scalpellum a surgical knife, diminutive of scalprum knife, chisel, tool for
+scraping or cutting, from scalpere to carve, cut, related to sculpere to carve, from PIE root
+*(s)kel- to cut, cleave (see scale (n.1)).
+
+
+sculpture (n.)
+
+late 14c., from Latin sculptura sculpture, from past participle stem of sculpere to carve, engrave,
+back-formation from compounds such as exculpere, from scalpere to carve, cut, from PIE root *(s)kel-
+(1) to cut, cleave (see scale (n.1)).
+
+
+mode (n.1)
+
+manner, late 14c., kind of musical scale, from Latin modus measure, extent, quantity; proper
+measure, rhythm, song; a way, manner, fashion, style (in Late Latin also mood in grammar and logic),
+from PIE root *med- to measure, limit, consider, advise, take appropriate measures (see medical).
+Meaning manner in which a thing is done first recorded 1660s.
+
+
+coulter (n.)
+
+Old English culter, from Latin culter a knife, iron blade in a plowshare, from PIE root *(s)kel- to
+cut (see scale (n.1)). As a surname (13c.), probably from Coulter in Lancashire.
+
+
+bass (adj.)
+
+late 14c., of things, low, not high, from Late Latin bassus short, low (see base (adj.)). Meaning
+low in social scale or rank is recorded from late 14c. Of voices and music notes, from mid-15c.
+(technically, ranging from the E flat below the bass stave to the F above it), infuenced by Italian
+basso. Meaning lowest part of a harmonized musical composition is from mid-15c. Meaning bass-viol is
+from 1702; that of double-bass is from 1927.
+
+
+basin (n.)
+
+large shallow vessel or dish, c.1200, from Old French bacin (11c., Modern French bassin), from
+Vulgar Latin *baccinum, from *bacca water vessel, perhaps originally Gaulish. Meaning large-scale
+artificial water-holding landscape feature is from 1712. Geological sense of tract of country
+drained by one river or draining into one sea is from 1830.
+
+
+scalp (n.)
+
+mid-14c., top of the head (including hair), presumably from a Scandinavian source (though exact
+cognates are wanting) related to Old Norse skalli a bald head, skalpr sheath, scabbard,from the
+source of scale (n.1). French scalpe, German, Danish, Swedish skalp are from English. Meaning head
+skin and hair as proof of death or a victory trophy is from c.1600.
+
+
+rampant (adj.)
+
+late 14c., standing on the hind legs (as a heraldic lion often does), thus, also, fierce, ravenous
+(late 14c.), from Old French rampant, present participle of ramper to climb, scale, mount (see
+rampage (v.)). Sense of growing without check (in running rampant), first recorded 1610s, probably
+is via the notion of fierce disposition or else preserves the older French sense.
+
+
+cutlass (n.)
+
+1590s, from Middle French coutelas (16c.), probably from Italian coltellaccio large knife (with
+augmentative suffix -accio), from coltello knife, from Latin cultellus small knife, diminutive of
+culter knife, plowshare, from PIE *kel-tro-, from root *(s)kel- to cut (see scale (n.1)).
+
+
+diatonic (adj.)
+
+c.1600, from French diatonique, from Latin diatonicus, from Greek diatonikos, from diatonos
+extending; pertaining to the diatonic scale, from dia- (see dia-) + teinein to stretch (see tenet).
+
+

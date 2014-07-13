@@ -3,3 +3,47 @@ barrister (n.)
 1540s, a student of law who has been called to the bar, from bar (n.3) in the legal sense + -ster.
 Also see attorney. The second element is obscure.
 
+
+disbar (v.)
+
+deprive of the privileges of a barrister, 1630s; see dis- opposite of + bar in the legal sense.
+Related: Disbarred; disbarring; disbarment.
+
+
+bar (n.3)
+
+whole body of lawyers, the legal profession, 1550s, a sense which derives ultimately from the
+railing that separated benchers from the hall in the Inns of Court. Students who had attained a
+certain standing were called to it to take part in the important exercises of the house. After
+c.1600, however, this was popularly assumed to mean the bar in a courtroom, which was the wooden
+railing marking off the area around the judge's seat, where prisoners stood for arraignment and
+where a barrister (q.v.) stood to plead. As the place where the business of court was done, bar in
+this sense had become synonymous with court by early 14c.
+
+
+advocate (n.)
+
+mid-14c., one whose profession is to plead cases in a court of justice, a technical term from Roman
+law, from Old French avocat barrister, advocate, spokesman, from Latin advocatus one called to aid;
+a pleader, advocate, noun use of past participle of advocare to call (as witness or advisor) from
+ad- to (see ad-) + vocare to call, related to vocem (see voice (n.)). Also in Middle English as one
+who intercedes for another, and protector, champion, patron. Feminine forms advocatess, advocatrice
+were in use in 15c.
+
+
+attorney (n.)
+
+early 14c. (mid-13c. in Anglo-Latin), from Old French atorn&eacute; (one) appointed, past participle
+of aturner to decree, assign, appoint, from atorner (see attorn). The legal Latin form attornare
+influenced the spelling in Anglo-French. The sense is of one appointed to represent another's
+interests.    In English law, a private attorney was one appointed to act for another in business or
+legal affairs (usually for pay); an attorney at law or public attorney was a qualified legal agent
+in the courts of Common Law who prepared the cases for a barrister, who pleaded them (the equivalent
+of a solicitor in Chancery). So much a term of contempt in England that it was abolished by the
+Judicature Act of 1873 and merged with solicitor.Johnson observed that he did not care to speak ill
+of any man behind his back, but he believed the gentleman was an attorney. [Boswell]The double -t-
+is a mistaken 15c. attempt to restore a non-existent Latin original. Attorney general first recorded
+1530s in sense of legal officer of the state (late 13c. in Anglo-French), from French, hence the odd
+plural (subject first, adjective second).
+
+

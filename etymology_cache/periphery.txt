@@ -7,3 +7,37 @@ from peripheres rounded, moving round, revolving, peripherein carry or move roun
 about (see peri-) + pherein to carry (see infer). Meaning outside boundary of a surface attested in
 English from 1570s; general sense of boundary is from 1660s.
 
+
+circumference (n.)
+
+late 14c., from Latin circumferentia, neuter plural of circumferens, present participle of
+circumferre to lead around, take around, carry around, from circum around (see circum-) + ferre to
+carry (see infer). A loan-translation of Greek periphereia periphery, the line round a circular
+body, literally a carrying round (see periphery). Related: Circumferential.
+
+
+pi (n.)
+
+Greek letter, from Hebrew, literally little mouth. As the name of the mathematical constant, from
+1841 in English, used in Latin 1748 by Swiss mathematician Leonhart Euler (1707-1783), as an
+abbreviation of Greek periphereia periphery. For the meaning printer's term for mixed type, see pie
+(3).
+
+
+peripheral (adj.)
+
+1803, from periphery + -al (1). An earlier formation was peripherial (1670s). Related: Peripherally.
+As a noun, peripherals, peripheral devices of a computer, is from 1966.
+
+
+centralize (v.)
+
+1795, to bring to a center; 1800, come to a center, from central + -ize, on model of French
+centraliser (1790). A word from the French Revolution. Related: Centralized; centralizing.
+Government should have a central point throughout its whole periphery. The state of the monthly
+expences amounted to four hundred millions; but within these seven months, it is reduced to one
+hundred and eighty millions. Such is the effect of the centralization of government; and the more we
+centralize it, the more we shall find our expenses decrease. [Saint-Just, Discourse on the State of
+the Finances]
+
+

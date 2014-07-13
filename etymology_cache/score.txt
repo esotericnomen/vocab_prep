@@ -6,3 +6,421 @@ game, etc. both attested from 1742. The slang sense, in reference to men, achiev
 recorded 1960. Meaning to be scorekeeper, to keep the score in a game or contest is from 1846. In
 the musical sense from 1839. Related: Scored; scoring.
 
+
+score (n.)
+
+late Old English scoru twenty, from Old Norse skor mark, notch, incision; a rift in rock, also, in
+Icelandic, twenty, from Proto-Germanic *skura-, from PIE root *(s)ker- (1) to cut (see shear).
+The connecting notion probably is counting large numbers (of sheep, etc.) with a notch in a stick
+for each 20. That way of counting, called vigesimalism, also exists in French: In Old French, twenty
+(vint) or a multiple of it could be used as a base, as in vint et doze (32), dous vinz et diz (50).
+Vigesimalism was or is a feature of Welsh, Irish, Gaelic and Breton (as well as non-IE Basque), and
+it is speculated that the English and the French picked it up from the Celts. Compare tally (n.).
+The prehistoric sense of the Germanic word, then, likely was straight mark like a scratch, line
+drawn by a sharp instrument, but in English this is attested only from c.1400, along with the sense
+mark made (on a chalkboard, etc.) to keep count of a customer's drinks in a tavern. This sense was
+extended by 1670s to mark made for purpose of recording a point in a game or match, and thus
+aggregate of points made by contestants in certain games and matches (1742, originally in whist).
+From the tavern-keeping sense comes the meaning amount on an innkeeper's bill (c.1600) and thus the
+figurative verbal expression settle scores (1775).  Meaning printed piece of music first recorded
+1701, said to be from the practice of connecting related staves by scores of lines. Especially music
+composed for a film (1927). Meaning act of obtaining narcotic drugs is by 1951.   Scoreboard is from
+1826;   score-keeping- from 1905; newspaper sports section score line is from 1965; baseball score-
+card is from 1877.
+
+
+scoreless (adj.)
+
+in games, 1880, from score (n.) + -less.
+
+
+bogey (n.2)
+
+in golfing, c.1891, originally number of strokes a good player is supposed to need for a given hole
+or course; later, score one over par (1946); from the same source as bogey (n.1), on the notion of a
+phantom opponent, represented by the ground score. The word was in vogue at the time in Britain
+because of the popularity of a music hall tune Hush, Hush, Hush, Here Comes the Bogey Man.One
+popular song at least has left its permanent effect on the game of golf. That song is 'The Bogey
+Man.' In 1890 Dr. Thos. Browne, R.N., the hon. secretary of the Great Yarmouth Club, was playing
+against a Major Wellman, the match being against the 'ground score,' which was the name given to the
+scratch value of each hole. The system of playing against the 'ground score' was new to Major
+Wellman, and he exclaimed, thinking of the song of the moment, that his mysterious and well-nigh
+invincible opponent was a regular 'bogey-man.' The name 'caught on' at Great Yarmouth, and to-day
+'Bogey' is one of the most feared opponents on all the courses that acknowledge him. [1908, cited in
+OED]  Other early golfing sources give it an American origin. As a verb, attested by 1948.
+
+
+hundred (n.)
+
+Old English hundred the number of 100, a counting of 100, from Proto-Germanic *hundrath (cognates:
+Old Norse hundra&eth;, German hundert); first element is Proto-Germanic *hundam hundred (cognate
+with Gothic hund, Old High German hunt), from PIE *km-tom hundred, reduced from *dkm-tom- (cognates:
+Sanskrit satam, Avestan satem, Greek hekaton, Latin centum, Lithuanian simtas, Old Church Slavonic
+suto, Old Irish cet, Breton kant hundred), from *dekm- ten (see ten).    Second element is Proto-
+Germanic *rath reckoning, number (as in Gothic ra&thorn;jo a reckoning, account, number,
+gara&thorn;jan to count; see read (v.)). The common word for the number in Old English was simple
+hund, and Old English also used hund-teontig.    In Old Norse hundrath meant 120, that is the long
+hundred of six score, and at a later date, when both the six-score hundred and the five-score
+hundred were in use, the old or long hundred was styled hundrath tolf-roett ... meaning duodecimal
+hundred, and the new or short hundred was called hundrath ti-r&aelig;tt, meaning decimal hundred.
+The Long Hundred and its use in England was discussed by Mr W.H. Stevenson, in 1889, in the
+Archc&aelig;ological Review (iv. 313-27), where he stated that amongst the Teutons, who longest
+preserved their native customs unimpaired by the influence of Latin Christianity, the hundred was
+generally the six-score hundred. The short hundred was introduced among the Northmen in the train of
+Christianity. [Transactions of the Lancashire and Cheshire Antiquarian Society, 1907]    Meaning
+division of a county or shire with its own court (still in some British place names and U.S. state
+of Delaware) was in Old English and probably represents 100 hides of land. The Hundred Years War
+(which ran intermittently from 1337 to 1453) was first so called in 1874. The original Hundred Days
+was the period between Napoleon's restoration and his final abdication in 1815.
+
+
+scotch (n.2)
+
+incision, cut, score, gash, mid-15c., related to scotch (v.).
+
+
+tally (n.)
+
+mid-15c., stick marked with notches to indicate amount owed or paid, from Anglo-French tallie (early
+14c., Old French taille notch in a piece of wood signifying a debt), Anglo-Latin talea (late 12c.),
+from Medieval Latin tallia, from Latin talea a cutting, rod, stick (see tailor (n.), and compare
+sense history of score). Meaning a thing that matches another first recorded 1650s, from practice of
+splitting a tally lengthwise across the notches, debtor and creditor each retaining one of the
+halves; the usual method of keeping accounts before writing became general (the size of the notches
+varied with the amount). Sports sense of a total score is from 1856. Also in 19c. British provincial
+verbal expression live tally, make a tally bargain live as husband and wife without marrying.
+
+
+underscore (v.)
+
+1771, to draw a line under, from under + score (v.). The figurative sense of to emphasize is
+attested from 1891. Noun meaning a line drawn below (something) is recorded from 1901.
+
+
+fourscore (n.)
+
+eighty, mid-13c., formerly current as an ordinary numeral [OED], from four + score (n.).
+
+
+ace (v.)
+
+to score (in sports), 1923, from ace (n.). This led in turn to the extended student slang sense of
+get high marks (1959). Related: Aced; acing.
+
+
+bilk (v.)
+
+1650s, from or along with the noun (1630s), first used as a cribbage term; as a verb, to spoil
+(someone's) score. Origin obscure, it was believed in 17c. to be a word signifying nothing; perhaps
+it s a thinned form of balk to hinder. Meaning to defraud is first recorded 1670s. Related: Bilked;
+bilking.
+
+
+blank (v.)
+
+1540s, to nonplus, disconcert, shut up; 1560s, to frustrate, from blank (adj.). Sports sense of
+defeat (another team) without allowing a score is from 1870. Meaning to become blank or empty is
+from 1955. Related: Blanked; blanking.
+
+
+catch-up (n.)
+
+a working to overtake a leading rival, by 1971, probably a figurative use from U.S. football in
+reference to being behind in the score. From verbal phrase catch up, which was used from early 14c.
+in sense raise aloft and from 1855 in sense overtake; see catch (v.) + up (adv.).
+
+
+yours (pron.)
+
+absolutive form of your, c.1300, on model of his, ours, etc. Yours truly myself is from 1833, from
+the common subscription of letters.    It is difficult to say what will succeed, and still more to
+pronounce what will not. I am at this moment in that uncertainty (on our own score,) and it is no
+small proof of the author's powers to be able to charm and fix a mind's attention on similar
+subjects and climates in such a predicament. That he may have the same effect upon all his readers
+is very sincerely the wish, and hardly the doubt, of yours truly,  B.  [Lord Byron to John Murray,
+Dec. 4, 1813]
+
+
+outscore (v.)
+
+1921, from out (adv.) + score (v.). Related: Outscored; outscoring.
+
+
+bust (v.)
+
+to burst, 1806, variant of burst (v.); for loss of -r-, compare ass (n.2). Meaning go bankrupt is
+from 1834. Meaning break into is from 1859. The slang meaning demote (especially in a military
+sense) is from 1918; that of place under arrest is from 1953 (earlier to raid from Prohibition). In
+card games, to go over a score of 21, from 1939. Related: Busted; busting.
+
+
+LP
+
+1948, abbreviation of long-playing phonograph record.    The most revolutionary development to hit
+the recording industry since the invention of the automatic changer is the Long Playing record,
+which can hold an entire 45-minute symphony or musical-comedy score on a single 12-inch disk. ...
+The disks, released a few weeks ago by Columbia Records and made of Vinylite, have phenomenally
+narrow grooves (.003 of an inch). They are played at less than half the speed of the standard old-
+style records. [Life magazine, July 26, 1948]
+
+
+sharpen (v.)
+
+1520s, bring to an edge or point, from sharp (adj.) + -en (1). Related: Sharpened; sharpening. Old
+English verb scearpian meant to score, scarify; also compare scearpung scarifying. To sharpen
+(one's) pencil prepare to get to work is from 1957, American English.
+
+
+scarify (v.)
+
+mid-15c., make incisions in the bark of a tree, from Middle French scarifier score, scrape (leather
+or hide), 14c., from Late Latin scarificare (see scarification). The sense cover with scars (1680s)
+is a sense-shift from influence of scar (v.). Related: Scarified; scarifier; scarifying.
+
+
+tally (v.)
+
+mid-15c., keep an account by tally, from Medieval Latin talliare to tax, from tallia (see tally
+(n.)). Meaning correspond, agree is from 1705; sports sense of to score is from 1867. Related:
+Tallied; tallying. Hence tally-sheet (1889); tallyman one who keeps account (of anything) (1857).
+
+
+chalk (v.)
+
+1570s, to mix with chalk; 1590s as to mark with chalk, from chalk (n.). Related: Chalked; chalking.
+Old English had cealcian to whiten. Certain chalk marks on shipped objects meant admitted or shipped
+free, hence some figurative senses. Chalk boards also were commonly used in keeping credit, score,
+etc., hence figurative use of chalk it up (1903).
+
+
+shutout (n.)
+
+also shut-out, 1889 in baseball sense, from verbal phrase shut out exclude from a situation (late
+14c.; from 1881 in the sports score sense), from shut (v.) + out (adv.). Middle English had a verb
+outshut to shut out, exclude, mid-15c.
+
+
+eagle (n.)
+
+mid-14c., from Old French egle, from Old Proven&ccedil;al aigla, from Latin aquila black eagle, fem.
+of aquilus, often explained as dark colored (bird); see aquiline. The native term was erne. Golf
+score sense is first recorded by 1908 (according to old golf sources, because it soars higher than a
+birdie). The figurative eagle-eyed is attested from c.1600.
+
+
+scotch (v.)
+
+stamp out, crush, 1825, earlier make harmless for a time (1798; a sense that derives from an
+uncertain reading of Macbeth III.ii.13), from scocchen to cut, score, gash, make an incision (early
+15c.), of unknown origin, perhaps [Barnhart] from Anglo-French escocher, Old French cocher to notch,
+nick, from coche a notch, groove, perhaps from Latin coccum berry of the scarlet oak, which appears
+notched, from Greek kokkos. Related: Scotched; scotching.
+
+
+rack (v.)
+
+to stretch out for drying, also to torture on the rack, early 15c., from rack (n.1). Of other pains
+from 1580s. Figurative sense of to torment is from c.1600. Meaning raise above a fair level (of
+rent, etc.) is from 1550s. Meaning fit with racks is from 1580s. Teenager slang meaning to sleep is
+from 1960s (rack (n.) was Navy slang for bed in 1940s). Related: Racked; racking. Rack up register,
+accumulate, achieve is first attested 1943 (in Billboard), probably from method of keeping score in
+pool halls.
+
+
+scar (n.)
+
+late 14c., from Old French escare scab (Modern French escarre), from Late Latin eschara, from Greek
+eskhara scab formed after a burn, literally hearth, fireplace, of unknown origin. English sense
+probably influenced by Middle English skar (late 14c.) crack, cut, incision, from Old Norse
+skar&eth;, related to score (n.). Figurative sense attested from 1580s.
+
+
+goal (n.)
+
+1530s, end point of a race, of uncertain origin. The noun gol appears once before this, in a poem
+from early 14c. and with an apparent sense of boundary, limit. Perhaps from Old English *gal
+obstacle, barrier, a word implied by g&aelig;lan to hinder and also found in compounds (singal,
+widgal); and compare Old Norse geil a narrow glen, a passage. Or from Old French gaule a pole, from
+Germanic; or a figurative use of Middle English gale a way, course (mid-14c.) Sports sense of place
+where the ball is put to score is attested from 1540s. Figurative sense of object of an effort is
+from 1540s.
+
+
+advantage (n.)
+
+early 14c., avantage, position of being in advance of another, from Old French avantage advantage,
+profit, superiority, from avant before, probably via an unrecorded Late Latin *abantaticum, from
+Latin abante (see advance).    The -d- is a 16c. intrusion on the analogy of Latin ad- words.
+Meaning a favoring circumstance (the opposite of disadvantage) is from late 15c. Tennis score sense
+is from 1640s, first recorded in writings of John Milton, of all people. Phrase to take advantage of
+is first attested late 14c.
+
+
+century (n.)
+
+1530s, one hundred (of anything), from Latin centuria group of one hundred of things of one kind
+(including a measure of land and a division of the Roman army, one-sixteenth of a legion, headed by
+a centurion), from centum hundred (see hundred) on analogy of decuria a company of ten.    Used in
+Middle English from late 14c. as a division of land, from Roman use. The Modern English meaning is
+attested from 1650s, short for century of years (1620s). The older, general sense is preserved in
+the meaning score of 100 points in cricket and some other sports. Related: Centurial.
+
+
+chart (n.)
+
+1570s, map for the use of navigators, from Middle French charte card, map, from Late Latin charta
+paper, card, map (see card (n.1)).   Charte is the original form of the French word in all senses,
+but after 14c. (perhaps by influence of Italian cognate carta), carte began to supplant it. English
+used both carte and card 15c.-17c. for chart, map, and in 17c. chart could mean playing card, but
+the words have gone their separate ways and chart has predominated since in the map sense. In the
+music score sense from 1957.
+
+
+deuce (n.)
+
+late 15c., the 2 in dice or cards, also a roll of 2 in dice (1510s), from Middle French deus (Modern
+French deux), from Latin duos (nominative duo) two (see two).    Became a mild oath by 1710, about
+50 years after it was first attested in the sense of bad luck, the devil, etc., perhaps because two
+was the lowest score, and probably by similarity to Latin deus and related words meaning god. Low
+German had der daus! in same sense 16c., which perhaps influenced the English form. Deuce coupe is
+1940s hot-rodder slang for souped up two-door car, especially a 1932 Ford. Related: Deuced;
+deucedly.
+
+
+safety (n.)
+
+early 14c., from Old French sauvete safety, safeguard; salvation; security, surety, earlier salvetet
+(11c., Modern French sauvet&#233;), from Medieval Latin salvitatem (nominative salvitas) safety,
+from Latin salvus (see safe (adj.)). Meaning trigger-lock on a gun is attested from 1881.    As a
+North American football position, first recorded 1931. As a type of score against one's own team,
+1881. Safety-valve, which diminishes the risk of explosion, is from 1797; figurative sense recorded
+from 1818. Safety-net in literal sense (in machinery) by 1916, later of aerial circus performances
+(1920s); figurative use by 1950. Safety-first as an accident-prevention slogan first recorded 1873.
+
+
+trace (v.)
+
+late 14c., follow (a course); draw a line, make an outline of something, also figurative; ponder,
+investigate, from Old French tracier look for, follow, pursue (12c., Modern French tracer), from
+Vulgar Latin *tractiare delineate, score, trace (source also of Spanish trazar to trace, devise,
+plan out, Italian tracciare to follow by foot), a frequentative form from Latin tractus track,
+course, literally a drawing out, from past participle stem of trahere to pull, draw (see tract
+(n.1)).    Meaning move along, pass over (a path, etc.) is attested from c.1400; that of track down,
+follow the trail of is early 15c. Meaning copy a drawing on a transparent sheet laid over it is
+recorded from 1762. Related: Traced; tracing.
+
+
+prolicide (n.)
+
+killing of one's child or children, 1824, introduced by Dr. John Gordon Smith in the 2nd edition of
+his Principles of Forensic Medicine; from Latin proles offspring (see prolific) + -cide.    It is
+hoped that this word will be considered entitled to reception, on the score of analogy. We have long
+had parricide, fratricide, and infanticide, all (if I may use the figure of speech,) of the same
+family; and recently the very appropriate term foeticide has been introduced into Forensic Medicine.
+In both these last crimes there is a peculiarity arising from the person accused being, in almost
+every instance, the parent .... In this relation to the beings destroyed, the general term of
+murderer, or murder of offspring seems to be the fair converse of parricide; and will suit well the
+purpose of the Medico-legal writer, who considers the two cases as parts of one subject, for the
+designation of which collectively a proper term was wanting. [Smith]
+
+
+write (v.)
+
+Old English writan to score, outline, draw the figure of, later to set down in writing (class I
+strong verb; past tense wrat, past participle writen), from Proto-Germanic *writan tear, scratch
+(cognates: Old Frisian writa to write, Old Saxon writan to tear, scratch, write, Old Norse rita
+write, scratch, outline, Old High German rizan to write, scratch, tear, German rei&szlig;en to tear,
+pull, tug, sketch, draw, design), outside connections doubtful.  For men use to write an evill turne
+in marble stone, but a good turne in the dust. [More, 1513]    Words for write in most Indo-European
+languages originally mean carve, scratch, cut (such as Latin scribere, Greek grapho, Sanskrit
+rikh-); a few originally meant paint (Gothic meljan, Old Church Slavonic pisati, and most of the
+modern Slavic cognates). To write (something) off (1680s) originally was from accounting; figurative
+sense is recorded from 1889. Write-in unlisted candidate is recorded from 1932.
+
+
+meld (v.)
+
+to blend together, merge, unite (intransitive), by 1910, of uncertain origin. OED suggests perh. a
+blend of MELT v.1 and WELD v. Said elsewhere to be a verb use of melled mingled, blended, past
+participle of dialectal mell to mingle, mix, combine, blend.    [T]he biplane grew smaller and
+smaller, the stacatto clatter of the motor became once more a drone which imperceptibly became
+melded with the waning murmur of country sounds .... [Aircraft magazine, October 1910]      But it
+is perhaps an image from card-playing, where the verb meld is attested by 1907 in a sense of combine
+two cards for a score:    Upon winning a trick, and before drawing from the stock, the player can
+meld certain combinations of cards. [rules for two-hand pinochle in Hoyle's Games, 1907]    The rise
+of the general sense of the word in English coincides with the craze for canasta, in which melding
+figures. The card-playing sense is said to be apparently from German melden make known, announce,
+from Old High German meldon, from Proto-Germanic *meldojan (source of Old English meldian to
+declare, tell, display, proclaim), and the notion is of declaring the combination of cards. Related:
+Melded; melding.
+
+
+point (n.)
+
+c.1200, minute amount, single item in a whole; sharp end of a sword, etc., a merger of two words,
+both ultimately from Latin pungere prick, pierce, puncture (see pungent). The Latin neuter past
+participle punctum was used as a noun, meaning small hole made by pricking, subsequently extended to
+anything that looked like one, hence, dot, particle, etc. This yielded Old French point dot;
+smallest amount, which was borrowed in Middle English by c.1300.    Meanwhile the Latin fem. past
+participle of pungere was puncta, which was used in Medieval Latin to mean sharp tip, and became Old
+French pointe point of a weapon, vanguard of an army, which also passed into English, early 14c.
+The senses have merged in English, but remain distinct in French. Extended senses are from the
+notion of minute, single, or separate items in an extended whole. Meaning small mark, dot in English
+is mid-14c. Meaning distinguishing feature is recorded from late 15c. Meaning a unit of score in a
+game is first recorded 1746. As a typeface unit (in Britain and U.S., one twelfth of a pica), it
+went into use in U.S. 1883. As a measure of weight for precious stones (one one-hundredth of a
+carat) it is recorded from 1931.   The point the matter being discussed is attested from late 14c.;
+meaning sense, purpose, advantage (usually in the negative, as in what's the point?) is first
+recorded 1903. Point of honor (1610s) translates French point d'honneur. Point of no return (1941)
+is originally aviators' term for the point in a flight before which any engine failure requires an
+immediate turn around and return to the point of departure, and beyond which such return is no
+longer practical.
+
+
+love (n.)
+
+Old English lufu love, affection, friendliness, from Proto-Germanic *lubo (cognates: Old High German
+liubi joy, German Liebe love; Old Norse, Old Frisian, Dutch lof; German Lob praise; Old Saxon liof,
+Old Frisian liaf, Dutch lief, Old High German liob, German lieb, Gothic liufs dear, beloved).    The
+Germanic words are from PIE *leubh- to care, desire, love (cognates: Latin lubet, later libet
+pleases; Sanskrit lubhyati desires; Old Church Slavonic l'ubu dear, beloved; Lithuanian liaupse song
+of praise).    Even now, she thought, almost no one remembers Esteban and Pepita but myself. Camilla
+alone remembers her Uncle Pio and her son; this woman, her mother. But soon we shall die and all
+memory of those five will have left the earth, and we ourselves shall be loved for a while and
+forgotten. But the love will have been enough; all those impulses of love return the love that made
+them. Even memory is not necessary for love. There is a land of the living and a land of the dead
+and the bridge is love, the only survival, the only meaning. [Thornton Wilder, Bridge of San Luis
+Rey, 1927]    Meaning a beloved person is from early 13c. The sense no score (in tennis, etc.) is
+1742, from the notion of playing for love, i.e. for nothing (1670s). Phrase for love or money for
+anything is attested from 1580s. Love seat is from 1904. Love-letter is attested from mid-13c.;
+love-song from early 14c. To fall in love is attested from early 15c. To be in love with (someone)
+is from c.1500. To make love is from 1570s in the sense pay amorous attention to; as a euphemism for
+have sex, it is attested from c.1950. Love life one's collective amorous activities is from 1919,
+originally a term in psychological jargon. Love affair is from 1590s. The phrase no love lost
+(between two people) is ambiguous and was used 17c. in reference to two who love each other well
+(c.1640) as well as two who have no love for each other (1620s).
+
+
+kaput (adj.)
+
+finished, worn out, dead, 1895, from German kaputt destroyed, ruined, lost (1640s), which in this
+sense probably is a misunderstanding of the phrase capot machen, a partial translation of French
+faire capot, a phrase which meant to win all the tricks (from the other player) in piquet, an
+obsolete card game. Literally to make a bonnet; perhaps the notion is throwing a hood over the other
+player, but faire capot also meant in French marine jargon to overset in a squall when under sail.
+The word was popularized in English during World War I.   Kaput -- a slang word in common use which
+corresponds roughly to the English done in, the French fichu. Everything enemy was kaput in the
+early days of German victories. [F. Britten Austin, According to Orders, New York, 1919]    French
+capot is literally cover, bonnet, also the name of a type of greatcloak worn by sailors and soldiers
+(see capote). The card-playing sense attested in German only from 1690s, but capot in the
+(presumably) transferred sense of destroyed, ruined, lost is attested from 1640s. [see William
+Jervis Jones, A Lexicon of French Borrowings in the German Vocabulary (1575-1648), Berlin, de
+Gruyter, 1976]. In Hoyle and other English gaming sources, faire capot is to win all the tricks, and
+a different phrase, &ecirc;tre capot, to be a bonnet, is sometimes cited as the term for losing
+them. The sense reversal in German might have come about because if someone wins all the tricks the
+other player has to lose them, and the same word capot, when it entered English from French in the
+mid-17c. meant to score a cabot against; to win all the tricks from.    There are others, says a
+third, that have played with my Lady Lurewell at picquet besides my lord; I have capotted her myself
+two or three times in an evening. [George Farquhar (1677-1707), Sir Harry Wildair]
+
+

@@ -4,3 +4,66 @@ late 13c., religious discipline or self-mortification as a token of repentance a
 some sin, from Anglo-French penaunce, Old French peneance (12c.), from Latin p&aelig;nitentia (see
 penitence). Transferred sense is recorded from c.1300.
 
+
+shrift (n.)
+
+Old English scrift confession to priest, followed by penance and absolution, verbal noun from
+scrifan to impose penance, from an early Germanic borrowing of Latin scribere to write (see script
+(n.)) that produced nouns for penance, confession in Old English and Scandinavian (such as Old Norse
+skrjpt penance, confession), but elsewhere in Germanic is used in senses writing, scripture,
+alphabet letter; see shrive. Short shrift originally was the brief time for a condemned criminal to
+confess before execution (1590s); figurative extension to little or no consideration is first
+attested 1814.
+
+
+shrive (v.)
+
+Old English scrifan assign, prescribe, ordain, decree; impose penance, hear confession; have regard
+for, care for, apparently originally to write (strong, past tense scraf, past participle scrifen),
+from Proto-Germanic *skriban (cognates: Old Saxon scriban, Old Frisian skriva write; impose penance;
+Old Dutch scrivan, Dutch schrijven, German schreiben to write, draw, paint; Danish skrifte confess),
+an early borrowing from Latin scribere to write (see script (n.)), which in Old English and
+Scandinavian developed further to confess, hear confession.
+
+
+penitentiary (n.)
+
+early 15c., place of punishment for offenses against the church, from Medieval Latin penitentiaria,
+from fem. of penitentiarius (adj.) of penance, from Latin paenitentia penitence (see penitence).
+Meaning house of correction (originally an asylum for prostitutes) is from 1806, short for
+penitentiary house (1776). Slang shortening pen is attested from 1884.
+
+
+boot (n.2)
+
+profit, use, Old English bot help, relief, advantage; atonement, literally a making better, from
+Proto-Germanic *boto (see better (adj.)). Compare German Bu&szlig;e penance, atonement, Gothic botha
+advantage. Now mostly in phrase to boot (Old English to bote).
+
+
+sacrament (n.)
+
+outward and visible sign of inward and spiritual grace, also the eucharist, c.1200, from Old French
+sacrament consecration; mystery (12c., Modern French sacrement) and directly from Latin sacramentum
+a consecrating (also source of Spanish sacramento, German Sakrament, etc.), from sacrare to
+consecrate (see sacred); a Church Latin loan-translation of Greek mysterion (see mystery).
+Meaning a holy mystery in English is from late 14c. The seven sacraments are baptism, penance,
+confirmation, holy orders, the Eucharist, matrimony, and anointing of the sick (extreme unction).
+
+
+script (n.)
+
+late 14c., something written, earlier scrite (c.1300), from Old French escrit piece of writing,
+written paper; credit note, IOU; deed, bond (Modern French &eacute;crit) from Latin scriptum a
+writing, book; law; line, mark, noun use of neuter past participle of scribere to write, from PIE
+*skribh- to cut, separate, sift (cognates: Greek skariphasthai to scratch an outline, sketch,
+Lettish skripat scratch, write, Old Norse hrifa scratch), from root *(s)ker- (1) to cut (see shear
+(v.)) on the notion of carving marks in stone, wood, etc.    Meaning handwriting is recorded from
+1860. Theatrical use, short for manuscript, is attested from 1884. The importance of Rome to the
+spread of civilization in Europe is attested by the fact that the word for write in Celtic and
+Germanic (as well as Romanic) languages derives from scribere (French &eacute;crire, Irish
+scriobhaim, Welsh ysgrifennu, German schreiben). The cognate Old English scrifan means to allot,
+assign, decree (see shrive; also compare Old Norse skript penance) and Modern English uses write
+(v.) to express this action.
+
+

@@ -4,3 +4,43 @@ late 15c., from Latin prosodia accent of a syllable, from Greek prosoidia song s
 accent, modulation, literally a singing in addition to, from pros to, forward, near + oide song,
 poem (see ode). Related: Prosodiacal; prosodist.
 
+
+Gradus ad Parnassum
+
+Latin, literally A Step to Parnassus, mountain sacred to Apollo and the Muses, title of a dictionary
+of prosody used in English public schools for centuries as a guide to Roman poetry. The book dates
+from the 1680s.
+
+
+metric (n.)
+
+science of versification, 1760, from Greek he metrike prosody, plural of metron meter, a verse; that
+by which anything is measured; measure, length, size, limit, proportion (see meter (n.2)).
+
+
+mechanization (n.)
+
+1834, from mechanize + -ation.    In our country, the ancient languages are studied, to a sad
+extent, as a mere exercise in the technics of etymology, syntax and prosody; and when thus pursued,
+there can be no good reason for so great a sacrifice of time and labor, or for that mechanization
+(if we may make a term) of mind which is the natural result. [American Annals of Education and
+Instruction, December 1834]
+
+
+assonance (n.)
+
+1727, resemblance of sounds between words, from French assonance, from assonant, from Latin
+assonantem (nominative assonans), present participle of assonare to resound, respond to, from ad- to
+(see ad-) + sonare to sound (see sonata). Properly, in prosody, rhyming of accented vowels, but not
+consonants (1823).
+
+
+dieresis (n.)
+
+also diaeresis, 1610s, sign marking the division of a diphthong into two simple sounds, from Late
+Latin diaeresis, from Greek diairesis division, noun of action from diairein to divide, separate,
+from dia- apart (see dia-) + hairein to take (see heresy). In classical prosody, the slight break in
+the forward motion of a line that is felt when the end of a foot coincides with the end of a word
+[Miller Williams, Patterns of Poetry].
+
+

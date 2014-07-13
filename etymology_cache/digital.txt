@@ -4,3 +4,47 @@ digital (adj.)
 numerical digits is from 1938, especially of computers after c.1945; in reference to recording or
 broadcasting, from 1960. Related: Digitize.
 
+
+DVD
+
+1995, initialism (acronym) from Digital Video Disc, later changed to Digital Versatile Disc.
+Earlier this year, electronics giant Toshiba positioned the first DVD players available in the U.S.
+as a home entertainment unit (retail price $600). [Black Enterprise magazine, June 1997]
+
+
+pda
+
+by 1992, initialism (acronym) for personal digital assistant.
+
+
+MIDI
+
+1983, acronym for Musical Instrument Digital Interface.
+
+
+modem (n.)
+
+device to convert digital signals to analog and vice versa, 1958, coined from first elements of
+modulator + demodulator.
+
+
+fear (v.)
+
+Old English f&aelig;ran terrify, frighten, originally transitive (sense preserved in archaic I fear
+me and somewhat revived in digital gaming). Meaning feel fear is late 14c. Cognate with Old Saxon
+faron to lie in wait, Middle Dutch vaeren to fear, Old High German faren to plot against, Old Norse
+f&aelig;ra to taunt. See fear (n.). Related: Feared; fearing.
+
+
+computer (n.)
+
+1640s, one who calculates, agent noun from compute (v.). Meaning calculating machine (of any type)
+is from 1897; in modern use, programmable digital electronic computer (1945 under this name;
+theoretical from 1937, as Turing machine). ENIAC (1946) usually is considered the first. Computer
+literacy is recorded from 1970; an attempt to establish computerate (adjective, on model of
+literate) in this sense in the early 1980s didn't catch on. Computerese the jargon of programmers is
+from 1960, as are computerize and computerization.    WASHINGTON (AP) -- A New York Congressman says
+the use of computers to record personal data on individuals, such as their credit background, is
+just frightening to me. [news article, March 17, 1968]
+
+

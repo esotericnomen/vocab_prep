@@ -4,3 +4,24 @@ c.1600, from Latin apex summit, peak, tip, top, extreme end; probably related to
 fix, hence the tip of anything (one of the meanings in Latin was small rod at the top of the
 flamen's cap), from PIE *ap- to take, reach. Proper plural is apices.
 
+
+apical (adj.)
+
+of or belonging to an apex, 1828, from Latin apicem, from apex (see apex) + -al (1).
+
+
+tittle (n.)
+
+late 14c., small stroke or point in writing (Wyclif, in Matt. v:18), translating Latin apex in Late
+Latin sense of accent mark over a vowel, which itself translates Greek keraia (literally a little
+horn), used by the Greek grammarians of the accents and diacritical points, in this case a Biblical
+translation of Hebrew qots, literally thorn, prick, used of the little lines and projections by
+which the Hebrew letters of similar form differ from one another.    Wyclif's word is borrowed from
+a specialized sense of Latin titulus (see title (n.)), which was used in Medieval Latin (and in
+Middle English and Old French) to indicate a stroke over an abridged word to indicate letters
+missing (and compare Proven&ccedil;al titule the dot over -i-).    As apex was used by the Latin
+grammarians for the accent or mark over a long vowel, titulus and apex became to some extent
+synonymous; hence Wyclif's use of titil, titel to render L. apex [OED]    Compare tilde, which is
+the Spanish form of the same word.
+
+

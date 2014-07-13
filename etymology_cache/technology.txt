@@ -6,3 +6,206 @@ The meaning study of mechanical and industrial arts (Century Dictionary, 1902, g
 spinning, metal-working, or brewing) is first recorded 1859. High technology attested from 1964;
 short form high-tech is from 1972.
 
+
+biotechnology (n.)
+
+also bio-technology, 1947, use of machinery in relation to human needs; 1972 in sense of use of
+biological processes in industrial production, from bio- + technology.
+
+
+technological (adj.)
+
+1620s, in reference to terminology, from technology + -ical. Meaning of or relating to technology
+from 1800. Related: Technologically.
+
+
+technologist (n.)
+
+one versed in technology, 1803, from technology + -ist.
+
+
+techie (n.)
+
+one well-versed in the latest technology, by 1984.
+
+
+grok (v.)
+
+to understand empathically, 1961, arbitrary formation by U.S. science fiction writer Robert A.
+Heinlein (1907-1988) in his book Stranger in a Strange Land. In popular use 1960s; perhaps obsolete
+now except in internet technology circles.
+
+
+Jacquard
+
+1841, from Joseph Marie Jacquard (1752-1834) of Lyons, inventor of new weaving technology c.1800.
+
+
+television (n.)
+
+1907, as a theoretical system to transmit moving images over telegraph or telephone wires; formed in
+English or borrowed from French t&eacute;l&eacute;vision, from tele- + vision.    Television is not
+impossible in theory. In practice it would be very costly without being capable of serious
+application. But we do not want that. On that day when it will be possible to accelerate our methods
+of telephotography by at least ten times, which does not appear to be impossible in the future, we
+shall arrive at television with a hundred telegraph wires. Then the problem of sight at a distance
+will without doubt cease to be a chimera. [Telegraphing Pictures in Windsor Magazine, 1907]    Other
+proposals for the name of a then-hypothetical technology for sending pictures over distance were
+telephote (1880) and televista (1904). The technology was developed in the 1920s and '30s. Nativized
+in German as Fernsehen. Shortened form TV is from 1948. Meaning a television set is from 1941.
+Meaning television as a medium is from 1927.  Television is the first truly democratic culture --
+the first culture available to everyone and entirely governed by what the people want. The most
+terrifying thing is what people do want. [Clive Barnes, New York Times, Dec. 30, 1969]
+
+
+Freon (n.)
+
+refrigerant chemical, 1932, proprietary name in U.S. for fluorocarbons used in refrigeration
+technology. The name was apparently constructed from fre(eze) + -on used as an arbitrary suffix
+[Flood].
+
+
+MIT
+
+originally M.I.T., abbreviation of Massachusetts Institute of Technology, attested from 1892.
+
+
+nanotechnology (n.)
+
+by 1974, from nano- + technology.
+
+
+boilerplate (n.)
+
+newspaper (and now information technology) slang for unit of writing that can be used over and over
+without change, 1893, from a literal meaning (1840) metal rolled in large, flat plates for use in
+making steam boilers. The connecting notion is probably of sturdiness or reusability. From 1890s to
+1950s, publicity items were cast or stamped in metal ready for the printing press and distributed to
+newspapers as filler. The largest supplier was Western Newspaper Union.
+
+
+Luddite (n.)
+
+also luddite, 1811, from name taken by an organized band of weavers who destroyed machinery in
+Midlands and northern England 1811-16 for fear it would deprive them of work. Supposedly from Ned
+Ludd, a Leicestershire worker who in 1779 had done the same before through insanity (but that story
+first was told in 1847). Applied to modern rejecters of automation and technology from at least
+1961. As an adjective from 1812.
+
+
+Warfarin (n.)
+
+1950, from WARF, acronym from Wisconsin Alumni Research Foundation + -arin, from Coumarin. The
+organization describes itself as an independent, nonprofit foundation chartered to support research
+at the U[niversity of] W[isconsin]-Madison and the designated technology transfer organization for
+the university.
+
+
+amplify (v.)
+
+early 15c., to enlarge or expand, from Middle French amplifier, from Latin amplificare to enlarge,
+from amplificus splendid, from amplus large (see ample) + the root of facere make, do (see
+factitious). Meaning augment in volume or amount is from 1570s. Restriction of use to sound seems to
+have emerged in the electronic age, c.1915, in reference to radio technology.
+
+
+information (n.)
+
+late 14c., act of informing, from Old French informacion, enformacion information, advice,
+instruction, from Latin informationem (nominative informatio) outline, concept, idea, noun of action
+from past participle stem of informare (see inform). Meaning knowledge communicated is from mid-15c.
+Information technology attested from 1958. Information revolution from 1969.
+
+
+hacker (n.)
+
+a chopper, cutter, perhaps also one who makes hacking tools, early 13c. (as a surname), agent noun
+from hack (v.1). Meaning one who gains unauthorized access to computer records is attested by 1983,
+agent noun from hack (v.2). Said to be from slightly earlier tech slang sense of one who works like
+a hack at writing and experimenting with software, one who enjoys computer programming for its own
+sake, 1976, reputedly a usage that evolved at Massachusetts Institute of Technology (however an MIT
+student from the late 1960s recalls hack (n.) being used then and there in the general sense of
+creative prank, which clouds its sense connection with the writing for hire word, and there may be a
+source or an influence here in hack (v.1)).
+
+
+techno-
+
+word-forming element meaning art, craft, skill, later technical, technology, from Latinized form of
+Greek tekhno-, combining form of tekhne art, skill, craft in work; method, system, an art, a system
+or method of making or doing, from PIE *teks-na- craft (of weaving or fabricating), from suffixed
+form of root *teks- to weave, fabricate, make (cognates: Sanskrit taksan carpenter, Greek tekton
+carpenter, Latin texere to weave; see texture (n.)).
+
+
+post-modern (adj.)
+
+also post-modern, post modern, by 1919, in frequent use from 1949, from post- + modern.    But it
+has been only during the later decades of the modern era -- during that time interval that might
+fairly be called the post-modern era -- that this mechanistic conception of things has begun
+seriously to affect the current system of knowledge and belief; and it has not hitherto seriously
+taken effect except in technology and in the material sciences. [Thorstein Veblen, The Vested
+Interests and the Common Man, 1919]   <hr />   So much for the misapplied theory which has helped
+set the artist's nerves a-quiver and incited him to the extremes of post modern art, literary and
+other. [Wilson Follett, Literature and Bad Nerves, Harper's, June 1921]    Of architecture from
+1940s; specific sense in the arts emerged 1960s (see postmodernism).
+
+
+strip (v.)
+
+make bare, early 13c., from Old English -striepan, -strypan to plunder, despoil (as in West Saxon
+bestrypan to plunder), from Proto-Germanic *straupijan (cognates: Middle Dutch stropen to strip off,
+to ramble about plundering, Old High German stroufen to strip off, plunder, German streifen strip
+off, touch upon, to ramble, roam, rove). Meaning to unclothe is recorded from early 13c.
+Intransitive sense from late 14c. Of screw threads, from 1839; of gear wheels, from 1873. Meaning
+perform a strip-tease is from 1929. Related: Stripped; stripping. Strip poker is attested from 1916,
+in a joke in The Technology Monthly and Harvard Engineering Journal:    Say, Bill how, did the game
+come out?  It ended in a tie.  Oh, were you playing strip poker?    strip search is from 1947, in
+reference to World War II prison camps.
+
+
+kamikaze (n.)
+
+suicide flier, 1945, Japanese, literally divine wind, from kami god, providence, divine (see kami) +
+kaze wind. Originally the name given in folklore to a typhoon which saved Japan from Mongol invasion
+by wrecking Kublai Khan's fleet (August 1281). The attacks began in October 1944 off the
+Philippines.    As an aside, at war's end, the Japanese had, by actual count, a total of 16,397
+aircraft still available for service, including 6,374 operational fighters and bombers, and if they
+had used only the fighters and bombers for kamikaze missions, they might have realized,
+additionally, 900 ships sunk or damaged and 22,000 sailors killed or injured. In fact, however, the
+Japanese had outfitted many aircraft, including trainers, as potential suicide attackers. As
+intelligence estimates indicated, the Japanese believed they could inflict at least 50,000
+casualties to an invasion force by kamikaze attacks alone. [Richard P. Hallion, Military Technology
+and the Pacific War, 1995]    As an adjective by 1946.
+
+
+geek (n.)
+
+sideshow freak, 1916, U.S. carnival and circus slang, perhaps a variant of geck a fool, dupe,
+simpleton (1510s), apparently from Low German geck, from an imitative verb found in North Sea
+Germanic and Scandinavian meaning to croak, cackle, and also to mock, cheat. The modern form and the
+popular use with reference to circus sideshow wild men is from 1946, in William Lindsay Gresham's
+novel Nightmare Alley (made into a film in 1947 starring Tyrone Power).    An ordinary geek doesn't
+actually eat snakes, just bites off chunks of 'em, chicken heads and rats. [Arthur H. Lewis,
+Carnival, 1970]    By c.1983, used in teenager slang in reference to peers who lacked social graces
+but were obsessed with new technology and computers (such as the Anthony Michael Hall character in
+1984's Sixteen Candles).   <b>geek out</b> vi. To temporarily enter techno-nerd mode while in a non-
+hackish context, for example at parties held near computer equipment. [Eric S. Raymond, The New
+Hacker's Dictionary, 1996]
+
+
+gun (n.)
+
+mid-14c., gunne an engine of war that throws rocks, arrows or other missiles, probably a shortening
+of woman's name Gunilda, found in Middle English gonnilde cannon and in an Anglo-Latin reference to
+a specific gun from a 1330 munitions inventory of Windsor Castle (...una magna balista de cornu quae
+Domina Gunilda ...), from Old Norse Gunnhildr, woman's name, from gunnr + hildr, both meaning war,
+battle. First element from PIE *gwhen- to strike, kill (see bane); for second, see Hilda.    The
+identification of women with powerful weapons is common historically (such as Big Bertha, Brown
+Bess, Mons Meg, etc.); meaning shifted with technology, from cannons to firearms as they developed
+15c. Great guns (cannon, etc.) distinguished from small guns (such as muskets) from c.1400. Applied
+to pistols and revolvers after 1744. Meaning thief, rascal is from 1858. For son of a gun, see son.
+To jump the gun (1912, American English) is from track and field. Guns a woman's breasts (especially
+if prominent) attested by 2006.
+
+

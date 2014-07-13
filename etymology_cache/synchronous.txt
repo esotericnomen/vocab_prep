@@ -5,3 +5,37 @@ synkhronos happening at the same time, from syn- together (see syn-) + khronos t
 Meaning recurring at the same successive instants of time is attested from 1670s. Related:
 Synchronously.
 
+
+synchronism (n.)
+
+1580s, quality of being synchronous, from Modern Latin synchronismus, from Greek synkhronismos, from
+synkhronos (see synchronous). Meaning recurring at the same successive instants of time is from
+1854.
+
+
+synchronize (v.)
+
+1620s, to occur at the same time, from Greek synkhronizein be of the same time, from synkhronos
+happening at the same time (see synchronous). The transitive sense of make synchronous is first
+recorded 1806. Of timepieces by 1879. Related: Synchronized; synchronizing. Synchronized swimming is
+recorded from 1950.
+
+
+asynchronous (adj.)
+
+1748, from a-, privative prefix, + synchronous.
+
+
+synchrony (n.)
+
+occurrence or existence at the same time, 1848, from Greek synkhronos (see synchronous) + -y (2).
+
+
+synchronic (adj.)
+
+occurring at the same time, 1775, shortening of synchronical (1650s), from Late Latin synchronus
+simultaneous (see synchronous). Linguistic sense is first recorded 1922, probably a borrowing from
+French synchronique (de Saussure, 1913). Synchronal simultaneous is from 1650s. Related:
+synchronically.
+
+

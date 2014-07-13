@@ -2,3 +2,90 @@ riddle (v.2)
 
 to pose as a riddle, 1570s, from riddle (n.1). Related: Riddled; riddler; riddling.
 
+
+riddle (n.1)
+
+A word game or joke, comprising a question or statement couched in deliberately puzzling terms,
+propounded for solving by the hearer/reader using clues embedded within that wording [Oxford
+Dictionary of English Folklore], early 13c., from Old English r&aelig;dels riddle; counsel;
+conjecture; imagination; discussion, common Germanic (Old Frisian riedsal riddle, Old Saxon radisli,
+Middle Dutch raetsel, Dutch raadsel, Old High German radisle, German R&auml;tsel riddle).    The
+first element is from Proto-Germanic *redaz-, from PIE *re-dh-, from PIE *re(1)- to reason, count
+(cognates: Old English r&aelig;dan to advise, counsel, read, guess; see read (v.)). The ending is
+Old English noun suffix -els, the -s of which later was mistaken for a plural affix and stripped
+off. Meaning anything which puzzles or perplexes is from late 14c.
+
+
+riddle (v.1)
+
+perforate with many holes, 1817 (implied in riddled), earlier sift (early 13c.), from Middle English
+ridelle coarse sieve, from late Old English hriddel sieve, altered by dissimilation from Old English
+hridder sieve (see riddle (n.2)).
+
+
+riddle (n.2)
+
+coarse sieve, mid-14c., alteration of late Old English hriddel, dissimilated from hridder, from
+Proto-Germanic *hrida- (cognates: German Reiter), from PIE root *krei- to sieve, and thus related to
+Latin cribrum sieve, riddle, Greek krinein to separate, distinguish, decide (see crisis).
+
+
+enigma (n.)
+
+1580s, earlier enigmate (mid-15c.), from Latin aenigma riddle, from Greek ainigma (plural
+ainigmata), from ainissesthai speak obscurely, speak in riddles, from ainos fable, riddle, of
+unknown origin.
+
+
+conundrum (n.)
+
+1590s, Oxford University slang for pedant, also whim, etc., later (1790) riddle, puzzle. Also
+spelled quonundrum. The sort of ponderous pseudo-Latin word that was once the height of humor in
+learned circles.
+
+
+logogriph (n.)
+
+a type of word puzzle based on synonyms, etc., and often in the form of a verse, 1590s, from French
+logogriphe, from Greek logos (see logos) + griphos riddle, literally fishing basket.
+
+
+Oedipal (adj.)
+
+1939, of or pertaining to desire felt for opposite-sex parent, from Oedipus complex (1910), coined
+by Freud from Sophocles' play Oedipus Tyrannus, in which the title character, the Theban hero,
+answers the Sphinx's riddle and unknowingly kills his father and marries his own mother; from Greek
+Oedipus. The name was used figuratively in English from 1550s for one who is clever at guessing
+riddles, which had adjectival form Oedipean (1620s).
+
+
+sphinx (n.)
+
+monster of Greek mythology having a lion's (winged) body and a woman's head; she waylaid travelers
+around Thebes and devoured those who could not answer her questions; Oedipus solved the riddle and
+the Sphinx killed herself. In English from early 15c., from Latin Sphinx, from Greek Sphinx, said to
+mean literally the strangler, a back-formation from sphingein to squeeze, bind (see sphincter).
+There also was an Egyptian form (usually male and wingless); in reference to this it is attested in
+English from 1570s; specific reference to the colossal stone one near the pyramids as Giza is
+attested from 1610s. Transferred sense of person or thing of mysterious nature is from c.1600. The
+proper plural would be sphinges. As adjectives in English, sphingal, sphingian, sphingine,
+sphinxian, sphinxine, and sphinx-like all have been tried.
+
+
+read (v.)
+
+Old English r&aelig;dan (West Saxon), redan (Anglian) to advise, counsel, persuade; discuss,
+deliberate; rule, guide; arrange, equip; forebode; read, explain; learn by reading; put in order
+(related to r&aelig;d, red advice), from Proto-Germanic *redan (cognates: Old Norse ra&eth;a, Old
+Frisian reda, Dutch raden, Old High German ratan, German raten to advise, counsel, guess), from PIE
+root *re(i)- to reason, count (cognates: Sanskrit radh- to succeed, accomplish, Greek arithmos
+number amount, Old Church Slavonic raditi to take thought, attend to, Old Irish im-radim to
+deliberate, consider). Words from this root in most modern Germanic languages still mean counsel,
+advise.    Sense of make out the character of (a person) is attested from 1610s. Connected to riddle
+via notion of interpret. Transference to understand the meaning of written symbols is unique to Old
+English and (perhaps under English influence) Old Norse ra&eth;a. Most languages use a word rooted
+in the idea of gather up as their word for read (such as French lire, from Latin legere). Read up
+study is from 1842; read out (v.) expel by proclamation (Society of Friends) is from 1788. read-only
+in computer jargon is recorded from 1961.
+
+

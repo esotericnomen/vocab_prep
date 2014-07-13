@@ -6,3 +6,23 @@ inter-) + polare, related to polire to smoothe, polish. Sense evolved in Latin f
 alter appearance of, to falsify (especially by adding new material). Middle English had interpolen
 (early 15c.) in a similar sense. Related: Interpolated; interpolating.
 
+
+interpolator (n.)
+
+1650s, from Latin interpolator, agent noun from past participle stem of interpolare (see
+interpolate).
+
+
+extrapolate (v.)
+
+1862 (in a Harvard observatory account of the comet of 1858), from extra- + ending from interpolate.
+Said in early references to be an expression of Sir George Airy (1801-1892), English mathematician
+and astronomer. Related: Extrapolated; extrapolating.
+
+
+interpolation (n.)
+
+1610s, from French interpolation (early 17c.), or directly from Latin interpolationem (nominative
+interpolatio), noun of action from past participle stem of interpolare (see interpolate).
+
+

@@ -3,3 +3,13 @@ stratify (v.)
 1660s, from French stratifier, from Modern Latin  stratificare, from stratum (see stratum). Related:
 Stratified; stratifying.
 
+
+shale (n.)
+
+1747, possibly a specialized use of Middle English schale shell, husk, pod (late 14c.), also fish
+scale, from Old English scealu (see shell (n.)) in its base sense of thing that divides or separate,
+in reference to the way the rock breaks apart in layers. Compare Middle English sheel to shell, to
+take off the outer husk (late 15c.). Geological use also possibly influenced by German Schalstein
+laminated limestone, and Schalgebirge layer of stone in stratified rock.
+
+

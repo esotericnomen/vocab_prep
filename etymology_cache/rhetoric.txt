@@ -4,3 +4,182 @@ mid-15c., eloquent, from Latin rhetoricus, from Greek rhetorikos oratorical, rhe
 speaking, from rhetor orator (see rhetoric). Meaning pertaining to rhetoric is from 1520s.
 Rhetorical question is from 1670s. Related: Rhetorically.
 
+
+rhetoric (n.)
+
+early 14c., from Old French rethorique, from Latin rhetorice, from Greek rhetorike techne art of an
+orator, from rhetor (genitive rhetoros) speaker, orator, teacher of rhetoric, related to rhesis
+speech, rhema word, phrase, verb, literally that which is spoken, from PIE *wre-tor-, from root
+*were- (3) to speak (cognates: Old English word, Latin verbum, Greek eirein to say; see verb).
+
+
+rhetorician (n.)
+
+early 15c., Old French rethoricien, from rethorique (see rhetoric). An Old English word for one was
+wordsawere word-sower.
+
+
+trope (n.)
+
+1530s, from Latin tropus a figure of speech, from Greek tropos a turn, direction, course, way;
+manner, fashion, in rhetoric, turn or figure of speech, related to trope a turning and trepein to
+turn, from PIE root trep- (2) to turn (cognates: Sanskrit trapate is ashamed, confused, properly
+turns away in shame; Latin trepit he turns). Technically, in rhetoric, a figure of speech which
+consists in the use of a word or phrase in a sense other than that which is proper to it [OED], as
+when we call a stupid fellow an ass, or a shrewd man a fox [Century Dictionary].
+
+
+alternative (n.)
+
+1620s, in rhetoric, from Medieval Latin alternativus (see alternative (adj.)). Of courses of action,
+from 1814. Of objects, etc., the other of two which may be chosen, by 1838.
+
+
+snark (n.)
+
+imaginary animal, coined 1876 by Lewis Carroll in The Hunting of the Snark. In 1950s, name of a type
+of U.S. cruise missile and in 1980s of a type of sailboat. Meaning caustic, opinionated, critical
+rhetoric is from c.2002 (see snarky) and not directly related, if at all.
+
+
+humanities
+
+1702; plural of humanity, which was used in English from late 15c. in a sense class of studies
+concerned with human culture (opposed variously at different times to divinity or sciences). Latin
+literae humaniores, they were those branches of literature (ancient classics, rhetoric, poetry)
+which tended to humanize or refine.
+
+
+ethos (n.)
+
+revived by Palgrave in 1851 from Greek ethos moral character, nature, disposition, habit, custom,
+from suffixed form of PIE root *s(w)e- (see idiom). An important concept in Aristotle (as in
+Rhetoric II xii-xiv).
+
+
+mimesis (n.)
+
+1540s, in rhetoric, from Greek mimesis imitation, representation, representation by art, from
+mimeisthai to imitate (see mimeograph).
+
+
+trivium (n.)
+
+1804, from Medieval Latin trivium (9c.) grammar, rhetoric, and logic, the first three of the seven
+liberal arts in the Middle Ages, considered initiatory and foundational to the other four:
+arithmetic, geometry, astronomy, and music. From Latin trivium, in classical Latin place where three
+roads meet; a frequented place; public street, highway (see trivial).
+
+
+terminology (n.)
+
+1770, from German Terminologie, a hybrid coined by Christian Gottfried Sch&uuml;tz (1747-1832),
+professor of poetry and rhetoric at Jena, from Medieval Latin terminus word, expression (see
+terminus) + Greek -logia a dealing with, a speaking of (see -logy). Related: Terminological.
+
+
+dilemma (n.)
+
+1520s, from Late Latin dilemma, from Greek dilemma double proposition, a technical term in rhetoric,
+from di- two + lemma premise, anything received or taken, from root of lambanein to take (see
+analemma). It should be used only of situations where someone is forced to choose between two
+alternatives, both unfavorable to him. But even logicians disagree on whether certain situations are
+dilemmas or mere syllogisms.
+
+
+merism (n.)
+
+1894 in biological sense repetition of parts in living things; earlier in rhetoric, synecdoche in
+which totality is expressed by contrasting parts (such as high and low, young and old); from Modern
+Latin merismus, from Greek merismos a dividing, division, a partition, from merizein to divide, from
+meros part, share (see merit (n.)). Related: Merismatic.
+
+
+liberal arts
+
+late 14c., translating Latin artes liberales; the seven attainments directed to intellectual
+enlargement, not immediate practical purpose, and thus deemed worthy of a free man (liberal in this
+sense is opposed to servile or mechanical). They were divided into the trivium -- grammar, logic,
+rhetoric (see trivial) -- and the quadrivium -- arithmetic, geometry, music, astronomy.
+
+
+bullshit (n.)
+
+eloquent and insincere rhetoric, 1915, American English slang; see bull (n.1) + shit (n.), probably
+because it smells. But bull in the sense of trivial or false statements (1914), which usually is
+associated with this, might be a continuation of Middle English bull false talk, fraud (see bull
+(n.3)).
+
+
+sermocination (n.)
+
+1510s, a talk, from Latin sermonationem (nominative sermonatio), noun of action from past participle
+stem of sermonari talk, discourse, harangue, from sermo (see sermon). From 1753 in rhetoric, a form
+of prosopopoeia in which the speaker, having addressed a real or imaginary hearer with a remark or
+especially a question, immediately answers for the hearer. Related: Sermocinator, agent noun;
+sermocinatrix a female talker (1620s).
+
+
+antithesis (n.)
+
+1520s, from Late Latin antithesis, from Greek antithesis opposition, resistance, literally a placing
+against, also a term in logic and rhetoric, noun of action from antitithenai to set against, oppose,
+a term in logic, from anti- against (see anti-) + tithenai to put, place (see theme).
+
+
+metastasis (n.)
+
+1570s, originally in rhetoric, from Late Latin metastasis transition, from Greek metastasis a
+removing, removal; migration; a changing; change, revolution, from methistanai to remove, change,
+from meta- over, across (see meta-) + histanai to place, cause to stand, from PIE root *sta- to
+stand (see stet). A rhetorical term in Late Latin for a sudden transition in subjects, medical use
+for shift of disease from one part of the body to another dates from 1660s in English. Related:
+Metastatic.
+
+
+trivial (adj.)
+
+ordinary (1580s); insignificant, trifling (1590s), from Latin trivialis common, commonplace, vulgar,
+literally of or belonging to the crossroads, from trivium place where three roads meet, in
+transferred use, an open place, a public place, from tri- three (see three) + via road (see via).
+The sense connection is public, hence common, commonplace.    The earliest use of the word in
+English was early 15c., a separate borrowing in the academic sense of the trivium (the first three
+liberal arts -- grammar, rhetoric, and logic); from Medieval Latin use of trivialis in the sense of
+the first three liberal arts, from trivium, neuter of the Latin adjective trivius of three roads, of
+the crossroads. Related: Trivially. For sense evolution to pertaining to useless information, see
+trivia.
+
+
+hooligan (n.)
+
+1890s, of unknown origin, first found in British newspaper police-court reports in the summer of
+1898, almost certainly from the variant form of the Irish surname Houlihan, which figured as a
+characteristic comic Irish name in music hall songs and newspapers of the 1880s and '90s.    As an
+inventor and adapter to general purposes of the tools used by navvies and hodmen, Hooligan is an
+Irish character who occupies week by week the front of a comic literary journal called Nuggets, one
+of the series of papers published by Mr. James Henderson at Red Lion House. Previous to publication
+in London, Hooligan appears, I believe, in New York in a comic weekly, and in London he is set off
+against Schneider, a German, whose contrainventions and adaptations appear in the Garland (a very
+similar paper to Nuggets), which also comes from Mr. Henderson's office. Hooligan and Schneider have
+been running, I should think, for four or five years. [Notes and Queries, Oct. 15, 1898]
+Internationalized 20c. in communist rhetoric as Russian khuligan, opprobrium for scofflaws,
+political dissenters, etc.
+
+
+silent (adj.)
+
+c.1500, without speech, silent, not speaking, from Latin silentem (nominative silens) still, calm,
+quiet, present participle of silere be quiet or still (see silence (n.)). Meaning free from noise or
+sound is from 1580s.    Of letters, c.1600; of films, 1914. In the looser sense of few words, from
+1840. Phrase strong, silent (type) is attested from 1905. Silent majority in the political sense of
+mass of people whose moderate views are not publicly expressed and thus overlooked is first attested
+1955 in a British context and was used by John F. Kennedy but is most associated in U.S. with the
+rhetoric of the Nixon administration (1969-74).    It is time for America's silent majority to stand
+up for its rights, and let us remember the American majority includes every minority. America's
+silent majority is bewildered by irrational protest. [Spiro T. Agnew, May 9, 1969]    In Victorian
+use, the phrase meant the dead (1874; compare Roman use of the noun plural of silent to mean the
+dead). Silence is golden (1831) is Carlyle's translation [Sartor Resartus] of part of the Swiss
+Inscription Sprechen ist silbern, Schweigen ist golden. In one 14c. text Latin one who is silent is
+translated by a beere stille.
+
+

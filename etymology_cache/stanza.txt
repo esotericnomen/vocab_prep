@@ -5,3 +5,126 @@ stopping place, from Vulgar Latin *stantia a stanza of verse, so called from the
 it, from Latin stantem (nominative stans), present participle of stare to stand (see stet). Related:
 Stanzaic.
 
+
+ottava rima
+
+1820, Italian, eight-lined stanza, literally eighth rhyme, from ottava eighth (see octave). A stanza
+of eight 11-syllable lines, rhymed a b a b a b c c, but in the Byronic variety, they are English
+heroic lines of 10 syllables.
+
+
+sonnet (n.)
+
+1557 (in title of Surrey's poems), from Middle French sonnet (1540s) or directly from Italian
+sonetto, literally little song, from Old Proven&ccedil;al sonet song, diminutive of son song, sound,
+from Latin sonus sound (see sound (n.1)).    Originally in English also any short lyric poem;
+precise meaning is from Italian, where Petrarch (14c.) developed a scheme of an eight-line stanza
+(rhymed abba abba) followed by a six-line stanza (cdecde, the Italian sestet, or cdcdcd, the
+Sicilian sestet). Shakespeare developed the English Sonnet for his rhyme-poor native tongue: three
+Sicilian quatrains followed by a heroic couplet (ababcdcdefefgg). The first stanza sets a situation
+or problem, and the second comments on it or resolves it.
+
+
+stance (n.)
+
+1530s, standing place, station, probably from Middle French stance resting place, harbor (16c.),
+from Vulgar Latin *stantia place, abode (also source of Italian stanza stopping place, station,
+stanza, Spanish stancia a dwelling), from Latin stans (genitive stantis), present participle of
+stare to stand, from PIE root *sta- to stand (see stet). Sense of position of the feet (in golf,
+etc.) is first recorded 1897; figurative sense of point of view is recorded from 1956. The sense of
+the French word has since narrowed.
+
+
+sestina (n.)
+
+1797, from Italian, poem of six-lined stanzas, from sesto sixth, from Latin sextus (see six).
+Invented by 12c. Proven&ccedil;al troubadour Arnaut Daniel. The line endings of the first stanza are
+repeated in different order in the rest, and in an envoi.
+
+
+quatrain (n.)
+
+1580s, from Middle French quatrain four-line stanza (16c.), from Old French quatre four, from Latin
+quattuor four (see four).
+
+
+Rig veda
+
+1776, from Sanskrit rigveda, from rg- praise, hymn, spoken stanza, literally brightness, from PIE
+*erkw- to radiate, beam; praise + veda knowledge, from PIE *weid-o-, from root *weid- to know, see
+(see vision (n.)). A thousand hymns, orally transmitted, probably dating from before 1000 B.C.E.
+Related: Rig-vedic.
+
+
+strophe (n.)
+
+c.1600, from Greek strophe stanza, originally a turning, in reference to the section of an ode sung
+by the chorus while turning in one direction, from strephein to turn, from PIE *streb(h)- to wind,
+turn (cognates: Greek strophaligs whirl, whirlwind, streblos twisted, stremma that which is
+twisted).
+
+
+curtail (v.)
+
+late 15c., from Middle French courtault made short, from court short (Old French cort, from Latin
+curtus; see curt) + -ault pejorative suffix of Germanic origin. Originally curtal; used of horses
+with docked tails, which probably influenced the spelling in general use; curtal is retained in
+poetics to describe a shortened stanza or poem. Related: Curtailed; curtailing.
+
+
+envoy (n.)
+
+messenger, 1660s, from French envoy&eacute; messenger, literally one sent (12c.), noun use of past
+participle of envoyer send, from Vulgar Latin *inviare send on one's way, from Latin in on (see in-
+(2)) + via road (see via (adv.)). The same French word was borrowed in Middle English to mean a
+stanza of a poem sending it off to find readers (late 14c.).
+
+
+Anacreontic (adj.)
+
+of or in the manner of Anacreon, convivial bard of Greece (literally Up-lord), the celebrated Greek
+lyrical poet (560-478 B.C.E.), born at Teos in Ionia. Also in reference to his lyric form (1706) of
+a four-line stanza, rhymed alternately, each line with four beats (three trochees and a long
+syllable), also convivial and amatory (1801); and an erotic poem celebrating love and wine (1650s).
+Francis Scott Key in 1814 set or wrote his poem The Star-Spangled Banner to the melody of To
+Anacreon in Heav'n, the drinking song of the popular London gentleman's club called The Anacreontic
+Society, whose membership was dedicated to wit, harmony, and the god of wine. The tune is late 18c.
+and may be the work of society member and court musician John Stafford Smith (1750-1836).
+
+
+Spenserian (adj.)
+
+1817, from Edmund Spenser (c.1552-1599), Elizabethan poet (for the origin of the surname, see
+Spencer). Spenserian stanza, which he employed in the Faerie Queen, consists of eight decasyllabic
+lines and a final Alexandrine, with rhyme scheme ab ab bc bcc.    The measure soon ceases to be
+Spenser's except in its mere anatomy of rhyme-arrangement [Elton, Survey of English Literature
+1770-1880, 1920]; it is the meter in Butler's Hudibras, Scott's Lady of the Lake, and notably the
+Childe Harold of Byron, who found (quoting Beattie) that it allowed him to be either droll or
+pathetic, descriptive or sentimental, tender or satirical, as the humour strikes me; for, if I
+mistake not, the measure which I have adopted admits equally of all these kinds of composition.
+
+
+octave (n.)
+
+c.1300, utaves (plural, via Anglo-French from popular Old French form oitieve, otaves), reformed in
+early 15c., from Medieval Latin octava, from Latin octava dies eighth day, fem. of octavus eighth,
+from octo (see eight). Originally period of eight days after a festival, also eighth day after a
+festival (counting both days, by inclusive reckoning, thus if the festival was on a Sunday, the
+octaves would be the following Sunday). Verse sense of stanza of eight lines is from 1580s; musical
+sense of note eight diatonic degrees above (or below) a given note is first recorded 1650s, from
+Latin octava (pars) eighth part. Formerly English eighth was used in this sense (mid-15c.)
+
+
+rhyme (n.)
+
+agreement in terminal sounds, 1560s, partially restored spelling, from Middle English ryme, rime
+(c.1200) measure, meter, rhythm, later rhymed verse (mid-13c.), from Old French rime (fem.), related
+to Old Proven&ccedil;al rim (masc.), earlier *ritme, from Latin rithmus, from Greek rhythmos
+measured motion, time, proportion (see rhythm).    In Medieval Latin, rithmus was used for
+accentual, as opposed to quantitative, verse, and accentual verse usually was rhymed, hence the
+sense shift. Persistence of older form is due to popular association with Old English rim number,
+from PIE root *re(i)- to reason, count (see read (v.)). Phrase rhyme or reason good sense (chiefly
+used in the negative) is from late 15c. (see reason (n.)). Rhyme scheme is attested from 1931. Rhyme
+royal (1841) is a stanza of seven 10-syllable lines rhymed a-b-a-b-b-c-c.
+
+

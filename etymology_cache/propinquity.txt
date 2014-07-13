@@ -3,7 +3,38 @@ propinquity (n.)
 late 14c., nearness in relation, kinship, later also physical nearness (early 15c.), from Old French
 propinquite (13c.) and directly from Latin propinquitatem (nominative propinquitas) nearness,
 vicinity; relationship, affinity, from propinquus near, neighboring, from prope near (enlarged from
-PIE *pro before; see pro-) + suffix -inquus.  <blockquote>  Nothing propinks like propinquity [Ian
-Fleming, chapter heading, Diamonds are Forever, 1956; phrase popularized 1960s by U.S. diplomat
-George Ball]  </blockquote>
+PIE *pro before; see pro-) + suffix -inquus.    Nothing propinks like propinquity [Ian Fleming,
+chapter heading, Diamonds are Forever, 1956; phrase popularized 1960s by U.S. diplomat George Ball]
+
+
+proximity (n.)
+
+late 15c., from Middle French proximit&eacute; nearness (14c.), from Latin proximitatem (nominative
+proximitas) nearness, vicinity, from proximus nearest, next; most direct; adjoining, figuratively
+latest, most recent; next, following; most faithful, superlative of prope near (see propinquity).
+
+
+approximate (adj.)
+
+early 15c., from Latin approximatus, past participle of approximare to come near to, from ad- to
+(see ad-) + proximare come near, from proximus nearest, superlative of prope near (see propinquity).
+
+
+reproach (n.)
+
+mid-14c., a rebuke, blame, censure; also object of scorn or contempt; c.1400, as disgrace, state of
+disgrace, from Old French reproche blame, shame, disgrace (12c.), from reprochier to blame, bring up
+against, said by some French etymologists to be from Vulgar Latin *repropiare, from Latin re-
+opposite of + prope near (see propinquity), with suggestions of bring near to as in modern get in
+(someone's) face. But others would have it from *reprobicare, from Latin reprobus/reprobare (see
+reprobate (adj.)).
+
+
+approach (v.)
+
+c.1300, from Anglo-French approcher, Old French aprochier approach, come closer (12c., Modern French
+approcher), from Late Latin appropiare go nearer to, from Latin ad- to (see ad-) + Late Latin
+propiare come nearer, comparative of Latin prope near (see propinquity). Replaced Old English
+neahl&aelig;can.
+
 

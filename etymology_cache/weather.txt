@@ -1,8 +1,399 @@
 weatherman (n.)
 
 one who observes the weather, 1869, from weather (n.) + man (n.). Weather-prophet is from 1784 as
-barometer; 1827 as person who predicts the weather.  <blockquote>  Clerk of the Weather, I deplore
-That all thy greatness is no more,  As should a gentle bard;  That Nature, or that Nature's law
-When you politely called for thaw,  Gave frost was rather hard.  [from Consolatory Address to Mr.
-Murphy, the Weather Prophet, Colburn's New Monthly Magazine, 1838]  </blockquote>
+barometer; 1827 as person who predicts the weather.    Clerk of the Weather, I deplore  That all thy
+greatness is no more,  As should a gentle bard;  That Nature, or that Nature's law  When you
+politely called for thaw,  Gave frost was rather hard.  [from Consolatory Address to Mr. Murphy, the
+Weather Prophet, Colburn's New Monthly Magazine, 1838]
+
+
+weather (n.)
+
+Old English weder air, sky; breeze, storm, tempest, from Proto-Germanic *wedram wind, weather
+(cognates: Old Saxon wedar, Old Norse ve&eth;r, Old Frisian, Middle Dutch, Dutch weder, Old High
+German wetar, German Wetter storm, wind, weather), from PIE *we-dhro-, weather (cognates: Lithuanian
+vetra storm, Old Church Slavonic vedro good weather), from root *we- to blow (see wind (n.1)).
+Alteration of -d- to -th- begins late 15c., though such pronunciation may be older (see father
+(n.)).    In nautical use, as an adjective, toward the wind (opposed to lee). Greek had words for
+good weather (aithria, eudia) and words for storm and winter, but no generic word for weather until
+kairos (literally time) began to be used as such in Byzantine times. Latin tempestas weather (see
+tempest) also originally meant time; and words for time also came to mean weather in Irish (aimsir),
+Serbo-Croatian (vrijeme), Polish (czas), etc. Weather-report is from 1863. Weather-breeder fine,
+serene day which precedes and seems to prepare a storm is from 1650s.
+
+
+weather (v.)
+
+come through safely, 1650s, from weather (n.). The notion is of a ship riding out a storm. Sense of
+wear away by exposure is from 1757. Related: Weathered; weathering. Old English verb wederian meant
+exhibit a change of weather.
+
+
+weather-cast (n.)
+
+also weathercast, 1866, from weather (n.) + ending from forecast (n.).
+
+
+weather-beaten (adj.)
+
+1520s, from weather (n.) + beaten.
+
+
+weather-vane (n.)
+
+also weathervane, mid-15c., wederfane; see weather (n.) + vane. Weathercock also is mid-15c.
+(wedurkoke).
+
+
+weatherize (v.)
+
+1946, from weather (n.) + -ize. Related: Weatherized; weatherizing.
+
+
+wither (v.)
+
+1530s, alteration of Middle English wydderen dry up, shrivel (late 14c.), intransitive, apparently a
+differentiated and special use of wederen to expose to weather (see weather (v.)). Compare German
+verwittern to become weather-beaten, from Witter weather. Transitive sense from 1550s. Related:
+Withered; withering; witheringly.
+
+
+tempest (n.)
+
+violent storm, late 13c., from Old French tempeste storm; commotion, battle; epidemic, plague
+(11c.), from Vulgar Latin *tempesta, from Latin tempestas a storm; weather, season, time, point in
+time, season, period, also commotion, disturbance, related to tempus time, season (see temporal).
+Sense evolution is from period of time to period of weather, to bad weather to storm. Words for
+weather originally were words for time in languages from Russia to Brittany. Figurative sense of
+violent commotion in English is recorded from early 14c. Tempest in a teapot attested from 1818; the
+image in other forms is older, such as storm in a creambowl (1670s).
+
+
+sun-wake (n.)
+
+rays of the setting sun reflected on water, 1891, from sun (n.) + wake (n.). Sailors' tradition says
+a narrow wake means good weather the following day and bad weather follows a broad wake.
+
+
+overcast (adj.)
+
+c.1300, of weather, past participle adjective from verb overcast (early 13c.), to overthrow, also to
+cover, to overspread as with a garment, usually of weather, from over- + cast (v.).
+
+
+aloof (adj.)
+
+1530s, from a- (1) + Middle English loof weather gage, also windward direction, probably from Dutch
+loef (Middle Dutch lof) the weather side of a ship. Originally a nautical order to keep the ship's
+head to the wind, thus to stay clear of a lee-shore or some other quarter; hence the figurative
+sense of at a distance, apart (1580s). Related: Aloofly; aloofness.
+
+
+Indian summer (n.)
+
+spell of warm weather after the first frost,  first recorded 1778, American English, perhaps so
+called because it was first noted in regions inhabited by Indians, or because the Indians first
+described it to the Europeans. No evidence connects it with the color of fall leaves or a season of
+Indian attacks on settlements. It is the American version of British All-Hallows summer, French
+&eacute;t&eacute; de la Saint-Martin (feast day Nov. 11), etc. Also colloquial was St. Luke's summer
+(or little summer), period of warm weather occurring about St. Luke's day (Oct. 18).
+
+
+clemency (n.)
+
+1550s, mildness or gentleness shown in exercise of authority, from Latin clementia calmness,
+gentleness, from clemens calm, mild, related to clinare to lean (see lean (v.)) + participial suffix
+-menos (also in alumnus). For sense evolution, compare inclined in secondary meaning disposed
+favorably. Earlier in same sense was clemence (late 15c.).    Meaning mildness of weather or climate
+is 1660s (a sense also in Latin); clement (adj.) is older in both senses, late 15c. and 1620s
+respectively, but now is used only in negation and only of the weather.
+
+
+clear (v.)
+
+late 14c., to fill with light, from clear (adj.). Of weather, from late 14c. Meaning make clear in
+the mind is mid-15c., as is sense of to remove what clouds. Meaning to prove innocent is from late
+15c. Meaning get rid of is from 1530s.    Meaning to free from entanglement is from 1590s; that of
+pass without entanglement is from 1630s. Meaning to leap clear over is first attested 1791. Meaning
+get approval for (a proposal, etc.) is from 1944; meaning establish as suitable for national
+security work is from 1948. Related: Cleared; clearing.    To clear (one's) throat is from 1881;
+earlier clear (one's) voice (1701). To clear out depart, leave (1825), perhaps is from the notion of
+ships satisfying customs, harbor regulations, etc., then setting sail. To clear up is from 1620s, of
+weather; 1690s as make clear to the mind. Clear the decks is what is done on a ship before it moves.
+
+
+fair (adj.)
+
+Old English f&aelig;ger beautiful, lovely, pleasant, from Proto-Germanic *fagraz (cognates: Old
+Saxon fagar, Old Norse fagr, Old High German fagar beautiful, Gothic fagrs fit), perhaps from PIE
+*pek- (1) to make pretty (cognates: Lithuanian puo&#353;iu I decorate).    The meaning in reference
+to weather (c.1200) preserves the original sense (opposed to foul). Sense of light-complexioned
+(1550s) reflects tastes in beauty; sense of free from bias (mid-14c.) evolved from another early
+meaning, morally pure, unblemished (late 12c.). The sporting senses (fair ball, fair catch etc.)
+began in 1856. Fair play is from 1590s; fair and square is from c.1600. Fair-haired in the
+figurative sense of darling, favorite is from 1909. First record of fair-weather friends is from
+1736.
+
+
+thaw (n.)
+
+the melting of ice or snow, also spell of weather causing this, c.1400, from thaw (v.). Figurative
+sense is from 1590s; specifically relaxation of political harshness or hostility from 1950, an image
+from the Cold War.
+
+
+sweltering (adj.)
+
+oppressively hot (of weather, seasons), 1590s, present participle adjective from swelter (v.).
+Related: Swelteringly.
+
+
+heat (n.)
+
+Old English h&aelig;tu, h&aelig;to heat, warmth; fervor ardor, from Proto-Germanic *haita- heat
+(cognates: Old Saxon hittia, Old Norse hiti, Old Frisian hete, German hitze heat, Gothic heito
+fever), from PIE *kaid-, from root *kai- heat. The same root is the source of Old English hat hot
+and h&aelig;&eth;a hot weather (see hot).    Meaning a single course in a race, especially a horse
+race, is from 1660s, perhaps from earlier figurative sense of violent action; a single intense
+effort (late 14c.), or meaning run given to a horse to prepare for a race (1570s). This later
+expanded to division of a race or contest when there are too many contestants to run at once, the
+winners of each heat then competing in a final race. Meaning sexual excitement in animals is from
+1768. Meaning trouble with the police attested by 1920. Heat wave period of excessive hot weather
+first attested 1890; earlier in reference to solar cycles.
+
+
+brooding (n.)
+
+action of incubating, c.1400, verbal noun from brood (v.). Figuratively (of weather, etc.) from
+1805; of mental fixations by 1873. Related: Broodingly.
+
+
+nip (n.2)
+
+a pinch; a sharp bite, 1540s, from nip (v.). Meaning a chill in the weather is from 1610s, probably
+so called for its effect on vegetation. Nip and tuck a close thing is recorded from 1832, perhaps
+from sailing or tailoring.
+
+
+forecast (n.)
+
+early 15c., probably from forecast (v.); earliest sense was forethought, prudence; meaning
+conjectured estimate of a future course is from 1670s. A Middle English word for weather forecasting
+was aeromancy.
+
+
+advisory (adj.)
+
+1778; see advise + -ory. The noun meaning weather warning is from 1931.
+
+
+riding (n.1)
+
+c.1300, verbal noun from ride (v.). Meaning teasing, annoying is from 1927. Riding-hood, worn by
+women when riding or exposed to weather, is from mid-15c.
+
+
+unseasonable (adj.)
+
+mid-15c., inopportune, from un- (1) not + seasonable (adj.). In reference to weather, not
+appropriate to the time of year, it is recorded from 1510s. Related: Unseasonably.
+
+
+leeward (adj.)
+
+1660s, situated away from the wind, on the opposite of the weather side of the ship; from lee +
+-ward.
+
+
+exposure (n.)
+
+c.1600, public exhibition, from expose (v.) + -ure. Sense of situation with regard to sun or weather
+is from 1660s. Photographic sense is from 1839. Indecent exposure attested by 1825.
+
+
+seaworthy (adj.)
+
+1807, in fit condition to encounter heavy weather at sea, from sea + worthy. Related: Seaworthiness.
+Old English had s&aelig;rof hardy at sea.
+
+
+untimely (adj.)
+
+1530s, coming before the proper or usual time, from un- (1) not + timely (adj.). Similar formation
+in Middle Danish utimelig, of weather, etc. Old English had untidlic unseasonable. Related:
+Untimeliness.
+
+
+inclement (adj.)
+
+1660s, from French incl&eacute;ment and directly from Latin inclementem (nominative inclemens)
+harsh, unmerciful, from in- not, opposite of, without (see in- (1)) + clementem mild, placid.
+Limitation to weather is curious [Weekley].
+
+
+bonanza (n.)
+
+1844, American English, from Spanish bonanza a rich lode, originally fair weather at sea,
+prosperity, from Vulgar Latin *bonacia, from Latin bonus good (see bene-).
+
+
+turbulent (adj.)
+
+early 15c., disorderly, tumultuous, unruly (of persons), from Middle French turbulent (12c.), from
+Latin turbulentus full of commotion, restless, disturbed, boisterous, stormy, figuratively troubled,
+confused, from turba turmoil, crowd (see turbid). In reference to weather, from 1570s. Related:
+Turbulently.
+
+
+serene (adj.)
+
+mid-15c., clear, calm, from Latin serenus peaceful, calm, clear (of weather), figuratively cheerful,
+glad, tranquil, of uncertain origin; perhaps from a suffixed variant of PIE *ksero- dry, source of
+Greek xeros dry (see xerasia). In English, applied to persons since 1630s. Related: Serenely.
+
+
+clement (adj.)
+
+mid-15c., mild, of persons (attested from early 13c. as a surname), from Old French clement, from
+Latin clementem (nominative clemens) mild, placid, gentle (see clemency). Of weather, 1620s. Taken
+as a name by several early popes and popular in England as a masculine given name from mid-12c.,
+also in fem. form Clemence.
+
+
+prognostication (n.)
+
+late 14c., from Old French pronosticacion (14c.) and directly from Medieval Latin *prognosticationem
+(nominative prognosticatio), noun of action from past participle stem of prognosticare foretell,
+from Latin prognostica sign to forecast weather, from neuter plural of Greek prognostikos
+foreknowing, from progignoskein (see prognosis).
+
+
+meteorology (n.)
+
+science of the atmosphere, weather forecasting, 1610s, from French m&eacute;t&eacute;orologie and
+directly from Greek meteorologia treatise on celestial phenomena, discussion of high things, from
+meteoron, literally thing high up (see meteor), + -logia treatment of (see -logy).
+
+
+gale (n.)
+
+storm at sea, 1540s, from gaile wind, origin uncertain, perhaps from Old Norse gol breeze, or Old
+Danish gal bad, furious (often used of weather), from Old Norse galinn bewitched. Or perhaps it is
+from Old English galan to sing (the second element in nightingale), or giellan to yell. In technical
+meteorological use, a wind between 32 and 63 miles per hour.
+
+
+sticky (adj.)
+
+1727, adhesive, inclined to stick, from stick (v.) + -y (2). An Old English word for this was
+clibbor. First recorded 1864 in the sense of sentimental; of situations, 1915 with the meaning
+difficult. Of weather, hot and humid, from 1895. Sticky wicket is 1952, from British slang, in
+reference to cricket. Related: Stickily; stickiness.
+
+
+sultry (adj.)
+
+1590s, oppressively hot, close and moist (of weather), ultimately from swelter + alteration of -y
+(2), either as a contraction of sweltry or from obsolete verb sulter to swelter (1580s), alteration
+of swelter. Figurative sense of hot with lust is attested from 1704; of women, lascivious, sensual,
+arousing desire it is recorded from 1940. Related: Sultriness.
+
+
+snug (adj.)
+
+1590s, compact, trim (of a ship), especially protected from the weather, perhaps from a Scandinavian
+source such as Old Norse snoggr short-haired, Old Swedish snygg, Old Danish sn&oslash;g neat, tidy,
+perhaps from PIE *kes- (1) to scratch (see xyster). Sense of in a state of ease or comfort first
+recorded 1620s. Meaning fit closely is first found 1838. Expression snug as a bug in a rug attested
+by 1769; earlier snug as a bee in a box (1706).
+
+
+variable (adj.)
+
+late 14c., of persons, apt to change, fickle, from Old French variable various, changeable, fickle,
+from Late Latin variabilis changeable, from variare to change (see vary). Of weather, seasons, etc.,
+attested from late 15c.; of stars, from 1788.
+
+
+serenity (n.)
+
+1530s, of weather, 1590s, of persons, from Middle French s&eacute;r&eacute;nit&eacute;, from Latin
+serenitatem (nominative serenitas) clearness, serenity, from serenus (see serene). Earliest use
+(mid-15c.) was as a title of honor for kings, probably from the similar use of Latin serenitas,
+applied to Roman emperors, later popes.
+
+
+Hyades
+
+star cluster in constellation Taurus, late 14c., from Greek Hyades, popularly explained as rain-
+bringers (from hyein to rain), because wet weather supposedly began coincidentally with their
+heliacal rising, but in fact probably from hys swine (the popular Latin word for them was Suculae
+little pigs). Grimm (Teutonic Mythology) lists the Anglo-Saxon glosses of Hyades as Raedgastran,
+Raedgasnan, Redgaesrum.
+
+
+wash-out (n.)
+
+also washout, 1877, act of washing out (a drain, etc.), from verbal phrase; see wash (v.) + out
+(adv.). From 1873 as excavation of a roadbed, etc., by erosion is from 1873. Meaning a disappointing
+failure is from 1902, from verbal phrase wash out obliterate, cancel (something written in ink),
+attested from 1570s. Hence also the colloquial sense of to call off (an event) due to bad weather,
+etc. (1917). Of colored material, washed-out faded is from 1837.
+
+
+moderate (adj.)
+
+late 14c., originally of weather and other physical conditions, from Latin moderatus within bounds,
+observing moderation; figuratively modest, restrained, past participle of moderari to regulate,
+mitigate, restrain, temper, set a measure, keep (something) within measure, related to modus
+measure, from PIE *med-es-, from base *med- (see medical (adj.)). The notion is keeping within due
+measure. In English, of persons from early 15c.; of opinions from 1640s; of prices from 1904.
+Related: Moderateness.
+
+
+spell (n.2)
+
+1620s, a turn of work in place of another, from spell (v.2); compare Old English gespelia a
+substitute. Meaning shifted toward continuous course of work (1706), probably via notion of shift
+work (as at sea) where one man or crew regularly spelled another. Hence continuous stretch of
+something (weather, etc.), recorded by 1728. Hence also, via the notion in give a spell (1750)
+relieve another by taking a turn of work came the sense interval of rest or relaxation (1845), which
+took the word to a sense opposite what it had at the start.
+
+
+almanac (n.)
+
+late 14c., attested in Anglo-Latin from mid-13c., via Old French almanach or Medieval Latin
+almanachus, of uncertain origin. It is sometimes said to be from a Spanish-Arabic al-manakh
+calendar, almanac, but possibly ultimately from Late Greek almenichiakon calendar, which is said to
+be of Coptic origin.    This word has been the subject of much speculation. Originally a book of
+permanent tables of astronomical data; one-year versions, combined with ecclesiastical calendars,
+date from 16c.; astrological and weather predictions appear in 16-17th c.; the 'useful statistics'
+are a modern feature [OED].
+
+
+tense (n.)
+
+form of a verb showing time of an action or state, early 14c., tens time, also tense of a verb (late
+14c.), from Old French tens time, period of time, era; occasion, opportunity; weather (11c., Modern
+French temps), from Latin tempus a portion of time (also source of Spanish tiempo, Italian tempo;
+see temporal).
+
+
+imbrication (n.)
+
+1640s, from French imbrication, from Latin imbricare to cover with tiles, from imbricem (nominative
+imbrex) curved roof tile used to draw off rain, from imber (genitive imbris) rain, from PIE *ombh-
+ro- rain (cognates: Sanskrit abhra cloud, thunder-cloud, rainy weather, Greek ombros rain), from
+root *nebh- moist, water (see nebula).
+
+
+asperity (n.)
+
+c.1200, asprete hardship, harshness of feelings, a figurative use, from Old French asperit&eacute;
+difficulty, painful situation, harsh treatment (12c., Modern French &acirc;pret&eacute;), from Latin
+asperitatem (nominative asperitas) roughness, from asper rough, harsh, of unknown origin; in Latin
+used also of sour wine, bad weather, and hard times. Figurative meaning harshness of feeling in
+English is attested from early 15c.
+
 

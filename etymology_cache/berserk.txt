@@ -3,12 +3,29 @@ berserk (adj.)
 1844, from berserk (n.) Norse warrior, by 1835, an alternative form of berserker (1822), a word
 which was introduced by Sir Walter Scott, from Old Norse berserkr (n.) raging warrior of superhuman
 strength; probably from *ber- bear + serkr shirt, thus literally a warrior clothed in bearskin. Thus
-not from Old Norse berr bare, naked.  <blockquote>  Thorkelin, in the essay on the Berserkir,
-appended to his edition of the Krisini Saga, tells that an old name of the Berserk frenzy was
-hamremmi, i.e., strength acquired from another strange body, because it was anciently believed that
-the persons who were liable to this frenzy were mysteriously endowed, during its accesses, with a
-strange body of unearthly strength. If, however, the Berserk was called on by his own name, he lost
-his mysterious form, and his ordinary strength alone remained. [Notes and Queries, Dec. 28, 1850]
-</blockquote>  The adjectival use probably is from such phrases as berserk frenzy, or as a title
-(Arngrim the Berserk).
+not from Old Norse berr bare, naked.    Thorkelin, in the essay on the Berserkir, appended to his
+edition of the Krisini Saga, tells that an old name of the Berserk frenzy was hamremmi, i.e.,
+strength acquired from another strange body, because it was anciently believed that the persons who
+were liable to this frenzy were mysteriously endowed, during its accesses, with a strange body of
+unearthly strength. If, however, the Berserk was called on by his own name, he lost his mysterious
+form, and his ordinary strength alone remained. [Notes and Queries, Dec. 28, 1850]     The
+adjectival use probably is from such phrases as berserk frenzy, or as a title (Arngrim the Berserk).
+
+
+berserker (n.)
+
+alternative form of berserk (q.v.), from Old Norse berserkr, accusative of berserk. This is the
+oldest form of the word in its revival in Modern English (1822), and perhaps Scott, who introduced
+it, mistook the -r for an agent-noun suffix. Further compicated because it has the form of the Old
+Norse plural, and English berserker sometimes is plural.
+
+
+sark (n.)
+
+shirt, body garment of linen or cotton for either sex, late Old English serc shirt, corselet, coat
+of mail, surviving as a Scottish and northern dialect word, from Old Norse serkr, cognate with Old
+English serk (see berserk). But Gordon lists it as a loan-word from Latin sarcia; other sources are
+silent on the point. Lithuanian sarkas shirt, Old Church Slavonic sraka tunic, Russian soro&#269;ka,
+Finnish sarkki shirt perhaps are all from Germanic.
+
 

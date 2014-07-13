@@ -3,3 +3,148 @@ import (n.)
 consequence, importance, 1580s; sense of that which is imported is from 1680s; both from import
 (v.).
 
+
+importation (n.)
+
+c.1600; see import (v.) + -ation.
+
+
+import (v.)
+
+early 15c., convey information, express, make known, signify, from Latin importare bring in, convey,
+from assimilated form of in- into, in (see in- (2)) + portare to carry (see port (n.1)). Sense of
+bring in goods from abroad first recorded c.1500. Related: Imported; importing.
+
+
+important (adj.)
+
+mid-15c., from Middle French important and directly from Medieval Latin importantem (nominative
+importans), present participle of importare be significant in, from Latin importare bring in (see
+import). Related: Importantly.
+
+
+re-import (v.)
+
+also reimport, 1742, from re- + import (v.). Related: Re-imported; re-importing.
+
+
+meaning (n.)
+
+sense, import, intent, c.1300, from mean (v.).
+
+
+aphorism (n.)
+
+1520s (especially in reference to the Aphorisms of Hippocrates), from Middle French aphorisme (14c.,
+aufforisme), from Late Latin aphorismus, from Greek aphorismos definition, pithy sentence, from
+aphorizein to mark off, divide, from apo- from (see apo-) + horizein to bound (see horizon).    An
+aphorism is a short, pithy statement containing a truth of general import; an axiom is a statement
+of self-evident truth; a theorem is a demonstrable proposition in science or mathematics; an epigram
+is like an aphorism, but lacking in general import. Maxim and saying can be used as synonyms for
+aphorism.
+
+
+smuggle (v.)
+
+import or export secretly and contrary to law, 1680s, of Low German or Dutch origin (see smuggler).
+Related: Smuggled; smuggling.
+
+
+astronomer (n.)
+
+late 14c., from astronomy (q.v.), replacing French import astronomyen (c.1300), which, had it
+survived, probably would have yielded *astronomian. Still in Shakespeare used in places where we
+would write astrologer.
+
+
+astrologer (n.)
+
+late 14c., from astrology + -er (1). Drove out French import astrologein, which, had it survived,
+probably would have yielded *astrologian, as in Chaucer's The wise Astrologen. Earliest recorded
+reference is to roosters as announcers of sunrise.
+
+
+significance (n.)
+
+c.1400, meaning, from Old French significance or directly from Latin significantia meaning, force,
+energy, from significans, present participle of significare to mean, import, signify (see signify).
+The earlier word was signifiance (mid-13c.). Meaning importance is from 1725. Related: Significancy.
+
+
+latch (v.)
+
+Old English l&aelig;ccan to grasp or seize, from Proto-Germanic *lakkijanan. Not found in other
+Germanic languages; probably from PIE *(s)lagw- to seize (see analemma). In its original sense the
+verb was paralleled in Middle English and then replaced by French import catch (v.). Meaning to
+fasten with a latch is mid-15c. Related: Latched; latching.
+
+
+tariff (n.)
+
+1590s, arithmetical table, also official list of customs duties on imports or exports; law
+regulating import duties, from Italian tariffa tariff, price, assessment, Medieval Latin tarifa list
+of prices, book of rates, from Arabic ta'rif information, notification, a making known; inventory of
+fees to be paid, verbal noun from arafa he made known, he taught. Sense of classified list of
+charges made in a business is recorded from 1757. The U.S. Tariff of Abominations was passed in
+1828.
+
+
+orthopraxy (n.)
+
+1840, from ortho- + Greek praxis a doing, action, performance (see praxis).   Errata -- Page 263,
+line 9 from bottom, for 'orthodoxy' read orthopraxy. This is a new coin from the mint of Dr.
+[Andrew] Wylie [of Bloomington College, Indiana], at least I have not before noticed it. Its
+etymology places it in a just contrast with orthodoxy: for if that consecrated word indicates
+thinking right, orthopraxy will legitimately import doing right, and hence, as Mr. Wylie says,
+orthopraxy in the last dread day will pass the divine ordeal incomparably better than orthodoxy. O!
+that a zeal for orthopraxy would transcend the zeal for orthodoxy! [The Millennial Harbinger, vol.
+IV, no. VIII, Bethany, Va., August 1840]
+
+
+tuxedo (n.)
+
+man's evening dress for semiformal occasions, 1889, named for Tuxedo Park, N.Y., a rural resort
+development for wealthy New Yorkers and site of a country club where it first was worn, supposedly
+in 1886. The name is an attractive subject for elaborate speculation, and connections with
+Algonquian words for bear or wolf were proposed. The authoritative Bright, however, says the tribe's
+name probably is originally a place name, perhaps Munsee Delaware (Algonquian) p'tuck-sepo crooked
+river.    There was a hue and cry raised against the Tuxedo coat upon its first appearance because
+it was erroneously considered and widely written of as intended to displace the swallow tail. When
+the true import of the tailless dress coat came to be realized it was accepted promptly by swelldom,
+and now is widely recognized as one of the staple adjuncts of the jeunesse dor&#233;e. [Clothier and
+Furnisher, August, 1889]
+
+
+shoddy (adj.)
+
+1862, having a delusive appearance of high quality, a Northern word from the American Civil War in
+reference to the quality of government supplies for the armies, from earlier noun meaning rag-wool,
+wool made of woolen waste and old rags (1832), perhaps a Yorkshire provincial word, of uncertain
+origin.    Originally used for padding, English manufacturers began making coarse wearing clothes
+from it, and when new it looked like broad-cloth but the gloss quickly wore off, giving the stuff a
+bad reputation as a cheat. The 1860 U.S. census of manufactures notes import of more than 6 million
+pounds of it, which was much used in the manufacture of army and navy cloths and blankets in the
+United States according to an 1865 government report.    The Days of Shoddy, as the reader will
+readily anticipate, are the opening months of the present war, at which time the opprobrious name
+first came into general use as a designation for swindling and humbug of every character; and
+nothing more need be said to indicate the scope of this novel. [Henry Morford, The Days of Shoddy: A
+Novel of the Great Rebellion in 1861, Philadelphia, 1863]    Related: Shoddily; shoddiness.
+
+
+sense (n.)
+
+c.1400, faculty of perception, also meaning, import, interpretation (especially of Holy Scripture),
+from Old French sens one of the five senses; meaning; wit, understanding (12c.) and directly from
+Latin sensus perception, feeling, undertaking, meaning, from sentire perceive, feel, know, probably
+a figurative use of a literally meaning to find one's way, or to go mentally, from PIE root *sent-
+to go (cognates: Old High German sinnan to go, travel, strive after, have in mind, perceive, German
+Sinn sense, mind, Old English si&eth; way, journey, Old Irish set, Welsh hynt way). Application to
+any one of the external or outward senses (touch, sight, hearing, etc.) in English first recorded
+1520s.    A certain negro tribe has a special word for see; but only one general word for hear,
+touch, smell, and taste. It matters little through which sense I realize that in the dark I have
+blundered into a pig-sty. In French sentir means to smell, to touch, and to feel, all together.
+[Erich M. von Hornbostel, Die Einheit der Sinne (The Unity of the Senses), 1927]    Meaning that
+which is wise is from c.1600. Meaning capacity for perception and appreciation is from c.1600 (as in
+sense of humor, attested by 1783, sense of shame, 1640s).
+
+

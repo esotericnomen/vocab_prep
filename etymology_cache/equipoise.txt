@@ -2,3 +2,25 @@ equipoise (n.)
 
 1650s, a contraction of the phrase equal poise (1550s); see equal (adj.) + poise (n.).
 
+
+poise (v.)
+
+late 14c., to have a certain weight, from stressed form of Old French peser to weigh, be heavy;
+weigh down, be a burden; worry, be a concern, from Vulgar Latin *pesare, from Latin pensare to weigh
+carefully, weigh out, counter-balance, frequentative of pendere (past participle pensus) to weigh
+(see pendant). For form evolution from Latin to French, see OED. Meaning to place in equilibrium is
+from 1630s (compare equipoise). Passive sense of to be ready (to do something) is from 1932.
+Related: Poised; poising. In 15c. a poiser was an official who weighed goods.
+
+
+balance (n.)
+
+early 13c., apparatus for weighing, from Old French balance (12c.) balance, scales for weighing,
+also in the figurative sense; from Medieval Latin bilancia, from Late Latin bilanx, from Latin
+(libra) bilanx (scale) having two pans, possibly from Latin bis twice + lanx dish, plate, scale of a
+balance. The accounting sense is from 1580s; the meaning general harmony between parts is from 1732;
+sense of physical equipoise is from 1660s. Balance of power in the geopolitical sense is from 1701.
+Many figurative uses (such as hang in the balance, late 14c.), are from Middle English image of the
+scales in the hands of personified Justice, Fortune, Fate, etc.
+
+

@@ -7,3 +7,135 @@ from re- back (see re-) + linquere to leave, from PIE *linkw-, from root *leikw-
 leihvan, Old English l&aelig;nan to lend; Old High German lihan to borrow; Old Norse lan loan).
 Related: Relinquished; relinquishing.
 
+
+quit (v.)
+
+c.1200, to repay, discharge (a debt, etc.), from Old French quiter clear, establish one's innocence;
+also transitive, release, let go, relinquish, abandon (12c.), from quite (see quit (adj.)).
+Meaning to reward, give reward is mid-13c., that of take revenge; to answer, retort and to acquit
+oneself are late 14c. From c.1300 as to acquit (of a charge), declare not guilty. Sense of leave,
+depart is attested from c.1400; that of stop (doing something) is from 1640s. Meaning to give up,
+relinquish is from mid-15c. Related: Quitted; quitting. Quitting time is from 1835.
+
+
+resign (v.)
+
+late 14c., give up, surrender, abandon, submit; relinquish, from Old French resigner renounce,
+relinquish (13c.), from Latin resignare to check off, annul, cancel, give back, give up, from re-
+opposite (see re-) + signare to make an entry in an account book, literally to mark (see sign (v.)).
+The sense is of making an entry (signum) opposite -- on the credit side -- balancing the former mark
+and thus canceling the claim it represents. The specific meaning of give up a position is first
+recorded late 14c. Sense of to give (oneself) up to some emotion or situation is from 1718. Related:
+Resigned; resigning.
+
+
+release (v.)
+
+c.1300, to withdraw, revoke (a decree, etc.), cancel, lift; remit, from Old French relaissier,
+relesser to relinquish, quit, let go, leave behind, abandon, acquit, variant of relacher release,
+relax, from Latin relaxare loosen, stretch out (see relax), source also of Spanish relajar, Italian
+relassare.    Meaning alleviate, ease is mid-14c., as is sense of free from (duty, etc.); exonerate.
+From late 14c. as grant remission, forgive; set free from imprisonment, military service, etc. Also
+give up, relinquish, surrender. In law, c.1400, to grant a release of property. Of press reports,
+attested from 1904; of motion pictures, from 1912; of music recordings, from 1962. As a euphemism
+for to dismiss, fire from a job it is attested in American English since 1904. Related: Released;
+releasing.
+
+
+reliction (n.)
+
+in law, a recession of the sea from the land, 1670s, from Latin relictionem (nominative relictio),
+noun of action from past participle stem of relinquere (see relinquish).
+
+
+reliquiae (n.)
+
+remains, 1650s, Latin plural of reliquus remainder, residue, noun use of adjective meaning that is
+left, remaining, left over, related to relinquere (perfective reliqui) to leave behind (see
+relinquish).
+
+
+derelict (adj.)
+
+1640s, from Latin derelictus solitary, deserted, past participle of dereliquere to abandon, forsake,
+desert, from de- entirely + relinquere leave behind (see relinquish). Originally especially of
+vessels abandoned at sea or stranded on shore. As a noun, from 1660s.
+
+
+forgo (v.)
+
+to relinquish, Old English forgan go away, pass over, leave undone, from for- away + gan go (see
+go). Related: Forgoing; forgone.
+
+
+ellipsis (n.)
+
+1560s, an ellipse, from Latin ellipsis, from Greek elleipsis a falling short, defect, ellipse, from
+elleipein to fall short, leave out, from en- in + leipein to leave (see relinquish). Grammatical
+sense first recorded 1610s.
+
+
+paralipsis (n.)
+
+1580s, from Greek paraleipsis passing by omission, from paraleipein to leave on one side, pass over,
+leave untold, from para- beside (see para- (1)) + leipein to leave (see relinquish).
+
+
+relict (n.)
+
+a widow, mid-15c., from Old French relict, fem. relicte person or thing left behind (especially a
+widow) and directly from Medieval Latin relicta a widow, noun use of fem. of relictus abandoned,
+left behind, past participle adjective from Latin relinquere to leave behind (see relinquish).
+
+
+delinquent (n.)
+
+late 15c., from Middle French d&eacute;linquant, from present participle of d&eacute;linquer (15c.),
+and directly from Latin delinquentum (nominative delinquens), present participle of delinquere to
+fail; be wanting, fall short; offend, from de- completely (see de-) + linquere to leave (see
+relinquish). As an adjective, from c.1600.
+
+
+eclipse (n.)
+
+late 13c., from Old French eclipse eclipse, darkness (12c.), from Latin eclipsis, from Greek
+ekleipsis an abandonment, an eclipse, from ekleipein to forsake a usual place, fail to appear, be
+eclipsed, from ek out (see ex-) + leipein to leave (cognate with Latin linquere; see relinquish).
+
+
+relic (n.)
+
+early 13c., body part or other object from a holy person, from Old French relique (11c., plural
+reliques), from Late Latin reliqui&aelig; (plural) remains of a martyr, in classical Latin remains,
+remnants, noun use of fem. plural of reliquus remaining, that which remains, related to relinquere
+(perfective reliqui) to leave behind (see relinquish). Sense of remains, ruins is from early 14c.
+Old English used reliquias, directly from Latin.
+
+
+loan (n.)
+
+mid-13c., from Old Norse lan, related to lja to lend, from Proto-Germanic *laikhwniz (cognates: Old
+Frisian len thing lent, Middle Dutch lene, Dutch leen loan, fief, Old High German lehan, German Lehn
+fief, feudal tenure), originally to let have, to leave (to someone), from PIE *leikw- to leave (see
+relinquish).    The Norse word also is cognate with Old English l&aelig;n gift, which did not
+survive into Middle English, but its derived verb l&aelig;nan is the source of lend. As a verb, loan
+is attested from 1540s, perhaps earlier, and formerly was current, but has now been supplanted in
+England by lend, though it survives in American English.   Loan word (1874) is a translation of
+German Lehnwort; loan-translation is attested 1933, from German Lehn&uuml;bersetzung. Slang loan
+shark first attested 1900.
+
+
+eleven (n.)
+
+c.1200, elleovene, from Old English endleofan, literally one left (over ten), from Proto-Germanic
+*ainlif- (compare Old Saxon elleban, Old Frisian andlova, Dutch elf, Old High German einlif, German
+elf, Old Norse ellifu, Gothic ainlif), a compound of *ain one (see one) + PIE *leikw- leave, remain
+(source of Greek leipein to leave behind; see relinquish).  FIREFLY: Give me a number from 1 to
+10.CHICOLINI: eleven! FIREFLY: Right!  Viking survivors who escaped an Anglo-Saxon victory were
+daro&thorn;a laf the leavings of spears, while hamora laf the leavings of hammers was an Old English
+kenning for swords (both from The Battle of Brunanburgh). Twelve reflects the same formation.
+Outside Germanic the only instance of this formation is in Lithuanian, which uses -lika left over
+and continues the series to 19 (vienio-lika eleven, dvy-lika twelve, try-lika thirteen, keturio-lika
+fourteen, etc.) Phrase eleventh hour (1829) is from Matthew xx:1-16.
+
+

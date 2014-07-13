@@ -2,3 +2,81 @@ irony (adj.)
 
 of or resembling iron, late 14c., from iron (n.) + -y (2).
 
+
+irony (n.)
+
+c.1500, from Latin ironia, from Greek eironeia dissimulation, assumed ignorance, from eiron
+dissembler, perhaps related to eirein to speak (see verb). Used in Greek of affected ignorance,
+especially that of Socrates. For nuances of usage, see humor. Figurative use for condition opposite
+to what might be expected; contradictory circumstances is from 1640s.
+
+
+tongue-in-cheek (adv.)
+
+1856, from phrase to speak with one's tongue in one's cheek to speak insincerely (1748), suggestive
+of sly irony or humorous insincerity, perhaps a stage trick to convey irony to the audience.    Hem!
+Pray, Sir, said he to the Bard, after thrusting his Tongue into a Corner of his Cheek, and rolling
+his Eyes at Miss Willis, (Tricks which he had caught by endeavouring to take off a celebrated
+Comedian) were these fine Tragedies of yours ever acted? [anonymous, Emily, or the History of a
+Natural Daughter, 1761]   <hr />   This arietta, however, she no sooner began to perform, than he
+and the justice fell asleep ; but the moment she ceased playing, the knight waked snorting, and
+exclaimed,--'O cara! what d'ye think, gentlemen? Will you talk any more of your Pargolesi and your
+Corelli ?'--At the same time, he thrust his tongue in one cheek, and leered with one eye at the
+doctor and me, who sat on his left hand--He concluded the pantomime with a loud laugh, which he
+could command at all times extempore. [Smollett, The Expedition of Humphrey Clinker, 1771]
+
+
+asteism (n.)
+
+genteel irony, polite mockery, 1580s, from Greek asteismos wit, witticism, from asteios of a city or
+town (as opposed to country), from asty town, city, especially (without the article) Athens.
+
+
+ironic (adj.)
+
+1620s, from Late Latin ironicus, from Greek eironikos dissembling, putting on a feigned ignorance,
+from eironeia (see irony). Related: Ironical (1570s); ironically.
+
+
+dramatic (adj.)
+
+1580s, from Late Latin dramaticus, from Greek dramatikos pertaining to plays, from drama (genitive
+dramatos; see drama). Meaning full of action and striking display, fit for a drama is from 1725.
+Dramatic irony is recorded from 1907. Related: Dramatical; dramatically.
+
+
+illusion (n.)
+
+mid-14c., act of deception, from Old French illusion a mocking, deceit, deception (12c.), from Latin
+illusionem (nominative illusio) a mocking, jesting, irony, from illudere mock at, literally to play
+with, from assimilated form of in- at, upon (see in- (2)) + ludere to play (see ludicrous). Sense of
+deceptive appearance developed in Church Latin and was attested in English by late 14c. Related:
+Illusioned full of illusions (1920).
+
+
+humor (n.)
+
+mid-14c., fluid or juice of an animal or plant, from Old North French humour (Old French humor;
+Modern French humeur), from Latin umor body fluid (also humor, by false association with humus
+earth); related to umere be wet, moist, and to uvescere become wet, from PIE *wegw- wet.    In
+ancient and medieval physiology, any of the four body fluids (blood, phlegm, choler, and melancholy
+or black bile) whose relative proportions were thought to determine state of mind. This led to a
+sense of mood, temporary state of mind (first recorded 1520s); the sense of amusing quality,
+funniness is first recorded 1680s, probably via sense of whim, caprice (1560s), which also produced
+the verb sense of indulge, first attested 1580s. The pronunciation of the initial h is only of
+recent date, and is sometimes omitted .... [OED] For types of humor, see the useful table below,
+from H.W. Fowler [Modern English Usage, 1926].   <table width=90% bgcolor=#CCFFFF align=center
+cellspacing=1 cellpadding=4 border=1> <tr> <td><b>device</b></td> <td>HUMOR</td> <td>WIT</td>
+<td>SATIRE</td> <td>SARCASM</td> <td>INVECTIVE</td> <td>IRONY</td> <td>CYNICISM</td>
+<td>SARDONIC</td> </tr> <tr> <td><b>motive/aim</b></td> <td>discovery</td> <td>throwing light</td>
+<td>amendment</td> <td>inflicting pain</td> <td>discredit</td> <td>exclusiveness</td> <td>self-
+justification</td> <td>self-relief</td> </tr> <tr> <td><b>province</b></td> <td>human nature</td>
+<td>words &amp; ideas</td> <td>morals &amp; manners</td> <td>faults &amp; foibles</td>
+<td>misconduct</td> <td>statement of facts</td> <td>morals</td> <td>adversity</td> </tr> <tr>
+<td><b>method/means</b></td> <td>observation</td> <td>surprise</td> <td>accentuation</td>
+<td>inversion</td> <td>direct statement</td> <td>mystification</td> <td>exposure of nakedness</td>
+<td>pessimism</td> </tr> <tr> <td><b>audience</b></td> <td>the sympathetic</td> <td>the
+intelligent</td> <td>the self-satisfied</td> <td>victim &amp; bystander</td> <td>the public</td>
+<td>an inner circle</td> <td>the respectable</td> <td>the self</td> </tr> </table>
+
+

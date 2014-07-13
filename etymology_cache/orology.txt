@@ -3,3 +3,11 @@ horology (n.)
 science of time, 1819, probably from Greek hora hour (see hour) + -logy. Earlier it meant clock,
 clock dial (c.1500), from Latin horologium. Related: Horologist.
 
+
+meteorology (n.)
+
+science of the atmosphere, weather forecasting, 1610s, from French m&eacute;t&eacute;orologie and
+directly from Greek meteorologia treatise on celestial phenomena, discussion of high things, from
+meteoron, literally thing high up (see meteor), + -logia treatment of (see -logy).
+
+

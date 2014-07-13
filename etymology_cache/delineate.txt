@@ -3,3 +3,29 @@ delineate (v.)
 1550s, from Latin delineatus, past participle of delineare to sketch out, from de- completely (see
 de-) + lineare draw lines, from linea line (see line (n.)). Related: Delineated; delineating.
 
+
+delineation (n.)
+
+1560s, native formation from delineate, or else from Latin delineationem (nominative delineatio)
+sketch, description, noun of action from past participle stem of delineare (see delineate).
+
+
+diagram (n.)
+
+1610s, from French diagramme, from Latin diagramma, from Greek diagramma geometric figure, that
+which is marked out by lines, from diagraphein mark out by lines, delineate, from dia- across, out
+(see dia-) + graphein write, mark, draw (see -graphy). The verb is 1840, from the noun.
+
+
+trace (v.)
+
+late 14c., follow (a course); draw a line, make an outline of something, also figurative; ponder,
+investigate, from Old French tracier look for, follow, pursue (12c., Modern French tracer), from
+Vulgar Latin *tractiare delineate, score, trace (source also of Spanish trazar to trace, devise,
+plan out, Italian tracciare to follow by foot), a frequentative form from Latin tractus track,
+course, literally a drawing out, from past participle stem of trahere to pull, draw (see tract
+(n.1)).    Meaning move along, pass over (a path, etc.) is attested from c.1400; that of track down,
+follow the trail of is early 15c. Meaning copy a drawing on a transparent sheet laid over it is
+recorded from 1762. Related: Traced; tracing.
+
+

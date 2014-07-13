@@ -1,9 +1,34 @@
 chore (n.)
 
 1751, American English, variant of char, from Middle English cherre odd job, from Old English cerr,
-cierr turn, change, time, occasion, affair business.  <blockquote> Chore, a corruption of char, is
-an English word, still used in many parts of England, as a char-man, a char-woman; but in America,
-it is perhaps confined to New England. It signifies small domestic jobs of work, and its place
-cannot be supplied by any other single word in the language. [Noah Webster, Dissertations on the
-English Language, 1789]  </blockquote>
+cierr turn, change, time, occasion, affair business.   Chore, a corruption of char, is an English
+word, still used in many parts of England, as a char-man, a char-woman; but in America, it is
+perhaps confined to New England. It signifies small domestic jobs of work, and its place cannot be
+supplied by any other single word in the language. [Noah Webster, Dissertations on the English
+Language, 1789]
+
+
+charwoman (n.)
+
+1590s, from Middle English char, cherre turn of work (see chore) + woman. An Alicia Charwoman
+appears in the Borough of Nottingham records in 1379.
+
+
+axe (n.)
+
+Old English &aelig;ces (Northumbrian acas) axe, pickaxe, hatchet, later &aelig;x, from Proto-
+Germanic *akusjo (cognates: Old Saxon accus, Old Norse ex, Old Frisian axe, German Axt, Gothic
+aqizi), from PIE *agw(e)si- (cognates: Greek axine, Latin ascia).    The spelling ax is better on
+every ground, of etymology, phonology, and analogy, than axe, which became prevalent during the 19th
+century; but it is now disused in Britain. [OED]   <hr />   The spelling ax, though better on every
+ground, of etymology, phonology, &amp; analogy (OED), is so strange to 20th-c. eyes that it suggests
+pedantry &amp; is unlikely to be restored. [Fowler]    Meaning musical instrument is 1955,
+originally jazz slang for the saxophone; rock slang for guitar dates to 1967. The axe in figurative
+sense of cutting of anything (expenses, workers, etc.), especially as a cost-saving measure, is from
+1922, probably from the notion of the headman's literal axe (itself attested from mid-15c.). To have
+an axe to grind is from an 1815 essay by U.S. editor and politician Charles Miner (1780-1865) in
+which a man flatters a boy and gets him to do the chore of axe-grinding for him, then leaves without
+offering thanks or recompense. Misattributed to Benjamin Franklin in Weekley, OED print edition, and
+many other sources.
+
 

@@ -6,3 +6,24 @@ from Latin depositionem (nominative depositio), noun of action from past partici
 of depositing is from 1590s. Properly, deposition belongs to deposit, but deposit and depose have
 become totally confused and English deposition partakes of senses belonging to both.
 
+
+deponent (adj.)
+
+1520s, originally grammatical (of verbs passive in form but active in sense), from Latin deponentem
+putting down or aside, present participle of deponere (see deposit (v.)). Noun meaning one who makes
+a deposition is from 1540s.
+
+
+tale (n.)
+
+Old English talu series, calculation, also story, tale, statement, deposition, narrative, fable,
+accusation, action of telling, from Proto-Germanic *talo (cognates: Dutch taal speech, language,
+Danish tale speech, talk, discourse, German Erz&#228;hlung story, Gothic talzjan to teach), from PIE
+root *del- (2) to recount, count. The secondary Modern English sense of number, numerical reckoning
+(c.1200) probably was the primary one in Germanic; see tell (v.), teller and Old Frisian tale,
+Middle Dutch tal, Old Saxon tala, Danish tal, Old High German zala, German Zahl number.    The
+ground sense of the Modern English word in its main meaning, then, might have been an account of
+things in their due order. Related to talk (v.) and tell (v.). Meaning things divulged that were
+given secretly, gossip is from mid-14c.; first record of talebearer tattletale is late 15c.
+
+

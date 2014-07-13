@@ -4,3 +4,99 @@ invective (n.)
 invectus, past participle of invehi to attack with words (see inveigh). For nuances of usage, see
 humor. The earlier noun form was inveccion (mid-15c.).
 
+
+taunt (n.)
+
+1520s, bitter invective, probably from taunt (v.).
+
+
+iambic
+
+1570s (n.); 1580s (adj.), from Latin iambicus, from Greek iambikos, from iambos metrical foot of one
+unaccented followed by one accented syllable, from iaptein to assail (in words), literally to put
+forth. The meter of invective and lampoon in classical Greek from the time it was used for such by
+Archilochos, 7c. B.C.E.
+
+
+flame (v.)
+
+early 14c., flamen, from Old French flamer, from flamme (see flame (n.)). The sense of unleash
+invective on a computer network is from 1980s. Related: Flamed; flaming.
+
+
+philippic (n.)
+
+1590s, bitter invective discourse, from Middle French philippique, from Latin (orationes)
+Philippic&aelig;, translation of Greek Philippikoi (logoi), the speeches made in Athens by
+Demosthenes in 351-341 B.C.E. urging Greeks to unite and fight the rising power of Philip II of
+Macedon. The Latin phrase was used of the speeches made by Cicero against Marc Antony in 44 and 43
+B.C.E.
+
+
+diatribe (n.)
+
+1640s (in Latin form in English from 1580s), discourse, critical dissertation, from French diatribe
+(15c.), from Latin diatriba learned discussion, from Greek diatribe employment, study, in Plato,
+discourse, literally a wearing away (of time), from dia- away (see dia-) + tribein to wear, rub,
+from PIE root *tere- (1) to rub, turn, twist (see throw (v.)). Sense of invective is 1804,
+apparently from French.
+
+
+dozen (n.)
+
+c.1300, from Old French dozaine a dozen, from doze (12c.) twelve, from Latin duodecim twelve, from
+duo two + decem ten (see ten).    The Old French fem. suffix -aine is characteristically added to
+cardinals to form collectives in a precise sense (exactly 12, not about 12). The dozens invective
+contest (1928) originated in slave culture, the custom probably African, the word probably from
+bulldoze (q.v.) in its original sense of a whipping, a thrashing.
+
+
+scathe (v.)
+
+c.1200, from Old Norse ska&eth;a to hurt, harm, damage, injure, from Proto-Germanic *skath-
+(cognates: Old English scea&thorn;ian to hurt, injure, Old Saxon skathon, Old Frisian skethia,
+Middle Dutch scaden, Dutch schaden, Old High German scadon, German schaden, Gothic sca&thorn;jan to
+injure, damage), from PIE root *sket- to injure. Only cognate outside Germanic seems to be in Greek
+a-skethes unharmed, unscathed.    It survives mostly in its negative form, unscathed, and in
+figurative meaning sear with invective or satire (1852, usually as scathing) which developed from
+the sense of scar, scorch used by Milton in Paradise Lost i.613 (1667).
+
+
+smear (v.)
+
+Old English smerian, smierwan to anoint or rub with grease, oil, etc., from Proto-Germanic *smerwjan
+to spread grease on (cognates: Old Norse smyrja to anoint, rub with ointment, Danish sm&oslash;re,
+Swedish sm&ouml;rja, Dutch smeren, Old High German smirwen apply salve, smear, German schmieren to
+smear; Old Norse sm&#246;r butter), from PIE *smeru- grease (cognates: Greek myron unguent, balsam,
+Old Irish smi(u)r marrow, Old English smeoru fat, grease, ointment, tallow, lard, suet, Lithuanian
+smarsas fat).    Figurative sense of assault a public reputation with unsubstantiated charges is
+from 1879. Related: Smeared; smearing. Smear-word, one used regardless of its literal meaning but
+invested with invective, is from 1938.
+
+
+humor (n.)
+
+mid-14c., fluid or juice of an animal or plant, from Old North French humour (Old French humor;
+Modern French humeur), from Latin umor body fluid (also humor, by false association with humus
+earth); related to umere be wet, moist, and to uvescere become wet, from PIE *wegw- wet.    In
+ancient and medieval physiology, any of the four body fluids (blood, phlegm, choler, and melancholy
+or black bile) whose relative proportions were thought to determine state of mind. This led to a
+sense of mood, temporary state of mind (first recorded 1520s); the sense of amusing quality,
+funniness is first recorded 1680s, probably via sense of whim, caprice (1560s), which also produced
+the verb sense of indulge, first attested 1580s. The pronunciation of the initial h is only of
+recent date, and is sometimes omitted .... [OED] For types of humor, see the useful table below,
+from H.W. Fowler [Modern English Usage, 1926].   <table width=90% bgcolor=#CCFFFF align=center
+cellspacing=1 cellpadding=4 border=1> <tr> <td><b>device</b></td> <td>HUMOR</td> <td>WIT</td>
+<td>SATIRE</td> <td>SARCASM</td> <td>INVECTIVE</td> <td>IRONY</td> <td>CYNICISM</td>
+<td>SARDONIC</td> </tr> <tr> <td><b>motive/aim</b></td> <td>discovery</td> <td>throwing light</td>
+<td>amendment</td> <td>inflicting pain</td> <td>discredit</td> <td>exclusiveness</td> <td>self-
+justification</td> <td>self-relief</td> </tr> <tr> <td><b>province</b></td> <td>human nature</td>
+<td>words &amp; ideas</td> <td>morals &amp; manners</td> <td>faults &amp; foibles</td>
+<td>misconduct</td> <td>statement of facts</td> <td>morals</td> <td>adversity</td> </tr> <tr>
+<td><b>method/means</b></td> <td>observation</td> <td>surprise</td> <td>accentuation</td>
+<td>inversion</td> <td>direct statement</td> <td>mystification</td> <td>exposure of nakedness</td>
+<td>pessimism</td> </tr> <tr> <td><b>audience</b></td> <td>the sympathetic</td> <td>the
+intelligent</td> <td>the self-satisfied</td> <td>victim &amp; bystander</td> <td>the public</td>
+<td>an inner circle</td> <td>the respectable</td> <td>the self</td> </tr> </table>
+
+

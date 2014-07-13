@@ -4,3 +4,157 @@ linguistic (adj.)
 pertaining to language or languages is hardly justifiable etymologically, according to OED, but has
 arisen because lingual suggests irrelevant associations. Related: linguistically.
 
+
+linguistics (n.)
+
+the science of languages, 1847; see linguistic; also see -ics.
+
+
+Semitic (adj.)
+
+1797, denoting the language group that includes Hebrew, Arabic, Aramaic, Assyrian, etc.; 1826 as of
+or pertaining to Semites, from Medieval Latin Semiticus (source of Spanish semitico, French
+semitique, German semitisch), from Semita (see Semite). As a noun, as the name of a linguistic
+family, from 1813. In non-linguistic use, perhaps directly from German semitisch. In recent use
+often with the specific sense Jewish, but not historically so limited.
+
+
+Panslavism (n.)
+
+1846, from German Pansclavismus, coined as a linguistic term by Herkel in 1826.
+
+
+analgesic (adj.)
+
+tending to remove pain, 1848, from analgesia + -ic. Alternative form analgetic is preferred by
+linguistic purists but is less common in use. The noun meaning an analgesic preparation recorded by
+1860.
+
+
+Altaic
+
+1832 as a linguistic family, from French Alta&#239;que, from Alta&#239;en, from Altai, name of a
+mountain range in Asia.
+
+
+synchronic (adj.)
+
+occurring at the same time, 1775, shortening of synchronical (1650s), from Late Latin synchronus
+simultaneous (see synchronous). Linguistic sense is first recorded 1922, probably a borrowing from
+French synchronique (de Saussure, 1913). Synchronal simultaneous is from 1650s. Related:
+synchronically.
+
+
+did (v.)
+
+Old English dyde, past tense of do (v.). The only remainder in Germanic of the old linguistic
+pattern of forming a past tense by reduplication of the stem of the present tense. Far back in
+Germanic the equivalent of did was used as a suffix to make the past tenses of other verbs, hence
+the English -ed suffix (Old English -de).
+
+
+Gramophone (n.)
+
+1887, trademark by German-born U.S. inventor Emil Berliner (1851-1929), an inversion of phonogram
+(1884) the tracing made by a phonograph needle, coined from Greek phone voice, sound (see fame (n.))
++ gramma something written (see grammar).    Berliner's machine used a flat disc and succeeded with
+the public. Edison's phonograph used a cylinder and did not. Despised by linguistic purists (Weekley
+calls gramophone An atrocity formed by reversing phonogram) who tried to at least amend it to
+grammophone, it was replaced by record player after mid-1950s.
+
+
+philology (n.)
+
+late 14c., love of learning, from Latin philologia love of learning, love of letters, love of study,
+literary culture, from Greek philologia love of discussion, learning, and literature; studiousness,
+from philo- loving (see philo-) + logos word, speech (see logos).    Meaning science of language is
+first attested 1716 (philologue linguist is from 1590s; philologer linguistic scholar is from
+1650s); this confusing secondary sense has not been popular in the U.S., where linguistics is
+preferred. Related: Philological.
+
+
+angry (adj.)
+
+late 14c., from anger (n.) + -y (2). Originally full of trouble, vexatious; sense of enraged, irate
+also is from late 14c. The Old Norse adjective was ongrfullr sorrowful, and Middle English had
+angerful anxious, eager (mid-13c.). The phrase angry young man dates to 1941 but was popularized in
+reference to the play Look Back in Anger (produced 1956) though it does not occur in that work.
+There are three words in the English language that end in -gry. Two of them are angry and hungry.
+What is the third? There is no third (except some extremely obscure ones). Richard Lederer calls
+this one of the most outrageous and time-wasting linguistic hoaxes in our nation's history and
+traces it to a New York TV quiz show from early 1975.
+
+
+autocar (n.)
+
+1895, from auto- + car.   <b>Which is it to be?</b> We observe that the London Times has lent the
+weight of its authority to the word autocar, which it now prints without the significant inverted
+commas but with a hyphen, auto-car. We believe that the vocable originated with a journal called the
+Hardwareman, which succeeded in obtaining the powerful support of the Engineer for its offspring. As
+for ourselves, being linguistic purists, we do not care for hybrid constructions--auto is Greek,
+while car is Latin and Celtic. At the same time, such clumsy phrases as horseless carriages,
+mechanical road carriages, and self-propelled vehicles are not meeting with general favour. Why not
+therefore adopt the philogically sound motor-car, which could be run into a single word, motorcar?
+[The Electrical Engineer, Dec. 20, 1895]
+
+
+etymology (n.)
+
+late 14c., ethimolegia facts of the origin and development of a word, from Old French et(h)imologie
+(14c., Modern French &eacute;tymologie), from Latin etymologia, from Greek etymologia, properly
+study of the true sense (of a word), from etymon true sense (neuter of etymos true, real, actual,
+related to eteos true) + -logia study of, a speaking of (see -logy).    In classical times, of
+meanings; later, of histories. Latinized by Cicero as veriloquium. As a branch of linguistic
+science, from 1640s. Related: Etymological; etymologically.
+
+
+Samoyed (n.)
+
+Siberian Mongolian people, 1580s, from Russian samoyed (11c.), traditionally literally self-eaters,
+i.e. cannibals (the first element cognate with same, the second with eat), but this might be Russian
+folk etymology of a native name:    The common Russian etymology of the name Samoyed, meaning self-
+eater, deepened the Russians' already exotic image of far-northerners. The most probable linguistic
+origin of Samoyed, however, is from the Saami -- saam-edne, land of the people [Andrei V. Golovnev
+and Gail Osherenko, Siberian Survival: The Nenets and Their Story, Cornell University, 1999]
+Which would make the name a variant of Suomi Finn. The native name is Nenets. As the name of a type
+of dog (once used as a working dog in the Arctic) it is attested from 1889.
+
+
+vampire (n.)
+
+spectral being in a human body who maintains semblance of life by leaving the grave at night to suck
+the warm blood of the living as they sleep, 1734, from French vampire (18c.) or German Vampir (1732,
+in an account of Hungarian vampires), from Hungarian vampir, from Old Church Slavonic opiri
+(cognates: Serbian vampir, Bulgarian vapir, Ukrainian uper), said by Slavic linguist Franc
+Miklo&#353;i&#269; to be ultimtely from Kazan Tatar ubyr witch, but Max Vasmer, an expert in this
+linguistic area, finds that phonetically doubtful. An Eastern European creature popularized in
+English by late 19c. gothic novels, however there are scattered English accounts of night-walking,
+blood-gorged, plague-spreading undead corpses from as far back as 1196. Figurative sense of person
+who preys on others is from 1741. Applied 1774 by French biologist Buffon to a species of South
+American blood-sucking bat. Related: Vampiric.
+
+
+bloody (adj.)
+
+Old Engish blodig, adjective from blod (see blood). Common Germanic, compare Old Frisian blodich,
+Old Saxon bl&#244;dag, Dutch bloedig, Old High German bluotag, German blutig.    It has been a
+British intensive swear word since at least 1676. Weekley relates it to the purely intensive use of
+the cognate Dutch bloed, German Blut. But perhaps it ultimately is connected with bloods in the
+slang sense of rowdy young aristocrats (see blood (n.)) via expressions such as bloody drunk as
+drunk as a blood.    Partridge reports that it was respectable before c.1750, and it was used by
+Fielding and Swift, but heavily tabooed c.1750-c.1920, perhaps from imagined association with
+menstruation; Johnson calls it very vulgar, and OED writes of it, now constantly in the mouths of
+the lowest classes, but by respectable people considered 'a horrid word', on par with obscene or
+profane language.    The onset of the taboo against bloody coincides with the increase in linguistic
+prudery that presaged the Victorian Era but it is hard to say what the precise cause was in the case
+of this specific word. Attempts have been made to explain the term's extraordinary shock power by
+invoking etymology. Theories that derive it from such oaths as By our Lady or God's blood seem
+farfetched, however. More likely, the taboo stemmed from the fear that many people have of blood
+and, in the minds of some, from an association with menstrual bleeding. Whatever, the term was
+debarred from polite society during the whole of the nineteenth century. [Rawson]    Shaw shocked
+theatergoers when he put it in the mouth of Eliza Doolittle in Pygmalion (1914), and for a time the
+word was known euphemistically as the Shavian adjective. It was avoided in print as late as 1936.
+Bloody Sunday, Jan. 30, 1972, when 13 civilians were killed by British troops at protest in
+Londonderry, Northern Ireland.
+
+

@@ -4,3 +4,40 @@ automaton (n.)
 autos self (see auto-) + matos thinking, animated, willing, from PIE *mn-to-, from root *men- to
 think (see mind (n.)).
 
+
+automatize (v.)
+
+1837, to make into an automaton; see automaton + -ize. Meaning to make automatic attested by 1952.
+Related: Automatized; automatizing.
+
+
+golem (n.)
+
+artificial man, automaton, 1897, from Hebrew golem [Psalm cxxxix:16] shapeless mass, embryo, from
+galam he wrapped up, folded.
+
+
+idiomatic (adj.)
+
+1712, from Latin idiomaticus, from Greek idiomatikos; from idios one's own (see idiom) + matos
+thinking, animated (see automaton).
+
+
+automatic (adj.)
+
+self-acting, moving or acting on its own, 1812, from Greek automatos, used of the gates of Olympus
+and the tripods of Hephaestus (also without apparent cause, by accident), from autos self (see
+auto-) + matos thinking, animated (see automaton). Of involuntary animal or human actions, from
+1748, first used in this sense by English physician and philosopher David Hartley (1705-1757). In
+reference to a type of firearm, from 1877; specifically of machinery that imitates human-directed
+action from 1940.
+
+
+android (n.)
+
+automaton resembling a human being, 1842, from Modern Latin androides (itself attested as a Latin
+word in English from 1727), from Greek andro- human (see andro-) + eides form, shape. Greek androdes
+meant like a man, manly; compare also Greek andrias image of a man, statue. Listed as rare in OED
+1st edition (1879), popularized from c.1951 by science fiction writers.
+
+

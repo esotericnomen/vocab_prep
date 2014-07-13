@@ -1,6 +1,26 @@
 agnosticism (n.)
 
-1870, from agnostic + -ism.  <blockquote>  The agnostic does not simply say, I do not know. He goes
-another step, and he says, with great emphasis, that you do not know. [Robert G. Ingersoll, Reply to
-Dr. Lyman Abbott, 1890]  </blockquote>
+1870, from agnostic + -ism.    The agnostic does not simply say, I do not know. He goes another
+step, and he says, with great emphasis, that you do not know. [Robert G. Ingersoll, Reply to Dr.
+Lyman Abbott, 1890]
+
+
+agnostic (n.)
+
+1870, one who professes that the existence of a First Cause and the essential nature of things are
+not and cannot be known [Klein]; coined by T.H. Huxley (1825-1895), supposedly in September 1869,
+from Greek agnostos unknown, unknowable, from a- not + gnostos (to be) known (see gnostic).
+Sometimes said to be a reference to Paul's mention of the altar to the Unknown God, but according to
+Huxley it was coined with reference to the early Church movement known as Gnosticism (see Gnostic).I
+... invented what I conceived to be the appropriate title of 'agnostic,' ... antithetic to the
+'Gnostic' of Church history who professed to know so much about the very things of which I was
+ignorant. [T.H. Huxley, Science and Christian Tradition, 1889]  The adjective is first recorded
+1870.
+
+
+prosopagnosia (n.)
+
+1950, Medical Latin from German prosopagnosie (1948), from Greek prosopon face (see prosopopeia) +
+agnosia ignorance (see agnostic).
+
 

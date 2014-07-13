@@ -2,3 +2,310 @@ foul (v.)
 
 Old English fulian to become foul, rot, from ful (see foul (adj.)). Related: Fouled; fouling.
 
+
+foul (adj.)
+
+Old English ful rotten, unclean, vile, corrupt, offensive to the senses, from Proto-Germanic *fulaz
+(cognates: Old Saxon and Old Frisian ful, Middle Dutch voul, Dutch vuil, Old High German f&uuml;l,
+German faul, Gothic f&uuml;ls), from root *fu-, corresponding to PIE *pu-, perhaps from the sound
+made in reaction to smelling something bad (compare Sanskrit puyati rots, stinks, putih foul,
+rotten; Greek puon discharge from a sore; Latin pus putrid matter, putere to stink, putridus rotten;
+Lithuanian puviu to rot).  Old English ful occasionally meant ugly (as contrasted with f&aelig;ger
+(adj.), modern fair (adj.)), a sense frequently found in Middle English, and the cognate in Swedish
+is the usual word for ugly. Of weather, first recorded late 14c. In the sporting sense of irregular,
+unfair it is first attested 1797, though foul play is recorded from mid-15c. Baseball sense of out
+of play attested by 1860. Foulmart was a Middle English word for polecat (from Old English mear&eth;
+marten).
+
+
+foul-mouthed (adj.)
+
+also foulmouthed, 1590s, apparently first in Shakespeare [Henry IV, 1596].
+
+
+foulness (n.)
+
+Old English fulness foulness, filthy smell; see foul (adj.) + -ness.
+
+
+foully (adv.)
+
+Old English fullice; see foul (adj.) + -ly (2).
+
+
+defile (v.)
+
+c.1400, to desecrate, profane; mid-15c., to make foul or dirty, alteration of earlier defoulen, from
+Old French defouler trample down, violate, also ill-treat, dishonor, from de- down (see de-) + foler
+to tread, from Latin fullo person who cleans and thickens cloth by stamping on it  (see foil (v.)).
+The alteration (or re-formation) in English is from influence of Middle English filen (v.) to render
+foul; make unclean or impure, literal and figurative, from Old English fylen (trans.), related to
+Old English fulian (intrans.) to become foul, rot, from the source of foul (adj.). Compare befoul,
+which also had a parallel form befilen. Related: Defiled; defiling.
+
+
+filth (n.)
+
+Old English fyl&eth; uncleanness, impurity, from Proto-Germanic *fulitho (cognates: Old Saxon
+fulitha foulness, filth, Dutch vuilte, Old High German fulida), noun derivative of *fulo- foul (see
+foul (adj.)). A classic case of i-mutation.
+
+
+pus (n.)
+
+late 14c., from Latin pus pus, matter from a sore; figuratively bitterness, malice (related to puter
+rotten; see putrid), from PIE *pu- (2) to rot, decay (cognates: Sanskrit puyati rots, stinks, putih
+stinking, foul; Greek puon discharge from a sore, pythein to cause to rot; Gothic fuls, Old English
+ful foul), perhaps originally echoic of a natural exclamation of disgust.
+
+
+sordid (adj.)
+
+early 15c., festering, from Latin sordidus dirty, filthy, foul, vile, mean, base, from sordere be
+dirty, be shabby, related to sordes dirt, filth, from PIE *swrd-e-, from root *swordo- black, dirty
+(cognates: Old English sweart black). Sense of foul, low, mean first recorded 1610s. Related:
+Sordidly; sordidness.
+
+
+stinkhorn (n.)
+
+type of foul-smelling fungus, 1724, from stink + horn (n.), for its shape.
+
+
+whiff (n.)
+
+13c., weffe foul scent or odor, of imitative origin. Modern form became popular late 16c. with
+tobacco smoking, probably influenced by whiffle blow in gusts or puffs (1560s). The verb in the
+baseball slang sense to swing at a ball and miss first recorded 1913.
+
+
+profanity (n.)
+
+c.1600, from Late Latin profanitas, from Latin profanus (see profane (adj.)). Extended sense of foul
+language is from Old Testament commandment against profaning the name of the Lord.
+
+
+afoul (adv.)
+
+1809, originally nautical, in collision or entanglement, from a- (1) + foul (adj.). From 1833 in
+general sense of in violent or hostile conflict, mainly in phrases such as run afoul of.
+
+
+ventilation (n.)
+
+process of replacing foul air in an enclosed place with fresh, pure air, 1660s, from Latin
+ventilationem (nominative ventilatio) an exposing to the air, noun of action from past participle
+stem of ventilare (see ventilate).
+
+
+loathsome (adj.)
+
+c.1300, foul, detestable, from loath in its older, stronger sense + -some (1). Related: Loathsomely;
+loathsomeness.
+
+
+pediculosis (n.)
+
+lice infestation, 1809, with -osis + pediculus, diminutive of pedis a louse, said in some sources to
+be akin to pedere to break wind (see petard) on notion of foul-smelling insect [Watkins].
+
+
+feist (n.)
+
+also fist, a breaking wind, foul smell, fart, mid-15c. (Old English had present participle fisting),
+a general West Germanic word with cognates in Middle Dutch veest, Dutch vijst (see feisty).
+
+
+ordure (n.)
+
+late 14c., from Old French ordure filth, uncleanliness (12c.), from ord, ort filthy, dirty, foul,
+from Latin horridus dreadful (see horrid).
+
+
+obscenity (n.)
+
+1580s, obscene quality, from French obsc&#233;nit&#233;, from Latin obscenitatem (nominative
+obscenitas) inauspiciousness, filthiness, from obscenus offensive (see obscene). Meaning a foul or
+loathsome act is 1610s. Sense of an obscene utterance or word is attested by 1690. Related:
+Obscenities.
+
+
+befoul (v.)
+
+early 14c., from be- + foul (v.). Related: Befouled; befouling.
+
+
+scold (n.)
+
+mid-12c., person of ribald speech, later person fond of abusive language (c.1300), especially a
+shrewish woman [Johnson defines it as A clamourous, rude, mean, low, foul-mouthed woman], from Old
+Norse skald poet (see skald). The sense evolution might reflect the fact that Germanic poets (like
+their Celtic counterparts) were famously feared for their ability to lampoon and mock (as in
+skaldskapr poetry, also, in Icelandic law books, libel in verse).
+
+
+impure (adj.)
+
+mid-15c., from Middle French impur (13c.), from Latin impurus unclean, filthy, foul, from
+assimilated form of in- not, opposite of (see in- (1)) + purus pure (see pure). As a noun from 1784.
+Related: Impurely.
+
+
+pollute (v.)
+
+late 14c., to defile, a back formation from pollution, or else from Latin pollutus, past participle
+of polluere to defile, pollute, contaminate. Related: Polluted; polluting. Meaning make physically
+foul is from 1540s; specific sense contaminate the environment emerged from late 19c.
+
+
+squamous (adj.)
+
+1540s, from Latin squamosus covered with scales, scaly, from squama scale, perhaps related to
+squalus foul, filthy (see squalid). Middle English had squame a scale (late 14c.), from Old French
+esquame, from Latin squama. Alternative form squamose attested from 1660s.
+
+
+viscous (adj.)
+
+late 14c., from Anglo-French viscous and directly from Late Latin viscosus sticky, from Latin viscum
+anything sticky, birdlime made from mistletoe, mistletoe, probably from PIE root *weis- to melt
+away, flow (used of foul or malodorous fluids); see virus.
+
+
+malaria (n.)
+
+1740, from Italian mal'aria, from mala aria, literally bad air, from mala bad (fem. of malo, from
+Latin malus; see mal-) + aria air (see air (n.1)). Probably first used by Italian physician
+Francisco Torti (1658-1741). The disease, now known to be mosquito-borne, once was thought to be
+caused by foul air in marshy districts. Replaced native ague.
+
+
+soil (v.)
+
+early 13c., to defile or pollute with sin, from Old French soillier to splatter with mud, to foul or
+make dirty, originally to wallow (12c., Modern French souillier), from souil tub, wild boar's
+wallow, pigsty, which is from either Latin solium tub for bathing; seat, or Latin suculus little
+pig, from sus pig. Literal meaning to make dirty, begrime is attested from c.1300 in English.
+Related: Soiled; soiling.
+
+
+vile (adj.)
+
+late 13c., morally repugnant; morally flawed, corrupt, wicked; of no value; of inferior quality;
+disgusting, foul, ugly; degrading, humiliating; of low estate, without worldly honor or esteem, from
+Anglo-French ville, Old French vil shameful, dishonorable; low-born; cheap; ugly, hideous, from
+Latin vilis cheap, worthless, base, common, of uncertain origin, perhaps from PIE root *wes- (1) to
+buy, sell (see venal). Related: Vilely; vileness; vilety (early 13c.).
+
+
+technical (adj.)
+
+1610s, skilled in a particular art or subject, formed in English from technic + -al (1), or in part
+from Greek tekhnikos of art; systematic, in reference to persons skillful, artistic, from tekhne
+art, skill, craft (see techno-).    The sense narrowed to having to do with the mechanical arts
+(1727). Basketball technical foul (one which does not involve contact between opponents) is recorded
+from 1934. Boxing technical knock-out (one in which the loser is not knocked out) is recorded from
+1921; abbreviation TKO is from 1940s. Technical difficulty is from 1805.
+
+
+strike (n.)
+
+1580s, act of striking, from strike (v.). Meaning concentrated cessation of work by a body of
+employees is from 1810. Baseball sense is first recorded 1841, originally meaning any contact with
+the ball; modern sense developed by 1890s, apparently from foul strike, which counted against the
+batter, and as hit came to be used for contact with the ball this word was left for a swing and a
+miss that counts against the batter; figurative sense of have two strikes against (of a possible
+three) is from 1938. Bowling sense attested from 1859. Meaning sudden military attack is attested
+from 1942.
+
+
+weasel (n.)
+
+Old English weosule, wesle weasel, from Proto-Germanic *wisulon (cognates: Old Norse visla, Middle
+Dutch wesel, Dutch wezel, Old High German wisula, German Wiesel), probably related to Proto-Germanic
+*wisand- bison (see bison), with a base sense of stinking animal, because both animals have a foul,
+musky smell (compare Latin vissio stench). A John Wesilheued (John Weaselhead) turns up on the
+Lincolnshire Assize Rolls for 1384, but the name seems not to have endured, for some reason.
+Related: Weaselly.
+
+
+nasty (adj.)
+
+c.1400, foul, filthy, dirty, unclean, of unknown origin; perhaps [Barnhart] from Old French nastre
+miserly, envious, malicious, spiteful, shortened form of villenastre infamous, bad, from vilein
+villain + -astre, pejorative suffix, from Latin -aster.    Alternative etymology [OED] is from Dutch
+nestig dirty, literally like a bird's nest. Likely reinforced in either case by a Scandinavian
+source (compare Swedish dialectal naskug dirty, nasty), which also might be the source of the Middle
+English word. Of weather, from 1630s; of things generally, unpleasant, offensive, from 1705. Of
+people, ill-tempered, from 1825. Noun meaning something nasty is from 1935. Related: Nastily;
+nastiness.
+
+
+separate (adj.)
+
+detached, kept apart, c.1600, from separate (v.) or from Latin separatus. Separate but equal in
+reference to U.S. segregation policies on railroads is attested from 1888. Separate development,
+official name of apartheid in South Africa, is from 1955. Related: Separately (1550s); separateness.
+Frequently the colored coach is little better than a cattle car. Generally one half the smoking car
+is reserved for the colored car. Often only a cloth curtain or partition run half way up separates
+this so-called colored car from the smoke, obscene language, and foul air of the smokers' half of
+the car. All classes and conditions of colored humanity, from the most cultured and refined to the
+most degraded and filthy, without regard to sex, good breeding or ability to pay for better
+accommodation, are crowded into this separate, but equal (?) half car. [Rev. Norman B. Wood, The
+White Side of a Black Subject, 1897]
+
+
+virus (n.)
+
+late 14c., venomous substance, from Latin virus poison, sap of plants, slimy liquid, a potent juice,
+probably from PIE root *weis- to melt away, to flow, used of foul or malodorous fluids, with
+specialization in some languages to poisonous fluid (cognates: Sanskrit visam poison, visah
+poisonous; Avestan vish- poison; Latin viscum sticky substance, birdlime; Greek ios poison, ixos
+mistletoe, birdlime; Old Church Slavonic vi&#353;nja cherry; Old Irish fi poison; Welsh gwy fluid,
+water, gwyar blood). Main modern meaning agent that causes infectious disease first recorded 1728
+(in reference to venereal disease). The computer sense is from 1972.
+
+
+rank (adj.)
+
+Old English ranc proud, overbearing, showy, from Proto-Germanic *rankaz (cognates: Danish rank
+right, upright, German rank slender, Old Norse rakkr straight, erect), perhaps from PIE *reg- to
+stretch, straighten (see right (adj.)). In reference to plant growth, vigorous, luxuriant, abundant,
+copious it is recorded from c.1300. Related: Rankly; rankness.    Sense evolved in Middle English to
+large and coarse (c.1300), then, via notion of excessive and unpleasant, to corrupt, loathsome, foul
+(mid-14c.), perhaps from influence of Middle French rance rancid. In 17c. also lewd, lustful.
+Much used 16c. as a pejorative intensive (as in rank folly). This is possibly the source of the verb
+meaning to reveal another's guilt (1929, underworld slang), and that of to harass, abuse, 1934, U.S.
+black dialect, though this also may be from the role of the activity in establishing social
+hierarchy (from rank (n.)).
+
+
+fair (adj.)
+
+Old English f&aelig;ger beautiful, lovely, pleasant, from Proto-Germanic *fagraz (cognates: Old
+Saxon fagar, Old Norse fagr, Old High German fagar beautiful, Gothic fagrs fit), perhaps from PIE
+*pek- (1) to make pretty (cognates: Lithuanian puo&#353;iu I decorate).    The meaning in reference
+to weather (c.1200) preserves the original sense (opposed to foul). Sense of light-complexioned
+(1550s) reflects tastes in beauty; sense of free from bias (mid-14c.) evolved from another early
+meaning, morally pure, unblemished (late 12c.). The sporting senses (fair ball, fair catch etc.)
+began in 1856. Fair play is from 1590s; fair and square is from c.1600. Fair-haired in the
+figurative sense of darling, favorite is from 1909. First record of fair-weather friends is from
+1736.
+
+
+snake (n.)
+
+Old English snaca, from Proto-Germanic *snakon (cognates: Old Norse snakr snake, Swedish snok,
+German Schnake ring snake), from PIE root *sneg- to crawl, creeping thing (cognates: Old Irish
+snaighim to creep, Lithuanian snake snail, Old High German snahhan to creep). In Modern English,
+gradually replacing serpent in popular use.    Traditionally applied to the British serpent, as
+distinguished from the poisonous adder. Meaning treacherous person first recorded 1580s (compare Old
+Church Slavonic gadu reptile, gadinu foul, hateful). Applied from 17c. to various snake-like devices
+and appliances. Snakes! as an exclamation is from 1839.   Snake eyes in crap-shooting sense is from
+1919. Snake oil is from 1927. Snake-bitten unlucky is sports slang from 1957, from a literal sense,
+perhaps suggesting one doomed by being poisoned. The game of Snakes and Ladders is attested from
+1907. Snake charmer is from 1813. Snake pit is from 1883, as a supposed primitive test of truth or
+courage; figurative sense is from 1941. Phrase snake in the grass is from Virgil's Latet anguis in
+herba [Ecl. III:93].
+
+

@@ -6,3 +6,73 @@ helmet, from the same Germanic source as helm (n.2). Middle English Dictionary p
 without making a choice. Old English helm never became an active term in the standard vocabulary of
 English. [Barnhart]
 
+
+helm (n.1)
+
+handle of a tiller, late 13c., from Old English helma rudder; position of guidance, control, from
+Proto-Germanic *halbma- (cognates: Old Norse hjalm, Old High German helmo, German Helm handle), from
+PIE *kelp- to hold, grasp (see helve).
+
+
+helm (n.2)
+
+a helmet, c.1200, from Old English helm protection, covering; crown, helmet, and perhaps also from
+cognate Old Norse hjalmr, from Proto-Germanic *helmaz protective covering, from PIE *kel- (2) to
+cover, to hide (see cell). Italian elmo, Spanish yelmo are from Germanic.
+
+
+helmsman (n.)
+
+1620s, from helm (n.1) + man (n.).
+
+
+Anselm
+
+masc. proper name, from Latin Anselmus, from Old High German Ansehelm, literally having a divine
+helmet, from ansi god (see Asgard) + helm (see helm (n.2)).
+
+
+halberd (n.)
+
+late 15c., from Middle French hallebarde (earlier alabarde, 15c.), from Middle High German halmbarte
+broad-axe with handle, from halm handle (see helm) + barte hatchet, possibly from Proto-Germanic
+*bardoz beard, also hatchet, broadax. Alternative etymology [Kluge, Darmesteter] traces first
+element to helm helmet, making the weapon an axe for smashing helmets.
+
+
+lurch (n.1)
+
+sudden pitch to one side, 1784, from earlier lee-larches (1765), a nautical term for the sudden roll
+which a ship makes to lee-ward in a high sea, when a large wave strikes her, and bears her weather-
+side violently up, which depresses the other in proportion [Complete Dictionary of Arts and
+Sciences, London 1765]; perhaps from French lacher to let go, from Latin laxus (see lax).    When a
+Ship is brought by the Lee, it is commonly occa&#383;sioned by a large Sea, and by the Neglect of
+the Helm's-man. When the Wind is two or three Points on the Quarter, the Ship taking a Lurch, brings
+the Wind on the other Side, and lays the Sails all dead to the Ma&#383;t; as the Yards are braced
+up, &#383;he then having no Way, and the Helm being of no Service, I would therefore brace about the
+Head &#383;ails &#383;harp the other Way .... [John Hamilton Moore, Practical Navigator, 8th ed.,
+1784]
+
+
+Kenelm
+
+masc. proper name, Old English Cenhelm, from cene brave, bold (see keen (adj.)) + helm helmet (see
+helmet).
+
+
+William
+
+masc. proper name, from Old North French Willaume, Norman form of French Guillaume, of Germanic
+origin (cognates: Old High German Willahelm, German Wilhelm), from willio will (see will (n.)) +
+helma helmet, from Proto-Germanic *helmaz protective covering (see helm (n.2)). After the Conquest,
+the most popular given name in England until supplanted by John.
+
+
+helve (n.)
+
+Old English helfe, hielfe handle of an axe or other tool or weapon, from Proto-Germanic *halb-
+(cognates: Old Saxon helvi, Middle Dutch helf, Old High German halb handle of an axe, Old High
+German helmo tiller); related to halter and helm (1), from PIE *kelp- to hold, grasp. In Middle
+English, to holden the axe bi the helve (c.1200) meant to take something by the right end.
+
+

@@ -7,3 +7,169 @@ English weak verb hreowian feel pain or sorrow, and perhaps influenced by Old No
 sad, both from Proto-Germanic *khruwjan, all from PIE root *kreue- (2) to push, strike (see
 anacrusis). Related: Rued; ruing.
 
+
+rue (n.1)
+
+perennial evergreen shrub, late 14c., from Old French rue (13c.), earlier rude, from Latin ruta rue,
+probably from Greek rhyte, of uncertain etymology, originally a Peloponnesian word. The bitter taste
+of its leaves led to many punning allusions to rue (n.2.).
+
+
+rue (n.2)
+
+sorrow, repentance, Old English hreow grief, repentance, sorrow, regret, penitence, common Germanic
+(Frisian rou, Middle Dutch rou, Dutch rouw, Old High German (h)riuwa, German reue), related to the
+root of rue (v.).
+
+
+rue (n.3)
+
+French for street, from Vulgar Latin *ruga (source also of Old Italian ruga), properly a furrow,
+then in Medieval Latin a path, street (see rough (adj.)).
+
+
+rueful (adj.)
+
+early 13c., rewfulle, reowfule, from rue (n.2) + -ful. Related: Ruefulness.
+
+
+ruefully (adv.)
+
+early 13c., reufulike; see rueful + -ly (2).
+
+
+accrue (v.)
+
+mid-15c., from Old French acreue growth, increase, what has grown, fem. of acreu, past participle of
+acreistre (Modern French accro&icirc;tre) to increase, from Latin accrescere (see accretion).
+Related: Accrued; accruing. Apparently a verb from a French noun because there is no English verb to
+go with it until much later, unless the record is defective.
+
+
+congruence (n.)
+
+mid-15c., from Latin congruentia agreement, harmony, congruity, from congruentem (nominative
+congruens), present participle of congruere to come together (see congruent). Related: Congruency.
+
+
+congruent (adj.)
+
+early 15c., suitable, proper, from Latin congruentem (nominative congruens) agreeing, fit, suitable,
+present participle of congruere, literally to come together, agree, correspond with, from com- with
+(see com-) + a lost verb *gruere, *ruere fall, rush, perhaps from PIE *ghrei- to rub, grind (see
+chrism). Geometry sense attested by 1706.
+
+
+construe (v.)
+
+late 14c., from Late Latin construere to relate grammatically, in classical Latin to build up, pile
+together (see construction); also see construct (v.), which is a later acquisition of the same word.
+Related: Construed; construing; construal.
+
+
+cruel (adj.)
+
+early 13c., from Old French cruel (12c.), earlier crudel, from Latin crudelis rude, unfeeling;
+cruel, hard-hearted, related to crudus rough, raw, bloody (see crude). Related: Cruelly.
+
+
+cruelty (n.)
+
+early 13c., from Old French crualt&eacute; (12c., Modern French cruaut&eacute;), from Latin
+crudelitatem (nominative crudelitas) cruelty, from crudelis (see cruel).
+
+
+cruet (n.)
+
+small glass bottle for vinegar, oil, etc., c.1300, Anglo-French diminutive of Old French crue an
+earthen pot, from Frankish *kruka or some other Germanic source (compare Old High German kruog);
+related to crock.
+
+
+gruel (n.)
+
+late 12c., meal or flour made of beans, lentils, etc., from Old French gruel fine meal, from
+Frankish *grut (cognate with Middle Dutch grute coarse meal, malt; Middle High German gruz grain),
+from PIE *ghreu- to rub, grind (see grit). Meaning thin porridge or soup is late 14c.
+
+
+gruelling (adj.)
+
+also grueling, exhausting, punishing, 1891, from late 18c. slang get one's gruel receive one's
+punishment, from gruel.
+
+
+gruesome (adj.)
+
+1560s, with -some (1) + Middle English gruen feel horror, shudder (c.1300); not recorded in Old
+English or Norse, possibly from Middle Dutch gruwen or Middle Low German gruwen shudder with fear
+(compare German grausam cruel), or from a Scandinavian source (such as Danish grusom cruel, grue to
+dread, though others hold that these are Low German loan-words). One of the many Scottish words
+popularized in England by Scott's novels.
+
+
+imbrue (v.)
+
+early 15c., to soak, steep; mid-15c., to stain, soil, from Old French embreuvere to moisten, a
+metathesis of embeuvrer, from em- (see im-) + -bevrer, ultimately from Latin bibere to drink (see
+imbibe). Or perhaps from Old French embroue soiled, ultimately from boue mud, dirt.
+
+
+incongruence (n.)
+
+c.1600, from Late Latin incongruentia incongruity, from incongruentem (nominative incongruens)
+incongruous, inconsistent, from in- not (see in- (1)) + congruens (see congruent).
+
+
+incongruency (n.)
+
+c.1600, from incongruent + -cy.
+
+
+incongruent (adj.)
+
+mid-15c., from Latin incongruentem (nominative incongruens), from in- not (see in- (1)) + congruens
+(see congruent). Related: Incongruently.
+
+
+misconstrue (v.)
+
+late 14c., to put a wrong construction on (words or deeds), from mis- (1) + construe. Related:
+Misconstrued; misconstruing.
+
+
+sprue (n.)
+
+piece of metal (later plastic) attached to a cast object, 1875, earlier (1849) channel through which
+metal is poured into a mold; of unknown origin.
+
+
+true (adj.)
+
+Old English triewe (West Saxon), treowe (Mercian) faithful, trustworthy, honest, steady in adhering
+to promises, friends, etc., from Proto-Germanic *treuwaz- having or characterized by good faith
+(cognates: Old Frisian triuwi, Dutch getrouw, Old High German gatriuwu, German treu, Old Norse
+tryggr, Danish tryg, Gothic triggws faithful, trusty), from PIE *drew-o-, a suffixed form of the
+root *deru-/*dreu- be firm, solid, steadfast (cognates: Lithuanian drutas firm, Welsh drud, Old
+Irish dron strong, Welsh derw true, Old Irish derb sure), with specialized sense wood, tree and
+derivatives referring to objects made of wood (see tree (n.)).    Sense of consistent with fact
+first recorded c.1200; that of real, genuine, not counterfeit is from late 14c.; that of conformable
+to a certain standard (as true north) is from c.1550. Of artifacts, accurately fitted or shaped it
+is recorded from late 15c. True-love (n.) is Old English treowlufu. True-born (adj.) first attested
+1590s. True-false (adj.) as a type of test question is recorded from 1923. To come true (of dreams,
+etc.) is from 1819.
+
+
+true (v.)
+
+make true in position, form, or adjustment, 1841, from true (adj.) in the sense agreeing with a
+certain standard. Related: Trued; truing.
+
+
+untrue (adj.)
+
+Old English untreowe unfaithful (of persons), from un- (1) not + true (adj.). Similar formation in
+Middle Dutch ongetrouwe, Middle Low German ungetruwe, Old High German ungitriuwi, Old Norse utryggr.
+Meaning contrary to facts is attested from c.1300.
+
+

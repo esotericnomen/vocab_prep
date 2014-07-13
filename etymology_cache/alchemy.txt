@@ -5,14 +5,244 @@ al-kimiya, from Greek khemeioa (found c.300 C.E. in a decree of Diocletian again
 of the Egyptians), all meaning alchemy. Perhaps from an old name for Egypt (Khemia, literally land
 of black earth, found in Plutarch), or from Greek khymatos that which is poured out, from khein to
 pour, related to khymos juice, sap [Klein, citing W. Muss-Arnolt, calls this folk etymology]. The
-word seems to have elements of both origins.<blockquote>Mahn ... concludes, after an elaborate
-investigation, that Gr. khymeia was probably the original, being first applied to pharmaceutical
-chemistry, which was chiefly concerned with juices or infusions of plants; that the pursuits of the
-Alexandrian alchemists were a subsequent development of chemical study, and that the notoriety of
-these may have caused the name of the art to be popularly associated with the ancient name of Egypt.
-[OED]</blockquote>The al- is the Arabic definite article, the. The art and the name were adopted by
-the Arabs from Alexandrians and thence returned to Europe via Spain. Alchemy was the chemistry of
-the Middle Ages and early modern times; since c.1600 the word has been applied distinctively to the
-pursuit of the transmutation of baser metals into gold, which, along with the search for the
-universal solvent and the panacea, were the chief occupations of early chemistry.
+word seems to have elements of both origins.Mahn ... concludes, after an elaborate investigation,
+that Gr. khymeia was probably the original, being first applied to pharmaceutical chemistry, which
+was chiefly concerned with juices or infusions of plants; that the pursuits of the Alexandrian
+alchemists were a subsequent development of chemical study, and that the notoriety of these may have
+caused the name of the art to be popularly associated with the ancient name of Egypt. [OED]The al-
+is the Arabic definite article, the. The art and the name were adopted by the Arabs from
+Alexandrians and thence returned to Europe via Spain. Alchemy was the chemistry of the Middle Ages
+and early modern times; since c.1600 the word has been applied distinctively to the pursuit of the
+transmutation of baser metals into gold, which, along with the search for the universal solvent and
+the panacea, were the chief occupations of early chemistry.
+
+
+chemical (adj.)
+
+1570s, relating to chemistry, from chemic of alchemy (a worn-down derivative of Medieval Latin
+alchimicus; see alchemy) + -al (1). In early use also of alchemy. Related: Chemically.
+
+
+hermetic (adj.)
+
+c.1600 (implied in hermetically), completely sealed, also (1630s) dealing with occult science or
+alchemy, from Latin hermeticus, from Greek Hermes, god of science and art, among other things,
+identified by Neoplatonists, mystics, and alchemists with the Egyptian god Thoth as Hermes
+Trismegistos Thrice-Great Hermes, who supposedly invented the process of making a glass tube
+airtight (a process in alchemy) using a secret seal.
+
+
+graduation (n.)
+
+early 15c., in alchemy, tempering, refining of something to a certain degree; measurement according
+to the four degrees of a quality, from graduate (n.). General sense of dividing into degrees is from
+1590s; meaning action of receiving or giving an academic degree is from early 15c.; in reference to
+the ceremony where a degree is given, from 1818.
+
+
+alkahest (n.)
+
+universal solvent sought by alchemists, 1640s, from French alcahest, from Medieval Latin alcahest, a
+pseudo-Arabic word coined by Paracelsus (see alchemy).
+
+
+alchemical (adj.)
+
+1580s; see alchemy + -ical.
+
+
+chemistry (n.)
+
+c.1600, alchemy, from chemist + -ry; also see chemical (adj.). The meaning natural physical process
+is 1640s, and the scientific study not so called until 1788. The figurative sense of instinctual
+attraction or affinity is attested slightly earlier, from the alchemical sense.
+
+
+glorification (n.)
+
+mid-15c. as a term in alchemy, action of refining; state of being refined, from Late Latin
+glorificationem (nominative glorificatio), noun of action from past participle stem of glorificare
+(see glorify). From c.1500 in theology; general sense by mid-19c.
+
+
+fermentation (n.)
+
+late 14c., in alchemy, with a broad sense; modern scientific sense is from c.1600; from Late Latin
+fermentationem (nominative fermentatio), noun of action from fermentare (see ferment (v.)).
+Figurative use attested from 1650s.
+
+
+alchemist (n.)
+
+1510s, from Middle French alquemiste, from Medieval Latin alchimista (see alchemy). Earlier forms
+were alchemister (late 14c.), alkanamyer (late 15c.).
+
+
+chemist (n.)
+
+1560s, chymist, alchemist, from Middle French chimiste, from Medieval Latin chimista, reduced from
+alchimista (see alchemy). Modern spelling is from c.1790. Meaning chemical scientist is from 1620s;
+meaning dealer in medicinal drugs (mostly in British English) is from 1745.
+
+
+projection (n.)
+
+late 15c., in alchemy, transmutation by casting a powder on molten metal; 1550s in the
+cartographical sense drawing of a map or chart according to scale, from Middle French projection,
+from Latin proiectionem (nominative proiectio), from past participle stem of proicere (see project
+(n.)). From 1590s as action of projecting.
+
+
+sublimation (n.)
+
+late 14c., in alchemy, process of purifying by vaporizing then allowing to cool, from Medieval Latin
+sublimationem (nominative sublimatio) refinement, literally a lifting up, deliverance, noun of
+action from past participle stem of Latin sublimare to raise, elevate, from sublimis lofty, high,
+exalted; eminent, distinguished (see sublime).
+
+
+practice (n.)
+
+early 15c., practise, practical application, originally especially of medicine but also alchemy,
+education, etc.; from Old French pratiser, from Medieval Latin practicare (see practice (v.)). From
+early 15c. often assimilated in spelling to nouns in -ice. Also as practic, which survived in
+parallel into 19c.
+
+
+tertium quid (n.)
+
+something indeterminate between two other things, 1724, Latin, literally third something, from
+tertius third, a third, from the root of tres three (see three). A loan-translation of Greek triton
+ti (Plato), used in alchemy for unidentified element present in a combination of two known ones. The
+Latin word also figures in phrases tertium non datur no third possibility exists, and tertius
+gaudens a third party that benefits from conflict between the other two.
+
+
+occult (adj.)
+
+1530s, secret, not divulged, from Middle French occulte and directly from Latin occultus hidden,
+concealed, secret, past participle of occulere cover over, conceal, from ob over (see ob-) + a verb
+related to celare to hide, from PIE root *kel- (2) to cover, conceal (see cell). Meaning not
+apprehended by the mind, beyond the range of understanding is from 1540s. The association with the
+supernatural sciences (magic, alchemy, astrology, etc.) dates from 1630s.
+
+
+precipitation (n.)
+
+late 15c., a casting down (of the evil angels from heaven), also, in alchemy separation of a solid
+substance from a solution, from Middle French precipitation (15c.) and directly from Latin
+praecipitationem (nominative praecipitatio) act or fact of falling headlong, haste, noun of action
+from past participle stem of praecipitare fall, be hasty, from praeceps steep (see precipice).
+Meaning sudden haste is c.1500. Meaning act of falling from a height is attested from 1610s.
+Meteorological sense of rain, snow, dew, etc. is from 1670s.
+
+
+transmutation (n.)
+
+late 14c., from Old French transmutacion transformation, change, metamorphosis (12c.), from Late
+Latin transmutationem (nominative transmutatio) a change, shift, noun of action from Latin
+transmutare change from one condition to another, from trans- thoroughly (see trans-) + mutare to
+change (see mutable). A word from alchemy.
+
+
+mercury (n.)
+
+silver-white fluid metallic element, late 14c., from Medieval Latin mercurius, from Latin Mercurius
+(see Mercury). Prepared from cinnabar, it was one of the seven metals (bodies terrestrial) known to
+the ancients, which were coupled in astrology and alchemy with the seven known heavenly bodies. This
+one probably so associated for its mobility. The others were Sun/gold, Moon/silver, Mars/iron,
+Saturn/lead, Jupiter/tin, Venus/copper. The Greek name for it was hydrargyros liquid silver, which
+gives the element its symbol, Hg. Compare quicksilver.
+
+
+pseudo-science (n.)
+
+also pseudoscience, a pretended or mistaken science, 1796 (the earliest reference is to alchemy),
+from pseudo- + science.    The term pseudo-science is hybrid, and therefore objectionable.
+Pseudognosy would be better etymology, but the unlearned might be apt to association with it the
+idea of a dog's nose, and thus, instead of taking the eel of science by the tail, take the cur of
+science by the snout; so that all things considered we had better adopt the current term pseudo-
+sciences [The Pseudo-Sciences, in The St. James Magazine, January 1842]
+
+
+quintessence (n.)
+
+early 15c., in ancient and medieval philosophy, pure essence, substance of which the heavenly bodies
+are composed, literally fifth essence, from Middle French quinte essence (14c.), from Medieval Latin
+quinta essentia, from Latin quinta, fem. of quintus fifth (see quinque-) + essentia (see Parousia).
+A loan-translation of Greek pempte ousia, the ether added by Aristotle to the four known elements
+(water, earth, fire, air) and said to permeate all things. Its extraction was one of the chief goals
+of alchemy. Sense of purest essence (of a situation, character, etc.) is first recorded 1580s.
+
+
+spermaceti (n.)
+
+waxy, fatty stuff in the head of certain whales, late 15c., from Medieval Latin sperma ceti sperm of
+a whale (it has when fresh something of the appearance of sperm), from Latin sperma (see sperm) +
+ceti, genitive of cetus whale, large sea animal (see Cetacea). The substance in olden times was
+credited with medicinal properties, as well as being used for candle oil.    Use ... Sperma Cete ana
+with redd Wyne when ye wax old. [Sir George Ripley, The Compound of Alchemy, 1471]    Scientists
+still are not sure exactly what it does. Sperm whale, short for spermaceti whale, is from 1830.
+
+
+philosopher (n.)
+
+from Old English philosophe, from Latin philosophus philosopher, from Greek philosophos philosopher,
+sage, one who speculates on the nature of things and truth, literally lover of wisdom, from philos
+loving (see -phile) + sophos wise, a sage (see sophist). Modern form with -r appears early 14c.,
+from an Anglo-French or Old French variant of philosophe, with an agent-noun ending.  Pythagoras was
+the first who called himself philosophos, instead of sophos, 'wise man,' since this latter term was
+suggestive of immodesty. [Klein] Philosophy also was used of alchemy in Middle Ages, hence
+Philosophers' stone (late 14c., translating Medieval Latin lapis philosophorum, early 12c.), a
+reputed solid substance supposed by alchemists to change baser metals into gold or silver; also
+identified with the elixir and thus given the attribute of prolonging life indefinitely and curing
+wounds and disease. (French pierre philosophale, German der Stein der Weisen).
+
+
+magnesia (n.)
+
+late 14c., in alchemy, main ingredient of the philosopher's stone, from Medieval Latin magnesia,
+from Greek (he) Magnesia (lithos) the lodestone, literally (the) Magnesian (stone), from Magnesia,
+region in Thessaly, which is said to be named for the native people name Magnetes, which is of
+unknown origin. The ancient word, in this sense, has evolved into magnet. But in ancient times the
+same word, magnes, was used of lodestone as well as of a mineral commonly used in bleaching glass
+(modern pyrolusite, or manganese dioxide).    In Middle Ages there was some attempt to distinguish
+lodestone as magnes (masc.) and pyrolusite as  magnesia (fem.). Meanwhile, in 18c., a white powder
+(magnesium carbonate) used as a cosmetic and toothpaste was sold in Rome as magnesia alba (white
+magnesia). It was from this, in 1808, that Davy isolated magnesium. He wanted to call it magnium, to
+stay as far as possible from the confused word magnesia, but the name was adopted in the form
+magnesium. Meanwhile from 16c. the other name of pyrolusite had been corrupted to manganese, and
+when, in 1774, a new element was isolated from it, it came to be called manganese.   Magnesia in its
+main modern sense of magnesium oxide (1755) is perhaps an independent formation from Latin magnes
+carneus flesh-magnet (c.1550), so called because it adheres strongly to the lips.
+
+
+spirit (n.)
+
+mid-13c., animating or vital principle in man and animals, from Anglo-French spirit, Old French
+espirit spirit, soul (12c., Modern French esprit) and directly from Latin spiritus a breathing
+(respiration, and of the wind), breath; breath of a god, hence inspiration; breath of life, hence
+life; also disposition, character; high spirit, vigor, courage; pride, arrogance, related to spirare
+to breathe, from PIE *(s)peis- to blow (cognates: Old Church Slavonic pisto to play on the flute).
+Meaning supernatural immaterial creature; angel, demon; an apparition, invisible corporeal being of
+an airy nature is attested from mid-14c.; from late 14c. as a ghost (see ghost (n.)). From c.1500 as
+a nature, character; sense of essential principle of something (in a non-theological context, as in
+Spirit of St. Louis) is attested from 1680s, common after 1800; Spirit of '76 in reference to the
+qualities that sparked and sustained the American Revolution is attested by 1797 in William
+Cobbett's Porcupine's Gazette and Daily Advertiser.    From late 14c. in alchemy as volatile
+substance; distillate; from c.1500 as substance capable of uniting the fixed and the volatile
+elements of the philosopher's stone. Hence spirits volatile substance; sense narrowed to strong
+alcoholic liquor by 1670s. This also is the sense in spirit level (1768). Also from mid-14c. as
+character, disposition; way of thinking and feeling, state of mind; source of a human desire; in
+Middle English freedom of spirit meant freedom of choice. From late 14c. as divine substance, divine
+mind, God; also Christ or His divine nature; the Holy Ghost; divine power; also, extension of divine
+power to man; inspiration, a charismatic state; charismatic power, especially of prophecy. Also
+essential nature, essential quality. From 1580s in metaphoric sense animation, vitality.
+According to Barnhart and OED, originally in English mainly from passages in Vulgate, where the
+Latin word translates Greek pneuma and Hebrew ruah. Distinction between soul and spirit (as seat of
+emotions) became current in Christian terminology (such as Greek psykhe vs. pneuma, Latin anima vs.
+spiritus) but is without significance for earlier periods [Buck]. Latin spiritus, usually in
+classical Latin breath, replaces animus in the sense spirit in the imperial period and appears in
+Christian writings as the usual equivalent of Greek pneuma. Spirit-rapping is from 1852.
+
 

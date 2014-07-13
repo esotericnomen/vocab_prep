@@ -2,3 +2,23 @@ cytology (n.)
 
 1857, from cyto- + -logy. Related: Cytologist (1884).
 
+
+reticulum (n.)
+
+1650s, second stomach of a ruminant (so called from the folds of the membrane), from Latin reticulum
+a little net (see reticulate (adj.)). The word was later given various uses in biology, cytology,
+histology, etc., and made a southern constellation by La Caille (1763).
+
+
+chiasma (n.)
+
+a crossing, 1832, medical Latin, from Greek khiasma two things placed crosswise, which is related to
+khiasmos  (see chiasmus). In cytology from 1911.
+
+
+telophase (n.)
+
+1895 in cytology, from Greek telo-, comb. form of telos the end, fulfillment, completion (see tele-)
++ phase (n.).
+
+

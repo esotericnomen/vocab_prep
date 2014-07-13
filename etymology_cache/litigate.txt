@@ -3,3 +3,21 @@ litigate (v.)
 1610s, from Middle French litigier and directly from Latin litigatus, past participle of litigare to
 dispute, carry on a suit (see litigation). Related: Litigated; litigating.
 
+
+litigious (adj.)
+
+late 14c., fond of disputes, from Middle French litigieux and directly from Latin litigiosus
+contentious, quarrelsome, from litigium dispute, strife, related to litigare (see litigation).
+Meaning fond of engaging in lawsuits is from 1620s. Earlier in English than litigate or litigation.
+Related: Litigiousness.
+
+
+allege (v.)
+
+c.1300. It has the form of one French verb and the meaning of another. The form is Anglo-French
+aleger, Old French eslegier to clear at law, from Latin ex- out of (see ex-) and litigare bring suit
+(see litigate); however eslegier meant acquit, clear of charges in a lawsuit. It somehow acquired
+the meaning of French all&eacute;guer, from Latin allegare send for, bring forth, name, produce in
+evidence, from ad- to (see ad-) + legare to depute, send (see legate). Related: Alleged; alleging.
+
+

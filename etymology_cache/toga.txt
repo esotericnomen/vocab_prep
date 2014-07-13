@@ -1,22 +1,74 @@
 toga (n.)
 
 c.1600, from Latin toga cloak or mantle, from PIE *tog-a- covering, from root *(s)teg- to cover (see
-stegosaurus). The outer garment of a Roman citizen in time of peace.  <blockquote>  The toga as the
-Roman national dress was allowed to be worn by free citizens only. A stranger not in full possession
-of the rights of a Roman citizen could not venture to appear in it. Even banished Romans were in
+stegosaurus). The outer garment of a Roman citizen in time of peace.    The toga as the Roman
+national dress was allowed to be worn by free citizens only. A stranger not in full possession of
+the rights of a Roman citizen could not venture to appear in it. Even banished Romans were in
 imperial times precluded from wearing it. The appearance in public in a foreign dress was considered
 as contempt of the majesty of the Roman people. Even boys appeared in the toga, called, owing to the
 purple edge attached to it (a custom adopted from the Etruscans) toga praetexta. On completing his
 sixteenth, afterward his fifteenth, year (tirocinium fori), the boy exchanged the toga praetexta for
 the toga virilis, pura, or libera--a white cloak without the purple edge. Roman ladies (for these
 also wore the toga) abandoned the purple edge on being married. [Guhl &amp; Koner, The Life of the
-Greeks and Romans, transl. Francis Hueffer, 1876]  </blockquote>  Breeches, like the word for them
-(Latin bracae) were alien to the Romans, being the dress of Persians, Germans, and Gauls, so that
-bracatus wearing breeches was a term in Roman geography meaning north of the Alps. College
-fraternity toga party was re-popularized by movie Animal House (1978), but this is set in 1962 and
-the custom seems to date from at least the mid-1950s.  <blockquote>  Down on Prospect Street, Campus
-Club held a toga party, at which everyone wore togas. Charter held a come-as-you-are party, at which
-everyone wore what they happened to have on, and Cloister held a party called A Night in Tahiti, at
-which we'd hate to guess what everyone wore. The borough police reported that only one false alarm
-was turned in. [Princeton Alumni Weekly, March 19, 1954]  </blockquote>
+Greeks and Romans, transl. Francis Hueffer, 1876]    Breeches, like the word for them (Latin bracae)
+were alien to the Romans, being the dress of Persians, Germans, and Gauls, so that bracatus wearing
+breeches was a term in Roman geography meaning north of the Alps. College fraternity toga party was
+re-popularized by movie Animal House (1978), but this is set in 1962 and the custom seems to date
+from at least the mid-1950s.    Down on Prospect Street, Campus Club held a toga party, at which
+everyone wore togas. Charter held a come-as-you-are party, at which everyone wore what they happened
+to have on, and Cloister held a party called A Night in Tahiti, at which we'd hate to guess what
+everyone wore. The borough police reported that only one false alarm was turned in. [Princeton
+Alumni Weekly, March 19, 1954]
+
+
+tog (n.)
+
+1708, outer garment, shortened from togman cloak, loose coat (1560s), thieves' cant word, formed
+from French togue cloak, from Latin toga (see toga). Middle English toge toga (14c.) also was a cant
+word for a coat.
+
+
+tunicate (adj.)
+
+1760, from Latin tunicatus clothed with a tunic only (i.e. without a toga), in shirt-sleeves, past
+participle of tunicare to clothe in a tunic, from tunica (see tunic). As a noun, from 1848.
+
+
+sinus (n.)
+
+hollow curve or cavity in the body, early 15c., from Medieval Latin sinus, from Latin sinus bend,
+fold, curve, a bent surface; a bay, bight, gulf; a fold in land; also fold of the toga about the
+breast, hence bosom, and figuratively love, affection, intimacy; interior, inmost part; of unknown
+origin.
+
+
+pall (n.)
+
+Old English p&aelig;ll rich cloth or cloak, purple robe, altar cloth, from Latin pallium cloak,
+coverlet, covering, in Tertullian, the garment worn by Christians instead of the Roman toga; related
+to pallo robe, cloak, palla long upper garment of Roman women, perhaps from the root of pellis skin.
+Notion of cloth spread over a coffin (mid-15c.) led to figurative sense of dark, gloomy mood (1742).
+
+
+tow (v.)
+
+pull with a rope, Old English togian to drag, pull, from Proto-Germanic *tugojanan (cognates: Old
+English teon to draw, Old Frisian togia to pull about, Old Norse toga, Old High German zogon, German
+ziehen to draw, pull, drag), from PIE root *deuk- to pull, draw (cognates: Latin ducere to lead; see
+duke (n.)). Related: Towed; towing.
+
+
+gown (n.)
+
+c.1300, from Old French goune robe, coat, habit, gown, from Late Latin gunna leather garment, skin,
+hide, of unknown origin. Used by St. Boniface (8c.) for a fur garment permitted for old or infirm
+monks. Klein writes it is probably a word adopted from a language of the Apennine or the Balkan
+Peninsula. OED points to Byzantine Greek gouna, a word for a coarse garment sometimes made of skins,
+but also notes some scholars regard [Late Latin gunna] as of Celtic origin.    In 18c., gown was the
+common word for what is now usually styled a dress. It was maintained more in the U.S. than in
+Britain, but was somewhat revived 20c. in fashion senses and in comb. forms (such as bridal gown,
+nightgown). Meaning flowing robe worn as a badge of office or authority is from late 14c., on image
+of the Roman toga. As collective singular for residents of a university (1650s) it usually now is
+opposed to town.
+
 

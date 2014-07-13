@@ -5,3 +5,80 @@ disease, from Greek pathos suffering (see pathos) + -logia study (see -logy). In
 study of abnormal mental conditions from 1842. Ancient Greek pathologia was study of the passions;
 the Greek word for science of diseases was pathologike (pathologics).
 
+
+pathologic (adj.)
+
+pertaining to pathology, 1650s, from Greek pathologikos (see pathology).
+
+
+aphasia (n.)
+
+loss of ability to speak, especially as result of brain injury or disorder, 1867, from Modern Latin
+aphasia, from Greek aphasia speechlessness, from a- without (see a- (3)) + phasis utterance, from
+phanai to speak, related to pheme voice, report, rumor (see fame (n.)).    APHASIA is the term which
+has recently been given to the loss of the faculty of articulate language, the organs of phonation
+and of articulation, as well as the intelligence, being unimpaired. The pathology of this affection
+is at the present time the subject of much discussion in the scientific world; the French Academy
+devoted several of their s&#233;ances during the year 1865 to its special elucidation, and the
+Medical Journals of France and of our own country have lately contained a good deal of original
+matter bearing upon this obscure feature in cerebral pathology. [Frederic Bateman, M.D., Aphasia,
+London, 1868]
+
+
+psychopathology (n.)
+
+1847, from psycho- + pathology, on model of German psychopathologie.
+
+
+inoculation (n.)
+
+mid-15c. in horticulture; 1714 in pathology, from Latin inoculationem (nominative inoculatio) an
+engrafting, budding, noun of action from past participle stem of inoculare (see inoculate).
+
+
+sequela (n.)
+
+plural sequelae, 1793, originally in pathology, from Latin sequela that which follows, consequence
+(see sequel).
+
+
+inflammatory (adj.)
+
+1680s (n.), from Latin inflammat-, past participle stem of inflammare (see inflame) + -ory. As an
+adjective, tending to rouse passions or desires, 1711; from 1732 in pathology.
+
+
+pathologist (n.)
+
+1640s, from pathology + -ist.
+
+
+pathological (adj.)
+
+1680s, pertaining to disease, formed in English from pathologic + -al (1). Sense of worthy to be a
+subject of pathology, morbid, excessive (as in pathological liar) is attested from 1845. Related:
+Pathologically.
+
+
+rickettsia (n.)
+
+parasitic organism, 1919, named 1916 in Modern Latin by H. da Rocha-Lima in honor of U.S.
+pathologist H.T. Ricketts (1871-1910), who first identified it in 1909 and died of typhus as a
+result of his contact with it. The bacteria causes typhus and Rocky Mountain spotted fever, but is
+unrelated by pathology or etymology to rickets (q.v.), which is the result of vitamin D deficiency.
+The surname is a development from Rickard, variant of Richard, or else from the diminutive form
+Ricot.
+
+
+syncope (n.)
+
+1520s, contraction of a word by omission of middle sounds or letters, from Latin syncope contraction
+of a word by elision, from Greek synkope contraction of a word, originally a cutting off, cutting
+up, cutting short, from synkoptein to cut up, from syn- together, thoroughly (see syn-) + koptein to
+cut, from PIE root *kop- to beat, strike (see hatchet (n.)).    An earlier use of the word in
+pathology is represented by Middle English syncopis, sincopin loss of consciousness accompanied by
+weak pulse (c.1400, from Late Latin accusative syncopen); compare Old French syncope illness,
+fainting fit (failure of the heart's action, hence unconsciousness). The spelling of this was re-
+Latinized 16c. Related: Syncopic; syncoptic.
+
+

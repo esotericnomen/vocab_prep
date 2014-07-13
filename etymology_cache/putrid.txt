@@ -4,3 +4,113 @@ early 15c., from Latin putridus, from putrere to rot, from putris rotten, crumbl
 putere to stink, from PIE root *pu- to rot, stink (see pus). First in reference to putrid fever, an
 old name for typhus (also known in Middle English as putrida). Related: Putrification.
 
+
+putridity (n.)
+
+1630s, from Medieval Latin putriditas, from Latin putridus (see putrid).
+
+
+septicemia (n.)
+
+1857, Modern Latin septic&aelig;mia, from French septicoemi, coined irregularly by French physician
+Pierre-Adolphe Piorry (1794-1879) in 1837 from Greek septikos (see septic) + haima blood (see
+-emia).    Dr. Piorry, in a second communication, insists upon the fact, that in a great number of
+cases the decaying contents of the uterus, and the putrid infection of the blood from this source,
+constitute the so-called puerperal fever, and he thinks that the discussion in the Academy is only a
+fight about words, as the different speakers agree, without knowing it themselves, upon the nature
+of the disease. He proposes the name of septicemia, as best designating the sources of the disease,
+viz., from putrid infection from the uterus, and by the respiration of an atmosphere pregnant with
+septic particles. ... The admission of this septicemia explains the putrid accidents, as observed in
+men, the foetus, and wounded persons during a puerperal epidemic. [E. Noeggerath and A. Jacobi,
+Contributions to Midwifery, New York, 1859]
+
+
+addle (v.)
+
+1712, from addle (n.) urine, liquid filth, from Old English adela mud, mire, liquid manure (cognate
+with Old Swedish adel urine, Middle Low German adel, Dutch aal puddle).    Used in noun phrase addle
+egg (mid-13c.) egg that does not hatch, rotten egg, literally urine egg, a loan-translation of Latin
+ovum urinum, which is itself an erroneous loan-translation of Greek ourion oon putrid egg, literally
+wind egg, from ourios of the wind (confused by Roman writers with ourios of urine, from ouron
+urine). Because of this usage, from c.1600 the noun in English was taken as an adjective meaning
+putrid, and thence given a figurative extension to empty, vain, idle, also confused, muddled,
+unsound (1706). The verb followed a like course. Related: Addled; addling.
+
+
+saprophyte (n.)
+
+bacteria or fungus that grows on decaying organic matter, 1867, from French, from Greek sapros
+putrid + phyton plant (see phyto-). Related: Saprophytism.
+
+
+putrescence (n.)
+
+1640s, from Latin putrescentem (nominative putrescens), present participle of putrescere grow
+rotten, moulder, decay, inchoative of putrere be rotten (see putrid).
+
+
+putrescent (adj.)
+
+1732, a back-formation from putrescence, or else from Latin putrescentem (nominative putrescens),
+present participle of putrescere grow rotten, moulder, decay, inchoative of putrere be rotten (see
+putrid).
+
+
+septic (adj.)
+
+c.1600, from Latin septicus of or pertaining to putrefaction, from Greek septikos characterized by
+putrefaction, from sepein make rotten or putrid, cause to rot (see sepsis). Septic tank is attested
+from 1902.
+
+
+putrefy (v.)
+
+mid-15c., from Middle French putr&eacute;fier, from Latin putrefacere to make rotten, from putrere
+(see putrid) + facere (see factitious). Related: Putrefied; putrefying.
+
+
+pus (n.)
+
+late 14c., from Latin pus pus, matter from a sore; figuratively bitterness, malice (related to puter
+rotten; see putrid), from PIE *pu- (2) to rot, decay (cognates: Sanskrit puyati rots, stinks, putih
+stinking, foul; Greek puon discharge from a sore, pythein to cause to rot; Gothic fuls, Old English
+ful foul), perhaps originally echoic of a natural exclamation of disgust.
+
+
+putrefaction (n.)
+
+c.1400, from Old French putrefaction (14c.), from Latin putrefactionem (nominative putrefactio),
+noun of action from past participle stem of putrefacere to make rotten, from putrere to be rotten
+(see putrid) + facere to make, do (see factitious).
+
+
+typhus (n.)
+
+acute infectious fever, usually accompanied by prostration, delirium, and small reddish spots, 1785,
+from medical Latin, from Greek typhos stupor caused by fever, literally smoke, from typhein to
+smoke, related to typhos blind, typhon whirlwind, from PIE *dheubh-, perhaps an extended form of
+root *dheu- (1) to fly about like dust.    The Greek term [typhos] (smoke, mist, fog) was employed
+by Hippocrates to define a confused state of the intellect, with a tendency to stupor (stupor
+attonitus); and in this sense it is aptly applied to typhus fever with its slow cerebration and
+drowsy stupor. Boissier de Sauvages first (in 1760) called this fever typhus, and the name was
+adopted by Cullen of Edinburgh in 1769. Previous to the time of de Sauvages typhus was known as
+Pestilential or Putrid Fever, or by some name suggested by the eruption, or expressive of the
+locality in which it appeared, as Camp, Jail, Hospital, or Ship Fever (Murchison). [Thomas Clifford,
+ed., A System of Medicine, New York, 1897]    Related: typhous (adj.).
+
+
+foul (adj.)
+
+Old English ful rotten, unclean, vile, corrupt, offensive to the senses, from Proto-Germanic *fulaz
+(cognates: Old Saxon and Old Frisian ful, Middle Dutch voul, Dutch vuil, Old High German f&uuml;l,
+German faul, Gothic f&uuml;ls), from root *fu-, corresponding to PIE *pu-, perhaps from the sound
+made in reaction to smelling something bad (compare Sanskrit puyati rots, stinks, putih foul,
+rotten; Greek puon discharge from a sore; Latin pus putrid matter, putere to stink, putridus rotten;
+Lithuanian puviu to rot).  Old English ful occasionally meant ugly (as contrasted with f&aelig;ger
+(adj.), modern fair (adj.)), a sense frequently found in Middle English, and the cognate in Swedish
+is the usual word for ugly. Of weather, first recorded late 14c. In the sporting sense of irregular,
+unfair it is first attested 1797, though foul play is recorded from mid-15c. Baseball sense of out
+of play attested by 1860. Foulmart was a Middle English word for polecat (from Old English mear&eth;
+marten).
+
+

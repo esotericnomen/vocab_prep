@@ -4,3 +4,157 @@ c.1500, from Latin noxius hurtful, injurious, from noxa injury, hurt, damage ent
 (related to nocere to hurt, and to nex slaughter), from PIE *nek-ro-, causative form of root *nek-
 (1) death (see necro-).
 
+
+obnoxious (adj.)
+
+1580s, subject to the authority of another, from Latin obnoxiosus hurtful, injurious, from obnoxius
+subject, exposed to harm, from ob to, toward (see ob-) + noxa injury, hurt, damage entailing
+liability (see noxious). Meaning subject to something harmful is 1590s; meaning offensive, hateful
+is first recorded 1670s, influenced by noxious.Obnoxious has two very different senses, one of which
+(exposed or open or liable to attack or injury) requires notice because its currency is now so
+restricted that it is puzzling to the uninstructed. It is the word's rightful or de jure meaning,
+and we may hope that scholarly writers will keep it alive. [Fowler]  Related: Obnoxiously;
+obnoxiousness.
+
+
+nocuous (adj.)
+
+1630s, noxious, harmful, from Latin nocuus harmful, from stem of nocere to hurt, injure, harm (see
+innocuous).
+
+
+mephitic (adj.)
+
+1620s, of poisonous smell, from Late Latin mephiticus, from Latin mephitis, mefitis noxious vapor
+(also personified as a goddess believed to have the power to avert it).
+
+
+pest (n.)
+
+1550s (in imprecations, a pest upon ____, etc.), plague, pestilence, from Middle French peste
+(1530s), from Latin pestis deadly contagious disease; a curse, bane, of uncertain origin. Meaning
+noxious or troublesome person or thing first recorded c.1600.
+
+
+subduction (n.)
+
+early 15c., withdrawal, removal (originally of noxious substances from the body), from Latin
+subductionem (nominative subductio) a withdrawal, drawing up, hauling ashore, noun of action from
+past participle stem of subducere to draw away, take away (see subduce). Geological sense is
+attested from 1970, from French (1951).
+
+
+deleterious (adj.)
+
+1640s, from Medieval Latin deleterius, from Greek deleterios noxious, from deleter destroyer, from
+deleisthai to hurt, injure. Related: Deleteriously; deleteriousness.
+
+
+noisome (adj.)
+
+late 14c., harmful, noxious, from noye harm, misfortune, shortened form of anoi annoyance (from Old
+French anoier, see annoy) + -some (1). Meaning bad-smelling first recorded 1570s. Related:
+Noisomeness.
+
+
+injurious (adj.)
+
+early 15c., abusive, from Middle French injurios (14c., Modern French injurieux) and directly from
+Latin injuriosus unlawful, wrongful, harmful, noxious, from injuria (see injury). Related:
+Injuriously.
+
+
+damp (n.)
+
+early 14c., a noxious vapor, perhaps in Old English but there is no record of it. If not, probably
+from Middle Low German damp; ultimately in either case from Proto-Germanic *dampaz (cognates: Old
+High German damph, German Dampf vapor; Old Norse dampi dust). Sense of moisture, humidity is first
+certainly attested 1706.
+
+
+vermin (n.)
+
+c.1300, noxious animals, from Anglo-French and Old French vermin moth, worm, mite, in plural
+troublesome creatures (12c.), from Vulgar Latin *verminum vermin, possibly including bothersome
+insects, collective noun formed from Latin vermis worm (see worm (n.)). Extended to low, obnoxious
+people by 1560s.
+
+
+pestilence (n.)
+
+c.1300, from Old French pestilence plague, epidemic (12c.) and directly from Latin pestilentia a
+plague, an unwholesome atmosphere, noun of condition from pestilentem (nominative pestilens)
+infected, unwholesome, noxious, from pestis deadly disease, plague (see pest).
+
+
+pestiferous (adj.)
+
+mid-15c., mischievous, pernicious, figurative use of Latin pestiferus that brings plague or
+destruction, variant of pestifer bringing plague, destructive, noxious, from pestis plague (see
+pest) + ferre carry (see infer). Related: Pestiferously; pestiferousness.
+
+
+nuisance (n.)
+
+c.1400, injury, hurt, harm, from Anglo-French nusaunce, Old French nuisance harm, wrong, damage,
+from past participle stem of nuire to harm, from Latin nocere to hurt (see noxious). Sense has
+softened over time, to anything obnoxious to a community (bad smells, pests, eyesores), 1660s, then
+source of annoyance, something personally disagreeable (1831). Applied to persons from 1690s.
+
+
+miasma (n.)
+
+1660s, from Modern Latin miasma noxious vapors, from Greek miasma (genitive miasmatos) stain,
+pollution, defilement, taint of guilt, from stem of miainein to pollute, from possible PIE root
+*mai- to stain, soil, defile (source of Old English mal stain, mark, see mole (n.1)). Earlier form
+was miasm (1640s), from French miasme. Related: Miasmatic; miasmal.
+
+
+pernicious (adj.)
+
+early 15c., from Middle French pernicios (13c., Modern French pernicieux) and directly from Latin
+perniciosus destructive, from pernicies destruction, death, ruin, from per- completely (see per) +
+necis violent death, murder, related to necare to kill, nocere to hurt, injure, harm, noxa harm,
+injury (see noxious). Related: Perniciously; perniciousness.
+
+
+internecine (adj.)
+
+1660s, deadly, destructive, from Latin internecinus very deadly, murderous, destructive, from
+internecare kill or destroy, from inter (see inter-) + necare kill (see noxious). Considered in the
+OED as misinterpreted in Johnson's Dictionary [1755], which defined it as endeavouring mutual
+destruction, on association of inter- with mutual when the prefix supposedly is used in this case as
+an intensive. From Johnson, wrongly or not, has come the main modern definition of mutually
+destructive.
+
+
+tare (n.1)
+
+kind of fodder plant, vetch, c.1300, perhaps cognate with or from Middle Dutch tarwe wheat, from a
+Germanic source perhaps related to Breton draok, Welsh drewg darnel, Sanskrit durva a kind of millet
+grass, Greek darata, daratos bread, Lithuanian dirva a wheat-field. Used in 2nd Wyclif version
+(1388) of Matt. xxiii:25 to render Greek zizania as a weed among corn (earlier darnel and cockle had
+been used in this place); hence figurative use for something noxious sown among something good
+(1711).
+
+
+innocent (adj.)
+
+mid-14c., doing no evil, free from sin or guilt, from Old French inocent harmless; not guilty; pure
+(11c.), from Latin innocentem (nominative innocens) not guilty, harmless, blameless, from in- not
+(see in- (1)) + nocentem (nominative nocens), present participle of nocere to harm (see noxious).
+Meaning free from guilt of a specific crime or charge is from late 14c. The earliest use was as a
+noun, person who is innocent of sin or evil (c.1200). The Holy Innocents (early 14c.) were the young
+children slain by Herod sfter the birth of Jesus (Matt. ii:16).
+
+
+baleful (adj.)
+
+Old English bealu-full dire, wicked, cruel, from bealu harm, injury, ruin, evil, mischief,
+wickedness, a noxious thing, from Proto-Germanic *balwom (cognates: Old Saxon balu, Old Frisian balu
+evil, Old High German balo destruction, Old Norse bol, Gothic balwjan to torment), from PIE root
+*bhelu- to harm. During Anglo-Saxon times, the noun was in poetic use only (in compounds such as
+bealubenn mortal wound, bealu&eth;onc evil thought), and for long baleful has belonged exclusively
+to poets. Related: Balefully.
+
+

@@ -3,3 +3,180 @@ writ (n.)
 Old English writ something written, piece of writing, from the past participle stem of writan (see
 write). Used of legal documents or instruments since at least 1121.
 
+
+fieri facias
+
+writ concerning a sum awarded in judgment (often requiring seizure and sale of property for debt),
+Latin, literally cause it to be done, the first words of the writ.
+
+
+capias (n.)
+
+writ of arrest issued by a court, mid-15c., from Latin capias, literally thou mayest take, typical
+first word of such a writ; properly 2nd person singular present subjunctive of capere to catch,
+seize, hold (see capable).
+
+
+talesman (n.)
+
+reserve member of a jury, 1670s, from tales writ ordering bystanders to serve in place of jurors not
+in attendance (late 15c.), via Anglo-French (mid-13c.), from Latin tales (in tales de
+circumstantibus such persons from those standing about, a clause featured in such a writ), noun use
+of plural of talis such, of such kind (see that).
+
+
+venire
+
+1660s, elliptical for venire facias (mid-15c.), Latin, literally that you cause to come, formerly
+the first words in a writ to a sheriff to summon a jury. See venue.
+
+
+ca.sa.
+
+abbreviation of Latin capias ad satisfaciendum, a writ issued upon a judgment in a personal action
+for the recovery of money  (see capias).
+
+
+supersedeas (n.)
+
+writ to stay legal proceedings, Latin, literally you shall desist, second person singular present
+subjunctive of supersedere desist, refrain from, forebear (see supersede).
+
+
+mandamus (n.)
+
+1530s, writ from a superior court to an inferior one, specifying that something be done, (late 14c.
+in Anglo-French), from Latin, literally we order, first person plural present indicative of mandare
+to order (see mandate (n.)).
+
+
+amendment (n.)
+
+early 13c., betterment, improvement; c.1300, of persons, correction, reformation, from Old French
+amendment, from amender (see amend). Sense expanded to include correction of error in a legal
+process (c.1600) and alteration of a writ or bill to remove its faults (1690s).
+
+
+praecipe (n.)
+
+c.1500 (in Magna Carta in Anglo-Latin), from Latin praecipe, imperative of praecipere to admonish,
+enjoin, from the opening words of such a writ, praecipe quod reddat enjoin (him) that he render.
+
+
+libel (n.)
+
+c.1300, formal written statement, especially, in civil law, plaintiff's statement of charges (mid-
+14c.); from Old French libelle (fem.) small book; (legal) charge, claim; writ; written report
+(13c.), from Latin libellus a little book, pamphlet; petition, written accusation, complaint,
+diminutive of liber book (see library). Broader sense of any published or written statement likely
+to harm a person's reputation is first attested 1630s.
+
+
+alive (adj.)
+
+c.1200, from Old English on life in living. The fuller form on live was still current 17c. Alive and
+kicking alert, vigorous, attested from 1859; The allusion is to a child in the womb after quickening
+[Farmer]. Used emphatically, especially with man; as in:    [A]bout a thousand gentlemen having
+bought his almanacks for this year, merely to find what he said against me, at every line they read
+they would lift up their eyes, and cry out betwixt rage and laughter, they were sure no man alive
+ever writ such damned stuff as this. [Jonathan Swift, Bickerstaff's Vindication, 1709]    Thus
+abstracted as an expletive, man alive! (1845).
+
+
+subpoena (n.)
+
+early 15c., sub pena, from Medieval Latin sub poena under penalty, the first words of the writ
+commanding the presence of someone under penalty of failure, from Latin sub under (see sub-) +
+poena, ablative of poena penalty (see penal). The verb is attested from 1630s.
+
+
+behemoth (n.)
+
+late 14c., huge biblical beast (Job xl:15), from Latin behemoth, from Hebrew b'hemoth, usually taken
+as plural of intensity of b'hemah beast. But the Hebrew word is perhaps a folk etymology of Egyptian
+pehemau, literally water-ox, the name for the hippopotamus.    Long before Jumbo was dreamed of, a
+hippo was exhibited by George K. Bailey, who invented the tank on wheels now used so generally in
+the circuses. The beast was advertised as the blood sweating Behemoth of Holy Writ, and he made
+several men rich. [Isaac F. Marcosson, Sawdust and Gold Dust, in The Bookman, June 1910]
+
+
+habeas corpus (n.)
+
+writ requiring a person to be brought before a court, mid-15c., Latin, literally (you should) have
+the person, in phrase habeas corpus ad subjiciendum produce or have the person to be subjected to
+(examination), opening words of writs in 14c. Anglo-French documents to require a person to be
+brought before a court or judge, especially to determine if that person is being legally detained.
+From habeas, second person singular present subjunctive of habere to have, to hold (see habit (n.))
++ corpus person, literally body (see corporeal). In reference to more than one person, habeas
+corpora.
+
+
+critic (n.)
+
+1580s, one who passes judgment, from Middle French critique (14c.), from Latin criticus a judge,
+literary critic, from Greek kritikos able to make judgments, from krinein to separate, decide (see
+crisis). Meaning one who judges merits of books, plays, etc. is from c.1600. The English word always
+had overtones of censurer, faultfinder.     To understand how the artist felt, however, is not
+criticism; criticism is an investigation of what the work is good for. ... Criticism ... is a
+serious and public function; it shows the race assimilating the individual, dividing the immortal
+from the mortal part of a soul. [George Santayana, The Life of Reason, 1906]   <hr />   A perfect
+judge will read each work of wit   With the same spirit that its author writ;  [Pope, An Essay on
+Criticism, 1709]
+
+
+creationism (n.)
+
+1847, originally a Christian theological position that God immediately created a soul for each
+person born; from creation + -ism. As a name for the religious reaction to Darwin, opposed to
+evolution, it is attested from 1880.  James Ussher (1581-1656), Archbishop of Armagh, Primate of All
+Ireland, and Vice-Chancellor of Trinity College in Dublin was highly regarded in his day as a
+churchman and as a scholar. Of his many works, his treatise on chronology has proved the most
+durable. Based on an intricate correlation of Middle Eastern and Mediterranean histories and Holy
+writ, it was incorporated into an authorized version of the Bible printed in 1701, and thus came to
+be regarded with almost as much unquestioning reverence as the Bible itself. Having established the
+first day of creation as Sunday 23 October 4004 B.C. ... Ussher calculated the dates of other
+biblical events, concluding, for example, that Adam and Eve were driven from Paradise on Monday 10
+November 4004 BC, and that the ark touched down on Mt Ararat on 5 May 1491 BC on a Wednesday.
+[Craig, G.Y., and E.J. Jones, A Geological Miscellany, Princeton University Press, 1982.]
+
+
+serve (v.)
+
+late 12c., to render habitual obedience to, also minister, give aid, give help, from Old French
+servir to do duty toward, show devotion to; set table, serve at table; offer, provide with, from
+Latin servire be a servant, be in service, be enslaved; figuratively be devoted; be governed by;
+comply with; conform; flatter, originally be a slave, related to servus slave, perhaps from Etruscan
+(compare Etruscan proper names Servi, Serve, Latinized as Servius).    By c.1200 also as to be in
+the service of, perform a service for; attend upon, be personal servant to; be a slave; owe
+allegiance to; officiate at Mass or other religious rites; from early 13c. as set food at table;
+mid-14c. as to wait on (customers). From late 14c. as treat (someone or something) in some fashion.
+To serve (someone) right to treat as he deserves is recorded from 1580s.    He no schuld neuer wond
+To seruen him fro fot to hond  [Amis and Amiloun, c.1330]    Sense of be useful, be beneficial, be
+suitable for a purpose or function is from early 14c.; that of take the place or meet the needs of,
+be equal to the task is from late 14c.; that of suffice is from mid-15c. Meaning render active
+military service is from 1510s. Sporting sense, in tennis, badminton, etc., first recorded 1580s.
+Legal sense present (a writ, warrant,etc.), give legal notice of is from early 15c.
+
+
+Valentine (n.)
+
+mid-15c., sweetheart chosen on St. Valentine's Day, from Late Latin Valentinus, the name of two
+early Italian saints (from Latin valentia strength, capacity; see valence). Choosing a sweetheart on
+this day originated 14c. as a custom in English and French court circles. Meaning letter or card
+sent to a sweetheart first recorded 1824. The romantic association of the day is said to be from it
+being around the time when birds choose their mates.    For this was on seynt Volantynys day  Whan
+euery bryd cometh there to chese his make.  [Chaucer, Parlement of Foules, c.1381]    Probably the
+date was the informal first day of spring in whatever French region invented the custom (many
+surviving medieval calendars reckon the start of spring on the 7th or 22nd of February). No evidence
+connects it with the Roman Lupercalia (an 18c. theory) or to any romantic or avian quality in either
+of the saints. The custom of sending special cards or letters on this date flourished in England
+c.1840-1870, declined around the turn of the 20th century, and revived 1920s.    To speak of the
+particular Customs of the English Britons, I shall begin with Valentine's Day, Feb. 14. when young
+Men and Maidens get their several Names writ down upon Scrolls of Paper rolled up, and lay 'em
+asunder, the Men drawing the Maidens Names, and these the Mens; upon which, the Men salute their
+chosen Valentines and present them with Gloves, &amp;c.; This Custom (which sometimes introduces a
+Match) is grounded upon the Instinct of Animals, which about this Time of the Year, feeling a new
+Heat by the approach of the Sun, begin to couple. [The Present State of Great Britain and Ireland
+London, 1723]
+
+

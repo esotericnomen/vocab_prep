@@ -5,3 +5,61 @@ pattern, model; precedent, example, from paradeiknynai exhibit, represent, liter
 side, from para- beside (see para- (1)) + deiknynai to show (cognate with Latin dicere to show; see
 diction). Related: Paradigmatic; paradigmatical.
 
+
+be (v.)
+
+Old English beon, beom, bion be, exist, come to be, become, happen, from Proto-Germanic *biju- I am,
+I will be. This b-root is from PIE root *bheue- to be, exist, grow, come into being, and in addition
+to the words in English it yielded German present first and second person singular (bin, bist, from
+Old High German bim I am, bist thou art), Latin perfective tenses of esse (fui I was, etc.), Old
+Church Slavonic byti be, Greek phu- become, Old Irish bi'u I am, Lithuanian bu'ti to be, Russian
+byt' to be, etc. It also is behind Sanskrit bhavah becoming, bhavati becomes, happens, bhumih earth,
+world.     The modern verb to be in its entirety represents the merger of two once-distinct verbs,
+the b-root represented by be and the am/was verb, which was itself a conglomerate. Roger Lass (Old
+English) describes the verb as a collection of semantically related paradigm fragments, while
+Weekley calls it an accidental conglomeration from the different Old English dial[ect]s. It is the
+most irregular verb in Modern English and the most common. Collective in all Germanic languages, it
+has eight different forms in Modern English:   BE (infinitive, subjunctive, imperative)  AM (present
+1st person singular)  ARE (present 2nd person singular and all plural)  IS (present 3rd person
+singular)  WAS (past 1st and 3rd persons singular)  WERE (past 2nd person singular, all plural;
+subjunctive)  BEING (progressive &amp; present participle; gerund)  BEEN (perfect participle).
+The paradigm in Old English was:<table width=400 bgcolor=#CCFFFF cellspacing=1 cellpadding=4
+border=1><tr><td> </td><td>SING.</td><td>PL.</td></tr><tr><td>1st pres.</td><td>ic eomic
+beo</td><td>we sind(on)we beo&eth;</td></tr><tr><td>2nd pres.</td><td>&thorn;u eart&thorn;u
+bist</td><td>ge sind(on)ge beo&eth;</td></tr><tr><td>3rd pres.</td><td>he ishe bi&eth;</td><td>hie
+sind(on)hie beo&eth;</td></tr><tr><td>1st pret.</td><td>ic w&aelig;s</td><td>we
+w&aelig;ron</td></tr><tr><td>2nd pret.</td><td>&thorn;u w&aelig;re</td><td>ge
+waeron</td></tr><tr><td>3rd pret.</td><td>heo w&aelig;s</td><td>hie w&aelig;ron</td></tr><tr><td>1st
+pret. subj.</td><td>ic w&aelig;re</td><td>we w&aelig;ren</td></tr><tr><td>2nd pret.
+subj.</td><td>&thorn;u w&aelig;re</td><td>ge w&aelig;ren</td></tr><tr><td>3rd pret.
+subj.</td><td>Egcfer&eth; w&aelig;re</td><td>hie w&aelig;ren</td></tr></table>The b-root had no past
+tense in Old English, but often served as future tense of am/was. In 13c. it took the place of the
+infinitive, participle and imperative forms of am/was. Later its plural forms (we beth, ye ben, they
+be) became standard in Middle English and it made inroads into the singular (I be, thou beest, he
+beth), but forms of are claimed this turf in the 1500s and replaced be in the plural. For the origin
+and evolution of the am/was branches of this tangle, see am and was.    That but this blow Might be
+the be all, and the end all. [Macbeth I.vii.5]
+
+
+he (pron.)
+
+Old English he (see paradigm of Old English third person pronoun below), from Proto-Germanic *hi-
+(cognates: Old Saxon, Old Frisian, Middle Dutch he, hi, Dutch hy, Old High German he), from PIE
+*ki-, variant of *ko-, the this, here (as opposed to that, there) root (cognates: Hittite ki this,
+Greek ekeinos that person, Old Church Slavonic si, Lithuanian &#353;is this), and thus the source of
+the third person pronouns in Old English. The feminine, hio, was replaced in early Middle English by
+forms from other stems (see she), while the h- wore off Old English neuter hit to make modern it.
+The Proto-Germanic root also is the source of the first element in German heute today, literally the
+day (compare Old English heod&aelig;g).   <table width=90% bgcolor=#CCFFFF cellspacing=1
+cellpadding=4 border=1> <tr> <td><strong>case</strong></td> <td><strong>SINGULAR</strong></td>
+<td>-</td> <td>-</td> <td><strong>PLURAL</strong></td> </tr> <tr> <td>-</td>
+<td><strong>masc.</strong></td> <td><strong>neut.</strong></td> <td><strong>fem.</strong></td>
+<td><strong>(all genders)</strong></td> </tr> <tr> <td><strong>nom.</strong></td> <td>he</td>
+<td>hit</td> <td>heo, hio</td> <td>hie, hi</td> </tr> <tr> <td><strong>acc.</strong></td>
+<td>hine</td> <td>hit</td> <td>hie, hi</td> <td>hie, hi</td> </tr> <tr>
+<td><strong>gen.</strong></td> <td>his</td> <td>his</td> <td>hire</td> <td>hira, heora</td> </tr>
+<tr> <td><strong>dat.</strong></td> <td>him</td> <td>him</td> <td>hire</td> <td>him, heom</td> </tr>
+</table>   Pleonastic use with the noun (Mistah Kurtz, he dead) is attested from late Old English.
+With animal words, meaning male (he-goat, etc.) from c.1300.
+
+

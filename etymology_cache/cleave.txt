@@ -7,3 +7,353 @@ confusion was less in Old English when cleave (v.1) was a class 2 strong verb; b
 since cleave (v.1) weakened, which may be why both are largely superseded by stick (v.) and split
 (v.).
 
+
+cleave (v.1)
+
+to split, Old English cleofan, cleven, cliven to split, separate (class II strong verb, past tense
+cleaf, past participle clofen), from Proto-Germanic *kleuban (cognates: Old Saxon klioban, Old Norse
+kljufa, Danish kl&ouml;ve, Dutch kloven, Old High German klioban, German klieben to cleave, split),
+from PIE root *gleubh- to cut, slice (see glyph).    Past tense form clave is recorded in Northern
+writers from 14c. and was used with both verbs (see cleave (v.2)), apparently by analogy with other
+Middle English strong verbs. Clave was common to c.1600 and still alive at the time of the KJV; weak
+past tense cleaved for this verb also emerged in 14c.; cleft is still later. The past participle
+cloven survives, though mostly in compounds.
+
+
+cleaver (n.)
+
+late 15c., one who splits, agent noun from cleave (v.1). Originally one who splits boards with a
+wedge instead of sawing; attested as part of a surname from mid-14c. Meaning butcher's chopper is
+from mid-15c.    This last [Marrowbones and Cleaver] is a sign in Fetter Lane, originating from a
+custom, now rapidly dying away, of the butcher boys serenading newly married couples with these
+professional instruments. Formerly, the band would consist of four cleavers, each of a different
+tone, or, if complete, of eight, and by beating their marrowbones skilfully against these, they
+obtained a sort of music somewhat after the fashion of indifferent bell-ringing. When well
+performed, however, and heard from a proper distance, it was not altogether unpleasant. ... The
+butchers of Clare market had the reputation of being the best performers. ... This music was once so
+common that Tom Killigrew called it the national instrument of England.  [Larwood &amp; Hotten, The
+History of Signboards from the Earliest Times to the Present Day, London, 1867]
+
+
+sliver (n.)
+
+splinter of wood, late 14c., from obsolete verb sliven to split, cleave, from Old English toslifan
+to split, cleave (see sleave).
+
+
+clove (n.2)
+
+slice of garlic, Old English clufu clove (of garlic), bulb, tuber, from Proto-Germanic *klubo cleft,
+thing cloven, from PIE *gleubh- to tear apart, cleave (see cleave (v.1)). Its Germanic cognates
+mostly lurk in compounds that translate as clove-leek, such as Old Saxon clufloc, Old High German
+chlobilouh. Dissimilation produced Dutch knoflook, German knoblauch.
+
+
+fissure (n.)
+
+c.1400, from Old French fissure (13c.) and directly from Latin fissura a cleft, from root of findere
+to split, cleave, from PIE *bhi-n-d-, from root *bheid- to split (cognates: Sanskrit bhinadmi I
+cleave, Old High German  bizzan to bite, Old English  bita a piece bitten off,  morsel, Old Norse
+beita to  hunt with dogs, beita  pasture, food).
+
+
+clevis (n.)
+
+U-shaped iron bar with holes for a bolt or pin, used as a fastener, 1590s, of unknown origin,
+perhaps from the root of cleave (v.2). Also uncertain is whether it is originally a plural or a
+singular.
+
+
+cloven (adj.)
+
+divided, split, Old English clofen, past participle adjective from cleave (v.1).
+
+
+cleft (adj.)
+
+late 14c., past participle adjective from cleave (v.1)). Cleft palate attested from 1828.
+
+
+dybbuk (n.)
+
+malevolent spirit of a dead person possessing the body of a living one, 1903, from Jewish folklore,
+from Hebrew dibbuk, from dabak to cling, cleave to.
+
+
+slip (n.1)
+
+mid-15c., edge of a garment; 1550s, narrow strip, probably from Middle Low German or Middle Dutch
+slippe cut, slit, possibly related to Old English toslifan to split, cleave. Sense of narrow piece
+of paper (as in pink slip) in 1680s.
+
+
+adhere (v.)
+
+1590s, from Middle French adh&eacute;rer (15c.) or directly from Latin adhaerare to stick to (see
+adherent (adj.)). Originally often of persons, to cleave to a leader, cause, party, etc. (compare
+adherent (n.), which still often retains this sense). Related: Adhered; adhering.
+
+
+scalpel (n.)
+
+1742, from Latin scalpellum a surgical knife, diminutive of scalprum knife, chisel, tool for
+scraping or cutting, from scalpere to carve, cut, related to sculpere to carve, from PIE root
+*(s)kel- to cut, cleave (see scale (n.1)).
+
+
+sculpture (n.)
+
+late 14c., from Latin sculptura sculpture, from past participle stem of sculpere to carve, engrave,
+back-formation from compounds such as exculpere, from scalpere to carve, cut, from PIE root *(s)kel-
+(1) to cut, cleave (see scale (n.1)).
+
+
+cohere (v.)
+
+1590s, from Latin cohaerere to cleave together, in transferred use, be coherent or consistent, from
+com- together (see co-) + haerere to stick (see hesitation). Related: Cohered; cohering.
+
+
+schizo-
+
+word-forming element meaning division; split, cleavage, from Latinized form of Greek skhizo-, comb.
+form of skhizein to split, cleave, part, separate, from PIE root *skei- to cut, separate, divide,
+part, split (see shed (v.)).
+
+
+glyph (n.)
+
+1727, ornamental groove in architecture, from French glyphe (1701), from Greek glyphe a carving,
+from glyphein to hollow out, cut out with a knife, engrave, carve, from PIE root *gleubh- to cut,
+slice (cognates: Latin glubere to peel, shell, strip, Old English cleofan to cleave). Meaning
+sculpted mark or symbol (as in hieroglyph) is from 1825.
+
+
+eclat (n.)
+
+1670s, showy brilliance, from French &eacute;clat splinter, fragment (12c.), also flash of
+brilliance, from eclater burst out, splinter, from Old French esclater smash, shatter into pieces,
+of uncertain origin, perhaps from a West Germanic word related to slit or to Old High German sleizen
+tear to pieces; to split, cleave. Extended sense of conspicuous success is first recorded in English
+in 1741.
+
+
+sleave (v.)
+
+to separate or divide (threads, strands, fibers), Old English -sl&#230;fan, from stem of -slifan to
+separate, split, cleave, from Proto-Germanic *slifanan, perhaps related to the root of slip (v.).
+Compare German Schleife a loop, knot, noose. Related: Sleaved; sleaving. As a noun, knotted, tangled
+silk or thread, 1590s, from the verb; this is the word in Shakespeare's rauel'd Sleeue of Care
+(Macbeth).
+
+
+spool (n.)
+
+early 14c., wheel for winding thread upon, from Old North French spole, espole a spool (13c.), from
+Middle Dutch spoele a spool, from Proto-Germanic *spolon (cognates: Norwegian and Swedish spole, Old
+High German spuola, German Spule a spool, bobbin), from PIE root *spel- to cleave, split (see spoil
+(v.)).
+
+
+shingle (n.1)
+
+thin piece of wood, c.1200, scincle, from Late Latin scindula (also the source of German Schindel),
+altered (by influence of Greek schidax lath or schindalmos splinter) from Latin scandula roof tile,
+from scindere to cleave, split, from PIE root *sked- to split. Meaning small signboard is first
+attested 1842. Sense of woman's short haircut is from 1924; the verb meaning to cut the hair so as
+to give the impression of overlapping shingles is from 1857.
+
+
+cleavage (n.)
+
+1816, in geology, action of splitting (rocks or gems) along natural fissures, from cleave (v.1) +
+-age. General meaning action or state of cleaving or being cleft is from 1867.    The sense of cleft
+between a woman's breasts in low-cut clothing is first recorded 1946, defined in a Time magazine
+article [Aug. 5] as the Johnston Office trade term for the shadowed depression dividing an actress'
+bosom into two distinct sections; traditionally first used in this sense by U.S. publicist Joseph I.
+Breen (1888-1965), head of the Production Code Administration (replaced 1945 by Eric Johnston),
+enforcers of Hollywood self-censorship, in reference to Jane Russell's costumes and poses in The
+Outlaw.
+
+
+flint (n.)
+
+Old English flint flint, rock, common Germanic (cognates Middle Dutch vlint, Old High German flins,
+Danish flint), from PIE *splind- to split, cleave, from root *(s)plei- to splice, split (cognates:
+Greek plinthos brick, tile, Old Irish slind brick), perhaps a variant of *spel- (1) to split, break
+off. Transferred senses were in Old English.
+
+
+cleft (n.)
+
+1570s, alteration (by influence of cleft, new weak past participle of cleave (v.1)), of Middle
+English clift (early 14c.), from Old English geclyft (adj.) split, cloven, from Proto-Germanic
+*kluftis (cognates: Old High German and German kluft, Danish kl&oslash;ft cleft), from PIE *gleubh-
+(see glyph). In Middle English anatomy, it meant the parting of the thighs (early 14c.).
+
+
+divide (v.)
+
+early 14c., from Latin dividere to force apart, cleave, distribute, from dis- apart (see dis-) +
+-videre to separate, from PIE root *weidh- to separate (see widow; also see with).    Mathematical
+sense is from early 15c. Divide and rule (c.1600) translates Latin divide et impera, a maxim of
+Machiavelli. Related: Divided; dividing.
+
+
+tome (n.)
+
+1510s, a single volume of a multi-volume work, from Middle French tome (16c.), from Latin tomus
+section of a book, tome, from Greek tomos volume, section of a book, originally a section, piece cut
+off, from temnein to cut, from PIE *tem- to cut (cognates: second element in Latin aestimare to
+value, appraise, Old Church Slavonic tina to cleave, split, Middle Irish tamnaim I cut off, Welsh
+tam morsel). Sense of a large book is attested from 1570s.
+
+
+shelf (n.)
+
+late 14c., from Middle Low German schelf shelf, set of shelves, or from Old English cognate scylfe,
+which perhaps meant shelf, ledge, floor, and scylf peak, pinnacle, from Proto-Germanic *skelf-
+split, possibly from the notion of a split piece of wood (compare Old Norse skj&ouml;lf bench), from
+PIE root *(s)kel- (1) to cut, cleave (see scale (n.1)).   Shelf life first recorded 1927. Phrase on
+the shelf out of the way, inactive is attested from 1570s; of unmarried women with no prospects from
+1839. Off the shelf ready-made is from 1936. Meaning ledge of rock is from 1809, perhaps from or
+influenced by shelf (n.2). Related: Shelves.
+
+
+shear (v.)
+
+Old English sceran, scieran (class IV strong verb; past tense scear, past participle scoren) to
+cleave, hew, cut with a sharp instrument; cut (hair); shear (sheep), from Proto-Germanic *sker- to
+cut (cognates: Old Norse and Old Frisian skera, Dutch scheren, German scheren to shear), from PIE
+*(s)ker- (1) to cut, to scrape, to hack (cognates: Sanskrit krnati hurts, wounds, kills, krntati
+cuts; Hittite karsh- to cut off; Greek keirein to cut, shear; Latin curtus short; Lithuanian skiriu
+to separate; Old Irish scaraim I separate; Welsh ysgar to separate, ysgyr fragment).
+
+
+clever (adj.)
+
+1580s, handy, dexterous, apparently from East Anglian dialectal cliver expert at seizing, perhaps
+from East Frisian kl&#252;fer skillful, or Norwegian dialectic klover ready, skillful, and perhaps
+influenced by Old English clifer claw, hand (early usages seem to refer to dexterity). Or perhaps
+akin to Old Norse kleyfr easy to split and from a root related to cleave to split. Extension to
+intellect is first recorded 1704.    This is a low word, scarcely ever used but in burlesque or
+conversation; and applied to any thing a man likes, without a settled meaning. [Johnson, 1755]
+The meaning has narrowed since, but clever also often in old use and dialect meant well-shaped,
+attractive-looking and in 19c. American English sometimes good-natured, agreeable. Related:
+Cleverly; cleverness.
+
+
+clay (n.)
+
+Old English cl&aelig;g stiff, sticky earth; clay, from Proto-Germanic *klaijaz (cognates: Old High
+German kliwa bran, German Kleie, Old Frisian klai clay, Old Saxon klei, Middle Dutch clei, Danish
+kl&aelig;g clay; also Old English cl&aelig;man, Old Norse kleima, Old High German kleiman to cover
+with clay), from PIE root *glei- clay (cognates: Greek gloios sticky matter; Latin gluten glue; Old
+Church Slavonic glina clay, glenu slime, mucus; Old Irish glenim I cleave, adhere).    in Scripture,
+the stuff from which the body of the first man was formed; hence human body (especially when dead).
+Clay pigeon is from 1888. Feet of clay fundamental weakness is from Dan. ii:33.
+
+
+schedule (n.)
+
+late 14c., sedule, cedule ticket, label, slip of paper with writing on it, from Old French cedule
+(Modern French c&#233;dule), from Late Latin schedula strip of paper (in Medieval Latin also a note,
+schedule), diminutive of Latin scheda, scida one of the strips forming a papyrus sheet, from Greek
+skhida splinter, from stem of skhizein to cleave, split (see shed (v.)). Also from the Latin word
+are Spanish c&#233;dula, German Zettel.    The notion is of slips of paper attached to a document as
+an appendix (a sense maintained in U.S. tax forms). The specific meaning printed timetable is first
+recorded 1863 in railway use. Modern spelling is a 15c. imitation of Latin, but pronunciation
+remained sed-yul for centuries afterward; the modern British pronunciation (shed-yul) is from French
+influence, while the U.S. pronunciation (sked-yul) is from the practice of Webster, based on the
+Greek original.
+
+
+shell (n.)
+
+Old English sciell, scill, Anglian scell seashell, eggshell, related to Old English scealu shell,
+husk, from Proto-Germanic *skaljo piece cut off; shell; scale (cognates: West Frisian skyl peel,
+rind, Middle Low German schelle pod, rind, egg shell, Gothic skalja tile), with the shared notion of
+covering that splits off, from PIE root *(s)kel- (1) to cut, cleave (cognates: Old Church Slavonic
+skolika shell, Russian skala bark, rind; see scale (n.1)). Italian scaglia chip is from Germanic.
+Sense of mere exterior is from 1650s; that of hollow framework is from 1791. Meaning structure for a
+band or orchestra is attested from 1938. Military use (1640s) was first of hand grenades, in
+reference to the metal case in which the gunpowder and shot were mixed; the notion is of a hollow
+object filled with explosives. Hence shell shock, first recorded 1915. Shell game a swindle is from
+1890, from a version of three-card monte played with a pea and walnut shells.
+
+
+scale (n.1)
+
+skin plates on fish or snakes, c.1300, from Old French escale cup, scale, shell pod, husk (12c.,
+Modern French &eacute;cale) scale, husk, from Frankish *skala or some other Germanic source, from
+Proto-Germanic *sk&aelig;lo split, divide (cognates: Dutch schaal a scale, husk, Old High German
+scala shell, Gothic skalja tile, Old English scealu shell, husk), from PIE root *(s)kel- (1) to cut,
+cleave, split (cognates: Latin culter knife, scalpere to cut, scrape; Old Church Slavonic skolika
+mussel, shell, Russian skala rind, bark, Lithuanian skelti split, Old English scell shell, scalu
+drinking cup, bowl, scale of a balance).    In reference to humans, as a condition of certain skin
+diseases, it is attested from c.1400. As what falls from one's eye when blindness ends (usually
+figurative), it echoes Acts ix:18 (Latin tanquam squam&aelig;, Greek hosei lepides).
+
+
+key (n.1)
+
+metal piece that works a lock, from Old English c&aelig;g key, of unknown origin, with no certain
+cognates other than Old Frisian kei. Perhaps related to Middle Low German keie lance, spear on
+notion of tool to cleave with, from Proto-Germanic *ki- to cleaver, split (cognates: German Keil
+wedge, Gothic us-kijans come forth, said of seed sprouts, keinan to germinate). But Liberman writes,
+The original meaning of *kaig-jo- was presumably '*pin with a twisted end.' Words with the root
+*kai- followed by a consonant meaning 'crooked, bent; twisted' are common only in the North Germanic
+languages. Modern pronunciation is a northern variant predominating from c.1700; earlier it was
+often spelled and pronounced kay.    Figurative sense of that which serves to open or explain was in
+Old English; meaning that which holds together other parts is from 1520s. As answer to a test, it is
+from chess, short for key move, first move in a solution to a set problem. Musical sense of tone,
+note is 15c., but modern sense of scale is 1580s, probably as a translation of Latin clavis or
+French clef (see clef; also see keynote). Extended c.1500 to mechanism on a musical instrument. As a
+verb meaning to scratch (a car's paint job) with a key it is recorded by 1986.
+
+
+spill (v.)
+
+Old English spillan destroy, mutilate, kill, also in late Old English to waste, variant of spildan
+destroy, from Proto-Germanic *spilthjan (cognates: Old High German spildan to spill, Old Saxon
+spildian destroy, kill, Old Norse spilla to destroy, Danish spilde lose, spill, waste, Middle Dutch
+spillen to waste, spend), from PIE *spel- (1) to split, break off (cognates: Middle Dutch spalden,
+Old High German spaltan to split; Greek aspalon skin, hide, spolas flayed skin; Lithuanian spaliai
+shives of flax; Old Church Slavonic rasplatiti to cleave, split; Middle Low German spalden, Old High
+German spaltan to split; Sanskrit sphatayati splits).    Sense of let (liquid) fall or run out
+developed mid-14c. from use of the word in reference to shedding blood (early 14c.). Intransitive
+sense to run out and become wasted is from 1650s. Spill the beans recorded by 1910 in a sense of
+spoil the situation; 1919 as reveal a secret. To cry for spilt milk (usually with negative) is
+attested from 1738. Related: Spilled; spilt; spilling.
+
+
+science (n.)
+
+mid-14c., what is known, knowledge (of something) acquired by study; information; also assurance of
+knowledge, certitude, certainty, from Old French science knowledge, learning, application; corpus of
+human knowledge (12c.), from Latin scientia knowledge, a knowing; expertness, from sciens (genitive
+scientis) intelligent, skilled, present participle of scire to know, probably originally to separate
+one thing from another, to distinguish, related to scindere to cut, divide, from PIE root *skei- to
+cut, to split (cognates: Greek skhizein to split, rend, cleave, Gothic skaidan, Old English sceadan
+to divide, separate; see shed (v.)).    From late 14c. in English as book-learning, also a
+particular branch of knowledge or of learning; also skillfulness, cleverness; craftiness. From
+c.1400 as experiential knowledge; also a skill, handicraft; a trade. From late 14c. as collective
+human knowledge (especially that gained by systematic observation, experiment, and reasoning).
+Modern (restricted) sense of body of regular or methodical observations or propositions concerning a
+particular subject or speculation is attested from 1725; in 17c.-18c. this concept commonly was
+called philosophy. Sense of non-arts studies is attested from 1670s.    Science, since people must
+do it, is a socially embedded activity. It progresses by hunch, vision, and intuition. Much of its
+change through time does not record a closer approach to absolute truth, but the alteration of
+cultural contexts that influence it so strongly. Facts are not pure and unsullied bits of
+information; culture also influences what we see and how we see it. Theories, moreover, are not
+inexorable inductions from facts. The most creative theories are often imaginative visions imposed
+upon facts; the source of imagination is also strongly cultural. [Stephen Jay Gould, introduction to
+The Mismeasure of Man, 1981]   <hr />   In science you must not talk before you know. In art you
+must not talk before you do. In literature you must not talk before you think. [John Ruskin, The
+Eagle's Nest, 1872]    The distinction is commonly understood as between theoretical truth (Greek
+episteme) and methods for effecting practical results (tekhne), but science sometimes is used for
+practical applications and art for applications of skill. To blind (someone) with science confuse by
+the use of big words or complex explanations is attested from 1937, originally noted as a phrase
+from Australia and New Zealand.
+
+

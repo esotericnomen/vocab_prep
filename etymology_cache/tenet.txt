@@ -11,3 +11,361 @@ stretch, tenuis thin, rare, fine; Old Church Slavonic tento cord; Old English &t
 Connecting notion between stretch and hold is cause to maintain. The modern sense is probably
 because tenet was used in Medieval Latin to introduce a statement of doctrine.
 
+
+dogma (n.)
+
+c.1600 (in plural dogmata), from Latin dogma philosophical tenet, from Greek dogma (genitive
+dogmatos) opinion, tenet, literally that which one thinks is true, from dokein to seem good, think
+(see decent). Treated in 17c.-18c. as a Greek word in English.
+
+
+hypotonia (n.)
+
+1876, medical Latin, from hypo- + Greek tonos tone (see tenet).
+
+
+tensor (n.)
+
+muscle that stretches or tightens a part, 1704, Modern Latin agent noun from tens-, past participle
+stem of Latin tendere to stretch (see tenet).
+
+
+tenesmus (n.)
+
+a straining (to void the contents of the bowels), 1520s, medical Latin, from Greek tenesmos a
+straining, from teinein to stretch (see tenet).
+
+
+tensile (adj.)
+
+1620s, stretchable, from Modern Latin tensilis capable of being stretched, from Latin tensus, past
+participle of tendere to stretch (see tenet). Meaning pertaining to tension is from 1841.
+
+
+tense (adj.)
+
+stretched tight, 1660s, from Latin tensus, past participle of tendere to stretch, extend (see
+tenet). Figurative sense of in a state of nervous tension is first recorded 1821. Related: Tensely;
+tenseness.
+
+
+tenon (n.)
+
+projection inserted to make a joint, late 14c., from Middle French tenon a tenon, from Old French
+tenir to hold (see tenet). As a verb from 1590s.
+
+
+tend (v.1)
+
+to incline, to move in a certain direction, early 14c., from Old French tendre stretch out, hold
+forth, hand over, offer (11c.), from Latin tendere to stretch, extend, make tense; aim, direct;
+direct oneself, hold a course (see tenet).
+
+
+tenter (n.)
+
+c.1300, wooden framework for stretching cloth, of uncertain origin, probably via Old French (but the
+evolution of the ending is obscure), and ultimately from Latin tentorium tent made of stretched
+skins, from tentus stretched, variant past participle of tendere to stretch (see tenet).
+
+
+tonic (adj.)
+
+1640s, relating to or characterized by muscular tension, from Greek tonikos of stretching, from
+tonos a stretching (see tenet). The meaning maintaining the healthy firmness of tissues is recorded
+from 1680s, first extended 1756 to having the property of restoring to health. Related: Tonical
+(1580s).
+
+
+neoteny (n.)
+
+retention of juvenile characteristics in adult life, 1901, from German neotenie (1884), from Greek
+neos young (see new) + teinein to extend (see tenet).
+
+
+tantra (n.)
+
+type of Hindu religious book, 1799, from Sanskrit tantram, literally loom, warp, hence,
+figuratively, groundwork, system, doctrine, from tan to stretch, extend, from PIE root *ten- to
+stretch, extend (see tenet).
+
+
+tendency (n.)
+
+1620s, from Medieval Latin tendentia inclination, leaning, from Latin tendens, present participle of
+tendere to stretch, extend, aim (see tenet). Earlier in same sense was tendaunce (mid-15c.), from
+Old French tendance.
+
+
+isotonic (adj.)
+
+1828, from Greek isotonos of level pitch; equally stretched, from iso- (see iso-) + tonos (see
+tenet).
+
+
+tetanus (n.)
+
+infectious disease, late 14c., from Latin tetanus tetanus, from Greek tetanos tetanus, muscular
+spasm, literally a stretching, tension, from teinein to stretch (see tenet); so called because the
+disease is characterized by violent spasms and stiffness of the muscles [Barnhart]. Related:
+Tetanoid (adj.).
+
+
+catatonia (n.)
+
+1888, from medical Latin catatonia; replacing katatonia (1880s), which was formed directly from
+Greek kata- down (see cata-) + tonos tone (see tenet).
+
+
+hypotenuse (n.)
+
+1570s, from Late Latin hypotenusa, from Greek hypoteinousa stretching under (the right angle), fem.
+present participle of hypoteinein, from hypo- under (see sub-) + teinein to stretch (see tenet).
+Formerly often erroneously hypothenuse.
+
+
+tenable (adj.)
+
+capable of being held or maintained, 1570s, from Middle French tenable, from Old French (12c.), from
+tenir to hold, from Latin tenere to hold, keep (see tenet).
+
+
+tenacity (n.)
+
+early 15c., from Middle French t&eacute;nacit&eacute; (14c.) and directly from Latin tenacitas an
+act of holding fast, from tenax (genitive tenacis) holding fast, gripping, clingy; firm, steadfast,
+from tenere to hold (see tenet).
+
+
+pertain (v.)
+
+early 14c., from Old French partenir to belong to and directly from Latin pertinere to reach,
+stretch; relate, have reference to; belong, be the right of; be applicable, from per- through (see
+per) + tenere to hold (see tenet). Related: Pertained; pertaining.
+
+
+ostensible (adj.)
+
+1762, capable of being shown, presentable, from French ostensible, from Latin ostens-, past
+participle stem of ostendere to show, expose to view; to stretch out, spread before; exhibit,
+display, from ob in front of (see ob-) + tendere to stretch (see tenet). Meaning apparent, professed
+is from 1771.
+
+
+diatonic (adj.)
+
+c.1600, from French diatonique, from Latin diatonicus, from Greek diatonikos, from diatonos
+extending; pertaining to the diatonic scale, from dia- (see dia-) + teinein to stretch (see tenet).
+
+
+peritoneum (n.)
+
+early 15c., from Late Latin peritonaeum, from Greek peritonaion abdominal membrane, literally part
+stretched over, noun use of neuter of peritonaios stretched over, from peri- around (see peri-) +
+teinein to stretch (see tenet). Related: Peritoneal.
+
+
+distend (v.)
+
+c.1400, from Latin distendere to swell or stretch out, extend, from dis- apart (see dis-) + tendere
+to stretch (see tenet). Related: Distended; distending.
+
+
+contain (v.)
+
+late 13c., from Old French contein-, stem of contenir, from Latin continere (transitive) to hold
+together, enclose, from com- together (see com-) + tenere to hold (see tenet). Related: Containable.
+
+
+contend (v.)
+
+mid-15c., from Old French contendre, from Latin contendere to stretch out, strive after, from com-,
+intensive prefix (see com-), + tendere to stretch (see tenet). Related: Contended; contending.
+
+
+telangiectasia (n.)
+
+1831, Modern Latin, from Greek telos end (see tele-), + angeion vessel (see angio-), + ektasis a
+stretching out, extension, dilation, from ek (see ex-) + tasis a stretching, tension, intensity (see
+tenet).
+
+
+tenant (n.)
+
+early 14c., person who holds lands by title or by lease, from Anglo-French tenaunt (late 13c.), Old
+French tenant possessor; feudal tenant (12c.), noun use of present participle of tenir to hold, from
+Latin tenere hold, keep, grasp (see tenet). Related: Tenancy. Tenant-farmer attested from 1748.
+
+
+portend (v.)
+
+early 15c., from Latin portendere foretell, reveal; point out, indicate, originally to stretch
+forward, from por- (variant of pro-; see pro-) forth, forward + tendere to stretch, extend (see
+tenet). Related: Portended; portending.
+
+
+tender (v.)
+
+to offer formally, 1540s, from Middle French tendre to offer, hold forth (11c.), from Latin tendere
+to stretch, extend (see tenet). The retention of the ending of the French infinitive is unusual (see
+render (v.) for another example). The noun meaning formal offer for acceptance is from 1540s;
+specific sense of money that may be legally offered as payment is from 1740; hence legal tender
+currency.
+
+
+subtend (v.)
+
+1560s, from Latin subtendere to stretch underneath, from sub under (see sub-) + tendere to stretch
+(see tenet). Related: Subtended; subtending.
+
+
+extenuate (v.)
+
+1520s, from Latin extenuatus, past participle of extenuare lessen, make small, reduce, diminish,
+from ex- out (see ex-) + tenuare make thin, from tenuis thin (see tenet). Related: Extenuated;
+extenuating. Extenuating circumstances attested from 1660s.
+
+
+monotony (n.)
+
+1706, originally in transferred sense of wearisome, tiresome, from French monotonie (1670s), from
+Greek monotonia sameness of tone, monotony, from monotonos monotonous, of one tone, from monos
+single, alone (see mono-) + tonos tone (see tenet). Literal sense of sameness of tone or pitch in
+English is from 1724.
+
+
+tent (n.)
+
+c.1300, portable shelter of skins or coarse cloth stretched over poles, from Old French tente tent,
+hanging, tapestry (12c.), from Medieval Latin tenta a tent, literally something stretched out, noun
+use of fem. singular of Latin tentus stretched, variant past participle of tendere to stretch (see
+tenet). The notion is of stretching hides over a framework. Tent caterpillar first recorded 1854, so
+called from the tent-like silken webs in which they live gregariously.
+
+
+tendon (n.)
+
+1540s, from Medieval Latin tendonem (nominative tendo), altered (by influence of Latin tendere to
+stretch) from Late Latin tenon, from Greek tenon (genitive tenontos) tendon, sinew, from PIE *ten-
+on- something stretched, from root *ten- to stretch (see tenet).
+
+
+tenuous (adj.)
+
+1590s, thin, unsubstantial, irregularly formed from Latin tenuis thin, drawn out, meager, slim,
+slender, figuratively trifling, insignificant, poor, low in rank, from PIE root *ten- to stretch
+(cognates: Sanskrit tanuh thin, literally stretched out; see tenet) + -ous. The correct form with
+respect to the Latin is tenuious. The figurative sense of having slight importance, not substantial
+is found from 1817 in English. Related: Tenuously; tenuousness.
+
+
+tenure (n.)
+
+early 15c., holding of a tenement, from Anglo-French and Old French tenure a tenure, estate in land
+(13c.), from Old French tenir to hold, from Vulgar Latin *tenire, from Latin tenere to hold (see
+tenet). The sense of condition or fact of holding a status, position, or occupation is first
+attested 1590s. Meaning guaranteed tenure of office (usually at a university or school) is recorded
+from 1957. Related: Tenured (1961).
+
+
+obtain (v.)
+
+early 15c., from Middle French obtenir acquire, obtain (14c.), from Latin obtinere hold, hold fast,
+take hold of, get possession of, acquire, from ob to (though perhaps intensive in this case; see
+ob-) + tenere to hold (see tenet). Related: Obtained; obtaining.
+
+
+detente (n.)
+
+1908 as a political term, a borrowing of French d&eacute;tente loosening, slackening (used in the
+Middle Ages for the catch of a crossbow), from Vulgar Latin detendita, fem. past participle of Latin
+detendere loosen, release, from de- from, away (see de-) + tendere stretch (see tenet). The
+reference is to a relaxing in a political situation. The French word was earlier borrowed as detent
+(1680s) catch which regulates the strike in a clock.
+
+
+tension (n.)
+
+1530s, a stretched condition, from Middle French tension (16c.) or directly from Latin tensionem
+(nominative tensio) a stretching (in Medieval Latin a struggle, contest), noun of state from tensus,
+past participle of tendere to stretch, from PIE root *ten- stretch (see tenet). The sense of nervous
+strain is first recorded 1763. The meaning stress along lines of electromotive force (as in high-
+tension wires) is recorded from 1785.
+
+
+baritone (n.)
+
+c.1600, from Italian baritono, from Greek barytonos deep-toned, deep-sounding, from barys heavy,
+deep, also, of sound, strong, deep, bass (see grave (adj.)) + tonos tone (see tenet). Technically,
+ranging from lower A in bass clef to lower F in treble clef. Meaning singer having a baritone voice
+is from 1821. As a type of brass band instrument, it is attested from 1949.
+
+
+detain (v.)
+
+early 15c., deteynen, from Old French detenir to hold off, keep back (12c.), from Latin detinere
+hold off, keep back, from de- from, away (see de-) + tenere to hold (see tenet). Modern spelling is
+17c., from influence of contain, retain, etc. Related: Detained; detaining.
+
+
+sustain (v.)
+
+c.1300, give support to, from stem of Old French sostenir hold up, bear; suffer, endure (13c.), from
+Latin sustinere hold up, hold upright; furnish with means of support; bear, undergo, endure, from
+sub up from below (see sub-) + tenere to hold (see tenet). Meaning continue, keep up (an action,
+etc.) is from early 14c. Sense of endure without failing or yielding is from c.1400. Related:
+Sustained; sustaining.
+
+
+attenuate (v.)
+
+to make thin, to make less, 1520s, from Latin attenuatus enfeebled, weak, past participle of
+attenuare to make thin, lessen, diminish, from ad- to (see ad-) + tenuare make thin, from tenuis
+thin (see tenet). Related: Attenuated; attenuating. Earlier was Middle English attenuen to make thin
+(in consistency), early 15c.
+
+
+attend (v.)
+
+c.1300, to direct one's mind or energies, from Old French atendre (12c., Modern French attendre) to
+expect, wait for, pay attention, and directly from Latin attendere give heed to, literally to
+stretch toward, from ad- to (see ad-) + tendere stretch (see tenet). The notion is of stretching
+one's mind toward something. Sense of take care of, wait upon is from early 14c. Meaning to pay
+attention is early 15c.; that of to be in attendance is mid-15c. Related: Attended; attending.
+
+
+abstain (v.)
+
+late 14c., to withhold oneself, from Old French abstenir (14c.), earlier astenir (13c.) hold
+(oneself) back, refrain, abstain (from), practice abstinence, from Latin abstinere withhold, keep
+back, keep off, from ab(s)- from, away from (see ab-) + tenere to hold (see tenet). Specifically of
+liquor, late 14c. Of voting, 1796. Related: Abstained; abstaining.
+
+
+entertain (v.)
+
+late 15c., to keep up, maintain, to keep (someone) in a certain frame of mind, from Middle French
+entretenir (12c.), from Old French entretenir hold together, stick together, support, from entre-
+among (from Latin inter; see inter-) + tenir to hold (from Latin tenere; see tenet).    Sense of
+have a guest is late 15c.; that of amuse is 1620s. Meaning to allow (something) to consideration (of
+opinions, notions, etc.) is 1610s. Related: Entertained; entertaining.
+
+
+maintain (v.)
+
+mid-13c., to practice habitually, from Anglo-French meintenir (Old French maintenir, 12c.) keep (a
+wife), sustain; persevere in, practice continually, from Latin manu tenere hold in the hand, from
+manu, ablative of manus hand (see manual) + tenere to hold (see tenet). Meaning to carry on, keep up
+is from mid-14c.; that of to keep oneself, to support is from late 14c. Sense of to defend in speech
+is from mid-14c. Related: Maintained; maintaining; maintains.
+
+
+retain (v.)
+
+late 14c., hold back, restrain; c.1400, continue keeping, keep possession of, from Old French
+retenir keep, retain; take into feudal service; hold back; remember (12c.), from Latin retinere hold
+back, keep back, detain, restrain, from re- back (see re-) + tenere to hold (see tenet). Meaning
+keep (another) attached to one's person, keep in service is from mid-15c.; specifically of lawyers
+from 1540s. Meaning keep in the mind is from c.1500. Related: Retained; retaining.
+
+

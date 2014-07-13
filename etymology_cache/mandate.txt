@@ -4,3 +4,93 @@ mandate (v.)
 group is from 1958; used earlier in the context of the League of Nations, to authorize a power to
 control a certain territory for some specified purpose (1919). Related: Mandated; mandating.
 
+
+mandate (n.)
+
+judicial or legal order, c.1500, from Middle French mandat (15c.) and directly from Latin mandatum
+commission, command, order, noun use of neuter past participle of mandare to order, commit to one's
+charge, literally to give into one's hand, probably from manus hand (see manual) + dare to give (see
+date (n.1)). Political sense of approval supposedly conferred by voters to the policies or slogans
+advocated by winners of an election is from 1796. League of Nations sense is from 1919.
+
+
+mandatary (n.)
+
+person to whom a mandate has been given, 1610s, from Latin mandatarius one to whom a charge or
+commission has been given, from mandatus, past participle of mandare (see mandate (n.)).
+
+
+mandatory (adj.)
+
+1570s, of the nature of a mandate, from Late Latin mandatorius pertaining to a mandator, from Latin
+mandatus, past participle of mandare (see mandate (n.)). Sense of obligatory because commanded is
+from 1818.
+
+
+Palestine
+
+from Latin Palestina (name of a Roman province), from Greek Palaistine (Herodotus), from Hebrew
+Pelesheth Philistia, land of the Philistines. Revived as an official political territorial name 1920
+with the British mandate.    Under Turkish rule, Palestine was part of three administrative regions:
+the Vilayet of Beirut, the Independent Sanjak of Jerusalem, and the Vilayet of Damascus. In 1917 the
+country was conquered by British forces who held it under occupation until the mandate was
+established April 25, 1920, by the Supreme Council of the Allied Powers at San Remo. During the
+occupation Palestine formed Occupied Enemy Territory Administration (South), with headquarters at
+Jerusalem.
+
+
+mandamus (n.)
+
+1530s, writ from a superior court to an inferior one, specifying that something be done, (late 14c.
+in Anglo-French), from Latin, literally we order, first person plural present indicative of mandare
+to order (see mandate (n.)).
+
+
+countermand (v.)
+
+early 15c., from Old French contremander reverse an order or command (13c.), from contre- against
+(see contra-) + mander, from Latin mandare to order (see mandate (n.)). Related: Countermanded;
+countermanding.
+
+
+commend (v.)
+
+mid-14c., comenden, from Latin commendare to commit to the care or keeping (of someone), to entrust
+to; to commit to writing; hence to set off, render agreeable, praise, from com-, intensive prefix
+(see com-), + mandare to commit to one's charge (see mandate (n.)). In some senses, a shortening of
+recommend. Related: Commended; commending.
+
+
+command (v.)
+
+c.1300, from Old French comander to order, enjoin, entrust (12c.), from Vulgar Latin *commandare,
+from Latin commendare to recommend, entrust to (see commend), altered by influence of Latin mandare
+to commit, entrust (see mandate (n.)). Replaced Old English bebeodan. Related: Commanded;
+commanding.
+
+
+remand (v.)
+
+mid-15c., from Middle French remander send for again (12c.) or directly from Late Latin remandare to
+send back word, repeat a command, from Latin re- back (see re-) + mandare to consign, order, commit
+to one's charge (see mandate (n.)). Specifically in law, send back (a prisoner) on refusing an
+application for discharge. Related: Remanded; remanding.
+
+
+Maundy Thursday
+
+Thursday before Easter, mid-15c., from Middle English maunde the Last Supper, also ceremony of
+washing the feet, from Old French mand&eacute;, from Latin mandatum commandment (see mandate); said
+to be so called in reference to the opening words of the church service for this day, Mandatum novum
+do vobis A new commandment I give unto you (John xiii:34), words supposedly spoken by Jesus to the
+Apostles after washing their feet at the Last Supper.
+
+
+demand (v.)
+
+late 14c., ask, make inquiry, from Old French demander (12c.) to request; to demand, from Latin
+demandare entrust, charge with a commission (in Vulgar Latin, to ask, request, demand), from de-
+completely (see de-) + mandare to order (see mandate). Meaning to ask for as a right is early 15c.,
+from Anglo-French legal use. Related: Demanded; demanding.
+
+

@@ -2,7 +2,24 @@ castigate (v.)
 
 c.1600, from Latin castigatus, past participle of castigare to correct, set right; purify; chastise,
 punish, from castus pure (see caste) + agere to do (see act (n.)). The notion behind the word is
-make someone pure by correcting or reproving him.<blockquote>If thou didst put this soure cold habit
-on To castigate thy pride, 'twere well. [Shakespeare, Timon IV.iii (1607)]</blockquote>  Related:
-Castigated; castigating; castigator; castigatory.
+make someone pure by correcting or reproving him.If thou didst put this soure cold habit on To
+castigate thy pride, 'twere well. [Shakespeare, Timon IV.iii (1607)]  Related: Castigated;
+castigating; castigator; castigatory.
+
+
+castigation (n.)
+
+late 14c., castigacioun, from Latin castigationem (nominative castigatio) a correcting, reproof,
+chastizing, noun of action from past participle stem of castigare (see castigate).
+
+
+chastise (v.)
+
+c.1300, chastisen, from Old French chastiier to warn, advise, instruct; chastise, admonish; punish;
+dominate, tame (12c., Modern French ch&acirc;tier), from Latin castigare to set or keep right, to
+reprove, chasten, to punish, literally to make pure (see castigate). Or perhaps from Middle English
+chastien (see chasten) + -ise, though this would be early for such a native formation. The form of
+the modern word is not easily accounted for [OED]. Related: Chastised; chastising.  He alone may
+chastise who loves. [Rabindranath Tagore, The Crescent Moon, 1913]
+
 

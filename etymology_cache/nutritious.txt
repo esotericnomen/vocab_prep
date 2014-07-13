@@ -3,3 +3,11 @@ nutritious (adj.)
 1660s, from Latin nutricius that which nourishes, nurses, from nutrix (genitive nutricis) a nurse,
 from nutrire (see nourish). Related: Nutritiously.
 
+
+nutrient (n.)
+
+a nutritious substance, 1828, noun use of adjective (1640s) meaning providing nourishment, from
+Latin nutrientem (nominative nutriens), present participle of nutrire to nourish, suckle, feed,
+foster (see nourish).
+
+

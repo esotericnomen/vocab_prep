@@ -5,12 +5,57 @@ Middle English askance(s) and no indication of a connection, but Barnhart and ot
 newer word from the older one. The Middle English word, recorded early 14c. as ase quances and found
 later in Chaucer, meant in such a way that; even as; as if; and as an adverb insincerely,
 deceptively. It has been analyzed as a compound of as and Old French quanses (pronounced kanses) how
-if, from Latin quam how + si if.  <blockquote>  The E[nglish] as is, accordingly, redundant, and
-merely added by way of partial explanation. The M.E. askances means as if in other passages, but
-here means, as if it were, i.e. possibly, perhaps; as said above. Sometimes the final s is dropped
-.... [Walter W. Skeat, glossary to Chaucer's Man of Law's Tale, 1894]  </blockquote>  Also see
-discussion in Leo Spitzer, Anglo-French Etymologies, Philological Quarterly 24.23 (1945), and see
-OED entry for askance (adv.) for discussion of the mysterious ask- word cluster in English. Other
-guesses about the origin of askance include Old French a escone, from past participle of a word for
-hidden; Italian a scancio obliquely, slantingly; or that it is a cognate of askew.
+if, from Latin quam how + si if.    The E[nglish] as is, accordingly, redundant, and merely added by
+way of partial explanation. The M.E. askances means as if in other passages, but here means, as if
+it were, i.e. possibly, perhaps; as said above. Sometimes the final s is dropped .... [Walter W.
+Skeat, glossary to Chaucer's Man of Law's Tale, 1894]    Also see discussion in Leo Spitzer, Anglo-
+French Etymologies, Philological Quarterly 24.23 (1945), and see OED entry for askance (adv.) for
+discussion of the mysterious ask- word cluster in English. Other guesses about the origin of askance
+include Old French a escone, from past participle of a word for hidden; Italian a scancio obliquely,
+slantingly; or that it is a cognate of askew.
+
+
+glance (v.)
+
+mid-15c., of weapons, from glacen to graze, strike a glancing blow (c.1300), from Old French glacier
+to slip, make slippery, from glace ice (see glacial). Sense of look quickly (first recorded 1580s)
+probably was influenced in form and meaning by Middle English glenten look askance (see glint).
+Related: Glanced; glancing.
+
+
+leer (v.)
+
+to look obliquely (now usually implying with a lustful or malicious intent), 1520s, probably from
+Middle English noun ler cheek, from Old English hleor the cheek, the face, from Proto-Germanic
+*khleuzas near the ear, from *kleuso- ear, from PIE root *kleu- to hear (see listen). The notion is
+probably of looking askance (compare figurative development of cheek). Related: Leered; leering.
+
+
+suspect (adj.)
+
+early 14c., suspected of wrongdoing, under suspicion; mid-14c., regarded with mistrust, liable to
+arouse suspicion, from Old French suspect (14c.), from Latin suspectus suspected, regarded with
+suspicion or mistrust, past participle of suspicere look up at, look upward, figuratively look up
+to, admire, respect; also look at secretly, look askance at, hence, figuratively, mistrust, regard
+with suspicion, from assimilated form of sub up to (see sub-) + specere to look at (see scope
+(n.1)). The notion behind the word is look at secretly, hence, look at distrustfully.
+
+
+bias (n.)
+
+1520s, from French biais slant, slope, oblique, also figuratively, expedient, means (13c.,
+originally in Old French a past participle adjective, sideways, askance, against the grain), of
+unknown origin, probably from Old Proven&ccedil;al biais, with cognates in Old Catalan and
+Sardinian; possibly from Vulgar Latin *(e)bigassius, from Greek epikarsios athwart, crosswise, at an
+angle, from epi- upon + karsios oblique, from PIE *krs-yo-, from root *(s)ker- (1) to cut (see shear
+(v.)). It became a noun in Old French. [A] technical term in the game of bowls, whence come all the
+later uses of the word [OED]. Transferred sense of predisposition, prejudice is from 1570s in
+English.    For what a man had rather were true he more readily believes. Therefore he rejects
+difficult things from impatience of research; sober things, because they narrow hope; the deeper
+things of nature, from superstition; the light of experience, from arrogance and pride, lest his
+mind should seem to be occupied with things mean and transitory; things not commonly believed, out
+of deference to the opinion of the vulgar. Numberless in short are the ways, and sometimes
+imperceptible, in which the affections colour and infect the understanding. [Francis Bacon, Novum
+Organum, 1620]
+
 

@@ -2,3 +2,56 @@ runic (adj.)
 
 1660s, from Modern Latin runicus, from Old Norse run (see rune).
 
+
+rune (n.)
+
+Old English run, rune secret, mystery, dark mysterious statement, (secret) council, also a runic
+letter (runst&#230;f), from Proto-Germanic *runo (cognates: Old Norse run a secret, magic sign,
+runic character, Old High German runa a secret conversation, whisper, Gothic runa), from PIE *ru-
+no-, source of technical terms of magic in Germanic and Celtic (cognates: Gaelic run a secret,
+mystery, craft, deceit, purpose, intention, desire, Welsh rhin a secret, charm, virtue). Also see
+Runnymede.    The word entered Middle English as roun and by normal evolution would have become
+Modern English *rown, but it died out mid-15c. when the use of runes did. The modern usage is from
+late 17c., from German philologists who had reintroduced the word in their writings from a
+Scandinavian source (such as Danish rune, from Old Norse run). The runic alphabet is believed to
+have developed by 2c. C.E. from contact with Greek writing, with the letters modified to be more
+easily cut into wood or stone.
+
+
+futhorc (n.)
+
+1851, historians' name for the Germanic runic alphabet; so called from its first six letters, on the
+model of alphabet.
+
+
+wynn (n.)
+
+runic letter in Old English and early Middle English, representing w, Old English wyn, so called for
+being the first letter of that word, which literally means delight, pleasure (see Venus).
+
+
+W
+
+not in the Roman alphabet, but the Modern English sound it represents is close to the devocalized
+consonant expressed by Roman -U- or -V-. In Old English, this originally was written -uu-, but by
+8c. began to be expressed by the runic character wyn (Kentish wen), which looked like this: &#447;
+(the character is a late addition to the online font set and doesn't display properly on many
+computers, so it's something like a combination of lower-case -p- and a reversed -y-). In 11c.,
+Norman scribes introduced -w-, a ligatured doubling of Roman -u- which had been used on the
+continent for the Germanic w sound, and wyn disappeared c.1300. -W- is not properly a letter in the
+modern French alphabet, and it is used there only in borrowed foreign words, such as wagon, weekend,
+Western, whisky, wombat.
+
+
+thorn (n.)
+
+Old English &thorn;orn sharp point on a stem or branch, earlier thorny tree or plant, from Proto-
+Germanic *thurnuz (cognates: Old Saxon, Old Frisian  thorn, Dutch doorn, Old High German dorn,
+German Dorn, Old Norse &thorn;orn, Gothic &thorn;aurnus), from PIE *trnus (cognates: Old Church
+Slavonic trunu thorn, Sanskrit trnam blade of grass, Greek ternax stalk of the cactus, Irish trainin
+blade of grass), from *(s)ter-n- thorny plant, from root *ster- (1) stiff (see stark).    Figurative
+sense of anything which causes pain is recorded from early 13c. (thorn in the flesh is from II Cor.
+xii:7). Also an Anglo-Saxon and Icelandic runic letter (&thorn;), named for the word of which it was
+the initial (see -th-).
+
+

@@ -5,7 +5,301 @@ is from 1897; in modern use, programmable digital electronic computer (1945 unde
 theoretical from 1937, as Turing machine). ENIAC (1946) usually is considered the first. Computer
 literacy is recorded from 1970; an attempt to establish computerate (adjective, on model of
 literate) in this sense in the early 1980s didn't catch on. Computerese the jargon of programmers is
-from 1960, as are computerize and computerization.  <blockquote>  WASHINGTON (AP) -- A New York
-Congressman says the use of computers to record personal data on individuals, such as their credit
-background, is just frightening to me. [news article, March 17, 1968]  </blockquote>
+from 1960, as are computerize and computerization.    WASHINGTON (AP) -- A New York Congressman says
+the use of computers to record personal data on individuals, such as their credit background, is
+just frightening to me. [news article, March 17, 1968]
+
+
+BASIC
+
+computer language, 1964, initialism (acronym) for Beginners' All-purpose Symbolic Instruction Code;
+invented by Hungarian-born U.S. computer scientist John G. Kemeny (1926-1992) and U.S. computer
+scientist Thomas E. Kurtz (b.1928).
+
+
+boot (v.2)
+
+start up a computer, 1975, from bootstrap (v.), a 1958 derived verb from bootstrap (n.) in the
+computer sense.
+
+
+browser (n.)
+
+1845, animal which browses, agent noun from browse (v.). In the computer sense by 1982.    The first
+browser was invented at PARC by Larry Tesler, now a designer at Apple Computer. Tesler's first
+Smalltalk browser was a tree-structured device. It enabled programmers to hunt quickly for items in
+a Smalltalk dictionary. [InfoWorld magazine, vol. v., no. 4, Jan. 24, 1983]
+
+
+Microsoft
+
+computer software company, founded 1975.
+
+
+Teletex (n.)
+
+proprietary name for a computer data-sharing network, 1978.
+
+
+PowerPoint (n.)
+
+Microsoft computer slide show program, 1987.
+
+
+hacker (n.)
+
+a chopper, cutter, perhaps also one who makes hacking tools, early 13c. (as a surname), agent noun
+from hack (v.1). Meaning one who gains unauthorized access to computer records is attested by 1983,
+agent noun from hack (v.2). Said to be from slightly earlier tech slang sense of one who works like
+a hack at writing and experimenting with software, one who enjoys computer programming for its own
+sake, 1976, reputedly a usage that evolved at Massachusetts Institute of Technology (however an MIT
+student from the late 1960s recalls hack (n.) being used then and there in the general sense of
+creative prank, which clouds its sense connection with the writing for hire word, and there may be a
+source or an influence here in hack (v.1)).
+
+
+wysiwyg
+
+1982, computer programmer's acronym from what you see is what you get.
+
+
+login
+
+in the computer sense, as one word, by 1983, from log in.
+
+
+cgi
+
+by 2004, initialism (acronym) for computer-generated imagery.
+
+
+lol
+
+by 1993, computer chat abbreviation of laughing out loud.
+
+
+server (n.)
+
+late 14c., agent noun from serve (v.). Computer sense by 1992.
+
+
+scanner (n.)
+
+1550s, person who examines critically, agent noun from scan (v.). From 1927 as a type of mechanical
+device, in mid-20c. use especially of radar and medical devices; later of computer accessories.
+
+
+Turing machine (n.)
+
+1937, named for English mathematician and computer pioneer Alan M. Turing (1912-1954), who described
+such a device in 1936.
+
+
+ENIAC
+
+acronym from electronic numeral integrator and computer, device built 1946 at University of
+Pennsylvania by John W. Mauchly Jr., J. Presper Eckert Jr., and J.G. Brainerd. It cost $400,000,
+used 18,000 radio tubes, and was housed in a 30-foot-by-50-foot room.
+
+
+terminal (n.)
+
+end point of a railway line, 1888, from terminal (adj.); sense of device for communicating with a
+computer is first recorded 1954. Earlier final part of a word (1831).
+
+
+PASCAL
+
+high-level computer programming language, 1971, named for French scholar Blaise Pascal (1623-1662),
+who invented a calculating machine c.1642.
+
+
+bit (n.2)
+
+computerese word, 1948 abbreviation coined by U.S. computer pioneer John W. Tukey (1915-2000) of
+binary digit, probably chosen for its identity with bit (n.1).
+
+
+prompt (n.)
+
+early 15c., readiness, from Latin promptus (see prompt (v.)). Meaning hint, act of prompting is from
+1590s. Computer sense attested by 1977.
+
+
+liveware (n.)
+
+people, 1966, computer-programmer jargon, from live (adj.) + ending abstracted from software, etc.
+
+
+backslash (n.)
+
+1982, new punctuation symbol introduced for computer purposes, from back (adj.) + slash (n.).
+
+
+Fortran (n.)
+
+computer programming language, 1956, from combination of elements from formula + translation.
+
+
+mainframe (n.)
+
+central processor of a computer system, 1964, from main (adj.) + frame (n.).
+
+
+CD-ROM
+
+1983, in computer jargon; also cd-rom; from compact disc read-only memory.
+
+
+screenshot (n.)
+
+by 1991, from (computer) screen (n.) + shot (n.) in the photograph sense.
+
+
+ping (n.)
+
+1835, imitative of the sound of a bullet striking something sharply. Meaning short, high-pitched
+electronic pulse is attested from 1943. As a verb from 1855; in computer sense is from at least
+1981. Related: Pinged; pinging.
+
+
+Linux
+
+computer operating system, named for Linux kernel,  written 1991 by Linus Torvalds of Finland (who
+coined the word but did not choose it as the name).
+
+
+bitmap (n.)
+
+1973, in computer jargon, from bit (n.2) + map. Literally, a map of bits.
+
+
+spyware (n.)
+
+by 2000, from spy + ending from software in the computer sense.
+
+
+emulator (n.)
+
+1580s, from Latin aemulator, agent noun from aemulari (see emulation). Computer sense attested by
+1965.
+
+
+Internet (n.)
+
+1985, the linked computer networks of the U.S. Defense Department, shortened from internetwork, from
+inter- + network (n.).
+
+
+logon
+
+in computer sense, as one word, by 1975, from log (v.) + on.
+
+
+spell-check (v.)
+
+to use a computer's spell checker application on a document, by 1985. The applications themselves
+date to the late 1970s. Related: Spell-checked; spell-checking.
+
+
+hardware (n.)
+
+mid-15c., small metal goods, from hard + ware (n.). In the sense of physical components of a
+computer it dates from 1947. Hardware store attested by 1789.
+
+
+latency (n.)
+
+1630s, condition of being concealed, from latent + -cy. Meaning delay between stimulus and response
+is from 1882; computer sense (latency time) is from 1954.
+
+
+firewall (n.)
+
+1851 as a physical wall meant to prevent the spread of fire in a structure, from fire (n.) + wall
+(n.). Computer sense is by 1990.
+
+
+P.C.
+
+abbreviation for personal computer is from 1978; abbreviation for politically correct is by 1990.
+
+
+brainiac (n.)
+
+very smart person, 1982, U.S. slang, from brain (n.) + ending from ENIAC, etc. Brainiac also was the
+name of a comic book villain in the Superman series and a do-it-yourself computer building kit, both
+from the late 1950s, and the word may bear traces of either or both of these.
+
+
+microcomputer (n.)
+
+1971, from micro- + computer.
+
+
+supercomputer (n.)
+
+1966, from super- + computer.
+
+
+scroll (v.)
+
+to write down in a scroll, c.1600, from scroll (n.). Sense of show a few lines at a time (on a
+computer or TV screen) first recorded 1981. Related: Scrolled; scrolling.
+
+
+code (v.)
+
+1815, from code (n.). Specifically in the computer sense from 1947. Related: Coded; coding.
+
+
+megabyte (n.)
+
+1972, from mega- + byte.    The Sussex team has run the Forrester/Meadows models more than 1000
+times on the UK's most powerful computer (the giant two-megabyte IBM 370/165 at Harwell). [New
+Scientist, May 4, 1972]
+
+
+viral (adj.)
+
+of the nature of, or caused by, a virus, 1948, see virus + -al. Sense of become suddenly widely
+popular through Internet sharing is attested by 1999, originally in reference to marketing and based
+on the similarity of the effect to the spread of a computer virus. Related: Virally.
+
+
+software (n.)
+
+1851, soft wares, woolen or cotton fabrics, also, relatively perishable consumer goods, from soft +
+ware (n.). The computer sense is a separate coinage from 1960, based on hardware.
+
+
+tab (n.3)
+
+1961, shortened form of tablet (especially one of sugar containing LSD). As an abbreviation of
+tabloid (newspaper) it is 1990s slang. As a short form of tabulator key of a typewriter (later
+computer) it is recorded from 1916.
+
+
+gamer (n.)
+
+1620s, an athlete, agent noun from game (v.). Meaning one devoted to playing video or computer games
+is attested from 1993. Gamester is attested from 1590s but meant prostitute (compare old slang the
+first game ever played copulation), later a man fit and ready for anything, a player (mid-17c.).
+
+
+toast (n.2)
+
+piece of bread browned by fire or dry heat, early 15c., from toast (v.1); originally as something
+added to wine, ale, etc. From 17c. in the modern sense as something eaten on its own with a spread.
+Slang meaning a goner, person or thing already doomed or destroyed is recorded by 1987, perhaps from
+notion of computer circuits being fried, and with unconscious echoes of earlier figurative phrase to
+be had on toast (1886) to be served up for eating.
+
+
+cursor (n.)
+
+computer sense is 1967 extension of name for the sliding part of a slide rule or other instrument
+(1590s), earlier a running messenger (c.1300), from Latin cursor runner, also errand-boy, from
+curs-, past participle stem of currere to run (see current (adj.)).
+
 

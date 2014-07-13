@@ -3,3 +3,203 @@ metrical (adj.)
 pertaining to versification, early 15c., from Latin metricus metrical, from Greek metrikos of or for
 meter, metrical, from metron poetic meter (see meter (n.2)). Old English had meterlic in this sense.
 
+
+dactyl (n.)
+
+metrical foot, late 14c., from Greek dactylos, literally finger (also toe), of unknown origin; the
+metrical use (a long syllable followed by two short ones) is by analogy with the three joints of a
+finger.
+
+
+caesura (n.)
+
+1550s, from Latin caesura, metrical pause, literally a cutting, from past participle stem of caedere
+to cut down (see -cide).
+
+
+ballade (n.)
+
+late 14c., an earlier borrowing of ballad (q.v.) with a specific metrical sense. Technically, a poem
+consisting of one or more triplets of seven- (later eight-) lined stanzas, each ending with the same
+line as the refrain, usually with an envoy. Popularized 19c. as a type of musical composition by
+Fr&eacute;d&eacute;ric Chopin. Ballade royal is recorded from late 15c.
+
+
+metric (adj.)
+
+pertaining to the system of measures based on the meter, 1855, from French m&eacute;trique, from
+m&egrave;ter (see meter (n.2)). In this sense, metrical is attested from 1797.
+
+
+paeon (n.)
+
+metrical foot of one long and three short syllables (in any order), c.1600, from Latin paeon, from
+Greek paion (see paean). Related: Paeonic.
+
+
+rondel (n.)
+
+late 14c. as a type of verse, from Old French rondel short poem, literally small circle (13c.),
+diminutive of roont (fem. roonde) circular (see round (adj.)). Metrical form of 14 lines with only
+two rhymes. So called because the initial couplet is repeated at the end.
+
+
+iambic
+
+1570s (n.); 1580s (adj.), from Latin iambicus, from Greek iambikos, from iambos metrical foot of one
+unaccented followed by one accented syllable, from iaptein to assail (in words), literally to put
+forth. The meter of invective and lampoon in classical Greek from the time it was used for such by
+Archilochos, 7c. B.C.E.
+
+
+rondeau (n.)
+
+1520s, from Middle French rondeau, from Old French rondel short poem (see rondel). Metrical form of
+10 or 13 lines with only two rhymes.
+
+
+trochee (n.)
+
+metrical foot consisting of a long followed by a short syllable, or an accented followed by an
+unaccented one, 1580s, from French troch&eacute;e, from Latin trochaeus a trochee, from Greek
+trokhaios (pous), literally a running (foot), from trekhein to run (see truckle (n.)). Its rapid
+movement rendered it a fit accompaniment to dances.
+
+
+trimeter (n.)
+
+a verse of three metrical feet, 1560s, from Latin trimetrus, from Greek trimetros having three
+measures, from tri- three (see tri-) + metron a measure (see meter (n.2)). Related: Trimetrical.
+
+
+pyrrhic (n.)
+
+dance in armor (1590s), also a type of metrical foot (1620s), from Latin pyrrhicha, from Greek
+pyrrikhe orkhesis, the war-dance of ancient Greece, traditionally named for its inventor, Pyrrikhos.
+The name means reddish, from pyrros flame-colored, from pyr fire (see fire (n.)). As an adjective
+from 1749.
+
+
+nonce (n.)
+
+abstracted from phrase for &thorn;e naness (c.1200) for a special occasion, for a particular
+purpose, itself a misdivision (see N for other examples) of for &thorn;an anes for the once, in
+reference to a particular occasion or purpose, the &thorn;an being from Middle English dative
+definite article &thorn;am (see the). The phrase used from early 14c. as an empty filler in metrical
+composition. As an adjective from 1884.
+
+
+thesis (n.)
+
+late 14c., unaccented syllable or note, from Latin thesis unaccented syllable in poetry, later (and
+more correctly) stressed part of a metrical foot, from Greek thesis a proposition, also downbeat (in
+music), originally a setting down, a placing, an arranging; position, situation, from root of
+tithenai to place, put, set, from PIE root *dhe- to set, to put (see factitious). Sense in logic of
+a formulation in advance of a proposition to be proved is first recorded 1570s; that of dissertation
+presented by a candidate for a university degree is from 1650s.
+
+
+rhythm (n.)
+
+1550s, rhymed verse, metrical movement, from Latin rhythmus movement in time, from Greek rhythmos
+measured flow or movement, rhythm; proportion, symmetry; arrangement, order; form, shape, wise,
+manner; soul, disposition, related to rhein to flow, from PIE root *sreu- to flow (see rheum).
+Rhythm method of birth control attested from 1936. Rhythm and blues, U.S. music style, is from 1949
+(first in Billboard).
+
+
+chorale (n.)
+
+1828, sacred choral song, from German Choral metrical hymn in Reformed church, shortened from
+Choralgesang choral song, translating Medieval Latin cantus choralis, from Latin cantus (see chant
+(v.)) + choralis (see choral). The -e was added to indicate stress. Meaning group of singers is
+1942.
+
+
+meter (n.1)
+
+also metre, poetic measure, Old English meter meter, versification, from Latin metrum, from Greek
+metron meter, a verse; that by which anything is measured; measure, length, size, limit, proportion,
+from PIE root *me- (2) to measure (see meter (n.2)). Possibly reborrowed early 14c. (after a
+300-year gap in recorded use) from Old French metre, with specific sense of metrical scheme in
+verse, from Latin metrum.
+
+
+expletive (n.)
+
+1610s, originally a word or phrase serving to fill out a sentence or metrical line, from Middle
+French expl&eacute;tif (15c.) and directly from Late Latin expletivus serving to fill out, from
+explet-, past participle stem of Latin explere fill out, from ex- out (see ex-) + plere to fill (see
+pleio-).    Sense of exclamation, often in the form of a cuss word, first recorded 1815 in Sir
+Walter Scott, popularized by edited transcripts of Watergate tapes (mid-1970s), in which expletive
+deleted replaced President Nixon's salty expressions. As an adjective, from 1660s.
+
+
+spondee (n.)
+
+metrical foot consisting of two long syllables, late 14c., from Old French spondee (14c.), from
+Latin spondeus, from Greek spondeios (pous), the name of the meter originally used in chants
+accompanying libations, from sponde solemn libation, a drink-offering, related to spendein make a
+drink offering, from PIE root *spend- to make an offering, perform a rite, hence to engage oneself
+by a ritual act (cognates: Latin spondere to engage oneself, promise, Hittite shipantahhi I pour out
+a libation, I sacrifice). Related: Spondaic.
+
+
+scan (v.)
+
+late 14c., mark off verse in metric feet, from Late Latin scandere to scan verse, originally, in
+classical Latin, to climb, rise, mount (the connecting notion is of the rising and falling rhythm of
+poetry), from PIE *skand- to spring, leap, climb (cognates: Sanskrit skandati hastens, leaps, jumps;
+Greek skandalon stumbling block; Middle Irish sescaind he sprang, jumped, sceinm a bound, jump).
+Missing -d in English is probably from confusion with suffix -ed (see lawn (n.1)). Sense of look at
+closely, examine minutely (as one does when counting metrical feet in poetry) first recorded 1540s.
+The (opposite) sense of look over quickly, skim is first attested 1926. Related: Scanned; scanning.
+
+
+song (n.)
+
+Old English sang voice, song, art of singing; metrical composition adapted for singing, psalm, poem,
+from Proto-Germanic *sangwaz (cognates: Old Norse s&ouml;ngr, Norwegian song, Swedish s&#229;ng, Old
+Saxon, Danish, Old Frisian, Old High German, German sang, Middle Dutch sanc, Dutch zang, Gothic
+saggws), from PIE *songwh-o- singing, song, from *sengwh- to sing, make an incantation (see sing
+(v.)).    Phrase for a song for a trifle, for little or nothing is from All's Well III.ii.9 (the
+identical image, por du son, is in Old French. With a song in (one's) heart feeling joy is first
+attested 1930 in Lorenz Hart's lyric. Song and dance as a form of vaudeville act is attested from
+1872; figurative sense of rigmarole is from 1895.
+
+
+foot (n.)
+
+Old English fot, from Proto-Germanic *fot (cognates: Old Saxon fot, Old Norse fotr, Dutch voet, Old
+High German fuoz, German Fu&szlig;, Gothic fotus foot), from PIE *ped- (cognates: Avestan pad-;
+Sanskrit pad-, accusative padam foot; Greek pos, Attic pous, genitive podos; Latin pes, genitive
+pedis foot; Lithuanian padas sole, peda footstep). Plural form feet is an instance of i-mutation. Of
+a bed, grave, etc., first recorded c.1300.  The linear measurement of 12 inches was in Old English,
+from the length of a man's foot. Colloquial exclamation my foot! expressing contemptuous
+contradiction [OED] is first attested 1923, probably a euphemism for my ass, in the same sense,
+which dates back to 1796 (also see eyewash). The metrical foot (Old English, translating Latin pes,
+Greek pous in the same sense) is commonly taken as a reference to keeping time by tapping the foot.
+To get off on the right foot is from 1905; to put one's best foot foremost first recorded 1849
+(Shakespeare has the better foot before, 1596). To put one's foot in (one's) mouth say something
+stupid is attested by 1942; the expression put (one's) foot in something make a mess of it is from
+1823.
+
+
+verse (n.)
+
+late Old English (replacing Old English fers, an early West Germanic borrowing directly from Latin),
+line or section of a psalm or canticle, later line of poetry (late 14c.), from Anglo-French and Old
+French vers line of verse; rhyme, song, from Latin versus a line, row, line of verse, line of
+writing, from PIE root *wer- (3) to turn, bend (see versus). The metaphor is of plowing, of turning
+from one line to another (vertere = to turn) as a plowman does.    Verse was invented as an aid to
+memory. Later it was preserved to increase pleasure by the spectacle of difficulty overcome. That it
+should still survive in dramatic art is a vestige of barbarism. [Stendhal de l'Amour, 1822]    The
+English New Testament first was divided fully into verses in the Geneva version (1550s). Meaning
+metrical composition is recorded from c.1300; as the non-repeating part of a modern song (between
+repetitions of the chorus) by 1918.    The Negroes say that in form their old songs usually consist
+in what they call Chorus and Verses. The chorus, a melodic refrain sung by all, opens the song; then
+follows a verse sung as a solo, in free recitative; the chorus is repeated; then another verse;
+chorus again;--and so on until the chorus, sung for the last time, ends the song. [Natalie Curtis-
+Burlin, Negro Folk-Songs, 1918]
+
+

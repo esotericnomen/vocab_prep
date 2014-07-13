@@ -4,3 +4,17 @@ mid-14c., from Old French permutacion change, shift (14c.), from Latin permutati
 permutatio) a change, alteration, revolution, noun of action from past participle stem of permutare
 change thoroughly, exchange, from per- thoroughly (see per) + mutare to change (see mutable).
 
+
+permutate (v.)
+
+1898 in modern use, change the order of, from Latin permutatus, past participle of permutare (see
+permutation). Probably regarded by those who use it as a back-formation from permutation [OED].
+Related: Permutated; permutating.
+
+
+permute (v.)
+
+late 14c., to change one for another, from French permuter or directly from Latin permutare to
+change thoroughly (see permutation). Mathematical sense from 1878.
+
+

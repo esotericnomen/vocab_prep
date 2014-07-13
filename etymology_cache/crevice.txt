@@ -1,6 +1,34 @@
 crevice (n.)
 
 mid-14c., from Old French crevace (12c., Modern French crevasse) gap, rift, crack (also, vulgarly,
-the female pudenda), from Vulgar Latin *crepacia, from Latin crepare to crack, creak; meaning
-shifted from the sound of breaking to the resulting fissure.
+the female pudenda), from Vulgar Latin *crepacia, from Latin crepare to crack, creak (see raven);
+meaning shifted from the sound of breaking to the resulting fissure.
+
+
+crevasse (n.)
+
+1823, of glaciers; 1814, of riverbanks (in that case from Louisiana French), from French crevasse,
+from Old French crevace crevice (see crevice). Essentially the same word as crevice, but re-adopted
+in senses for which the meaning that had taken hold in crevice was felt to be too small.
+
+
+crayfish (n.)
+
+small, freshwater lobster, early 14c., crevis, from Old French crevice crayfish (13c., Modern French
+&eacute;crevisse), probably from Frankish *krebitja or a similar Germanic word that is a diminutive
+form of the root of crab (n.1); compare Old High German krebiz crab, shellfish, German Krebs. Modern
+spelling is 16c., under influence of fish (n.).
+
+
+cranky (adj.)
+
+cross-tempered, irritable, 1807, from crank (n.) + -y (2). The evolution would be from earlier
+senses of crank, such as a twist or fanciful turn of speech (1590s); inaccessible hole or crevice
+(1560s). Grose's 1787 Provincial Glossary has Cranky. Ailing sickly from the dutch crank, sick, and
+identifies it as a Northern word. Jamieson's Scottish dictionary (1825) has crank in a secondary
+sense of hard, difficult, as in crank word, a word hard to be understood; crank job, a work attended
+with difficulty, or requiring ingenuity in the execution. Related: Crankily; crankiness.   Ben. Dang
+it, don't you spare him--A cross grain'd cranky toad as ever crawl'd. (etc.) [Richard Cumberland,
+Lovers Resolutions, Act I, 1813]
+
 

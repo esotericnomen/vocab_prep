@@ -1,22 +1,29 @@
 scapegoat (n.)
 
 1530, goat sent into the wilderness on the Day of Atonement, symbolic bearer of the sins of the
-people, coined by Tyndale from scape (n.) + goat to translate Latin caper emissarius, itself a
+people, coined by Tyndale from scape (n.1) + goat to translate Latin caper emissarius, itself a
 translation in Vulgate of Hebrew 'azazel (Lev. xvi:8,10,26), which was read as 'ez ozel goat that
 departs, but which others hold to be the proper name of a devil or demon in Jewish mythology
 (sometimes identified with Canaanite deity Aziz).    Jerome's reading also was followed by Martin
 Luther (der ledige Bock), Symmachus (tragos aperkhomenos), and others (compare French bouc
 &eacute;missaire), but the question of who, or what (or even where) is meant by 'azazel is a vexed
 one. The Revised Version (1884) simply restores Azazel. But the old translation has its modern
-defenders:  <blockquote> Azazel is an active participle or participial noun, derived ultimately from
-azal (connected with the Arabic word azala, and meaning removed), but immediately from the
-reduplicate form of that verb, azazal. The reduplication of the consonants of the root in Hebrew and
-Arabic gives the force of repetition, so that while azal means removed, azalzal means removed by a
+defenders:   Azazel is an active participle or participial noun, derived ultimately from azal
+(connected with the Arabic word azala, and meaning removed), but immediately from the reduplicate
+form of that verb, azazal. The reduplication of the consonants of the root in Hebrew and Arabic
+gives the force of repetition, so that while azal means removed, azalzal means removed by a
 repetition of acts. Azalzel or azazel, therefore, means one who removes by a series of acts. ... The
 interpretation is founded on sound etymological grounds, it suits the context wherever the word
 occurs, it is consistent with the remaining ceremonial of the Day of Atonement, and it accords with
 the otherwise known religious beliefs and symbolical practices of the Israelites. [Rev. F. Meyrick,
-Leviticus, London, 1882]  </blockquote>  Meaning one who is blamed or punished for the mistakes or
-sins of others first recorded 1824; the verb is attested from 1943. Related: Scapegoated;
-scapegoating.   For the formation, compare scapegrace, also scape-gallows one who deserves hanging.
+Leviticus, London, 1882]    Meaning one who is blamed or punished for the mistakes or sins of others
+first recorded 1824; the verb is attested from 1943. Related: Scapegoated; scapegoating.   For the
+formation, compare scapegrace, also scape-gallows one who deserves hanging.
+
+
+scapegrace (n.)
+
+1767, from scape (v.) + grace (n.); as if one who escapes the grace of God. Possibly influenced by
+scapegoat.
+
 

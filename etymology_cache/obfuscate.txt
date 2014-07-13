@@ -3,3 +3,16 @@ obfuscate (v.)
 1530s, from Latin obfuscatus, past participle of obfuscare to darken, from ob over (see ob-) +
 fuscare to make dark, from fuscus dark (see dusk). Related: Obfuscated; obfuscating.
 
+
+obfuscation (n.)
+
+early 15c., originally medical, the darkening of a sore, from Latin obfuscationem (nominative
+obfuscatio), noun of action from past participle stem of obfuscare (see obfuscate).
+
+
+subfusc (adj.)
+
+moderately dark, brownish, 1710, from Latin subfuscus, variant of suffuscus, from sub- (see sub-) +
+fuscus dark, dusky (see obfuscate). Related: Subfuscous dusky.
+
+

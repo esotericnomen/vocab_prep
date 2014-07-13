@@ -3,3 +3,430 @@ shear (n.)
 act of clipping, 1610s, also as a unit of measure of the age of a sheep, from shear (v.). Scientific
 and mechanical sense type of strain is from 1850.
 
+
+shear (v.)
+
+Old English sceran, scieran (class IV strong verb; past tense scear, past participle scoren) to
+cleave, hew, cut with a sharp instrument; cut (hair); shear (sheep), from Proto-Germanic *sker- to
+cut (cognates: Old Norse and Old Frisian skera, Dutch scheren, German scheren to shear), from PIE
+*(s)ker- (1) to cut, to scrape, to hack (cognates: Sanskrit krnati hurts, wounds, kills, krntati
+cuts; Hittite karsh- to cut off; Greek keirein to cut, shear; Latin curtus short; Lithuanian skiriu
+to separate; Old Irish scaraim I separate; Welsh ysgar to separate, ysgyr fragment).
+
+
+shears (n.)
+
+large scissors, Old English scearra (plural) shears, scissors, from Proto-Germanic *sker- to cut
+(cognates: Middle Dutch schaer, Old High German scara, German Schere; see shear (v.)). In 17c., also
+a device for raising the masts of ships (1620s). As scissors, OED labels it Scottish and dialectal.
+Chalk is no shears (1640s) was noted as a Scottish proverb expressing the gap between planning and
+doing.
+
+
+clip (v.1)
+
+to cut or sever with a sharp instrument, c.1200, from a Scandinavian source (compare Old Norse
+klippa, Swedish klippa, Danish klippe clip, shear, cut) probably echoic. Related: Clipped; clipping.
+Meaning to pronounce short is from 1520s. The verb has a long association with shady activities,
+originally especially in reference to cutting or shaving metal from coins (c.1400), but later
+extended to swindles from the sense to shear sheep, hence clip-joint place that overcharges
+outrageously (1933, American English, a term from Prohibition). To clip (someone's) wings
+figuratively (1590s) is from the method of preventing a captive bird from flying.
+
+
+corium (n.)
+
+1650s, from Latin corium skin, hide, leather, related to cortex bark, scortum skin, hide, from PIE
+root *(s)ker- (1) to cut (cognates: Sanskrit krtih hide; Old Church Slavonic scora skin, Russian
+skora hide, kora bark; Welsh corwg boat made with leather skins; Old English sceran to cut, shear;
+see shear (v.)). Related: Coriaceous.
+
+
+shore (n.)
+
+land bordering a large body of water, c.1300, from an Old English word or from Middle Low German
+schor shore, coast, headland, or Middle Dutch scorre land washed by the sea, all probably from
+Proto-Germanic *skur-o- cut, from PIE *(s)ker- (1) to cut (see shear (v.)).    According to
+etymologists originally with a sense of division between land and water. But if the word began on
+the North Sea coast of the continent, it might as well have meant originally land 'cut off' from the
+mainland by tidal marshes (compare Old Norse skerg an isolated rock in the sea, related to sker to
+cut, shear). Old English words for coast, shore were strand (n.), waro&thorn;, ofer. Few Indo-
+European languages have such a single comprehensive word for land bordering water (Homer uses one
+word for sandy beaches, another for rocky headlands). General application to country near a seacoast
+is attested from 1610s.
+
+
+shorn (adj.)
+
+shaven, late Old English scoren, past participle adjective from shear (v.).
+
+
+skerry (n.)
+
+isolated rock in the sea, 1610s, from Old Norse sker, related to skera to cut off (see shear (v.)).
+
+
+sheer (v.)
+
+1620s, deviate from course (of a ship), of obscure origin, perhaps from Dutch scheren to move aside,
+withdraw, depart, originally to separate (see shear (v.)). Related: Sheered; shearing. As a noun
+from 1660s.
+
+
+scar (n.2)
+
+bare and broken rocky face of a cliff or mountain, 1670s, earlier rock, crag (14c.), perhaps from
+Old Norse sker isolated rock or low reef in the sea, from Proto-Germanic *sker- to cut (see shear
+(v.)).
+
+
+jeer (v.)
+
+1550s, gyr, to deride, to mock, of uncertain origin; perhaps from Dutch gieren to cry or roar, or
+German scheren to plague, vex, literally to shear. OED finds the suggestion that it is an ironical
+use of cheer plausible and phonetically feasible, ... but ... beyond existing evidence. Related:
+Jeered; jeering.
+
+
+tonsorial (adj.)
+
+pertaining to barbers, 1765, from -al (1) + Latin tonsorius of or pertaining to shearing or shaving,
+from tonsor a shaver, barber, shearer, clipper, from tonsus, past participle of tondere to shear,
+shave (see tonsure). Generally used in an attempt at humor. Tonsorious in the same sense is attested
+from 1650s.
+
+
+scarp (n.)
+
+steep slope, 1580s, from Italian scarpa slope, probably from a Germanic source, perhaps Gothic
+skarpo pointed object, from Proto-Germanic *skarpa- cutting, sharp (cognates: Middle High German
+schroffe sharp rock, crag, Old English scr&aelig;f cave, grave), from PIE *(s)ker- (1) to cut (see
+shear (v.)).
+
+
+scorpion (n.)
+
+c.1200, from Old French scorpion (12c.), from Latin scorpionem (nominative scorpio), extended form
+of scorpius, from Greek skorpios a scorpion, from PIE root *(s)ker- (1) to cut (see shear (v.)). The
+Spanish alacran scorpion is from Arabic al-'aqrab.
+
+
+dreck (n.)
+
+filth, trash, 1922, from Yiddish drek (German dreck), from Middle High German drec, from Proto-
+Germanic *threkka (cognates: Old English &thorn;reax rubbish, Old Frisian threkk), perhaps connected
+to Greek skatos dung, Latin stercus excrement, from PIE root *(s)ker- to cut (see shear (v.)).
+
+
+sharn (n.)
+
+Old English scearn dung, muck, from Proto-Germanic *skarnom- (cognates: Old Frisian skern, Old Norse
+skarn, Danish skarn), a past participle form from *sker- to cut (see shear). Compare Old English
+scearnbudda dung beetle, and Scottish Sharnie a name given to the person who cleans a cow-house
+[Jamieson].
+
+
+scatology (n.)
+
+obscene literature, 1876, with -logy treatise, study + Greek skat-, stem of skor (genitive skatos)
+excrement, from PIE *sker- excrement, dung (cognates: Latin stercus dung), literally to cut off; see
+shear (v.), and compare shit (v.). Related: Scatological (1886).
+
+
+scrape (v.)
+
+early 13c., probably from Old Norse skrapa to scrape, erase, from Proto-Germanic *skrapojan
+(cognates: Old English scrapian to scrape, Dutch schrapen, German schrappen), from PIE *skerb-,
+extension of root *(s)ker- to cut (see shear (v.)). Meaning gather by great effort, collect with
+difficulty is from 1540s. Related: Scraped; scraping. To scrape the bottom of the barrel in
+figurative sense is from 1942, in reference to U.S. employers facing worker shortages during the
+war.
+
+
+tonsure (n.)
+
+late 14c., shaving of the head or part of it, especially as a religious rite, from Anglo-French
+tonsure (mid-14c.), Old French tonsure ecclesiastical tonsure; sheep-shearing (14c.), from Latin
+tonsura a shearing, clipping, from tonsus, past participle of tondere to shear, shave, clip, crop,
+from PIE *tend-, from root *tem- to cut (see tome). The verb is attested from 1706 (implied in
+tonsured). Related: Tonsuring.
+
+
+carnage (n.)
+
+c.1600, from Middle French carnage (16c.), from Old Italian carnaggio slaughter, murder, from
+Medieval Latin carnaticum flesh, from Latin carnaticum slaughter of animals, from carnem (nominative
+caro) flesh, originally a piece of flesh, from PIE root *(s)ker- (1) to cut (see shear (v.)). In
+English always used more of slaughters of men than beasts. Southey (1795) tried to make a verb of
+it.
+
+
+cut (v.)
+
+late 13c., possibly Scandinavian, from North Germanic *kut- (cognates: Swedish dialectal kuta to
+cut, kuta knife, Old Norse kuti knife), or from Old French couteau knife. Replaced Old English
+ceorfan (see carve (v.)), sni&thorn;an, and scieran (see shear). Meaning to be absent without excuse
+is British university slang from 1794. To cut a pack of cards is from 1590s. Related: Cutting.
+
+
+scarf (n.2)
+
+connecting joint, late 13c., probably from a Scandinavian source (such as Old Norse skarfr nail for
+fastening a joint, Swedish skarf, Norwegian skarv). A general North Sea Germanic ship-building word
+(compare Dutch scherf), the exact relationship of all these is unclear. Also borrowed into Romanic
+(French &eacute;cart, Spanish escarba); perhaps ultimately from Proto-Germanic *skarfaz (cognates:
+Old English sceorfan to gnaw, bite), from PIE *(s)ker- (1) to cut (see shear (v.)). Also used as a
+verb.
+
+
+shrub (n.)
+
+Old English scrybb brushwood, shrubbery, a rare and late word (but preserved also, perhaps, in
+Shrewsbury), possibly from a Scandinavian source (compare dialectal Danish skrub brushwood,
+Norwegian skrubba dwarf tree). Presumably related to North Frisian skrobb broom plant, brushwood;
+West Flemish schrobbe climbing wild pea, with a base notion of rough plant, from PIE *(s)kerb-,
+extended form of root *(s)ker- (1) to cut (see shear (v.)).
+
+
+share (n.2)
+
+iron blade of a plow, Old English scear, sc&aelig;r plowshare, properly that which cuts, from Proto-
+Germanic *skar- (cognates: Old Frisian skere, Middle Low German schar, Old High German scar, German
+Schar, Dutch ploegschaar, Middle High German pfluocschar), from PIE root *(s)ker- (1) to cut (see
+shear).
+
+
+cenacle (n.)
+
+c.1400, from Old French cenacle, variant of cenaille (14c., Modern French c&eacute;nacle), from
+Latin cenaculum dining room, from cena mid-day meal, afternoon meal, literally portion of food, from
+PIE *kert-sna-, from root *(s)ker- (1) to cut (see shear (v.)). Latin cenaculum was used in the
+Vulgate for the upper room where the Last Supper was eaten.
+
+
+scurf (n.)
+
+late Old English sceorf, from Proto-Germanic *skurf- (cognates: Danish skurv, Middle Dutch scorf,
+Dutch schurft, Old High German scorf, German Schorf scurf), probably related to Old English sceorfan
+to gnaw, scearfian to cut into shreds, from PIE *skerp-, from root *(s)ker- to cut (see shear (v.)).
+
+
+scabbard (n.)
+
+c.1300, from Anglo-French *escauberc sheath, vagina (13c.), from Frankish or another Germanic
+source, from Proto-Germanic *sker-berg-, literally sword-protector, from *skar blade (source also of
+Old High German scar scissors, blade, sword, from PIE *(s)ker- (1) to cut; see shear (v.)) + *berg-
+protect (source also of Old High German bergan to protect; see bury).
+
+
+shard (n.)
+
+also sherd, Old English sceard incision, cleft, gap; potshard, a fragment, broken piece, from Proto-
+Germanic *skardas (cognates: Middle Dutch schaerde a fragment, a crack, Dutch schaard a flaw, a
+fragment, German Scharte a notch, Danish skaar chink, potsherd), a past participle from the root of
+Old English sceran to cut (see shear). Meaning fragment of broken earthenware developed in late Old
+English. Used late 14c. as scale of a dragon. French &eacute;charde prickle, splinter is a Germanic
+loan-word.
+
+
+shred (n.)
+
+Old English screade piece cut off, cutting, scrap, from Proto-Germanic *skrauth- (cognates: Old
+Frisian skred a cutting, clipping, Middle Dutch schroode shred, Middle Low German schrot piece cut
+off, Old High German scrot, scrap, shred, a cutting, piece cut off, German Schrot log, block, small
+shot, Old Norse skrydda shriveled skin), from PIE *skreu- to cut; cutting tool, extension of root
+*(s)ker- (1) to cut (see shear (v.)).
+
+
+strigil (n.)
+
+ancient tool for scraping the skin after a bath, 1580s, from Latin strigilis scraper, horse-comb,
+from stringere (1) draw along a surface, graze, touch lightly; strip off, pluck off, cut away; clip,
+prune; lay bare, unsheathe, figuratively waste, consume, reduce; touch, move, affect, cause pain,
+from PIE root *streig- to stroke, rub, press (cognates: Latin striga stroke, strike, furrow, stria
+furrow, channel; Old Church Slavonic striga shear; Old English stracian to stroke; German streichen
+to stroke, rub). Etymologists dispute over whether this is connected to Latin stringere (2), root of
+strain (v.).
+
+
+skirmish (n.)
+
+late 14c., from Old French escarmouche skirmish, from Italian scaramuccia, earlier schermugio,
+probably from a Germanic source (compare Old High German skirmen to protect, defend), with a
+diminutive or depreciatory suffix, from Proto-Germanic *skerm-, from PIE *(s)ker- (1) to cut (see
+shear (v.)).    Influenced in Middle English by a separate verb skirmysshen to brandish a weapon,
+from Old French eskirmiss-, stem of eskirmir to fence, from Frankish *skirmjan, from the same
+Germanic source. Compare scrimmage. Other modern Germanic forms have an additional diminutive affix:
+German scharm&#252;tzel, Dutch schermutseling, Danish skj&#230;rmydsel. Skirmish-line attested by
+1864.
+
+
+sheer (adj.)
+
+c.1200, exempt, free from guilt (as in Sheer Thursday, the Thursday of Holy Week); later schiere
+thin, sparse (c.1400), from Old English scir bright, clear, gleaming; translucent; pure, unmixed,
+and influenced by Old Norse cognate sc&aelig;r bright, clean, pure, both from Proto-Germanic
+*skeran- (cognates: Old Saxon skiri, Old Frisian skire, German schier, Gothic skeirs clean, pure),
+from PIE root *(s)ker- (1) to cut (see shear (v.)).     Sense of absolute, utter (sheer nonsense)
+developed 1580s, probably from the notion of unmixed; that of very steep (a sheer cliff) is first
+recorded 1800, probably from notion of continued without halting. Meaning diaphanous is from 1560s.
+As an adverb from c.1600.
+
+
+share (n.1)
+
+portion, Old English scearu a cutting, shearing, tonsure; a part or division, related to sceran to
+cut, from Proto-Germanic *skaro- (cognates: Old High German scara troop, share of forced labor,
+German Schar troop, band, properly a part of an army, Old Norse sk&ouml;r rim), from PIE root
+*(s)ker- (1) to cut (see shear (v.)).    Meaning part of the capital of a joint stock company is
+first attested c.1600. Share and share alike attested from 1560s. The same Old English noun in the
+sense division led to an obsolete noun share fork ('division') of the body at the groin; pubic
+region (late Old English and Middle English); hence share-bone pubis (early 15c.).
+
+
+shirt (n.)
+
+Old English scyrte skirt, tunic, from Proto-Germanic *skurtjon a short garment (cognates: Old Norse
+skyrta, Swedish skjorta skirt, kirtle; Middle Dutch scorte, Dutch schort apron; Middle High German
+schurz, German Schurz apron), related to Old English  scort, sceort short, from PIE *(s)ker- (1) to
+cut (see shear (v.)).    Formerly of the chief garment worn by both sexes, but in modern use long
+only of that for men; in reference to women's tops, reintroduced 1896. Bloody shirt, exposed as a
+symbol of outrage, is attested from 1580s. To give (someone) the shirt off one's back is from 1771.
+To lose one's shirt suffer total financial loss is from 1935. To keep one's shirt on be patient
+(1904) is from the notion of (not) stripping down for a fight.
+
+
+fight (v.)
+
+Old English feohtan to fight (class III strong verb; past tense feaht, past participle fohten), from
+Proto-Germanic *fehtan (cognates: Old High German fehtan, German fechten, Middle Dutch and Dutch
+vechten, Old Frisian fiuhta to fight), from PIE *pek- (2) to pluck out (wool or hair), apparently
+with a notion of pulling roughly (cognates: Greek pekein to comb, shear, pekos fleece, wool; Persian
+pashm wool, down, Latin pectere to comb, Sanskrit paksman- eyebrows, hair).    Spelling substitution
+of -gh- for a hard H sound was a Middle English scribal habit, especially before -t-. In some late
+Old English examples, the middle consonant was represented by a yogh. To fight back resist is
+recorded from 1890.
+
+
+screen (n.)
+
+mid-14c., upright piece of furniture providing protection from heat of a fire, drafts, etc.,
+probably from a shortened (Anglo-French? compare Anglo-Latin screna) variant of Old North French
+escren, Old French escran fire-screen (early 14c.), perhaps from Middle Dutch scherm screen, cover,
+shield, or Frankish *skrank barrier, from Proto-Germanic *skerm- (cognates: Old High German skirm,
+skerm protection, from PIE *(s)ker- (1) to cut (see shear (v.)).    Meaning net-wire frame used in
+windows and doors is recorded from 1859. Meaning flat vertical surface for reception of projected
+images is from 1810, originally in reference to magic lantern shows; later of movies. Transferred
+sense of cinema world collectively is attested from 1914; hence screen test (1918), etc. Screen
+saver first attested 1990. Screen printing recorded from 1918.
+
+
+bias (n.)
+
+1520s, from French biais slant, slope, oblique, also figuratively, expedient, means (13c.,
+originally in Old French a past participle adjective, sideways, askance, against the grain), of
+unknown origin, probably from Old Proven&ccedil;al biais, with cognates in Old Catalan and
+Sardinian; possibly from Vulgar Latin *(e)bigassius, from Greek epikarsios athwart, crosswise, at an
+angle, from epi- upon + karsios oblique, from PIE *krs-yo-, from root *(s)ker- (1) to cut (see shear
+(v.)). It became a noun in Old French. [A] technical term in the game of bowls, whence come all the
+later uses of the word [OED]. Transferred sense of predisposition, prejudice is from 1570s in
+English.    For what a man had rather were true he more readily believes. Therefore he rejects
+difficult things from impatience of research; sober things, because they narrow hope; the deeper
+things of nature, from superstition; the light of experience, from arrogance and pride, lest his
+mind should seem to be occupied with things mean and transitory; things not commonly believed, out
+of deference to the opinion of the vulgar. Numberless in short are the ways, and sometimes
+imperceptible, in which the affections colour and infect the understanding. [Francis Bacon, Novum
+Organum, 1620]
+
+
+sharp (adj.)
+
+Old English scearp having a cutting edge; pointed; intellectually acute, active, shrewd; keen (of
+senses); severe; biting, bitter (of tastes), from Proto-Germanic *skarpaz, literally cutting
+(cognates: Old Saxon scarp, Old Norse skarpr, Old Frisian skerp, Dutch scherp, German scharf sharp),
+from PIE *(s)ker- (1) to cut (cognates: Lettish skarbs sharp, Middle Irish cerb cutting; see shear
+(v.)).    The figurative meaning acute or penetrating in intellect or perception was in Old English;
+hence keenly alive to one's own interests, quick to take advantage (1690s). Of words or talk,
+cutting, sarcastic, from early 13c. Meaning distinct in contour is from 1670s. The adverbial meaning
+abruptly is from 1836; that of promptly is first attested 1840. The musical meaning half step above
+(a given tone) is from 1570s. Meaning stylish is from 1944, hepster slang, from earlier general
+slang sense of excellent (1940). Phrase sharp as a tack first recorded 1912 (sharp as a needle has
+been around since Old English). Sharp-shinned attested from 1704 of persons, 1813 of hawks.
+
+
+script (n.)
+
+late 14c., something written, earlier scrite (c.1300), from Old French escrit piece of writing,
+written paper; credit note, IOU; deed, bond (Modern French &eacute;crit) from Latin scriptum a
+writing, book; law; line, mark, noun use of neuter past participle of scribere to write, from PIE
+*skribh- to cut, separate, sift (cognates: Greek skariphasthai to scratch an outline, sketch,
+Lettish skripat scratch, write, Old Norse hrifa scratch), from root *(s)ker- (1) to cut (see shear
+(v.)) on the notion of carving marks in stone, wood, etc.    Meaning handwriting is recorded from
+1860. Theatrical use, short for manuscript, is attested from 1884. The importance of Rome to the
+spread of civilization in Europe is attested by the fact that the word for write in Celtic and
+Germanic (as well as Romanic) languages derives from scribere (French &eacute;crire, Irish
+scriobhaim, Welsh ysgrifennu, German schreiben). The cognate Old English scrifan means to allot,
+assign, decree (see shrive; also compare Old Norse skript penance) and Modern English uses write
+(v.) to express this action.
+
+
+screw (n.)
+
+cylinder of wood or metal with a spiral ridge round it; hole in which a screw turns, c.1400, from
+Middle French escroue nut, cylindrical socket, screwhole, of uncertain etymology; not found in other
+Romanic languages. Perhaps via Gallo-Roman *scroba or West Germanic *scruva from Vulgar Latin
+scrobis screw-head groove, in classical Latin ditch, trench, also vagina (Diez, though OED finds
+this phonologically impossible).    Kluge, Watkins and others trace it to Latin scrofa breeding sow,
+perhaps based on the shape of a pig's penis (compare Portuguese porca, Spanish perca a female screw,
+from Latin porca sow). Latin scrofa is literally digger, rooter, from PIE root *(s)ker- (1) to cut
+(see shear (v.)). A group of apparently cognate Germanic words (Middle Low German, Middle Dutch
+schruve, Dutch schroef, German Schraube, Swedish skrufva screw) are said to be French loan-words.
+Sense of means of pressure or coercion is from 1640s, probably in reference to instruments of
+torture (such as thumbscrews). Meaning prison guard, warden is 1812 in underworld slang, originally
+in reference to the key they carried (screw as slang for key attested from 1795). Slang meaning an
+act of copulation is recorded from 1929 (meaning a prostitute is attested from 1725). To have a
+screw loose have a dangerous (usually mental) weakness is recorded from 1810.
+
+
+shit (v.)
+
+Old English scitan, from Proto-Germanic *skit- (cognates: North Frisian skitj, Dutch schijten,
+German scheissen), from PIE *skei- to cut, split, divide, separate (see shed (v.)). The notion is of
+separation from the body (compare Latin excrementum, from excernere to separate, Old English scearn
+dung, muck, from scieran to cut, shear; see sharn). It is thus a cousin to science and conscience.
+<b>Shit is not an acronym</b>. The notion that it is a recent word might be partly because it was
+taboo from c.1600 and rarely appeared in print (neither Shakespeare nor the KJV has it), and even in
+vulgar publications of the late 18c. it is disguised by dashes. It drew the wrath of censors as late
+as 1922 (Ulysses and The Enormous Room), scandalized magazine subscribers in 1957 (a Hemingway story
+in Atlantic Monthly) and was omitted from some dictionaries as recently as 1970 (Webster's New
+World).    Extensive slang usage; meaning to lie, to tease is from 1934; that of to disrespect is
+from 1903. Shite, now a jocular or slightly euphemistic and chiefly British variant of the noun,
+formerly a dialectal variant, reflects the vowel in the Old English verb (compare German scheissen);
+the modern verb has been influenced by the noun. Shat is a humorous past tense form, not
+etymological, first recorded 18c. To shit bricks be very frightened attested by 1961. The connection
+between fear and involuntary defecation has generated expressions since 14c., and probably also is
+behind scared shitless (1936).
+
+
+score (n.)
+
+late Old English scoru twenty, from Old Norse skor mark, notch, incision; a rift in rock, also, in
+Icelandic, twenty, from Proto-Germanic *skura-, from PIE root *(s)ker- (1) to cut (see shear).
+The connecting notion probably is counting large numbers (of sheep, etc.) with a notch in a stick
+for each 20. That way of counting, called vigesimalism, also exists in French: In Old French, twenty
+(vint) or a multiple of it could be used as a base, as in vint et doze (32), dous vinz et diz (50).
+Vigesimalism was or is a feature of Welsh, Irish, Gaelic and Breton (as well as non-IE Basque), and
+it is speculated that the English and the French picked it up from the Celts. Compare tally (n.).
+The prehistoric sense of the Germanic word, then, likely was straight mark like a scratch, line
+drawn by a sharp instrument, but in English this is attested only from c.1400, along with the sense
+mark made (on a chalkboard, etc.) to keep count of a customer's drinks in a tavern. This sense was
+extended by 1670s to mark made for purpose of recording a point in a game or match, and thus
+aggregate of points made by contestants in certain games and matches (1742, originally in whist).
+From the tavern-keeping sense comes the meaning amount on an innkeeper's bill (c.1600) and thus the
+figurative verbal expression settle scores (1775).  Meaning printed piece of music first recorded
+1701, said to be from the practice of connecting related staves by scores of lines. Especially music
+composed for a film (1927). Meaning act of obtaining narcotic drugs is by 1951.   Scoreboard is from
+1826;   score-keeping- from 1905; newspaper sports section score line is from 1965; baseball score-
+card is from 1877.
+
+

@@ -3,3 +3,151 @@ logical (adj.)
 early 15c., based on reason, from logic + -al (1). Meaning pertaining to logic is c.1500. Attested
 from 1860 as following as a reasonable consequence. Related: Logically.
 
+
+post hoc
+
+Latin, after this. Especially in post hoc, ergo propter hoc, logical fallacy, literally after this,
+therefore because of this.
+
+
+illogical (adj.)
+
+1580s, from assimilated form of in- (1) not, opposite of + logical. Related: Illogically.
+
+
+atomistic (adj.)
+
+1809, in reference to the classical philosophical doctrine of atomism (1670s); modern philosophical
+sense (logical atomism) traces to 1914 and Bertrand Russell.
+
+
+a priori
+
+1710, from cause to effect (a logical term, in reference to reasoning), Latin, literally from what
+comes first, from priori, ablative of prior first (see prior (adj.)). Used loosely for in accordance
+with previous knowledge (1834).
+
+
+semiology (n.)
+
+1690s, sign language, from Greek semeion a sign, mark, token, from sema (compare semiotic) + -ology.
+As branch of medical science concerned with symptoms, 1839; as logical theory of signs from 1923.
+Related: Semiological.
+
+
+fisk (v.)
+
+2002, an Internet argument tactic involving a reprinting of an article or blog post, interlarded
+with rebuttals and refutations, often intended to show the original is a sandpile of flawed facts,
+unfounded assertions, and logical fallacies. Named for English journalist Robert Fisk (b.1946),
+Middle East correspondent for the Independent, whose writing often criticizes America and Israel and
+is somewhat noted for looseness with details. Related: Fisked; fisking.
+
+
+inconsequent (adj.)
+
+1570s, not following as a logical conclusion, from Latin inconsequentem (nominative inconsequens)
+not logically connected, from in- not, opposite of, without (see in- (1)) + consequens, past
+participle of consequi to follow (see consequence).
+
+
+logic (n.)
+
+mid-14c., branch of philosophy that treats of forms of thinking, from Old French logique (13c.),
+from Latin (ars) logica, from Greek logike (techne) reasoning (art), from fem. of logikos pertaining
+to speaking or reasoning, from logos reason, idea, word (see logos). Meaning logical argumentation
+is from c.1600.
+
+
+argument (n.)
+
+early 14c., statements and reasoning in support of a proposition, from Old French arguement
+reasoning, opinion; accusation, charge (13c.), from Latin argumentum evidence, ground, support,
+proof; a logical argument, from arguere to argue (see argue). Sense passed through subject of
+contention to a quarrel, a sense formerly attached to argumentation.
+
+
+crucial (adj.)
+
+1706, cross-shaped, from French crucial, a medical term for ligaments of the knee (which cross each
+other), from Latin crux (genitive crucis) cross (see cross (n.)). The meaning decisive, critical
+(1830) is extended from a logical term, Instantias Crucis, adopted by Francis Bacon (1620); the
+notion is of cross fingerboard signposts at forking roads, thus a requirement to choose.
+
+
+reason (v.)
+
+early 14c., resunmen, to question (someone), also to challenge, from Old French raisoner speak,
+discuss; argue; address; speak to, from Late Latin rationare to discourse, from ratio (see reason
+(n.)). Intransitive sense of to think in a logical manner is from 1590s; transitive sense of employ
+reasoning (with someone) is from 1847. Related: Reasoned; reasoning.
+
+
+topic (n.)
+
+1630s, a class of considerations from which probable arguments can be drawn, singular form of Topics
+(1560s), the name of a work by Aristotle on logical and rhetorical generalities, from Latin Topica,
+from Greek Ta Topika, literally matters concerning topoi, commonplaces, neuter plural of noun use of
+topikos pertaining to a common place, of a place, local, from topos place (see topos). The meaning
+matter treated in speech or writing, subject, theme is first recorded 1720.
+
+
+imply (v.)
+
+late 14c., to enfold, enwrap, entangle (the classical Latin sense), from Old French emplier, from
+Latin implicare involve (see implication). Meaning to involve something unstated as a logical
+consequence first recorded c.1400; that of to hint at from 1580s. Related: Implied; implying. The
+distinction between imply and infer is in What do you imply by that remark? But, What am I to infer
+from that remark?
+
+
+lapwing (n.)
+
+Middle English lappewinke (late 14c.), lapwyngis (early 15c.), folk etymology alteration of Old
+English hleapewince, probably literally leaper-winker, from hleapan to leap + wince totter, waver,
+move rapidly, related to wincian to wink. Said to be so called from the manner of its flight [OED]
+in reference to its irregular flapping manner of flight [Barnhart], but the lapwing also flaps on
+the ground pretending to have a broken wing to lure egg-hunters away from its nest, which seems a
+more logical explanation. Its Greek name was polyplagktos luring on deceitfully.
+
+
+matrix (n.)
+
+late 14c., uterus, womb, from Old French matrice womb, uterus, from Latin matrix (genitive matricis)
+pregnant animal, in Late Latin womb, also source, origin, from mater (genitive matris) mother (see
+mother (n.1)). Sense of place or medium where something is developed is first recorded 1550s; sense
+of embedding or enclosing mass first recorded 1640s. Logical sense of array of possible combinations
+of truth-values is attested from 1914. As a verb from 1951.
+
+
+Homo sapiens (n.)
+
+1802, in William Turton's translation of Linn&aelig;us, coined in Modern Latin from Latin homo man
+(technically male human, but in logical and scholastic writing human being; see homunculus) +
+sapiens, present participle of sapere be wise (see sapient). Used since in various Latin or pseudo-
+Latin combinations intended to emphasize some aspect of humanity, as in Henri Bergson's Homo faber
+man the tool-maker, in L'Evolution Cr&eacute;atrice (1907). Homo as a genus of the order Primates is
+first recorded 1797.
+
+
+homunculus (n.)
+
+1650s, from Latin homunculus, literally little person, from homo (genitive hominis) man, human
+being, the Latin word that means man, person, a human being (technically male human, but in logical
+and scholastic writing human being), also the human race, mankind, perhaps from PIE *(dh)ghomon-,
+literally earthling, from *dhghem- earth (see chthonic; also compare human). With -culus, Latin
+diminutive suffix. Other Latin diminutives from homo included homullus, homuncio.
+
+
+sensible (adj.)
+
+late 14c., capable of sensation or feeling; also capable of being sensed or felt, perceptible to the
+senses, hence easily understood; logical, reasonable, from Late Latin sensibilis having feeling,
+perceptible by the senses, from sensus, past participle of sentire perceive, feel (see sense (n.)).
+Of persons, aware, cognizant (of something) early 15c.; having good sense, capable of reasoning,
+discerning, clever, mid-15c. Of clothes, shoes, etc., practical rather than fashionable it is
+attested from 1855.    Other Middle English senses included susceptible to injury or pain (early
+15c., now gone with sensitive); worldly, temporal, outward (c.1400); carnal, unspiritual (early
+15c., now gone with sensual). Related: Sensibleness.
+
+

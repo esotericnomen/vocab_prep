@@ -7,3 +7,266 @@ earliest in English (attested in Anglo-Latin from late 12c.), on notion of abili
 Originally each department was a faculty; the use in reference to the whole teaching staff of a
 college dates from 1767.
 
+
+faculties (n.)
+
+early 16c., powers or properties of one's self, also physical functions; plural of faculty.
+
+
+taste (n.)
+
+early 14c., act of tasting, from Old French tast sense of touch (Modern French t&acirc;t), from
+taster (see taste (v.)). From late 14c. as a small portion given; also faculty or sense by which the
+flavor of a thing is discerned; also savor, sapidity, flavor.    Meaning aesthetic judgment, faculty
+of discerning and appreciating what is excellent is first attested 1670s (compare French go&#251;t,
+German geschmack, Russian vkus, etc.).    Of all the five senses, 'taste' is the one most closely
+associated with fine discrimination, hence the familiar secondary uses of words for 'taste, good
+taste' with reference to aesthetic appreciation. [Buck]   <hr />  Taste is active, deciding,
+choosing, changing, arranging, etc.; sensibility is passive, the power to feel, susceptibility of
+impression, as from the beautiful. [Century Dictionary]
+
+
+memory (n.)
+
+mid-13c., recollection (of someone or something); awareness, consciousness, also fame, renown,
+reputation, from Anglo-French memorie (Old French memoire, 11c., mind, memory, remembrance;
+memorial, record) and directly from Latin memoria memory, remembrance, faculty of remembering, noun
+of quality from memor mindful, remembering, from PIE root *(s)mer- to remember (Sanskrit smarati
+remembers, Avestan mimara mindful; Greek merimna care, thought, mermeros causing anxiety,
+mischievous, baneful; Serbo-Croatian mariti to care for; Welsh marth sadness, anxiety; Old Norse
+Mimir, name of the giant who guards the Well of Wisdom; Old English gemimor known, murnan mourn,
+remember sorrowfully; Dutch mijmeren to ponder). Meaning faculty of remembering is late 14c. in
+English.  I am grown old and my memory is not as active as it used to be. When I was younger I could
+remember anything, whether it had happened or not; but my faculties are decaying now and soon I
+shall be so I cannot remember any but the things that never happened.  It is sad to go to pieces
+like this, but we all have to do it. [Mark Twain, Autobiography]  Computer sense, device which
+stores information, is from 1946. Related: Memories.
+
+
+sentience (n.)
+
+1817, faculty of sense; feeling, consciousness; see sentient + -ence. Related: Sentiency (1796).
+
+
+capability (n.)
+
+1580s, from capable + -ity. Capabilities undeveloped faculty or property is attested from 1778.
+
+
+alienist (n.)
+
+one who treats mental illness, 'mad doctor,'  1864, from French ali&eacute;niste, from alienation in
+the sense of insanity, loss of mental faculty, a sense attested in English from late 15c. (see
+alienate).
+
+
+smell (n.)
+
+odor, aroma, stench, late 12c.; faculty of perceiving by the nose, c.1200; see smell (v.). Ousted
+Old English stenc (see stench) in most senses.
+
+
+recordation (n.)
+
+late 14c., faculty of remembering, Old French recordacion record, memory (14c.) or directly from
+Latin recordationem (nominative recordatio), noun of action from past participle stem of recordari
+(see record (v.)). Meaning act or process of committing to writing is c.1810.
+
+
+imagination (n.)
+
+faculty of the mind which forms and manipulates images, mid-14c., ymaginacion, from Old French
+imaginacion concept, mental picture; hallucination, from Latin imaginationem (nominative imaginatio)
+imagination, a fancy, noun of action from past participle stem of imaginari (see imagine).
+
+
+eidetic (adj.)
+
+pertaining to the faculty of projecting images, 1924, from German eidetisch, coined by German
+psychologist Erich Jaensch (1883-1940), from Greek eidetikos pertaining to images, also pertaining
+to knowledge, from eidesis knowledge, from eidos form, shape (see -oid).
+
+
+oration (n.)
+
+late 14c., prayer, from Late Latin orationem (nominative oratio) a speaking, speech, discourse;
+language, faculty of speech, mode of expressing; prayer, noun of action from past participle stem of
+Latin orare to pray, plead, speak before an assembly (see orator). Meaning formal speech, discourse
+first recorded c.1500.
+
+
+regent (n.)
+
+one who rules during the minority or absence of a sovereign, c.1400, from the adjective (now
+archaic, attested in English late 14c.), from Old French regent and directly from Medieval Latin
+regentem (nominative regens), from Latin regens ruler, governor, noun use of present participle of
+regere to rule, direct (see regal). Senses of university faculty member is attested from mid-15c.,
+originally Scottish.
+
+
+instinct (n.)
+
+early 15c., a prompting, from Latin instinctus instigation, impulse, noun use of past participle of
+instinguere to incite, impel, from in- on (see in- (2)) + stinguere prick, goad, from PIE *steig- to
+prick, stick, pierce (see stick (v.)). Meaning animal faculty of intuitive perception is from mid-
+15c., from notion of natural prompting. Sense of innate tendency is first recorded 1560s.
+
+
+mnemonic (adj.)
+
+aiding the memory, 1753, back-formation from mnemonics, or from Greek mnemonikos of or pertaining to
+memory, from mnemon (genitive mnemonos) remembering, mindful, from memne memory, a remembrance,
+record, an epitaph; memory as a mental faculty, from base of mnasthai remember, from PIE root *men-
+to think (see mind (n.)). The noun meaning mnemonic device is from 1858. Related: Mnemonical
+(1660s).
+
+
+prospect (n.)
+
+early 15c., act of looking into the distance, from Latin prospectus distant view, look out; sight,
+faculty of sight, noun use of past participle of prospicere look out on, look forward, from pro-
+forward (see pro-) + specere look at (see scope (n.1)). Meaning extensive view of the landscape is
+from 1530s; transferred sense of mental view or survey is from 1620s. Sense of person or thing
+considered promising is from 1922. Prospects expectations, things looked forward to is from 1660s.
+
+
+visual (adj.)
+
+early 15c., pertaining to the faculty of sight; also coming from the eye or sight (as a beam of
+light was thought to do), from Late Latin visualis of sight, from Latin visus a sight, a looking;
+power of sight; things seen, appearance, from visus, past participle of videre to see (see vision).
+Meaning perceptible by sight is from late 15c; sense of relating to vision is first attested c.1600.
+The noun meaning photographic film or other visual display is first recorded 1944.
+
+
+eugenics (n.)
+
+1883, coined (along with adjective eugenic) by English scientist Francis Galton (1822-1911) on
+analogy of ethics, physics, etc. from Greek eugenes well-born, of good stock, of noble race, from
+eu- good (see eu-) + genos birth (see genus).  The investigation of human eugenics, that is, of the
+conditions under which men of a high type are produced. [Galton, Human Faculty, 1883]
+
+
+invention (n.)
+
+c.1400, devised method of organization, from Old French invencion (13c.) and directly from Latin
+inventionem (nominative inventio) faculty of invention; a finding, discovery, noun of action from
+past participle stem of invenire devise, discover, find, from in- in, on (see in- (2)) + venire to
+come (see venue).    Meaning finding or discovering of something is early 15c. in English; sense of
+thing invented is first recorded 1510s. Etymological sense preserved in Invention of the Cross,
+Church festival (May 3) celebrating the reputed finding of the Cross of the Crucifixion by Helena,
+mother of Constantine, in 326 C.E.
+
+
+remembrance (n.)
+
+c.1300, a memory, recollection, from Old French remembrance (11c.), from remembrer (see remember).
+From late 14c. as consideration, reflection; present consciousness of a past event; store of
+personal experiences available to recollection, capacity to recall the past. Also late 14c. as
+memento, keepsake, souvenir, and a commemoration, remembering, ritual of commemoration. Meaning
+faculty of memory, capability of remembering is early 15c.    British Remembrance Day, the Sunday
+nearest Nov. 11 (originally in memory of the dead of World War I) is attested from 1921. A
+remembrancer (early 15c.) was a royal official of the Exchequer tasked with recording and collecting
+debts due to the Crown; hence also, figuratively Death (late 15c.).
+
+
+intelligence (n.)
+
+late 14c., faculty of understanding, from Old French intelligence (12c.), from Latin intelligentia,
+intellegentia understanding, power of discerning; art, skill, taste, from intelligentem (nominative
+intelligens) discerning, present participle of intelligere to understand, comprehend, from inter-
+between (see inter-) + legere choose, pick out, read (see lecture (n.)).    Meaning superior
+understanding, sagacity is from early 15c. Sense of information, news first recorded mid-15c.,
+especially secret information from spies (1580s). Intelligence quotient first recorded 1921 (see
+I.Q.).
+
+
+sensitive (adj.)
+
+late 14c., in reference to the body or its parts, having the function of sensation; also (early
+15c.) pertaining to the faculty of the soul that receives and analyzes sensory information; from Old
+French sensitif capable of feeling (13c.) and directly from Medieval Latin sensitivus capable of
+sensation, from Latin sensus, past participle of sentire feel perceive (see sense (n.)).    Meaning
+easily affected (with reference to mental feelings) first recorded 1816; meaning having intense
+physical sensation is from 1849. Original meaning is preserved in sensitive plant (1630s), which is
+mechanically irritable in a higher degree than almost any other plant [Century Dictionary]. Meaning
+involving national security is recorded from 1953. Related: Sensitively; sensitiveness.
+
+
+aphasia (n.)
+
+loss of ability to speak, especially as result of brain injury or disorder, 1867, from Modern Latin
+aphasia, from Greek aphasia speechlessness, from a- without (see a- (3)) + phasis utterance, from
+phanai to speak, related to pheme voice, report, rumor (see fame (n.)).    APHASIA is the term which
+has recently been given to the loss of the faculty of articulate language, the organs of phonation
+and of articulation, as well as the intelligence, being unimpaired. The pathology of this affection
+is at the present time the subject of much discussion in the scientific world; the French Academy
+devoted several of their s&#233;ances during the year 1865 to its special elucidation, and the
+Medical Journals of France and of our own country have lately contained a good deal of original
+matter bearing upon this obscure feature in cerebral pathology. [Frederic Bateman, M.D., Aphasia,
+London, 1868]
+
+
+reason (n.)
+
+c.1200, intellectual faculty that adopts actions to ends, also statement in an argument, statement
+of explanation or justification, from Anglo-French resoun, Old French raison course; matter;
+subject; language, speech; thought, opinion, from Latin rationem (nominative ratio) reckoning,
+understanding, motive, cause, from ratus, past participle of reri to reckon, think, from PIE root
+*re(i)- to reason, count (source of Old English r&aelig;dan to advise; see read (v.)).    Meaning
+sanity; degree of intelligence that distinguishes men from brutes is recorded from late 13c. Sense
+of grounds for action, motive, cause of an event is from c.1300. Middle English sense of meaning,
+signification (early 14c.) is in the phrase rhyme or reason. Phrase it stands to reason is from
+1630s. Age of Reason the Enlightenment is first recorded 1794, as the title of Tom Paine's book.
+
+
+sight (n.)
+
+Old English sih&eth;, gesiht, gesih&eth; thing seen; faculty of sight; aspect; vision; apparition,
+from Proto-Germanic *sekh(w)- (cognates: Danish sigte, Swedish sigt, Middle Dutch sicht, Dutch
+zicht, Old High German siht, German Sicht, Gesicht), stem that also yielded Old English seon (see
+see (v.)), with noun suffix -th (2), later -t.  Verily, truth is sight. Therefore if two people
+should come disputing, saying, 'I have seen,' 'I have heard,' we should trust the one who says 'I
+have seen.' [Brhadaranyaka Upanishad 5.14.4]  Meaning perception or apprehension by means of the
+eyes is from early 13c. Meaning device on a firearm to assist in aiming is from 1580s. A show of
+something, hence, colloquially, a great many; a lot (late 14c.). Sight for sore eyes welcome visitor
+is attested from 1738; sight unseen without previous inspection is from 1892. Sight gag first
+attested 1944. Middle English had sighty (late 14c.) visible, conspicuous; bright, shining;
+attractive, handsome; c.1400 as keen-sighted; mid-15c. as discerning (compare German sichtig
+visible).
+
+
+sense (n.)
+
+c.1400, faculty of perception, also meaning, import, interpretation (especially of Holy Scripture),
+from Old French sens one of the five senses; meaning; wit, understanding (12c.) and directly from
+Latin sensus perception, feeling, undertaking, meaning, from sentire perceive, feel, know, probably
+a figurative use of a literally meaning to find one's way, or to go mentally, from PIE root *sent-
+to go (cognates: Old High German sinnan to go, travel, strive after, have in mind, perceive, German
+Sinn sense, mind, Old English si&eth; way, journey, Old Irish set, Welsh hynt way). Application to
+any one of the external or outward senses (touch, sight, hearing, etc.) in English first recorded
+1520s.    A certain negro tribe has a special word for see; but only one general word for hear,
+touch, smell, and taste. It matters little through which sense I realize that in the dark I have
+blundered into a pig-sty. In French sentir means to smell, to touch, and to feel, all together.
+[Erich M. von Hornbostel, Die Einheit der Sinne (The Unity of the Senses), 1927]    Meaning that
+which is wise is from c.1600. Meaning capacity for perception and appreciation is from c.1600 (as in
+sense of humor, attested by 1783, sense of shame, 1640s).
+
+
+mind (n.)
+
+late 12c., from Old English gemynd memory, remembrance, state of being remembered; thought, purpose;
+conscious mind, intellect, intention, Proto-Germanic *ga-mundiz (cognates: Gothic muns thought,
+munan to think; Old Norse minni mind; German Minne (archaic) love, originally memory, loving
+memory), from PIE root *men- think, remember, have one's mind aroused, with derivatives referring to
+qualities of mind or states of thought (cognates: Sanskrit matih thought, munih sage, seer; Greek
+memona I yearn, mania madness, mantis one who divines, prophet, seer; Latin mens mind,
+understanding, reason, memini I remember, mentio remembrance; Lithuanian mintis thought, idea, Old
+Church Slavonic mineti to believe, think, Russian pamjat memory).    Meaning mental faculty is mid-
+14c. Memory, one of the oldest senses, now is almost obsolete except in old expressions such as bear
+in mind, call to mind. Mind's eye remembrance is early 15c. Phrase time out of mind is attested from
+early 15c. To pay no mind disregard is recorded from 1916, American English dialect. To have half a
+mind to to have one's mind half made up to (do something) is recorded from 1726. Mind-reading is
+from 1882.
+
+

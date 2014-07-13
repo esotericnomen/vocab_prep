@@ -3,10 +3,48 @@ gamut (n.)
 1520s, originally, lowest note in the medieval musical scale, in the system of notation devised by
 Guido d'Arezzo, contraction of Medieval Latin gamma ut, from gamma, the Greek letter, indicating a
 note below A, + ut, the low note on the six-note musical scale that took names from corresponding
-syllables in a Latin hymn for St. John the Baptist's Day:<blockquote><b>Ut</b> queant laxis
-<b>re</b>sonare fibris  <b>Mi</b>ra gestorum <b>fa</b>muli tuorum  <b>Sol</b>ve polluti <b>la</b>bii
-reatum,</blockquote>etc. Gamut came to be used for the whole musical scale; the figurative sense of
-entire scale or range of anything is first recorded 1620s. When the modern octave scale was set
-early 16c., si was added, changed to ti in Britain and U.S. to keep the syllables as different from
-each other as possible. Ut later was replaced by more sonorous do (n.). See also solmisation.
+syllables in a Latin hymn for St. John the Baptist's Day:<b>Ut</b> queant laxis <b>re</b>sonare
+fibris  <b>Mi</b>ra gestorum <b>fa</b>muli tuorum  <b>Sol</b>ve polluti <b>la</b>bii reatum,etc.
+Gamut came to be used for the whole musical scale; the figurative sense of entire scale or range of
+anything is first recorded 1620s. When the modern octave scale was set early 16c., si was added,
+changed to ti in Britain and U.S. to keep the syllables as different from each other as possible. Ut
+later was replaced by more sonorous do (n.). See also solmisation.
+
+
+fa
+
+fourth note in Guidonian scale; see gamut.
+
+
+la
+
+musical note (sixth note of the diatonic scale), early 14c., see gamut. It represents the initial
+syllable of Latin labii of the lips.
+
+
+ti
+
+seventh note of the musical scale, 1842, earlier te (1839), replacing si to avoid confusion with so,
+sol (see gamut).
+
+
+sol-fa (n.)
+
+syllables used in solmization taken collectively, 1540s, from Italian, from Medieval Latin sol and
+fa, two notes of the musical scale (see gamut). As a verb from 1560s; compare solfeggio use the sol-
+fa system (1774), from Italian solfeggiare.
+
+
+do (n.)
+
+first (and last) note of the diatonic scale, by 1754, from do, used as a substitution for ut (see
+gamut) for sonority's sake, first in Italy and Germany. U.S. slang do-re-mi money is from 1920s,
+probably a pun on dough in its slang sense of cash.
+
+
+solmization (n.)
+
+act of using certain syllables to name tones of a music scale, 1730, from French solmisation, from
+solmiser, from sol + mi, two of the syllables so used (see gamut).
+
 

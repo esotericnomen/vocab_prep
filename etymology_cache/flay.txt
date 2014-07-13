@@ -5,3 +5,160 @@ Germanic *flahan (cognates: Middle Dutch vlaen, Old High German flahan, Old Nors
 root *pl(e)ik-, *pleik- to tear (cognates: Lithuanian ple&#353;iu to tear). Related: Flayed;
 flaying.
 
+
+tear (v.1)
+
+pull apart, Old English teran to tear, lacerate (class IV strong verb; past tense t&aelig;r, past
+participle toren), from Proto-Germanic *teran (cognates: Old Saxon terian, Middle Dutch teren to
+consume, Old High German zeran to destroy, German zehren, Gothic ga-tairan to tear, destroy), from
+PIE *der- (2) to split, peel, flay, with derivatives referring to skin and leather (cognates:
+Sanskrit drnati cleaves, bursts, Greek derein to flay, Armenian terem I flay, Old Church Slavonic
+dera to burst asunder, Breton darn piece).    The Old English past tense survived long enough to get
+into Bible translations as tare before giving place 17c. to tore, which is from the old past
+participle toren. Sense of to pull by force (away from some situation or attachment) is attested
+from late 13c. To be torn between two things (desires, loyalties, etc.) is from 1871.
+
+
+tetter (n.)
+
+skin disease, Old English teter, from a reduplicated form of PIE *der- (2) to split, peel, flay (see
+tear (v.1)).
+
+
+skinflint (n.)
+
+miser, one who makes use of contemptible economy to keep money, 1700, slang; literally kind of
+person who would skin a flint to save or gain something, from skin (v.) + flint. Flay-flint in same
+sense is from 1670s.
+
+
+derma (n.)
+
+skin beneath the epidermis, 1706, from Modern Latin derma, from Greek derma (genitive dermatos)
+skin, from PIE root *der- (2) to split, peel, flay (see tear (v.1)).
+
+
+fleck (v.)
+
+late 14c., probably from Old Norse flekka to spot, from Proto-Germanic *flekk- (cognates: Middle
+Dutch vlecke, Old High German flec, German Fleck), from PIE *pleik- to tear (see flay). Related:
+Flecked; flecking.
+
+
+tart (adj.)
+
+having a sharp taste, 1520s, also attested once, obscurely, from late 14c., perhaps from Old English
+teart painful, sharp, severe, rough (in reference to punishment, pain, suffering), from Germanic
+*ter-t-, from PIE *der- (2) to split, flay, peel (see tear (v.1)), but the gap in the record is
+unexplained. Figurative use, with reference to words, speech, etc., is attested from c.1600.
+Related: Tartly; tartness, both also absent in Middle English.
+
+
+excoriate (v.)
+
+early 15c., from Late Latin excoriatus, past participle of excoriare flay, strip off the hide, from
+Latin ex- off (see ex-) + corium hide, skin (see corium). Figurative sense of denounce, censure
+first recorded in English 1708. Related: Excoriated; excoriating.
+
+
+scorch (v.)
+
+to burn superficially or slightly, but so as to change the color or injure the texture, early 14c.,
+perhaps an alteration of scorrcnenn make dry, parch (c.1200), of obscure origin, perhaps from Old
+Norse skorpna to be shriveled, cognate with Old English scrimman to shrink, dry up. Or perhaps from
+Old French escorchier to strip off the skin, from Vulgar Latin excorticare to flay, from ex- (see
+ex-) + Latin cortex (genitive corticis) cork; but OED finds this not likely. Scorched earth military
+strategy is 1937, translation of Chinese jiaotu, used against the Japanese in a bid to stem their
+advance into China.
+
+
+flax (n.)
+
+Old English fleax cloth made with flax, linen, from Proto-Germanic *flakhsan (cognates: Old Frisian
+flax, Middle Dutch and Dutch vlas, Old Saxon flas, Old High German flahs, German Flachs), probably
+from Proto-Germanic base *fleh-, corresponding to PIE *plek- to weave, plait (see ply (v.1)). But
+some connect it with PIE *pleik- (see flay) from the notion of stripping fiber to prepare it.
+
+
+flake (n.)
+
+thin, flat piece, early 14c., possibly from Old English *flacca flakes of snow, from Old Norse flak
+loose or torn piece (related to Old Norse fla to skin, see flay), from Proto-Germanic *flago-
+(cognates: Middle Dutch vlac, Dutch vlak flat, level, Middle High German vlach, German Flocke
+flake); from PIE *plak- (1) to be flat, extended form of root *pele- (2) flat, to spread (see plane
+(n.1)).
+
+
+turd (n.)
+
+Old English tord piece of excrement, from Proto-Germanic *turdam (cognates: Middle Dutch torde piece
+of excrement, Old Norse tord-yfill, Dutch tort-wevel dung beetle), from PIE *drtom, past participle
+of root *der- (2) to split, peel, flay, tear; thus that which is separated (torn off) from the body
+(compare shit (v.) from root meaning to split; Greek skatos from root meaning to cut off; see
+scatology). As a type of something worthless and vile, it is attested from mid-13c. Meaning
+despicable person is recorded from mid-15c.    A tord ne yeue ic for eu alle [The Owl and the
+Nightingale, c.1250]   <hr />   Alle thingis ... I deme as toordis, that I wynne Crist. [Wyclif,
+Phil. iii.8, 1382; KJV has I count all things ... but dung, that I may win Christ]
+
+
+skin (n.)
+
+c.1200, animal hide (usually dressed and tanned), from Old Norse skinn animal hide, fur, from Proto-
+Germanic *skintha- (cognates: Old English scinn (rare), Old High German scinten, German schinden to
+flay, skin; German dialectal schind skin of a fruit, Flemish schinde bark), from PIE *sken- to cut
+off (cognates: Breton scant scale of a fish, Irish scainim I tear, I burst), from root *sek- to cut
+(see section (n.)).    Ful of fleissche Y was to fele, Now ... Me is lefte But skyn &amp; boon.
+[hymn, c.1430]    The usual Anglo-Saxon word is hide (n.1). Meaning epidermis of a living animal or
+person is attested from early 14c.; extended to fruits, vegetables, etc. late 14c. Jazz slang sense
+of drum is from 1927. Meaning a skinhead is from 1970. As an adjective, it formerly had a slang
+sense of cheating (1868); sense of pornographic is attested from 1968. Skin deep is first attested
+in this:    All the carnall beauty of my wife, Is but skin-deep. [Sir Thomas Overbury, A Wife, 1613;
+the poem was a main motive for his murder]    The skin of one's teeth as the narrowest of margins is
+attested from 1550s in the Geneva Bible literal translation of the Hebrew text in Job xix:20. To get
+under (someone's) skin annoy is from 1896. Skin-graft is from 1871. Skin merchant recruiting officer
+is from 1792.
+
+
+Hobbit (n.)
+
+1937, coined in the fantasy tales of J.R.R. Tolkien (1892-1973).    On a blank leaf I scrawled: 'In
+a hole in the ground there lived a hobbit.' I did not and do not know why.  [Tolkien, letter to W.H.
+Auden, dated 1955]    The word also turns up in a very long list of folkloric supernatural creatures
+in the writings of Michael Aislabie Denham (d.1859), printed in volume 2 of The Denham Tracts [ed.
+James Hardy, London: Folklore Society, 1895], a compilation of Denham's scattered publications.
+Denham was an early folklorist who concentrated on Northumberland, Durham, Westmoreland, Cumberland,
+the Isle of Man, and Scotland.    What a happiness this must have been seventy or eighty years ago
+and upwards, to those chosen few who had the good luck to be born on the eve of this festival of all
+festivals; when the whole earth was so overrun with ghosts, boggles, bloody-bones, spirits, demons,
+ignis fatui, brownies, bugbears, black dogs, specters, shellycoats, scarecrows, witches, wizards,
+barguests, Robin-Goodfellows, hags, night-bats, scrags, breaknecks, fantasms, hobgoblins,
+hobhoulards, boggy-boes, dobbies, hob-thrusts, fetches, kelpies, warlocks, mock-beggars, mum-pokers,
+Jemmy-burties, urchins, satyrs, pans, fauns, sirens, tritons, centaurs, calcars, nymphs, imps,
+incubuses, spoorns, men-in-the-oak, hell-wains, fire-drakes, kit-a-can-sticks, Tom-tumblers, melch-
+dicks, larrs, kitty-witches, hobby-lanthorns, Dick-a-Tuesdays, Elf-fires, Gyl-burnt-tales, knockers,
+elves, rawheads, Meg-with-the-wads, old-shocks, ouphs, pad-foots, pixies, pictrees, giants, dwarfs,
+Tom-pokers, tutgots, snapdragons, sprets, spunks, conjurers, thurses, spurns, tantarrabobs,
+swaithes, tints, tod-lowries, Jack-in-the-Wads, mormos, changelings, redcaps, yeth-hounds, colt-
+pixies, Tom-thumbs, black-bugs, boggarts, scar-bugs, shag-foals, hodge-pochers, hob-thrushes, bugs,
+bull-beggars, bygorns, bolls, caddies, bomen, brags, wraiths, waffs, flay-boggarts, fiends,
+gallytrots, imps, gytrashes, patches, hob-and-lanthorns, gringes, boguests, bonelesses, Peg-powlers,
+pucks, fays, kidnappers, gallybeggars, hudskins, nickers, madcaps, trolls, robinets, friars'
+lanthorns, silkies, cauld-lads, death-hearses, goblins, hob-headlesses, bugaboos, kows, or cowes,
+nickies, nacks necks, waiths, miffies, buckies, ghouls, sylphs, guests, swarths, freiths, freits,
+gy-carlins Gyre-carling, pigmies, chittifaces, nixies, Jinny-burnt-tails, dudmen, hell-hounds,
+dopple-gangers, boggleboes, bogies, redmen, portunes, grants, <b>hobbits</b>, hobgoblins, brown-men,
+cowies, dunnies, wirrikows, alholdes, mannikins, follets, korreds, lubberkins, cluricauns, kobolds,
+leprechauns, kors, mares, korreds, puckles korigans, sylvans, succubuses, blackmen, shadows,
+banshees, lian-hanshees, clabbernappers, Gabriel-hounds, mawkins, doubles, corpse lights or candles,
+scrats, mahounds, trows, gnomes, sprites, fates, fiends, sibyls, nicknevins, whitewomen, fairies,
+thrummy-caps, cutties, and nisses, and apparitions of every shape, make, form, fashion, kind and
+description, that there was not a village in England that had not its own peculiar ghost. Nay, every
+lone tenement, castle, or mansion-house, which could boast of any antiquity had its bogle, its
+specter, or its knocker. The churches, churchyards, and crossroads were all haunted. Every green
+lane had its boulder-stone on which an apparition kept watch at night. Every common had its circle
+of fairies belonging to it. And there was scarcely a shepherd to be met with who had not seen a
+spirit!    [Emphasis added] It is curious that the name occurs nowhere else in folklore, and there
+is no evidence that Tolkien ever saw this. The word also was recorded from 1835 as a term generally
+used in Wales to express a quantity made up of four Welsh pecks. Hobbitry attested from 1947.
+
+

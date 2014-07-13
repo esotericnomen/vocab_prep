@@ -3,3 +3,46 @@ static (n.)
 random radio noise, 1912, from static (adj.). Figurative sense of aggravation, criticism is attested
 from 1926.
 
+
+statics (n.)
+
+branch of mechanics which treats of stresses and strains, 1650s, from Modern Latin statica (see
+static); also see -ics. Related: Statical; statically.
+
+
+static (adj.)
+
+1630s, pertaining to the science of weight and its mechanical effects, from Modern Latin statica,
+from Greek statikos causing to stand, skilled in weighing, from stem of histanai to make to stand,
+set; to place in the balance, weigh, from PIE root *sta- stand (see stet). Earlier statical (1560s).
+The sense of having to do with bodies at rest or with forces that balance each other is first
+recorded 1802. Applied to frictional electricity from 1839.
+
+
+sitzkrieg (n.)
+
+1940, static warfare (such as prevailed in Europe in the winter of 1939-40), R.A.F. coinage on
+analogy of blitzkrieg (q.v.), from German sitz a sitting.
+
+
+Leyden jar (n.)
+
+1755, phial used for accumulating and storing static electricity, from Leyden (modern Leiden), city
+in Holland; so called because it was first described (in 1746) by physicist Pieter van Musschenbroek
+of Leyden (1692-1761). The place name is said to be from Germanic *leitha- canal.
+
+
+hydrostatic (adj.)
+
+1670s, from Greek hydro- water (see water (n.1)) + statikos making to stand (see static).
+
+
+dynamic (adj.)
+
+1817 as a term in philosophy; 1827 in the sense pertaining to force producing motion (the opposite
+of static), from French dynamique introduced by German mathematician Gottfried Leibnitz (1646-1716)
+in 1691 from Greek dynamikos powerful, from dynamis power, from dynasthai to be able, to have power,
+be strong enough, of unknown origin. The figurative sense of active, potent, energetic is from 1856
+(in Emerson). Related: Dynamically.
+
+

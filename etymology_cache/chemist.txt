@@ -4,3 +4,336 @@ c.1600, alchemy, from chemist + -ry; also see chemical (adj.). The meaning natur
 is 1640s, and the scientific study not so called until 1788. The figurative sense of instinctual
 attraction or affinity is attested slightly earlier, from the alchemical sense.
 
+
+chemist (n.)
+
+1560s, chymist, alchemist, from Middle French chimiste, from Medieval Latin chimista, reduced from
+alchimista (see alchemy). Modern spelling is from c.1790. Meaning chemical scientist is from 1620s;
+meaning dealer in medicinal drugs (mostly in British English) is from 1745.
+
+
+aldehyde (n.)
+
+first oxidation product of alcohol, 1833, discovered in 1774 by German-born Swedish chemist Carl
+Wilhelm Scheele (1742-1786), the name said to have been coined by German chemist Justus von Liebig
+(1803-1873) from abbreviation of Modern Latin alcohol dehydrogenatum dehydrogenated alcohol.
+
+
+holmium (n.)
+
+rare earth element, named by French chemist Lecoq de Boisbaudran (1838-1912) in 1886, from holmia
+holmium oxide, a Modern Latin word coined by the earth's discoverer, Swedish chemist Per Teodor
+Cleve (1840-1905), in 1879 from Holmia, Latin name of Stockholm.
+
+
+biochemist (n.)
+
+also bio-chemist, 1897; see bio- + chemist.
+
+
+iodine (n.)
+
+1814, formed by English chemist Sir Humphrey Davy (1778-1829) from French iode iodine, coined 1812
+by French chemist Joseph Louis Gay-Lussac from Greek ioeides violet-colored, from ion the violet;
+dark blue flower, + eidos appearance (see -oid). Davy added the chemical suffix -ine (2) to make it
+analogous with chlorine and fluorine. So called from the color of the vapor given off when the
+crystals are heated.
+
+
+Boyle&#039;s law
+
+named for Irish-born chemist and physicist Robert Boyle (1627-1691), who first published it in 1662.
+
+
+acetylene (n.)
+
+gaseous hydrocarbon, 1864, from French ac&#233;tyl&#232;ne, coined by French chemist Marcelin-
+Pierre-Eug&egrave;ne Berthelot (1823-1907) from chemical ending -ene + acetyl, which was coined from
+acetic in 1839 by German chemist Justus von Liebig; see acetic. Liebig's coinage was in reference to
+a different radical; acetyl was transferred to its current sense in 1850s, but Berthelot's coinage
+was based on the original use of acetyl.    The name <b>acetylene</b> is an unfortunate one as the
+hydrocarbon is not directly related to the modern acetyl radical and the molecule ... contains a
+triple bond, not a double bond which the suffix -ene (q.v.) implies. [Flood, Origins of Chemical
+Names, 1963]
+
+
+zirconium (n.)
+
+metallic chemical element, 1808, coined by German chemist and mineralogist Martin Heinrich Klaproth
+(1743-1817) in 1789; so called because it was found in zircon.
+
+
+ruthenium (n.)
+
+metallic element, 1845, named by Russian chemist Karl Klauss, from a name proposed earlier (1828) in
+reference to a metal extracted from ores from the Ural Mountains of Russia (see Ruthenian).
+
+
+macadamia (n.)
+
+Australian evergreen tree, 1904, from Modern Latin (1858), named for Scotland-born chemist Dr. John
+Macadam (1827-1865), secretary of the Victoria Philosophical Institute, Australia.
+
+
+ytterbium (n.)
+
+metallic rare-earth element, 1879, coined in Modern Latin by Swedish chemist Carl Gustaf Mosander
+(1797-1858) from Ytterby, name of a town in Sweden where mineral containing it was found.
+
+
+yttrium
+
+metallic rare-earth element, 1866, coined in Modern Latin by Swedish chemist Carl Gustaf Mosander
+(1797-1858) from Ytterby, name of a town in Sweden where mineral containing it was found.
+
+
+uranium (n.)
+
+rare metallic element, 1797, named 1789 in Modern Latin by its discoverer, German chemist and
+mineralogist Martin Heinrich Klaproth (1743-1817), for the recently found planet Uranus (q.v.).
+
+
+curium (n.)
+
+1946, named by U.S. chemist Glenn T. Seaborg, who helped discover it in 1944, for the Curies (see
+Curie).
+
+
+gadolinium
+
+metallic element, named 1886 by J.C. Marginac in honor of Johan Gadolin (1760-1852), Finnish
+mineralogist and chemist, who in 1794 first began investigation of the earth which eventually
+yielded this element and several others.
+
+
+europium (n.)
+
+rare earth element, 1901, named by its discoverer, French chemist Eug&egrave;ne Demar&ccedil;ay
+(1852-1903) in 1896, from Europe + -ium.
+
+
+strontium (n.)
+
+light metallic element, 1808, coined in Modern Latin by English chemist Sir Humphry Davy (1778-1829)
+from Strontian, name of a parish in Argyllshire, Scotland, the site of lead mines where strontium
+was first found, in 1787.
+
+
+milk of magnesia (n.)
+
+1880, proprietary name for white suspension of magnesium hydroxide in water, taken as an antacid,
+invented by U.S. chemist Charles Henry Phillips. Herbal or culinary preparations resembling milk had
+been similarly named (for example milk of almond) since early 15c.
+
+
+ephedrine (n.)
+
+1889, named 1887 by Japanese organic chemist Nagai Nagayoshi (1844-1929), from the plant ephedra,
+from which it was first extracted, + chemical suffix -ine (2).
+
+
+magnesium (n.)
+
+silvery-white metallic element, 1808, coined by English chemist Sir Humphrey Davy (1778-1829) from
+white magnesia (q.v.), in which it was found, + chemical ending -ium.
+
+
+gallium (n.)
+
+metalic element, discovered by spectral lines in 1875 by French chemist Lecoq de Boisbaudran
+(1838-1912), who named it apparently in honor of his homeland (see Gallic), but it has been
+suggested that he also punned on his own name (compare Latin gallus cock).
+
+
+naphthalene (n.)
+
+1821, coined by English chemist John Kidd (1775-1851), who first isolated and studied it, from
+naphtha + chemical suffix -ine (2) + -l- for the sake of euphony.
+
+
+adenine (n.)
+
+crystaline base, 1885, coined by German physiologist/chemist Albrecht Kossel (1853-1927) from Greek
+aden gland (see inguinal) + chemical suffix -ine (2). So called because it was derived from the
+pancreas of an ox.
+
+
+iridium (n.)
+
+1804, Modern Latin, coined by its discoverer, English chemist Smithson Tennant (1761-1815) from
+Greek iris (genitive iridos) rainbow; so called for the striking variety of colours which it gives
+while dissolving in marine acid [Tennant]
+
+
+-ane
+
+word-forming element in chemical use, indicating a chain of carbon atoms with no double bonds,
+proposed 1866 by German chemist August Wilhelm von Hofmann (1818-1892) to go with -ene, -ine (2),
+-one.
+
+
+Nobel
+
+1900, in reference to five prizes (in physics, chemistry, medicine, literature, and peace)
+established in the will of Alfred Nobel (1833-1896), Swedish chemist and engineer, inventor of
+dynamite. A sixth prize, in economics, was added in 1969. Related: Nobelist.
+
+
+mole (n.4)
+
+unit of molecular quantity, 1902, from German Mol coined 1900 by German chemist Wilhelm Ostwald
+(1853-1912), short for Molek&uuml;l (see molecule).
+
+
+cellophane (n.)
+
+1912, trademark name for a flexible, transparent product made from regenerated cellulose, coined by
+the inventor, Swiss chemist Jacques E. Brandenberger (1872-1954), probably from cellulose +
+connective o + -phane.
+
+
+calcium (n.)
+
+coined 1808 by English chemist Sir Humphrey Davy (1778-1829), who first succeeded in isolating it,
+from Latin calx (genitive calcis) limestone (see chalk (n.)) + metallic element ending -ium.
+
+
+saccharin (n.)
+
+white crystalline compound used as a sugar substitute, 1885, from German, coined 1879 by Russian-
+born chemist Constantin Fahlberg (1850-1910), who discovered it by accident, from Latin saccharon
+(see saccharine). Marketed from 1887 as saccharine.
+
+
+erbium (n.)
+
+1843, coined in Modern Latin with metallic element name -ium + erbia, name given by Swedish chemist
+Carl Gustaf Mosander (1797-1858), who discovered it, from second element in Ytterby, name of a town
+in Sweden where mineral containing it was found.
+
+
+coulomb (n.)
+
+1881, named for French chemist Charles-Augustin de Coulomb (1736-1806), who devised a method of
+measuring electrical quantity. It is the quantity of electricity conveyed in 1 second by a current
+of 1 ampere. The name is a French form of Columbus.
+
+
+color blindness (n.)
+
+1844, replacing Daltonism (after English chemist John Dalton, 1766-1844, who published a description
+of it in 1794); in figurative use, with reference to race or ethnicity, attested from 1866, American
+English. Related: color blind (adj.).
+
+
+formaldehyde (n.)
+
+pungent gas formed by oxidation of methyl alcohol, 1869, a contraction of formic aldehyde; see
+formic + aldehyde. Discovered in 1863 by German chemist August Wilhelm von Hofmann (1818-1892).
+
+
+hafnium (n.)
+
+rare element, 1923, Modern Latin, from Hafnia, Medieval Latin form of Danish Havn harbor, the usual
+pre-1400 name of Copenhagen, Denmark, where it was discovered by physicist Dirk Coster (1889-1950)
+and chemist George de Hevesy (1885-1966).
+
+
+fluorine (n.)
+
+non-metallic element, 1813, coined by English chemist Sir Humphry Davy (1778-1829) from fluorspar
+(calcium fluoride, modern fluorite), the late 18c. name of the mineral where it was first found; see
+fluor + chemical suffix -ine (2). Not isolated until 1886.
+
+
+electrode (n.)
+
+1834, coined by English physicist and chemist Michael Faraday (1791-1867) from electro- + Greek
+hodos way (see cede) on same pattern as anode, cathode.
+
+
+deuterium (n.)
+
+1933, coined by U.S. chemist Harold C. Urey, with Modern Latin ending + Greek deuterion, neuter of
+deuterios having second place, from deuteros second, from duo (see two). So called because it is
+twice the mass of hydrogen.
+
+
+tellurium (n.)
+
+metallic element, 1800, coined 1798 in Modern Latin by German chemist and mineralogist Martin
+Heinrich Klaproth (1743-1817) from Latin tellus (genitive telluris) earth (see tellurian) + -ium.
+
+
+tantalum (n.)
+
+metallic element, 1809, Modern Latin, named 1802 by its discoverer, Swedish chemist Anders Ekberg
+(1767-1813), for Tantalus, according to Ekberg partly because of its inability to absorb acid
+recalled Tantalus' punishment in the afterlife (see tantalize). Sometimes it is said to be so called
+from the difficulty scientists faced in obtaining a pure specimen.
+
+
+barium (n.)
+
+1808, coined in Modern Latin by its discoverer, English chemist Sir Humphrey Davy (1778-1829),
+because it was present in the mineral barytes heavy spar (barium sulphate), so named by Lavoisier
+from Greek barys heavy (see grave (adj.)). The metal is actually relatively light.
+
+
+helium (n.)
+
+1868, coined from Greek helios sun (see sol), because the element was detected in the solar spectrum
+during the eclipse of Aug. 18, 1868, by English astronomer Sir Joseph N. Lockyer (1836-1920) and
+English chemist Sir Edward Frankland (1825-1899). It was not actually obtained until 1895; it was
+assumed before that to be an alkali metal, hence the ending in -ium.
+
+
+chloral (n.)
+
+colorless liquid formed by the action of chlorine on alcohol, apparently coined by German chemist
+Justus von Liebig in 1833 from elements from chlorine + alcohol. Later chiefly in chloral hydrate
+(1874).
+
+
+lignite (n.)
+
+imperfectly formed coal, 1808, from French, from Latin lignum wood (see ligni-). Brown coal that
+still shows traces of the wood it once was. Probably directly from Lithanthrax Lignius, name given
+to woody coal by Swedish chemist Johan Gottschalk Wallerius (1709-1785) in 1775.
+
+
+bromine (n.)
+
+nonmetallic element, 1827, from French brome, from Greek bromos stench. With chemical suffix -ine
+(2). The evil-smelling dark red liquid was discovered by French chemist Antoine J&eacute;r&ocirc;me
+Balard (1802-1876), who initially called it muride.
+
+
+polyvalent (adj.)
+
+1881, from poly- + -valent, from Latin valentem, present participle of valere be worth (see
+valiant). Coined by German chemist Emil Erlenmeyer (1825-1909), who also designed the flask that
+bears his name.
+
+
+xenon (n.)
+
+gaseous element, 1898, from Greek xenon, neuter of xenos foreign, strange (see xeno-); coined by its
+co-discoverer, Scottish chemist Sir William Ramsay (1852-1916); compare krypton.
+
+
+titanium (n.)
+
+metallic element, 1796, Modern Latin, named in 1795 by German chemist and mineralogist Martin
+Heinrich Klaproth (1743-1817) from Latin Titan (see titan) as sons of the earth. He previously had
+named uranium. A pure specimen was not isolated until 1887.
+
+
+beryllium (n.)
+
+metallic element, 1863, so called because it figures in the composition of the pale green precious
+stone beryl and was identified in emerald (green beryl) in 1797 by French chemist Louis Nicolas
+Vauquelin (1763-1829) and first isolated in 1828. At first and through 19c. also sometimes called
+glucinum or glucinium.
+
+

@@ -2,3 +2,51 @@ solvent (n.)
 
 substance able to dissolve other substances, 1670s, from Latin solventem (see solvent (n.)).
 
+
+solvent (adj.)
+
+1650s, able to pay all one owes, from French solvent, from Latin solventem (nominative solvens),
+present participle of solvere loosen, dissolve (see solve).
+
+
+solvation (n.)
+
+1909, noun of action from solvate, a verb used in chemistry, from solvent + -ate (2).
+
+
+alkahest (n.)
+
+universal solvent sought by alchemists, 1640s, from French alcahest, from Medieval Latin alcahest, a
+pseudo-Arabic word coined by Paracelsus (see alchemy).
+
+
+insolvent (adj.)
+
+1590s, unable to pay one's debts, from in- (1) not + Latin solventem paying (see solvent).
+Originally of one who was not a trader; only traders could become bankrupt.
+
+
+solvency (n.)
+
+1727, from solvent + -cy.
+
+
+alchemy (n.)
+
+mid-14c., from Old French alchimie (14c.), alquemie (13c.), from Medieval Latin alkimia, from Arabic
+al-kimiya, from Greek khemeioa (found c.300 C.E. in a decree of Diocletian against the old writings
+of the Egyptians), all meaning alchemy. Perhaps from an old name for Egypt (Khemia, literally land
+of black earth, found in Plutarch), or from Greek khymatos that which is poured out, from khein to
+pour, related to khymos juice, sap [Klein, citing W. Muss-Arnolt, calls this folk etymology]. The
+word seems to have elements of both origins.Mahn ... concludes, after an elaborate investigation,
+that Gr. khymeia was probably the original, being first applied to pharmaceutical chemistry, which
+was chiefly concerned with juices or infusions of plants; that the pursuits of the Alexandrian
+alchemists were a subsequent development of chemical study, and that the notoriety of these may have
+caused the name of the art to be popularly associated with the ancient name of Egypt. [OED]The al-
+is the Arabic definite article, the. The art and the name were adopted by the Arabs from
+Alexandrians and thence returned to Europe via Spain. Alchemy was the chemistry of the Middle Ages
+and early modern times; since c.1600 the word has been applied distinctively to the pursuit of the
+transmutation of baser metals into gold, which, along with the search for the universal solvent and
+the panacea, were the chief occupations of early chemistry.
+
+

@@ -2,11 +2,179 @@ loop (v.)
 
 to form a loop, c.1400, draw (a leash through a ring), from loop (n.). Related: Looped; looping.
 Slang looped drunk is from 1934. Loop the loop (1900) originally was in reference to roller-coasters
-at amusement parks.  <blockquote>  Loop-the-Loop is the name of a new entertainment which goes
-further in the way of tempting Providence than anything yet invented. The Loop is an immense circle
-of track in the air. A car on a mimic railway shoots down a very steep incline, and is impelled
-around the inner side of this loop. ... The authorities at Coney Island are said to have prohibited
-looping-the-loop because women break their corset strings in their efforts to catch their breath as
-they sweep down the incline, and moreover, a young man is reported to have ruptured a blood vessel
-in his liver. [Philadelphia Medical Journal, Aug. 10, 1901]  </blockquote>
+at amusement parks.    Loop-the-Loop is the name of a new entertainment which goes further in the
+way of tempting Providence than anything yet invented. The Loop is an immense circle of track in the
+air. A car on a mimic railway shoots down a very steep incline, and is impelled around the inner
+side of this loop. ... The authorities at Coney Island are said to have prohibited looping-the-loop
+because women break their corset strings in their efforts to catch their breath as they sweep down
+the incline, and moreover, a young man is reported to have ruptured a blood vessel in his liver.
+[Philadelphia Medical Journal, Aug. 10, 1901]
+
+
+loop (n.)
+
+late 14c., loop of cloth, rope, leather, etc., probably of Celtic origin (compare Gaelic lub bend,
+Irish lubiam), influenced by or blended with Old Norse hlaup a leap, run (see leap (v.)). In
+reference to magnetic recording tape or film, first recorded 1931. Computer programming sense first
+attested 1947.
+
+
+loopy (adj.)
+
+full of loops, 1856, from loop + -y (2). Slang sense crazy is attested from 1923. Earlier figurative
+sense was cunning, deceitful (by 1825).
+
+
+loophole (n.)
+
+also loop-hole, mid-15c., from Middle English loupe opening in a wall for shooting through or
+admitting light (c.1300), perhaps related to Middle Dutch lupen to watch, peer; + hole (n.).
+Figurative sense of outlet, means of escape is from 1660s.
+
+
+hoochy koochy (n.)
+
+also hoochie-coochie, hootchy kootchy, erotic suggestive women's dance (involving a lot of hip-
+grinding), 1898, of obscure origin, usually associated, without evidence, with the Chicago world's
+fair of 1893 and belly-dancer Little Egypt (who might not even have been there), but the word itself
+is attested from 1890, as the stage name of minstrel singer Hoochy-Coochy Rice, though its meaning
+there is unclear, perhaps a nonsense word.    To-day, however, in place of the danse du ventre or
+the coochie-coochie we have the loop-the-loop or the razzle-dazzle, which latter, while not exactly
+edifying at least do not serve to deprave public taste. [The Redemption of 'Old Coney,' in Broadway
+Magazine, April 1904]
+
+
+frog (n.2)
+
+fastening for clothing, 1719, originally a belt loop for carrying a weapon, of unknown origin;
+perhaps from Portuguese froco, from Latin floccus flock of wool.
+
+
+terry (n.)
+
+loop raised in pile-weaving, left uncut, 1784, of uncertain origin, possibly an alteration of French
+tir&eacute; drawn, from past participle of tirer draw out (compare German gezogener Sammet drawn
+velvet).
+
+
+sling (n.1)
+
+c.1300, implement for throwing stones, from an unidentified continental Germanic source (such as
+Middle Low German slinge a sling); see sling (v.). The notion probably is of a sling being twisted
+and twirled before it is thrown. Sense of loop for lifting or carrying heavy objects first recorded
+early 14c. Meaning piece of cloth tied around the neck to support an injured arm is first attested
+1720.
+
+
+slipknot (n.)
+
+also slip-knot, 1650s, from slip (v.) + knot (n.). One which easily can be slipped or undone by
+pulling on the loose end of the last loop.
+
+
+strop (n.)
+
+mid-14c., loop or strap on a harness, probably from Old French estrop, making it the older and more
+correct form of strap (n.), replaced by it from 16c. Specific sense of leather strap used for
+sharpening razors first recorded 1702. The verb in this sense is from 1841. Related: Stropped;
+stropping. Distribution of senses between strap and strop is arbitrary.
+
+
+sleave (v.)
+
+to separate or divide (threads, strands, fibers), Old English -sl&#230;fan, from stem of -slifan to
+separate, split, cleave, from Proto-Germanic *slifanan, perhaps related to the root of slip (v.).
+Compare German Schleife a loop, knot, noose. Related: Sleaved; sleaving. As a noun, knotted, tangled
+silk or thread, 1590s, from the verb; this is the word in Shakespeare's rauel'd Sleeue of Care
+(Macbeth).
+
+
+apse (n.)
+
+semicircular extension at the end of a church, 1846, from Latin apsis an arch, a vault, from Greek
+hapsis (Ionic apsis) loop, arch, originally a fastening, felloe of a wheel, from haptein fasten
+together, of unknown origin. The original sense in Greek seems to have been the joining of the arcs
+to form a circle, especially in making a wheel. The architectural term is earlier attested in
+English in the Latin form (1706).
+
+
+lank (adj.)
+
+Old English hlanc loose and empty, slender, flaccid, from Proto-Germanic *khlankaz, perhaps from a
+root meaning flexible (cognates: German lenken to bend, turn aside, Old Norse hlykkr bend, noose,
+loop), from PIE root *kleng- to bend, turn (see link (n.)). Some examples may be long adj. with
+unvoicing of g [Middle English Dictionary]
+
+
+leap (n.)
+
+c.1200, from Old English hliep, hlyp (West Saxon), *hlep (Mercian, Northumbrian) a leap, bound,
+spring, sudden movement; thing to leap from; common Germanic (cognates: Old Frisian hlep, Dutch
+loop, Old High German hlouf, German lauf); from the root of leap (v.). Leaps has been paired with
+bounds since at least 1720.
+
+
+strap (n.)
+
+1610s, band of leather, from Scottish and/or nautical variant of strope loop or strap on a harness
+(mid-14c.), probably from Old French estrop strap, from Latin stroppus strap, band, perhaps via
+Etruscan, ultimately from Greek strophos twisted band; a cord, rope, from strephein to turn (see
+strophe). Old English stropp, Dutch strop halter also are borrowed from Latin, and the Old English
+word might be the source of the modern one. Slang meaning credit is from 1828.
+
+
+bootstrap (n.)
+
+also boot-strap, tab or loop at the back of the top of a men's boot, which the wearer hooked a
+finger through to pull the boots on, 1870, from boot (n.) + strap (n.).    Circa 1900, to pull
+(oneself) up by (one's) bootstraps was used figuratively of an impossible task (Among the practical
+questions at the end of chapter one of Steele's Popular Physics schoolbook (1888) is, 30. Why can
+not a man lift himself by pulling up on his boot-straps?). By 1916 its meaning expanded to include
+better oneself by rigorous, unaided effort. The meaning fixed sequence of instructions to load the
+operating system of a computer (1953) is from the notion of the first-loaded program pulling itself,
+and the rest, up by the bootstrap.
+
+
+twitterpated (adj.)
+
+1942, apparently first attested in the Walt Disney movie Bambi (there also was a song by that name
+but it was not in the studio release of the film), a past participle adjective formed from twitter
+in the tremulous excitement noun sense (1670s) + pate (n.2) head (compare flutterpated, 1894).
+Thumper: Why are they acting that way?   Friend Owl: Why, don't you know? They're twitterpated.
+Flower, Bambi, Thumper: Twitterpated?   Friend Owl: Yes. Nearly everybody gets twitterpated in the
+springtime. For example: You're walking along, minding your own business. You're looking neither to
+the left, nor to the right, when all of a sudden you run smack into a pretty face. Woo-woo! You
+begin to get weak in the knees. Your head's in a whirl. And then you feel light as a feather, and
+before you know it, you're walking on air. And then you know what? You're knocked for a loop, and
+you completely lose your head!   Thumper: Gosh, that's awful.
+
+
+angle (n.)
+
+space between intersecting lines, late 14c., from Old French angle angle, corner, and directly from
+Latin angulus an angle, corner, a diminutive form from PIE root *ang-/*ank- to bend (cognates: Greek
+ankylos bent, crooked, Latin ang(u)ere to compress in a bend, fold, strangle; Old Church Slavonic
+aglu corner; Lithuanian anka loop; Sanskrit ankah hook, bent, angam limb; Old English ancleo ankle;
+Old High German ango hook). Angle bracket is 1875 in carpentry; 1956 in typography.
+
+
+I (pron.)
+
+12c. shortening of Old English ic, first person singular nominative pronoun, from Proto-Germanic
+*ekan (cognates: Old Frisian ik, Old Norse ek, Norwegian eg, Danish jeg, Old High German ih, German
+ich, Gothic ik), from PIE *eg-, nominative form of the first person singular pronoun (cognates:
+Sanskrit aham, Hittite uk, Latin ego (source of French Je), Greek ego, Russian ja, Lithuanian
+a&#353;). Reduced to i by mid-12c. in northern England, it began to be capitalized mid-13c. to mark
+it as a distinct word and avoid misreading in handwritten manuscripts.    The reason for writing
+<b>I</b> is ... the orthographic habit in the middle ages of using a 'long i' (that is, j or I)
+whenever the letter was isolated or formed the last letter of a group; the numeral 'one' was written
+j or I (and three iij, etc.), just as much as the pronoun. [Otto Jespersen, Growth and Structure of
+the English Language, p.233]    The form ich or ik, especially before vowels, lingered in northern
+England until c.1400 and survived in southern dialects until 18c. The dot on the small letter -i-
+began to appear in 11c. Latin manuscripts, to distinguish the letter from the stroke of another
+letter (such as -m- or -n-). Originally a diacritic, it was reduced to a dot with the introduction
+of Roman type fonts. The letter -y- also was written with a top dot in Old English and early Middle
+English, when it tended to be written with a closed loop at the top and thus was almost
+indistinguishable from the lower-case thorn (&#254;).
+
 

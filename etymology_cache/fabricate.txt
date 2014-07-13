@@ -4,3 +4,88 @@ mid-15c., to fashion, make, build, from Latin fabricatus, past participle of fab
 construct, fashion, build, from fabrica (see fabric). In bad sense of to tell a lie, etc., it is
 recorded by 1779. Related: Fabricated; fabricating.
 
+
+text (n.)
+
+late 14c., wording of anything written, from Old French texte, Old North French tixte text, book;
+Gospels (12c.), from Medieval Latin textus the Scriptures, text, treatise, in Late Latin written
+account, content, characters used in a document, from Latin textus style or texture of a work,
+literally thing woven, from past participle stem of texere to weave, to join, fit together, braid,
+interweave, construct, fabricate, build, from PIE root *teks- to weave, to fabricate, to make; make
+wicker or wattle framework (see texture (n.)).    An ancient metaphor: thought is a thread, and the
+raconteur is a spinner of yarns -- but the true storyteller, the poet, is a weaver. The scribes made
+this old and audible abstraction into a new and visible fact. After long practice, their work took
+on such an even, flexible texture that they called the written page a textus, which means cloth.
+[Robert Bringhurst, The Elements of Typographic Style]
+
+
+fabrication (n.)
+
+c.1500, manufacturing, construction, from Middle French fabrication and directly from Latin
+fabricationem (nominative fabricatio), noun of action from past participle stem of fabricare (see
+fabricate). Meaning lying, falsehood, forgery is from late 18c.
+
+
+smith (v.)
+
+Old English smi&#240;ian to forge, fabricate, design, from the source of smith (n.). Related:
+Smithed; smithing.
+
+
+prefabricate (v.)
+
+1919 (implied in prefabricated), from pre- + fabricate (v.). Related: Prefabricating.
+
+
+feign (v.)
+
+c.1300, from Old French feign-, present participle stem of feindre pretend, represent, imitate,
+shirk (12c.), from Latin fingere to touch, handle; devise; fabricate, alter, change (see fiction).
+Related: Feigned; feigning.
+
+
+techno-
+
+word-forming element meaning art, craft, skill, later technical, technology, from Latinized form of
+Greek tekhno-, combining form of tekhne art, skill, craft in work; method, system, an art, a system
+or method of making or doing, from PIE *teks-na- craft (of weaving or fabricating), from suffixed
+form of root *teks- to weave, fabricate, make (cognates: Sanskrit taksan carpenter, Greek tekton
+carpenter, Latin texere to weave; see texture (n.)).
+
+
+frame (v.)
+
+Old English framian to profit, be helpful, avail, benefit, from fram active, vigorous, bold,
+originally going forward, from fram forward; from (see from).    Influenced by related Old English
+fremman help forward, promote, further, do, perform, accomplish, and by Old Norse fremja to further,
+execute. Sense focused in Middle English from make ready (mid-13c.) to prepare timber for building
+(late 14c.). Meaning compose, devise is first attested 1540s.    The criminal slang sense of blame
+an innocent person (1920s) is probably from earlier sense of plot in secret (1900), perhaps
+ultimately from meaning fabricate a story with evil intent, first attested 1510s. Related: Framed;
+framing.
+
+
+trump (v.2)
+
+fabricate, devise, 1690s, from trump deceive, cheat (1510s), from Middle English trumpen (late
+14c.), from Old French tromper to deceive, of uncertain origin. Apparently from se tromper de to
+mock, from Old French tromper to blow a trumpet. Brachet explains this as to play the horn, alluding
+to quacks and mountebanks, who attracted the public by blowing a horn, and then cheated them into
+buying .... The Hindley Old French dictionary has baillier la trompe blow the trumpet as act the
+fool, and Donkin connects it rather to trombe waterspout, on the notion of turning (someone) around.
+Connection with triumph also has been proposed. Related: Trumped; trumping. Trumped up false,
+concocted first recorded 1728.
+
+
+texture (n.)
+
+early 15c., network, structure, from Middle French texture and directly from Latin textura web,
+texture, structure, from stem of texere to weave, from PIE root *teks- to weave, to fabricate, to
+make; make wicker or wattle framework (cognates: Sanskrit taksati he fashions, constructs, taksan
+carpenter; Avestan ta&#353;a ax, hatchet, thwax&#353;- be busy; Old Persian tax&#353;- be active;
+Latin tela web, net, warp of a fabric; Greek tekton carpenter, tekhne art; Old Church Slavonic tesla
+ax, hatchet; Lithuanian tasau to carve; Old Irish tal cooper's ax; Old High German dahs, German
+Dachs badger, literally builder; Hittite taksh- to join, unite, build). Meaning structural character
+is recorded from 1650s. Related: Textural.
+
+

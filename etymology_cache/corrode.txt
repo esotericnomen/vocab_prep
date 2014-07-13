@@ -3,3 +3,15 @@ corrode (v.)
 c.1400, from Old French corroder (14c.) or directly from Latin corrodere to gnaw to bits, wear away,
 from com-, intensive prefix (see com-), + rodere to gnaw (see rodent). Related: Corroded; corroding.
 
+
+corrosive (adj.)
+
+late 14c., from Old French corrosif (13c.), from corroder (see corrode).
+
+
+corrosion (n.)
+
+c.1400, from Middle French corrosion or directly from Latin corrosionem (nominative corrosio), noun
+of action from past participle stem of corrodere (see corrode).
+
+

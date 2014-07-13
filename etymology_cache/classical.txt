@@ -1,16 +1,386 @@
 classical (adj.)
 
 1590s, of the highest rank (originally in literature), from classic + -al (1). Classical music
-(1836) was defined originally against romantic music.  <blockquote>  [I]n general, as now used, the
-term classical includes the composers active in instrumental music from somewhere about 1700 to say
-1830. Hence the list includes among the great names those of Bach, his sons, Haydn, Mozart,
-Beethoven, Clementi, Dussek, Pleyel, Cramer, etc. The next step beyond the term classical is modern
-romantic, the composers of which school may be taken to include all the writers for pianoforte from
-about 1829 (when Mendelssohn published the first Songs without Words) down to the present. The term
-romantic in this sense means strongly marked, extraordinary, intending to tell stories and the like.
-[Music, Its Ideals and Methods, W.S.B. Mathews, 1897]  </blockquote>  But already by 1880s it was
-acknowledged the term had a double sense: Music that had withstood the test of time, as well as
-music of a style contrasted to romantic. Later (early 20c.) it was contrasted to jazz (in this sense
-more often with reference to the orchestras than to the music itself). Still later in contrast to
-popular music generally (mid-20c.).
+(1836) was defined originally against romantic music.    [I]n general, as now used, the term
+classical includes the composers active in instrumental music from somewhere about 1700 to say 1830.
+Hence the list includes among the great names those of Bach, his sons, Haydn, Mozart, Beethoven,
+Clementi, Dussek, Pleyel, Cramer, etc. The next step beyond the term classical is modern romantic,
+the composers of which school may be taken to include all the writers for pianoforte from about 1829
+(when Mendelssohn published the first Songs without Words) down to the present. The term romantic in
+this sense means strongly marked, extraordinary, intending to tell stories and the like. [Music, Its
+Ideals and Methods, W.S.B. Mathews, 1897]    But already by 1880s it was acknowledged the term had a
+double sense: Music that had withstood the test of time, as well as music of a style contrasted to
+romantic. Later (early 20c.) it was contrasted to jazz (in this sense more often with reference to
+the orchestras than to the music itself). Still later in contrast to popular music generally (mid-
+20c.).
+
+
+neo-classical
+
+also neoclassical, style of art, architecture, etc., influenced by classical patterns, 1859,
+especially in reference to 18th century English literature; from neo- + classical. Related: Neo-
+classicism/neoclassicism.
+
+
+modernism (n.)
+
+1737, deviation from the ancient and classical manner [Johnson, who calls it a word invented by
+Swift], from modern + -ism. From 1830 as modern ways and styles. Used in theology since 1901. As a
+movement in the arts (away from classical or traditional modes), from 1929.
+
+
+ileum (n.)
+
+lowest part of the small intestine, 1680s, medical Latin, from ileum, singular created from
+classical Latin plural ilia groin, flank, in classical Latin, belly, the abdomen below the ribs,
+poetically, entrails, guts. Sense restriction and form apparently from confusion with Greek eileos
+(see ileus). Earlier in English ylioun (late 14c.), from Medieval Latin ileon. Related: Ileitis.
+
+
+post-classical (adj.)
+
+1845, from post- + classical.
+
+
+blank verse (n.)
+
+1580s; the thing itself is attested in English poetry from mid-16c. and is classical in origin.
+
+
+attic (n.)
+
+top story under the roof of a house, 1855, shortened from attic storey (1724). The term Attic order
+in classical architecture meant a small, square decorative column of the type often used in a low
+story above a building's main facade, a feature associated with the region around Athens (see
+Attic). The word then was applied by architects to a low decorative facade above the main story of a
+building (1690s in English) to convey a classical heritage where none exists, and it came to mean
+the space enclosed by such a structure. The modern use is via French attique. An attic is upright, a
+garret is in a sloping roof [Weekley].
+
+
+discussion (n.)
+
+mid-14c., examination, investigation, judicial trial, from Old French discussion discussion,
+examination, investigation, legal trial, from Late Latin discussionem (nominative discussio)
+examination, discussion, in classical Latin, a shaking, from discussus, past participle of discutere
+strike asunder, break up, from dis- apart (see dis-) + quatere to shake (see quash). Meaning a
+talking over, debating in English first recorded mid-15c. Sense evolution in Latin appears to have
+been from smash apart to scatter, disperse, then in post-classical times (via the mental process
+involved) to investigate, examine, then to debate.
+
+
+atria (n.)
+
+classical plural of atrium.
+
+
+old hat (adj.)
+
+out of date, first recorded 1911. As a noun phrase, however, it had different sense previously. The
+Classical Dictionary of the Vulgar Tongue (1796) defines it as, a woman's privities, because
+frequently felt.
+
+
+retro-
+
+word-forming element meaning backwards; behind, from Latin retro (prep.) backward, back, behind,
+also of time, formerly, in past times, probably originally the ablative form of *reteros, based on
+re- back (see re-).    L. retro stands to re- as intro, in, within; to in, in, and as citro, hither,
+stands to cis, on this side. [Klein]  Common in combinations in post-classical Latin (the classical
+equivalent was post-). Active in English as a word-forming element from mid-20c.
+
+
+Ogygian (adj.)
+
+1843, of great antiquity or age, from Greek Ogygos, name of a mythical Attic or Boeotian king who
+even in classical times was thought to have lived very long ago. Also sometimes with reference to a
+famous flood said to have occurred in his day.
+
+
+Syracuse
+
+city in Sicily, founded as a Corinthian colony, and with a name traceable to 8c. B.C.E., from a pre-
+Hellenic word, perhaps Phoenician serah to feel ill, in reference to its location near a swamp. The
+city in New York, U.S., was named 1825 for the classical city.
+
+
+daimon (n.)
+
+transliteration of Greek daimon lesser god, guiding spirit, tutelary deity, 1852; see demon.
+Employed to avoid the post-classical associations of that word.
+
+
+oe
+
+found in Greek borrowings into Latin, representing Greek -oi-. Words with -oe- that came early into
+English from Old French or Medieval Latin usually already had been levelled to -e- (economic, penal,
+cemetery), but later borrowings directly from Latin or Greek tended to retain it at first (oestrus,
+diarrhoea, amoeba) as did proper names (Oedipus, Phoebe, Phoenix) and purely technical terms.
+British English tends to be more conservative with it than American, which has done away with it in
+all but a few instances.    It also occurred in some native Latin words (foedus treaty, league,
+foetere to stink, hence occasionally in English foetid, foederal, which was the form in the original
+publications of the Federalist papers). In these it represents an ancient -oi- in Old Latin (for
+example Old Latin oino, Classical Latin unus), which apparently passed through an -oe- form before
+being leveled out but was preserved into Classical Latin in certain words, especially those
+belonging to the realms of law (such as foedus) and religion, which, along with the vocabulary of
+sailors, are the most conservative branches of any language in any time, through a need for
+precision, immediate comprehension, demonstration of learning, or superstition. But in foetus it was
+an unetymological spelling in Latin that was picked up in English and formed the predominant
+spelling of fetus into the early 20c.
+
+
+simpliciter (adv.)
+
+not relatively; in the full sense of the word, a Latin adverb (from stem of simplex simple; see
+simplex) meaning, in classical Latin, simply, plainly, directly, straightforwardly.
+
+
+circulator (n.)
+
+one who puts (something) in circulation, 1755, agent noun in Latin form from circulate (v.).
+Classical Latin circulator meant peddler, hawker, a sense attested occasionally in English 17c. and
+after.
+
+
+arr (v.)
+
+to growl like a dog, late 15c., imitative. In classical times, the letter R was called littera
+canina the dog letter (Persius).
+
+
+bipedal (adj.)
+
+c.1600, from biped + -al (1). Classical Latin bipedalis meant two feet long or thick.
+
+
+capital (n.1)
+
+early 15c., a capital letter, from capital (adj.). The meaning capital city is first recorded 1660s
+(the Old English word was heafodstol). The financial sense is from 1610s (Middle English had chief
+money principal fund, mid-14c.), from Medieval Latin capitale stock, property, noun use of neuter of
+capitalis capital, chief, first. (The noun use of this adjective in classical Latin was for a
+capital crime.)    [The term capital] made its first appearance in medieval Latin as an adjective
+capitalis (from caput, head) modifying the word pars, to designate the principal sum of a money
+loan. The principal part of a loan was contrasted with the usury--later called interest--the payment
+made to the lender in addition to the return of the sum lent. This usage, unknown to classical
+Latin, had become common by the thirteenth century and possibly had begun as early as 1100 A.D., in
+the first chartered towns of Europe. [Frank A. Fetter, Reformulation of the Concepts of Capital and
+Income in Economics and Accounting, 1937, in Capital, Interest, &amp; Rent, 1977]    Also see
+cattle, and compare sense development of fee, pecuniary.
+
+
+classicism (n.)
+
+classical style in art or literature, 1830, from classic + -ism. Related: Classicist.
+
+
+atomistic (adj.)
+
+1809, in reference to the classical philosophical doctrine of atomism (1670s); modern philosophical
+sense (logical atomism) traces to 1914 and Bertrand Russell.
+
+
+humanistic
+
+1845 (humanistical is from 1716), in reference to Renaissance or classical humanism; from humanist +
+-ic. From 1904 in reference to a modern philosophy that concerns itself with the interests of the
+human race.
+
+
+ventriloquist (n.)
+
+1650s in the classical sense, from ventriloquy + -ist. In the modern sense from c.1800.
+Ventriloquists in ancient Greece were Pythones, a reference to the Delphic Oracle.
+
+
+amoebae
+
+classical plural of amoeba; see -ae.
+
+
+bone (v.)
+
+especially in bone up study, 1880s student slang, probably from Bohn's Classical Library, a popular
+series in higher education published by German-born English publisher Henry George Bohn (1796-1884)
+as part of a broad series of libraries he issued from 1846, totaling 766 volumes, continued after
+1864 by G. Bell &amp; Sons.
+
+
+hair-raising (adj.)
+
+exciting, 1837, from hair + raise (v.). In 19c. works, sometimes as jocular mock-classical
+tricopherous.
+
+
+necessary (n.)
+
+mid-14c., needed, required, or useful things; the necessities of life; actions determined by right
+or law, perhaps from Old French necessaire (n.) private parts, genitalia; lavatory, and directly
+from Latin necessarius (n.), in classical Latin a relation, relative, kinsman; friend, client,
+patron; see necessary (adj.).
+
+
+Colosseum (n.)
+
+1560s, Medieval Latin name for the classical Amphitheatrum Flavium (begun c.70 C.E.), noun use of
+neuter of adjective colosseus gigantic; perhaps a reference to the colossal statue of Nero that long
+stood nearby (see colossus).
+
+
+conch (n.)
+
+type of shell, early 15c., from Latin concha shellfish, mollusk, from Greek konkhe mussel, shell,
+from PIE root *konkho-. The name for natives of Florida Keys since at least 1833; the prefered
+pronunciation there (kongk) preserves the classical one.
+
+
+comedy (n.)
+
+late 14c., from Old French comedie (14c., a poem, not in the theatrical sense), from Latin comoedia,
+from Greek komoidia a comedy, amusing spectacle, probably from komodios actor or singer in the
+revels, from komos revel, carousal, merry-making, festival, + aoidos singer, poet, from aeidein to
+sing, related to oide (see ode).    The passage on the nature of comedy in the Poetic of Aristotle
+is unfortunately lost, but if we can trust stray hints on the subject, his definition of comedy
+(which applied mainly to Menander) ran parallel to that of tragedy, and described the art as a
+purification of certain affections of our nature, not by terror and pity, but by laughter and
+ridicule. [Rev. J.P. Mahaffy, A History of Classical Greek Literature, London, 1895]    The
+classical sense of the word, then, was amusing play or performance, which is similar to the modern
+one, but in the Middle Ages the word came to mean poems and stories generally (albeit ones with
+happy endings), and the earliest English sense is narrative poem (such as Dante's Commedia).
+Generalized sense of quality of being amusing dates from 1877.   Comedy aims at entertaining by the
+fidelity with which it presents life as we know it, farce at raising laughter by the outrageous
+absurdity of the situation or characters exhibited, &amp; burlesque at tickling the fancy of the
+audience by caricaturing plays or actors with whose style it is familiar. [Fowler]
+
+
+quadruplex (adj.)
+
+1875, in reference to telegraph systems in which four messages can be wired simultaneously, from
+quadru- + plex. In classical Latin, quadruplex meant fourfold, quadruple, as a noun, a fourfold
+amount.
+
+
+automation (n.)
+
+1948, in the manufacturing sense, coined by Ford Motor Co. Vice President Delmar S. Harder, from
+automatic + -ion. Earlier (1838) was automatism, which meant quality of being automatic in the
+classical sense.
+
+
+Corinthian
+
+1650s as an architectural order, from Corinth, the ancient Greek city-state. In classical times
+Corinth was notorious for its luxury and licentiousness among the Greek states (and for not scorning
+trade and profit); hence Corinthian, noun and adjective, in various slang or colloquial sense in
+English, especially a swell, a man about town (early to mid-19c. but especially in the 1820s).
+
+
+product (n.)
+
+early 15c., mathematical quantity obtained by multiplication, from Medieval Latin productum, in
+classical Latin something produced, noun use of neuter past participle of producere bring forth (see
+produce (v.)). General sense of anything produced is attested in English from 1570s.
+
+
+lycanthrope (n.)
+
+1620s in the classical sense; 1825 in the modern sense, from Modern Latin lycanthropus, from Greek
+lykanthropos wolf-man (see lycanthropy).
+
+
+intercession (n.)
+
+early 15c., act of interceding, from Latin intercessionem (nominative intercessio) a going between,
+noun of action from past participle stem of intercedere (see intercede). The modern sense was not in
+classical Latin.
+
+
+modernist (n.)
+
+1580s, a modern person, from modern + -ist. Later, a supporter of the modern (as opposed to the
+classical), c.1700. As a follower of a movement in the arts (modernism), attested from 1927.
+
+
+ephemeris (n.)
+
+table showing predicted positions of heavenly bodies, 1550s, Modern Latin, from Greek ephemeris
+diary, calendar, from ephemeros daily (see ephemera). The classical plural is ephemerides.
+
+
+curriculum (n.)
+
+1824, from Modern Latin transferred use of classical Latin curriculum a running, course, career
+(also a fast chariot, racing car), from currere (see current (adj.)). Used in English as a Latin
+word since 1630s at Scottish universities.
+
+
+Callisto
+
+fourth moon of Jupiter; in classical mythology a nymph, mother of Arcas by Zeus, turned to a bear by
+Hera, from Greek kallistos, superlative of kalos beautiful, from PIE *kal- (2) beautiful. Feminized
+as proper name Callista.
+
+
+iambic
+
+1570s (n.); 1580s (adj.), from Latin iambicus, from Greek iambikos, from iambos metrical foot of one
+unaccented followed by one accented syllable, from iaptein to assail (in words), literally to put
+forth. The meter of invective and lampoon in classical Greek from the time it was used for such by
+Archilochos, 7c. B.C.E.
+
+
+romanticism (n.)
+
+1803, a romantic idea, from romantic + -ism. In literature, 1823 in reference to a movement toward
+medieval forms (especially in reaction to classical ones) it has an association now more confined to
+Romanesque. The movement began in German and spread to England and France. Generalized sense of a
+tendency toward romantic ideas is first recorded 1840.
+
+
+longhair (n.)
+
+also long-hair, cat with long hair, 1893, from long (adj.) + hair. As intellectual, especially in
+musical tastes, devotee of classical music, 1920. Sense of hippie attested from 1969.
+
+
+mime (n.)
+
+c.1600, a buffoon who practices gesticulations [Johnson], from French mime (16c.) and directly from
+Latin mimus, from Greek mimos imitator, mimic, actor, mime, buffoon, of unknown origin. In reference
+to a performance, 1640s in a classical context; 1932 as a pantomime.
+
+
+stator (n.)
+
+stationary part of a generator (opposed to rotor), 1895, from Latin stator, agent noun from stare to
+stand (see stay (v.)). In classical Latin it meant an orderly, attendant upon a proconsul.
+
+
+elocution (n.)
+
+mid-15c., from Late Latin elocutionem (nominative elocutio) voice production, manner of expression,
+in classical Latin, oratorical expression, noun of action from past participle stem of eloqui speak
+out (see eloquence).
+
+
+-ite (1)
+
+from French -ite and directly from Latin -ita, from Greek -ites (fem. -itis), forming adjectives and
+nouns meaning connected with or belonging to. Especially used in classical times to form ethnic and
+local designations (for example in Septuagint translations of Hebrew names in -i) and for names of
+gems and minerals.
+
+
+instructor (n.)
+
+mid-15c., from Old French instructeur and directly from Medieval Latin instructor teacher (in
+classical Latin, preparer), agent noun from instruere (see instruct).
+
+
+educator (n.)
+
+1560s, one who nourishes or rears; 1670s, one who trains or instructs, from Latin educator (in
+classical Latin, a foster father as well as a tutor), agent noun from past participle stem of
+educare (see educate). Latin educatrix meant a nurse.
+
 

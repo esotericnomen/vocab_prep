@@ -5,3 +5,19 @@ mendax (genitive mendacis) lying, deceitful, from menda fault, defect, carelessn
 PIE root *mend- physical defect, fault (see amend (v.)). The sense evolution of Latin mendax was
 influenced by mentiri to speak falsely, lie, deceive. Related: Mendaciously; mendaciousness.
 
+
+mendacity (n.)
+
+tendency to lie, 1640s, from Middle French mendacit&eacute; and directly from Late Latin mendacitas
+falsehood, mendacity, from Latin mendax lying; a liar (see mendacious).
+
+
+mendicant (adj.)
+
+late 14c., from Latin mendicantem (nominative mendicans) present participle of mendicare to beg, ask
+alms, from mendicus beggar, originally cripple (connection via cripples who must beg), from menda
+fault, physical defect (see mendacious). As an adjective from 1540s. Also in Middle English was
+mendinant (mid-14c.), from Old French mendinant, present participle of mendiner to beg, from the
+same Latin source.
+
+

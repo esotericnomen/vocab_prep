@@ -6,3 +6,17 @@ analemma). It should be used only of situations where someone is forced to choos
 alternatives, both unfavorable to him. But even logicians disagree on whether certain situations are
 dilemmas or mere syllogisms.
 
+
+trilemma (n.)
+
+1670s, from dilemma + tri-.
+
+
+prisoner (n.)
+
+person in prison, captive person, late 14c. (earlier a jailer, mid-13c., but this did not survive
+Middle English), from Old French prisonier captive, hostage (12c., Modern French prisonnier), from
+prisoun (see prison (n.)). Captives taken in war have been called prisoners since mid-14c.; phrase
+prisoner of war dates from 1670s (see also POW). Prisoner's dilemma attested from 1957.
+
+

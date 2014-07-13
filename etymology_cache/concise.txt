@@ -1,7 +1,105 @@
 conciseness (n.)
 
-expression of much in few words, 1650s, from concise + -ness.  <blockquote>  [Conciseness] is the
-English word familiar to the ordinary man: concision is the LITERARY CRITIC'S WORD, more recent in
-English, used by writers under French influence &amp; often requiring the reader to stop &amp; think
-whether he knows its meaning. [Fowler]  </blockquote>
+expression of much in few words, 1650s, from concise + -ness.    [Conciseness] is the English word
+familiar to the ordinary man: concision is the LITERARY CRITIC'S WORD, more recent in English, used
+by writers under French influence &amp; often requiring the reader to stop &amp; think whether he
+knows its meaning. [Fowler]
+
+
+concise (adj.)
+
+1580s, from Latin concisus cut off, brief, past participle of concidere to cut off, cut up, cut
+through, cut to pieces, from com-, intensive prefix (see com-), + caedere to cut (see -cide).
+Related: Concisely.
+
+
+terse (adj.)
+
+1590s (implied in tersely), clean-cut, burnished, neat, from French ters clean, and directly from
+Latin tersus wiped off, clean, neat, from past participle of tergere to rub, polish, wipe. Sense of
+concise or pithy in style or language is from 1777, which led to a general sense of neatly concise.
+The pejorative meaning brusque is a fairly recent development. Related: Terseness.
+
+
+concision (n.)
+
+late 14c., cutting away, mutilation, also, from 16c., circumcision, from Latin concisionem a
+separation into divisions, literally a cutting up, noun of action from past participle stem of
+concidere to cut up (see concise). From 18c. it began to be used in the sense of conciseness (q.v.).
+
+
+compendious (adj.)
+
+concise, late 14c., from Old French compendieux, from Latin compendiosus advantageous, abridged,
+brief, from compendium (see compendium).
+
+
+manual (n.)
+
+early 15c., service book used by a priest, from Old French manuel handbook (also plow-handle), from
+Late Latin manuale case or cover of a book, handbook, noun use of neuter of Latin manualis (see
+manual (adj.)). Meaning a concise handbook of any sort is from 1530s.
+
+
+laconic (adj.)
+
+concise, abrupt, 1580s, probably via Latin Laconicus, from Greek Lakonikos, from Lakon person from
+Lakonia, the district around Sparta in southern Greece in ancient times, whose inhabitants were
+famously proud of their brevity of speech. When Philip of Macedon threatened them with, If I enter
+Laconia, I will raze Sparta to the ground, the Spartans' reply was, If. An earlier form was
+laconical (1570s). Related: Laconically.
+
+
+succinct (adj.)
+
+early 15c., having one's belt fastened tightly, from Middle French succincte, from Latin succinctus
+prepared, ready; contracted, short, past participle of succingere tuck up (clothes for action), gird
+from below, from assimilated form of sub up from under (see sub-) + cingere to gird (see cinch
+(n.)). Sense of brief, concise first recorded 1530s. Related: Succinctness.
+
+
+P
+
+a rare letter in the initial position in Germanic, in part because by Grimm's Law PIE p- became
+Germanic f-; even with the early Latin borrowings in Old English, -p- takes up a little over 4 pages
+in J.R. Clark Hall's Concise Anglo-Saxon Dictionary, compared to 31 pages for B and more than 36 for
+F. But it now is the third-most-common initial letter in the English vocabulary, and with C and S
+comprises nearly a third of the dictionary, a testimony to the flood of words that have entered the
+language since 1066 from Latin, Greek, and French.    To mind one's Ps and Qs (1779), possibly is
+from confusion of these letters among children learning to write. Another theory traces it to old-
+time tavern-keepers tracking their patrons' bar tabs in pints and quarts. But see also to be P and Q
+(1610s), to be excellent, a slang phrase said to derive from prime quality.
+
+
+waltz (n.)
+
+round dance performed to music in triple time, extraordinarily popular as a fashionable dance from
+late 18c. to late 19c., the dance itself probably of Bohemian origin, 1781, from German Waltzer,
+from walzen to roll, dance, from Old High German walzan to turn, roll, from Proto-Germanic *walt-
+(cognate with Old Norse velta), from PIE root *wel- (3) to turn, revolve (see volvox). Described in
+1825 as a riotous and indecent German dance [Walter Hamilton, A Hand-Book or Concise Dictionary of
+Terms Used in the Arts and Sciences].    The music struck up a beautiful air, and the dancers
+advanced a few steps, when suddenly, to my no small horror and amazement, the gentlemen seized the
+ladies round the waist, and all, as if intoxicated by this novel juxtaposition, began to whirl about
+the room, like a company of Bacchanalians dancing round a statue of the jolly god. A waltz!
+exclaimed I, inexpressibly shocked, have I lived to see Scotch women waltz? [The Edinburgh Magazine,
+April, 1820]
+
+
+swamp (n.)
+
+c.1500 (implied in swampwatyr swamp-water), of uncertain origin, perhaps [Barnhart] a dialectal
+survival from an Old English cognate of Old Norse sv&ouml;ppr sponge, fungus, from Proto-Germanic
+*swampuz; but traditionally connected with Middle English sompe morass, swamp, which probably is
+from Middle Dutch somp or Middle Low German sump swamp (see sump). All of these likely are
+ultimately related to each other, from PIE *swombho- spongy; mushroom, via the notion of spongy
+ground.    [B]y swamps then in general is to be understood any low grounds subject to inundations,
+distinguished from marshes, in having a large growth of timber, and much underwood, canes, reeds,
+wythes, vines, briers, and such like, so matted together, that they are in a great measure
+impenetrable to man or beast .... [Bernard Romans, A Concise History of East and West Florida, 1775]
+More popular in U.S. (swamp (n.) by itself is first attested 1624 in Capt. John Smith's description
+of Virginia). Swamp-oak is from 1680s, American English. Swamp Yankee rural, rustic New Englander is
+attested from 1941. Thornton's American Glossary (1912) has swamp-angel dweller in a swamp, swamp-
+law might makes right.
+
 

@@ -9,3 +9,188 @@ responsibility (early 14c.) to document conveying authority (1510s). A warrant o
 military is one who holds office by warrant (as from a government department), rather than by
 commission (from a head of state).
 
+
+warrant (v.)
+
+late 13c., to keep safe from danger, from Old North French warantir safeguard, protect; guarantee,
+pledge (Old French garantir), from warant (see warrant (n.)). Meaning to guarantee to be of quality
+is attested from late 14c.; sense of to guarantee as true is recorded from c.1300. Related:
+Warranted; warranting; warrantable.
+
+
+warrantee (n.)
+
+person to whom a warranty is given, 1706, from warrant (v.) + -ee.
+
+
+warranty (n.)
+
+mid-14c., legal term for various types of clauses in real estate transactions, from Anglo-French and
+Old North French warantie protection, defense, safeguard (Old French garantie), from warant (see
+warrant (n.)).
+
+
+guarantee (n.)
+
+1670s, alterted (perhaps via Spanish garante), from earlier garrant warrant that the title to a
+property is true, early 15c., from Old French garant defender, protector, from Germanic (see warrant
+(n.)). For form evolution, see gu-. Originally person giving something as security; sense of the
+pledge itself (which is properly a guaranty) developed 17c.
+
+
+voucher (n.)
+
+1520s, originally summoning of a person into court to warrant the title to a property, a calling to
+vouch; see vouch. Meaning receipt from a business transaction is first attested 1690s; sense of
+document which can be exchanged for goods or services is attested from 1947.
+
+
+quo warranto
+
+Medieval Latin, literally by what warrant, from quo from, with, or by whom or what?, ablative of
+interrogative pronoun quis who? (see who).
+
+
+unwarranted (adj.)
+
+1570s, from un- (1) not + past participle of warrant (v.).
+
+
+attachment (n.)
+
+c.1400, arrest of a person on judicial warrant (mid-13c. in Anglo-Latin), from French attachement,
+from attacher (see attach). Application to property (including, later, wages) dates from 1590s;
+meaning sympathy, devotion is recorded from 1704; that of something that is attached to something
+else dates from 1797 and has become perhaps the most common use since the rise of e-mail.
+
+
+scurrilous (adj.)
+
+using such language as only the licence of a buffoon can warrant [Johnson], 1570s, from scurrile
+coarsely joking (c.1500, implied in scurrility), from Latin scurrilis buffoonlike, from scurra
+fashionable city idler, man-about-town, later buffoon. According to Klein, an Etruscan loan-word.
+Related: Scurrilously; scurrilousness.
+
+
+search (n.)
+
+c.1400, act of searching; early 15c., right to investigate illegal activity; examination of records,
+wills, etc.; a search through an area or a place, from Anglo-French serche, Old French cerche, from
+cerchier (see search (v.)). Search warrant attested from 1739.
+
+
+beadle (n.)
+
+Old English bydel herald, messenger from an authority, preacher, from beodan to proclaim (see bid).
+Sense of warrant officer, tipstaff was in late Old English; that of petty parish officer, which has
+given the job a bad reputation, is from 1590s. French b&eacute;deau (Old French bedel, 12c.) is a
+Germanic loan-word.
+
+
+pylorus (n.)
+
+1610s, from Late Latin pylorus the lower orifice of the stomach, from Greek pyloros, literally
+gatekeeper, porter, from pyle gate (see pylon) + ouros watcher, guardian (see warrant (n.)).
+Related: Pyloric.
+
+
+seal (v.)
+
+to fasten with (or as with) a seal, c.1200, from seal (n.1). Meaning to place a seal on (a document)
+is recorded from mid-14c.; hence to conclude, ratify, render official (late 15c.). Sense of to close
+up with wax, lead, cement, etc. is attested from 1660s, from the notion of wax seals on envelopes.
+In reference to the actions of wood-coatings, 1940. Related: Sealed; sealing. Sealing-wax is
+attested from c.1300. To seal (one's) fate (1799) probably reflects the notion of a seal on an
+execution warrant.
+
+
+replevin (n.)
+
+recovery of goods (by someone) taken from him, upon posting of security, mid-15c., from Anglo-French
+replevin (14c.) and Anglo-Latin (13c.) replevina, from Old French replevir (v.) to pledge, protect,
+warrant, from re- back, again (see re-) + plevir, of uncertain origin; perhaps related to pledge
+(v.). The corresponding verb is replevy (1550s).
+
+
+beg (v.)
+
+c.1200, perhaps from Old English bedecian to beg, from Proto-Germanic *beth-; or possibly from
+Anglo-French begger, from Old French begart (see beggar). The Old English word for beg was
+w&aelig;dlian, from w&aelig;dl poverty. Of trained dogs, 1816.    As a courteous mode of asking (beg
+pardon, etc.), first attested c.1600. To beg the question translates Latin petitio principii, and
+means to assume something that hasn't been proven as a basis of one's argument, thus asking one's
+opponent to give something unearned, though more of the nature of taking it for granted without
+warrant.
+
+
+garret (n.)
+
+c.1300, turret, small tower on the roof of a house or castle, from Old French garite watchtower,
+place of refuge, from garir defend, preserve, from a Germanic source (compare Gothic warjan forbid,
+Old High German warjan to defend), from Proto-Germanic *warjan, from PIE root *wer- (5) to cover
+(see warrant (n.)). Meaning room on uppermost floor of a house is from early 14c. See attic. As the
+typical wretched abode of a poor poet, by mid-18c.
+
+
+warren (n.)
+
+late 14c., piece of land enclosed for breeding beasts and fowls, from Anglo-French and Old North
+French warenne (Old French garenne) game park, hunting reserve, possibly from Gaulish *varenna
+enclosed area, related to *varros post. More likely from the present participle of Old North French
+warir (Old French garir) defend, keep, from Proto-Germanic *war- to protect, guard (see warrant
+(n.)). Later especially piece of land for breeding of rabbits (c.1400), which led to the transferred
+sense of cluster of densely populated living spaces (1640s).
+
+
+John Doe (n.)
+
+fictitious plaintiff in a legal action, attested from 1768 (in Blackstone). The fictitious defendant
+was Richard Roe. If female, Jane Doe, Jane Roe. Replaced earlier John-a-nokes (1530s) or Jack Nokes,
+who usually was paired with John-a-stiles or Tom Stiles. Also used of plaintiffs or defendants who
+have reason to be anonymous. By 1852, John Doe was being used in North America for any man whose
+name is not known, but Britain tended to preserve it in the narrower legal sense name of the
+fictitious plaintiff in actions of ejectment. John Doe warrant attested from 1935.
+
+
+cure (v.)
+
+late 14c., from Old French curer, from Latin curare take care of, hence, in medical language, treat
+medically, cure (see cure (n.)). In reference to fish, pork, etc., first recorded 1743. Related:
+Cured; curing.    Most words for cure, heal in European languages originally applied to the person
+being treated but now can be used with reference to the disease, too. Relatively few show an ancient
+connection to words for physician; typically they are connected instead to words for make whole or
+tend to or even conjurer. French gu&eacute;rir (with Italian guarir, Old Spanish guarir) is from a
+Germanic verb stem also found in in Gothic warjan, Old English wearian ward off, prevent, defend
+(see warrant (n.)).
+
+
+garage (n.)
+
+1902, from French garage shelter for a vehicle, originally a place for storing something, from verb
+garer to shelter, from Middle French garer to shelter, dock ships, from Frankish *waron to guard or
+some other Germanic source (compare Old High German waron take care), from Proto-Germanic *war-,
+from PIE root *wer- (5) to cover (see warrant (n.)).    Influenced no doubt by the success of the
+recent Club run, and by the fact that more than 100 of its members are automobile owners, the
+N.Y.A.C. has decided to build a garage, the French term for an automobile stable, at Travers Island,
+that will be of novel design, entirely different from any station in the country. [New York Athletic
+Club Journal, May 1902]   Garage sale first attested 1966.
+
+
+serve (v.)
+
+late 12c., to render habitual obedience to, also minister, give aid, give help, from Old French
+servir to do duty toward, show devotion to; set table, serve at table; offer, provide with, from
+Latin servire be a servant, be in service, be enslaved; figuratively be devoted; be governed by;
+comply with; conform; flatter, originally be a slave, related to servus slave, perhaps from Etruscan
+(compare Etruscan proper names Servi, Serve, Latinized as Servius).    By c.1200 also as to be in
+the service of, perform a service for; attend upon, be personal servant to; be a slave; owe
+allegiance to; officiate at Mass or other religious rites; from early 13c. as set food at table;
+mid-14c. as to wait on (customers). From late 14c. as treat (someone or something) in some fashion.
+To serve (someone) right to treat as he deserves is recorded from 1580s.    He no schuld neuer wond
+To seruen him fro fot to hond  [Amis and Amiloun, c.1330]    Sense of be useful, be beneficial, be
+suitable for a purpose or function is from early 14c.; that of take the place or meet the needs of,
+be equal to the task is from late 14c.; that of suffice is from mid-15c. Meaning render active
+military service is from 1510s. Sporting sense, in tennis, badminton, etc., first recorded 1580s.
+Legal sense present (a writ, warrant,etc.), give legal notice of is from early 15c.
+
+

@@ -1,8 +1,25 @@
-appall (v.) 
-	
-also appal, early 14c., "to fade;" c.1400, "to grow pale," from Old French apalir "become or make pale," from a- "to" (see ad-) + palir "grow pale," from Latin pallere (see pallor). Meaning "cause dismay or shock," is 1530s. Related: Appalled; appalling.
-
 appalled (adj.)
 
 1570s, enfeebled; c.1600, dismayed; past participle adjective from appall.
+
+
+appalling (adj.)
+
+1620s, present participle adjective from appall. Colloquial weakened sense of distasteful is
+attested from 1919.
+
+
+appall (v.)
+
+also appal, early 14c., to fade; c.1400, to grow pale, from Old French apalir become or make pale,
+from a- to (see ad-) + palir grow pale, from Latin pallere (see pallor). Meaning cause dismay or
+shock, is 1530s. Related: Appalled; appalling.
+
+
+pall (v.)
+
+become tiresome, 1700, from Middle English pallen to become faint, fail in strength (late 14c.),
+shortened form of appallen to dismay, fill with horror or disgust (see appall). Related: Palled;
+palling.
+
 

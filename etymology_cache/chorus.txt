@@ -6,10 +6,268 @@ tragedy, from Greek khoros band of dancers or singers, dance, dancing ground, pe
 Extension from dance to voice is because Attic drama arose from tales inserted in the intervals of
 the dance. In Attic tragedy, the khoros (of 12 or 15 (tragic) or 24 (comedic) persons) gave
 expression, between the acts, to the moral and religious sentiments evoked by the actions of the
-play.  <blockquote>  When a Poet wished to bring out a piece, he asked a Chorus from the Archon, and
-the expenses, being great, were defrayed by some rich citizen (the khoregos): it was furnished by
-the Tribe and trained originally by the Poet himself [Liddell &amp; Scott]</blockquote>  Originally
-in English used in theatrical sense; meaning of a choir first attested 1650s. Meaning the refrain of
-a song (which the audience joins in singing) is 1590s. As a verb, 1703, from the noun. Chorus girl
-is 1894.
+play.    When a Poet wished to bring out a piece, he asked a Chorus from the Archon, and the
+expenses, being great, were defrayed by some rich citizen (the khoregos): it was furnished by the
+Tribe and trained originally by the Poet himself [Liddell &amp; Scott]  Originally in English used
+in theatrical sense; meaning of a choir first attested 1650s. Meaning the refrain of a song (which
+the audience joins in singing) is 1590s. As a verb, 1703, from the noun. Chorus girl is 1894.
+
+
+choral (adj.)
+
+1580s, from Middle French choral or directly from Medieval Latin choralis belonging to a chorus or
+choir, from Latin chorus (see chorus).
+
+
+chorine (n.)
+
+chorus girl, 1924, from chorus + fem. ending -ine.
+
+
+choir (n.)
+
+c.1300, queor part of the church where the choir sings, from Old French cuer, quer choir of a church
+(architectural); chorus of singers (13c., Modern French choeur), from Latin chorus choir (see
+chorus). Meaning band of singers is c.1400, quyre. Re-spelled mid-17c. on Latin model.
+
+
+verse (n.)
+
+late Old English (replacing Old English fers, an early West Germanic borrowing directly from Latin),
+line or section of a psalm or canticle, later line of poetry (late 14c.), from Anglo-French and Old
+French vers line of verse; rhyme, song, from Latin versus a line, row, line of verse, line of
+writing, from PIE root *wer- (3) to turn, bend (see versus). The metaphor is of plowing, of turning
+from one line to another (vertere = to turn) as a plowman does.    Verse was invented as an aid to
+memory. Later it was preserved to increase pleasure by the spectacle of difficulty overcome. That it
+should still survive in dramatic art is a vestige of barbarism. [Stendhal de l'Amour, 1822]    The
+English New Testament first was divided fully into verses in the Geneva version (1550s). Meaning
+metrical composition is recorded from c.1300; as the non-repeating part of a modern song (between
+repetitions of the chorus) by 1918.    The Negroes say that in form their old songs usually consist
+in what they call Chorus and Verses. The chorus, a melodic refrain sung by all, opens the song; then
+follows a verse sung as a solo, in free recitative; the chorus is repeated; then another verse;
+chorus again;--and so on until the chorus, sung for the last time, ends the song. [Natalie Curtis-
+Burlin, Negro Folk-Songs, 1918]
+
+
+terpsichorean (adj.)
+
+pertaining to dancing, 1869, literally of Terpsichore, from Latinized form of Greek Terpsikhore,
+muse of dancing and dramatic chorus (see Terpsichore). Hence theatrical slang terp stage dancer,
+chorus girl (1937).
+
+
+Terpsichore (n.)
+
+the muse of the dance, Greek Terpsikhore, literally enjoyment of dance, from terpein to delight
+(from PIE root *terp- to satisfy; cognates: Sanskrit trpyati takes one's fill, Lithuanian tarpstu to
+thrive, prosper) + khoros dance, chorus (see chorus).
+
+
+chorister (n.)
+
+member of a choir, mid-14c., queristre, from Anglo-French cueriste, French choriste, from Church
+Latin chorista, from Latin chorus (see chorus) + -ster. Modern form is from late 16c.
+
+
+carol (n.)
+
+c.1300, joyful song, also dance in a ring, from Old French carole kind of dance in a ring, round
+dance accompanied by singers, perhaps from Medieval Latin choraula a dance to the flute, from Latin
+choraules flute-player, from Greek khoraules flute player who accompanies the choral dance, from
+khoros chorus (see chorus) + aulein to play the flute, from aulos reed instrument (see alveolus).
+The meaning Christmas hymn of joy is attested from c.1500.
+
+
+orchestra (n.)
+
+c.1600, area in an ancient theater for the chorus, from Latin orchestra, from Greek orkhestra,
+semicircular space where the chorus of dancers performed, with suffix -tra denoting place +
+orkheisthai to dance, intensive of erkhesthai to go, come, from PIE root *ergh- to mount (cognates:
+Sanskrit rghayati trembles, rages, raves, rnoti rises, moves, arnah welling stream; Old Persian
+rasatiy he comes; Greek ornynai to rouse, start; Latin oriri to rise, origo a beginning; Gothic
+rinnan, Old English irnan to flow, run). In ancient Rome, it referred to the place in the theater
+reserved for senators and other dignitaries. Meaning group of musicians performing at a concert,
+opera, etc. first recorded 1720; part of theater in front of the stage is from 1768.
+
+
+hi-de-hi
+
+call-and-response exclamation in singing, by 1933, associated with U.S. bandleader Cabell Cab
+Calloway (1907-1994) and especially his signature song Minnie the Moocher, which dates from 1931.
+Calloway recalled in his autobiography that the song came first and the chorus was later improvised
+when he forgot the lyrics during a radio broadcast. [Harlem Renaissance Lives, Oxford, 2009]
+
+
+choreology (n.)
+
+the study of dancing, 1964, from Latinized form of Greek khoreia dance (see chorus) + connective -o-
++ -logy.
+
+
+choreographer (n.)
+
+1829, from choreography + -er (1). Choreographist (1857) did not thrive. In Greek, a person who
+trained a chorus was a khorodidaskelikos.
+
+
+choric (adj.)
+
+1749, from Latin choricus, from Greek khorikos, from khoros (see chorus).
+
+
+choreography (n.)
+
+1789, from French chor&eacute;graphie, coined from Latinized form of Greek khoreia dance (see
+chorus) + graphein to write (see -graphy). Related: Choreographic.
+
+
+chorea (n.)
+
+1806, from Modern Latin chorea Sancti Viti St. Vitus dance (originally a mass hysteria in 15c.
+Europe characterized by uncontrolled dancing); from Latin chorea a dance, from Greek khoreia dance
+(see chorus). Extension to the nerve disorder is from 1620s.
+
+
+bay (n.3)
+
+howl of a dog, early 14c., earlier howling chorus raised (by hounds) when in contact with the hunted
+animal, c.1300, from Old French bayer, from PIE root *bai- echoic of howling (compare Greek bauzein,
+Latin baubari to bark, English bow-wow; also see bawl). From the hunting usage comes the transferred
+sense of final encounter, and thence, on the notion of putting up an effective defense, at bay.
+
+
+strophe (n.)
+
+c.1600, from Greek strophe stanza, originally a turning, in reference to the section of an ode sung
+by the chorus while turning in one direction, from strephein to turn, from PIE *streb(h)- to wind,
+turn (cognates: Greek strophaligs whirl, whirlwind, streblos twisted, stremma that which is
+twisted).
+
+
+burden (n.2)
+
+leading idea, 1640s, a figurative use from earlier sense refrain or chorus of a song, 1590s,
+originally bass accompaniment to music (late 14c.), from Old French bordon bumble-bee, drone, or
+directly from Medieval Latin burdonom drone, drone bass (source of French bourdon, Spanish bordon,
+Portuguese bord&atilde;o, Italian bordone), of echoic origin.
+
+
+anvil (n.)
+
+Old English anfilt, a Proto-Germanic compound (cognates: Middle Dutch anvilt, Old High German
+anafalz, Dutch aanbeeld, Danish ambolt anvil) from *ana- on + *filtan hit (see felt (n.)). The ear
+bone so called from 1680s. Anvil Chorus is based on the Gypsy Song that opens Act II of Giuseppe
+Verdi's opera Il Trovatore, first performed in Teatro Apollo, Rome, Jan. 19, 1853.
+
+
+hokey-pokey
+
+1847, false cheap material, perhaps an alteration of hocus-pocus, or from the nonsense chorus and
+title of a comic song (Hokey Pokey Whankey Fong) that was popular c.1830. Applied especially to
+cheap ice cream sold by street vendors (1884), in Philadelphia, and perhaps other places, it meant
+shaved ice with artificial flavoring. The words also were the title of a Weber-Fields musical revue
+from 1912. The modern dance song of that name hit the U.S. in 1950 (Life described it Nov. 27, 1950,
+as a tuneless stomp that is now sweeping the U.C.L.A. campus), but it is said to have originated in
+Britain in World War II, perhaps from a Canadian source.
+
+
+husky (n.)
+
+Eskimo dog, 1852, Canadian English, earlier (1830) hoskey an Eskimo, probably shortened variant of
+Ehuskemay (1743), itself a variant of Eskimo.    The moment any vessel is noticed steering for these
+islands [Whalefish Islands], the Esquimaux, or Huskies,* as the Danes customarily term them, come
+off in sufficient numbers to satisfy you that you are near the haunts of uncivilized men, and will
+afford sufficient information to guide any stranger to his anchorage. *Husky is their own term. I
+recollect the chorus to a song at Kamtchatka was Husky, Husky. [Last of the Arctic Voyages, London,
+1855]
+
+
+rinky-dink (adj.)
+
+1913 (from 1912 as a noun), said to be carnival slang and imitative of the sound of banjo music at
+parades [Barnhart]; compare ricky-tick old-fashioned jazz (1938). But early records suggest
+otherwise unless there are two words. The earliest senses seem to be as a noun, maltreatment,
+especially robbery:    So I felt and saw that I was robbed and I went to look after an officer. I
+found an officer on the corner of Twenty-fifth street and Sixth avenue. I said, Officer, I have got
+the rinky-dink. He knew what it meant all right. He said, Where? Down at that wench house? I said, I
+guess that is right. [testimony dated New York August 9, 1899, published 1900]    And this chorus
+from the Yale Literary Magazine, Feb. 1896:  Rinky dinky, rinky dink,  Stand him up for another
+drink.
+
+
+refrain (n.)
+
+late 14c., from Old French refrain chorus (13c.), alteration of refrait, noun use of past participle
+of refraindre repeat, also break off, from Vulgar Latin *refrangere break off, alteration of Latin
+refringere break up, break open (see refraction) by influence of frangere to break. Influenced in
+French by cognate Proven&ccedil;al refranhar singing of birds, refrain. The notion is of something
+that causes a song to break off then resume. OED says not common before 19c.
+
+
+conductor (n.)
+
+1520s, one who leads or guides, from Middle French conductour (14c., Old French conduitor), from
+Latin conductor one who hires, contractor, in Late Latin a carrier, from conductus, past participle
+of conducere (see conduce).    Earlier in same sense was conduitour (early 15c., from Old French
+conduitor). Meaning leader of an orchestra or chorus is from 1784; meaning one who has charge of
+passengers and collects fares on a railroad is 1832, American English. Physics sense of object or
+device that passes heat is from 1745; of electricity from 1737.
+
+
+mulberry (n.)
+
+late 14c., developed from 13c. morberie, or cognate  Middle High German mul-beri (alteration by
+dissimilation of Old High German mur-beri, Modern German Maulbeere); both from Latin morum mulberry,
+blackberry, + Old English berie, Old High German beri berry. The Latin word probably is from Greek
+moron mulberry, from PIE *moro- blackberry, mulberry (cognates: Armenian mor blackberry, Middle
+Irish merenn, Welsh merwydden mulberry). Children's singing game with a chorus beginning Here we go
+round the mulberry bush is attested from 1820s, first in Scotland.
+
+
+loo (n.2)
+
+type of card game, 1670s, short for lanterloo (1660s), from French lanturelu, originally (1620s) the
+refrain of a popular comic song; according to French sources the refrain expresses a mocking refusal
+or an evasive answer and was formed on the older word for a type of song chorus, turelure;
+apparently a jingling reduplication of loure bagpipe (perhaps from Latin lura bag, purse).     From
+its primary signification -- a kind of bagpipe inflated from the mouth -- the word 'loure' came to
+mean an old dance, in slower rhythm than the gigue, generally in 6-4 time. As this was danced to the
+nasal tones of the 'loure,' the term 'loure' was gradually applied to any passage meant to be played
+in the style of the old bagpipe airs. [Grove's Dictionary of Music and Musicians, London, 1906]
+The refrain sometimes is met in English as turra-lurra.
+
+
+hoedown (n.)
+
+noisy dance, 1841, apparently originally the name of a specific dance, perhaps from perceived
+parallel of dance motions to those of farm chores, hence from hoe (n.).    The step of every negro
+dance that was ever known, was called into requisition and admirably executed. They performed the
+double shuffle, the Virginny break-down, the Kentucky heeltap, the pigeon wing, the back balance
+lick, the Arkansas hoe down, with unbounded applause and irresistible effect. [Scouting Expeditions
+of McCulloch's Texas Rangers, 1848]    Hoe corn, hill tobacco is noted as a line in the chorus of a
+slave song in 1838, and Washington Irving writes of a dance called hoe corn and dig potatoes in
+1807.    The same precedence is repeated until all the merchandise is disposed of, the table is then
+banished the room, and the whole party hoe it down in straight fours and set dances, till the hour
+when ghosts wandering here and there, troop home to church-yards. This is what we kintra folk call a
+strauss. [Der Teufelskerl. A Tale of German Pennsylvania, in Burton's Gentleman's Magazine, January
+1840]
+
+
+stage (n.)
+
+mid-13c., story of a building; early 14c., raised platform used for public display (also the
+platform beneath the gallows), from Old French estage building, dwelling place; stage for
+performance; phase, stage, rest in a journey (12c., Modern French &#233;tage story of a house,
+stage, floor, loft), from Vulgar Latin *staticum a place for standing, from Latin statum, past
+participle of stare to stand (see stet). Meaning platform for presentation of a play is attested
+from late 14c.; generalized for profession of an actor from 1580s.    Sense of period of development
+or time in life first recorded early 14c., probably from Middle English sense of degree or step on
+the 'ladder' of virtue, 'wheel' of fortune, etc., in parable illustrations and morality plays.
+Meaning a step in sequence, a stage of a journey is late 14c. Meaning level of water in a river,
+etc. is from 1814, American English.   Stage-name is from 1727. Stage-mother (n.) in the overbearing
+mother-of-an-actress sense is from 1915. Stage-door is from 1761, hence Stage-Door Johnny young man
+who frequents stage doors seeking the company of actresses, chorus girls, etc. (1907). Stage
+whisper, such as used by an actor on stage to be heard by the audience, first attested 1865. Stage-
+manage (v.) is from 1871.
+
 

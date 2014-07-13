@@ -2,3 +2,60 @@ tither (n.)
 
 late 14c., one who pays a tithe, agent noun from tithe (v.). As one who exacts a tithe, 1590s.
 
+
+tithe (v.)
+
+Old English teo&thorn;ian to pay one-tenth, from the root of tithe (n.). As to impose a payment of a
+tenth, late 14c. Related: Tithed; tithing.
+
+
+tithe (n.)
+
+a tenth part (originally of produce) due as support of the clergy, c.1200, from Old English
+teogo&thorn;a (Anglian), teo&thorn;a (West Saxon) tenth, from Proto-Germanic *teguntha, from PIE
+*dekmto-, from *dekm ten (see ten). Retained in ecclesiastical sense while the form was replaced in
+ordinal use by tenth.
+
+
+decimation (n.)
+
+mid-15c., from Late Latin decimationem (nominative decimatio), noun of action from past participle
+stem of Latin decimare the removal or destruction of one-tenth, from decem ten (see ten). Earliest
+sense in English was of a tithe; punishment sense is from 1580s; transferred sense of much
+destruction, severe loss recorded from 1680s.
+
+
+tenth (adj.)
+
+mid-12c., ten&eth;e; see ten + -th (1). Replacing Old English teo&eth;a (West Saxon), tei&eth;a
+(Northumbrian), which is preserved in tithe. Compare Old Saxon tehando, Old Frisian tegotha, Dutch
+tiende, Old High German zehanto, German zehnte, Gothic taihunda. As a noun from c.1200.
+
+
+dime (n.)
+
+chosen 1786 as name for U.S. 10 cent coin, from dime a tenth, tithe (late 14c.), from Old French
+disme (Modern French d&icirc;me) a tenth part, from Latin decima (pars) tenth (part), from decem ten
+(see ten).    The verb meaning to inform (on someone) is 1960s, from the then-cost of a pay phone
+call. A dime a dozen almost worthless first recorded 1930. Phrase stop on a dime attested by 1954 (a
+dime being the physically smallest unit of U.S. currency).
+
+
+-ty (1)
+
+suffix representing ten in cardinal numbers that are multiples of 10 (sixty, seventy, etc.), from
+Old English -tig, from a Germanic root (cognates: Old Saxon, Dutch -tig, Old Frisian -tich, Old
+Norse -tigr, Old High German -zug, German -zig) that existed as a distinct word in Gothic (tigjus)
+and Old Norse (tigir) meaning tens, decades. Compare tithe (n.).    English, like many other
+Germanic languages, retains traces of a base-12 number system. The most obvious instance is eleven
+and twelve which ought to be the first two numbers of the teens series. Their Old English forms,
+enleofan and twel(eo)f(an), are more transparent: leave one and leave two.    Old English also had
+hund endleofantig for 110 and hund twelftig for 120. One hundred was hund teantig. The -tig
+formation ran through 12 cycles, and could have bequeathed us numbers *eleventy (110) and *twelfty
+(120) had it endured, but already during the Anglo-Saxon period it was being obscured.    Old Norse
+used hundra&eth; for 120 and &thorn;usend for 1,200. Tvauhundra&eth; was 240 and
+&thorn;riuhundra&eth; was 360. Older Germanic legal texts distinguished a common hundred (100) from
+a great hundred (120). This duodecimal system is perhaps due to contact with Babylonia [Lass, Old
+English].
+
+

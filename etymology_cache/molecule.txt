@@ -5,3 +5,50 @@ diminutive of Latin moles mass, barrier (see mole (3)). A vague meaning at first
 word (used until late 18c. only in Latin form) can be traced to the philosophy of Descartes. First
 used of Modern Latin molecula in modern scientific sense by Amedeo Avogadro (1811).
 
+
+macromolecule
+
+1886, from macro- + molecule. Apparently coined in On Macro-molecules, with the Determinations of
+the Form of Some of Them, by Anglo-Irish physicist G. Johnstone Stoney (1826â&euro;&ldquo;1911).
+Originally of crystals. Meaning molecule composed of many atoms is from 1935, from German
+makromolekul (1922). Related: Macromolecular.
+
+
+mole (n.4)
+
+unit of molecular quantity, 1902, from German Mol coined 1900 by German chemist Wilhelm Ostwald
+(1853-1912), short for Molek&uuml;l (see molecule).
+
+
+monoxide (n.)
+
+oxide with one oxygen atom in each molecule, 1869, from mono- + oxide.
+
+
+molecular (adj.)
+
+1823, from molecule + -ar or else from French mol&#233;culaire or Modern Latin molecularis.
+Molecular biology first attested 1950.
+
+
+trans-
+
+word-forming element meaning across, beyond, through, on the other side of, to go beyond, from Latin
+trans-, from trans (prep.) across, over, beyond, perhaps originally present participle of a verb
+*trare-, meaning to cross, from PIE *tra-, variant of root *tere- (2) to cross over (see through).
+In chemical use indicating a compound in which two characteristic groups are situated on opposite
+sides of an axis of a molecule [Flood].
+
+
+acetylene (n.)
+
+gaseous hydrocarbon, 1864, from French ac&#233;tyl&#232;ne, coined by French chemist Marcelin-
+Pierre-Eug&egrave;ne Berthelot (1823-1907) from chemical ending -ene + acetyl, which was coined from
+acetic in 1839 by German chemist Justus von Liebig; see acetic. Liebig's coinage was in reference to
+a different radical; acetyl was transferred to its current sense in 1850s, but Berthelot's coinage
+was based on the original use of acetyl.    The name <b>acetylene</b> is an unfortunate one as the
+hydrocarbon is not directly related to the modern acetyl radical and the molecule ... contains a
+triple bond, not a double bond which the suffix -ene (q.v.) implies. [Flood, Origins of Chemical
+Names, 1963]
+
+

@@ -2,3 +2,59 @@ queller (n.)
 
 Old English cwellere killer, agent noun from cwellan (see quell).
 
+
+quell (v.)
+
+Old English cwellan to kill, murder, execute, from Proto-Germanic *kwaljanan (cognates: Old English
+cwelan to die, cwalu violent death; Old Saxon quellian to torture, kill; Old Norse kvelja to
+torment; Middle Dutch quelen to vex, tease, torment; Old High German quellan to suffer pain, German
+qu&auml;len to torment, torture), from PIE root *gwele- (1) to throw, reach, with extended sense of
+to pierce (cognates: Armenian kelem I torture; Old Church Slavonic zali pain; Lithuanian galas end,
+gela agony, gelati to sting; see ballistics). Milder sense of suppress, extinguish developed by
+c.1300. Related: Quelled; quelling.
+
+
+qualm (n.)
+
+Old English cwealm (West Saxon) death, murder, slaughter; disaster; plague; torment, utcualm
+(Anglian) utter destruction, probably related to cwellan to kill, murder, execute, cwelan to die
+(see quell). Sense softened to feeling of faintness 1520s; figurative meaning uneasiness, doubt is
+from 1550s; that of scruple of conscience is 1640s.    Evidence of a direct path from the Old
+English to the modern senses is wanting, but it is plausible, via the notion of fit of sickness. The
+other suggested etymology, less satisfying, is to take the fit of uneasiness sense from Dutch kwalm
+steam, vapor, mist (cognate with German Qualm smoke, vapor, stupor), which also might be ultimately
+from the same Germanic root as quell.
+
+
+quale (n.)
+
+death, destruction, Old English cwalu, cognate with Old Norse kval torment, torture, from a variant
+of the root of quell.
+
+
+deodorant (n.)
+
+1848, originally of substances to quell the odor of manure, formed in English as if from de- + Latin
+odorem smell (see odor (n.)). In reference to a substance to be used on the human body, from 1860.
+An earlier version, a perfumed powder, was called empasm (1650s), from Greek *empasma to sprinkle
+on.
+
+
+kill (v.)
+
+c.1200, to strike, hit, beat, knock; c.1300, to deprive of life, perhaps from an unrecorded variant
+of Old English cwellan to kill (see quell), but the earliest sense suggests otherwise. Sense in to
+kill time is from 1728. Related: Killed; killing. Kill-devil, colloquial for rum, especially if new
+or of bad quality, is from 1630s.
+
+
+quail (v.)
+
+c.1400, have a morbid craving; early 15c., grow feeble or sick; mid-15c., to fade, fail, give way,
+of unknown origin, perhaps from Middle Dutch quelen to suffer, be ill, from Proto-Germanic *kwaljan,
+from PIE *gwele- (1) to throw, to pierce (see quell). Or from obsolete quail to curdle (late 14c.),
+from Old French coailler, from Latin coagulare (see coagulate). Sense of lose heart, shrink, cower
+is attested from 1550s. According to OED, common 1520-1650, then rare until 19c., when apparently it
+was revived by Scott. Related: Quailed; quailing.
+
+

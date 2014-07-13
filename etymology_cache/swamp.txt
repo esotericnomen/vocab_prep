@@ -5,12 +5,136 @@ survival from an Old English cognate of Old Norse sv&ouml;ppr sponge, fungus, fr
 *swampuz; but traditionally connected with Middle English sompe morass, swamp, which probably is
 from Middle Dutch somp or Middle Low German sump swamp (see sump). All of these likely are
 ultimately related to each other, from PIE *swombho- spongy; mushroom, via the notion of spongy
-ground.  <blockquote>  [B]y swamps then in general is to be understood any low grounds subject to
-inundations, distinguished from marshes, in having a large growth of timber, and much underwood,
-canes, reeds, wythes, vines, briers, and such like, so matted together, that they are in a great
-measure impenetrable to man or beast .... [Bernard Romans, A Concise History of East and West
-Florida, 1775]   </blockquote>  More popular in U.S. (swamp (n.) by itself is first attested 1624 in
-Capt. John Smith's description of Virginia). Swamp-oak is from 1680s, American English. Swamp Yankee
-rural, rustic New Englander is attested from 1941. Thornton's American Glossary (1912) has swamp-
-angel dweller in a swamp, swamp-law might makes right.
+ground.    [B]y swamps then in general is to be understood any low grounds subject to inundations,
+distinguished from marshes, in having a large growth of timber, and much underwood, canes, reeds,
+wythes, vines, briers, and such like, so matted together, that they are in a great measure
+impenetrable to man or beast .... [Bernard Romans, A Concise History of East and West Florida, 1775]
+More popular in U.S. (swamp (n.) by itself is first attested 1624 in Capt. John Smith's description
+of Virginia). Swamp-oak is from 1680s, American English. Swamp Yankee rural, rustic New Englander is
+attested from 1941. Thornton's American Glossary (1912) has swamp-angel dweller in a swamp, swamp-
+law might makes right.
+
+
+swamp (v.)
+
+overwhelm, sink (as if in a swamp), 1772, from swamp (n.). Figurative sense is from 1818. Related:
+Swamped; swamping.
+
+
+swamper (n.)
+
+1735, one who lives in a swampy district, from swamp (n.). Meaning workman who clears a lumber road
+through swamp or forest is 1857, American English; meaning all-purpose assistant in a restaurant or
+saloon is from 1907.
+
+
+swamp-land (n.)
+
+1660s, from swamp (n.) + land (n.).
+
+
+swampy (adj.)
+
+1690s, from swamp (n.) + -y (2). Related: Swampiness.
+
+
+moor (n.)
+
+waste ground, Old English mor morass, swamp, from Proto-Germanic *mora- (cognates: Old Saxon, Middle
+Dutch, Dutch meer swamp, Old High German muor swamp, also sea, German Moor moor, Old Norse m&ouml;rr
+moorland, marr sea), perhaps related to mere (n.), or from root *mer- to die, hence dead land.
+The basic sense in place names is 'marsh', a kind of low-lying wetland possibly regarded as less
+fertile than mersc 'marsh.' The development of the senses 'dry heathland, barren upland' is not
+fully accounted for but may be due to the idea of infertility. [Cambridge Dictionary of English
+Place-Names]
+
+
+bunyip (n.)
+
+1848, fabulous swamp-dwelling animal (supposedly inspired by fossil bones), from an Australian
+aborigine language.
+
+
+Syracuse
+
+city in Sicily, founded as a Corinthian colony, and with a name traceable to 8c. B.C.E., from a pre-
+Hellenic word, perhaps Phoenician serah to feel ill, in reference to its location near a swamp. The
+city in New York, U.S., was named 1825 for the classical city.
+
+
+tupelo (n.)
+
+American black gum tree, 1730, from an Algonquian language, such as Cree ito opilwa swamp tree,
+Muskogee eto opelwv.
+
+
+hummock (n.)
+
+knoll, hillock, 1550s, originally nautical, conical small hill on a seacoast, of obscure origin,
+though second element is diminutive suffix -ock. In Florida, where the local form is hammock, it
+means a clump of hardwood trees on a knoll in a swamp or on a key.
+
+
+niggerhead (n.)
+
+from nigger + head. A term used formerly in U.S. of various things, such as cheap tobacco (1843),
+protruding root mass in a swamp (1859), a type of cactus (1877), and the black-eyed susan (1893).
+Variant negro-head attested from 1781.
+
+
+mire (n.)
+
+c.1300, from a Scandinavian source such as Old Norse myrr bog, swamp, from Proto-Germanic *miuzja-
+(source of Old English mos bog, marsh), from PIE *meus- damp (see moss).
+
+
+soggy (adj.)
+
+1722, perhaps from dialectal sog bog, swamp, or the verb sog become soaked, both of unknown origin,
++ -y (2). Related: Soggily; sogginess.
+
+
+Berlin
+
+city in Brandenburg, capital of Germany, traditionally by folk-etymology from German B&auml;r bear,
+but likely from a Slavic source, compare Old Polabian berl-, birl- swamp, in reference to the old
+city's location on low, marshy ground along the River Spree. A flashpoint city in the Cold War, the
+Berlin airlift ran from June 28, 1948 to May 12, 1949. The Berlin Wall began to be built Aug. 15,
+1961, and was effective until Nov. 9, 1989.
+
+
+stagnate (v.)
+
+1660s, from Latin stagnatum, stagnatus, past participle of stagnare to stagnate, from stagnatum
+standing water, pond, swamp, perhaps from a PIE root *stag- to seep drip (cognates: Greek stazein to
+ooze, drip; see stalactite). Figurative use by 1709. Related: Stagnated; stagnating.
+
+
+marsh (n.)
+
+Old English mersc, merisc marsh, swamp, from Proto-Germanic *marisko (cognates: Old Frisian and Old
+Saxon marsk marsh, Middle Dutch mersch, Dutch mars, German Marsch, Danish marsk), probably from
+Proto-Germanic *mari- sea (see mere (n.)).
+
+
+fen (n.)
+
+Old English fenn mud, mire, dirt; fen, marsh, moor, from Proto-Germanic *fanjam- (cognates: Old
+Saxon feni, Old Frisian fenne, Middle Dutch venne, Dutch veen, Old High German fenna, German Fenn
+marsh, Old Norse fen, Gothic fani mud), from PIE *pen- swamp (cognates: Gaulish anam water, Sanskrit
+pankah bog, marsh, mud, Old Prussian pannean swampland). Italian and Spanish fango, Old French fanc,
+French fange mud are loan-words from Germanic. The native Latin word was limus or lutum.
+
+
+moss (n.)
+
+Old English meos moss, related to mos bog, from Proto-Germanic *musan (cognates: Old High German
+mios, Danish mos, German Moos), also in part from Old Norse mosi moss, bog, and Medieval Latin mossa
+moss, from the same Germanic source, from PIE *meus- damp, with derivatives referring to swamps and
+swamp vegetation (cognates: Latin muscus moss, Lithuanian musai mold, mildew, Old Church Slavonic
+muchu moss).   Selden Mose&thorn; &thorn;e Marbelston &thorn;at men ofte treden. [Piers Plowman,
+1362]  All the Germanic languages have the word in both senses, which is natural because moss is the
+characteristic plant of boggy places. It is impossible to say which sense is original. Scott (1805)
+revived 17c. moss-trooper freebooter infesting Scottish border marshes.
+
 

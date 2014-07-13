@@ -3,3 +3,129 @@ threaten (v.)
 late 13c., attempt to influence by menacing, from Old English &thorn;reatnian to threaten (see
 threat). Related: Threatened. Threatening in the sense of portending no good is recorded from 1520s.
 
+
+threat (n.)
+
+Old English &thorn;reat crowd, troop, also oppression, coercion, menace, related to &thorn;reotan to
+trouble, weary, from Proto-Germanic *thrautam (cognates: Dutch verdreiten, German verdrie&szlig;en
+to vex), from PIE *treud- to push, press squeeze (cognates: Latin trudere to press, thrust, Old
+Church Slavonic trudu oppression, Middle Irish trott quarrel, conflict, Middle Welsh cythrud
+torture, torment, afflict). Sense of conditional declaration of hostile intention was in Old
+English.
+
+
+menace (n.)
+
+c.1300, declaration of hostile intent, also act of threatening, from Old French menace menace,
+threat (9c.), from Vulgar Latin minacia threat, menace (also source of Spanish amenaza, Italian
+minaccia), singular of Latin minaci&aelig; threatening things, from minax (genitive minacis)
+threatening, from minari threaten, jut, project, from min&aelig; threats, projecting points, from
+PIE root *men- (2) to project. Applied to persons from 1936.
+
+
+throe (n.)
+
+c.1200, throwe pain, pang of childbirth, agony of death, of uncertain origin, possibly from Old
+English &thorn;rawan twist, turn, writhe (see throw (v.)), or altered from Old English &thorn;rea
+(genitive &thorn;rawe) affliction, pang, evil; threat, persecution (related to &thorn;rowian to
+suffer), from Proto-Germanic *thrawo (cognates: Middle High German dro threat, German drohen to
+threaten). Modern spelling first recorded 1610s. Related: Throes.
+
+
+ban (v.)
+
+Old English bannan to summon, command, proclaim, from Proto-Germanic *bannan proclaim, command,
+forbid (cognates: Old High German bannan to command or forbid under threat of punishment, German
+bannen banish, expel, curse), originally to speak publicly, from PIE root *bha- (2) to speak
+(cognates: Old Irish bann law, Armenian ban word; see fame (n.)).     Main modern sense of to
+prohibit (late 14c.) is from Old Norse cognate banna to curse, prohibit, and probably in part from
+Old French ban, which meant outlawry, banishment, among other things (see banal) and was a borrowing
+from Germanic. The sense evolution in Germanic was from speak to proclaim a threat to (in Norse,
+German, etc.) curse.    The Germanic root, borrowed in Latin and French, has been productive:
+banish, bandit, contraband, etc. Related: Banned; banning. Banned in Boston dates from 1920s, in
+allusion to the excessive zeal and power of that city's Watch and Ward Society.
+
+
+minatory (adj.)
+
+expressing a threat, 1530s, from Middle French minatoire, from Late Latin minatorius, from minat-,
+stem of minari to threaten (see menace (n.)).
+
+
+ofay (n.)
+
+American English black slang, white person, 1925, of unknown origin. If, as is sometimes claimed, it
+derives from an African word, none corresponding to it has been found. Perhaps the most plausible
+speculation is Yoruba &oacute;f&eacute; to disappear (as from a powerful enemy), with the sense
+transferred from the word of self-protection to the source of the threat. OED regards the main
+alternative theory, that it is pig Latin for foe, to be no more than an implausible guess.
+
+
+thrust (v.)
+
+late 12c., from a Scandinavian source akin to Old Norse &thorn;rysta to thrust, force, press, from
+Proto-Germanic *thrustijanan, perhaps from PIE *treud- push, press (see threat), but OED finds this
+derivation doubtful. Related: Thrusting.
+
+
+extrusion (n.)
+
+1530s, from Latin extrusionem (nominative extrusio), noun of action from past participle stem of
+extrudere, from ex- out (see ex-) + trudere to thrust, push, from PIE *treud- to press, push,
+squeeze (see threat).
+
+
+muscle (n.)
+
+late 14c., from Middle French muscle muscle, sinew (14c.) and directly from Latin musculus a muscle,
+literally little mouse, diminutive of mus mouse (see mouse (n.)).    So called because the shape and
+movement of some muscles (notably biceps) were thought to resemble mice. The analogy was made in
+Greek, too, where mys is both mouse and muscle, and its comb. form gives the medical prefix myo-.
+Compare also Old Church Slavonic mysi mouse, mysica arm; German Maus mouse; muscle, Arabic 'adalah
+muscle, 'adal field mouse. In Middle English, lacerte, from the Latin word for lizard, also was used
+as a word for a muscle.    Musclez &amp; lacertez bene one selfe &thorn;ing, Bot &thorn;e muscle is
+said to &thorn;e fourme of mouse &amp; lacert to &thorn;e fourme of a lizard. [Guy de Chauliac,
+Grande Chirurgie, c.1425]    Hence muscular and mousy are relatives, and a Middle English word for
+muscular was lacertous, lizardy. Figurative sense of force, violence, threat of violence is 1930,
+American English. Muscle car hot rod is from 1969.
+
+
+money (n.)
+
+mid-13c., coinage, metal currency, from Old French monoie money, coin, currency; change (Modern
+French monnaie), from Latin moneta place for coining money, mint; coined money, money, coinage, from
+Moneta, a title or surname of the Roman goddess Juno, in or near whose temple money was coined;
+perhaps from monere advise, warn (see monitor (n.)), with the sense of admonishing goddess, which is
+sensible, but the etymology is difficult. Extended early 19c. to include paper money.    It had been
+justly stated by a British writer that the power to make a small piece of paper, not worth one cent,
+by the inscribing of a few names, to be worth a thousand dollars, was a power too high to be
+entrusted to the hands of mortal man. [John C. Calhoun, speech, U.S. Senate, Dec. 29, 1841]   <hr />
+I am not interested in money but in the things of which money is the symbol. [Henry Ford]  To make
+money earn pay is first attested mid-15c. Highwayman's threat your money or your life first attested
+1841. Phrase in the money (1902) originally meant one who finishes among the prize-winners (in a
+horse race, etc.). The challenge to put (one's) money where (one's) mouth is is first recorded 1942,
+American English. money-grub one who is sordidly intent on amassing money is from 1768. The image of
+money burning a hole in someone's pocket is attested from 1520s.
+
+
+bug (n.)
+
+insect, 1620s (earliest reference is to bedbugs), of unknown origin, probably but not certainly from
+or influenced by Middle English bugge something frightening, scarecrow (late 14c.), a meaning
+obsolete since the insect sense arose except in bugbear (1570s) and bugaboo (q.v.).    Probably
+connected with Scottish bogill goblin, bugbear, or obsolete Welsh bwg ghost, goblin (compare Welsh
+bwgwl threat, earlier fear, Middle Irish bocan&#225;ch supernatural being). Some speculate that
+these words are from a root meaning goat (see buck (n.1)) and represent originally a goat-like
+spectre. Compare also bogey (n.1) and German b&ouml;gge, b&ouml;ggel-mann goblin. Perhaps influenced
+in meaning by Old English -budda used in compounds for beetle (compare Low German budde louse, grub,
+Middle Low German buddech thick, swollen).     In the United States bug is not confined, as in
+England, to the domestic pest, but is applied to all insects of the Coleoptera order, which includes
+what in this country are generally called beetles. [Farmer &amp; Henley, Dictionary of Slang and
+Colloquial English, 1912 abridged edition]    Meaning defect in a machine (1889) may have been
+coined c.1878 by Thomas Edison (perhaps with the notion of an insect getting into the works).
+Meaning person obsessed by an idea (such as firebug) is from 1841, perhaps from notion of
+persistence. Sense of microbe, germ is from 1919. Bugs crazy is from c.1900. Bug juice as a slang
+name for drink is from 1869, originally bad whiskey. The 1811 slang dictionary has bug-hunter an
+upholsterer. Bug-word word or words meant to irritate and vex is from 1560s.
+
+

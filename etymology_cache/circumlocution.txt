@@ -5,3 +5,10 @@ circum- around (see circum-) + locutionem (nominative locutio) a speaking, noun 
 participle stem of loqui to speak (see locution). A loan-translation of Greek periphrasis (see
 periphrasis).
 
+
+periphrasis (n.)
+
+1530s, from Latin periphrasis circumlocution, from Greek periphrasis, from periphrazein speak in a
+roundabout way, from peri- round about (see peri-) + phrazein to express (see phrase (n.)).
+
+

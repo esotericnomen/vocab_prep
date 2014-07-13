@@ -2,3 +2,146 @@ margin (v.)
 
 c.1600, to furnish with marginal notes, from margin (n.). From 1715 as to furnish with a margin.
 
+
+margin (n.)
+
+mid-14c., edge of a sea or lake; late 14c., space between a block of text and the edge of a page,
+from Latin marginem (nominative margo) edge, brink, border, margin, from PIE *merg- edge, border,
+boundary (see mark (n.1)). General sense of boundary space; rim or edge of anything is from late
+14c. Meaning comfort allowance, cushion is from 1851; margin of safety first recorded 1888. Stock
+market sense of sum deposited with a broker to cover risk of loss is from 1848. Related: Margins.
+
+
+marginal (adj.)
+
+1570s, written on the margin, from Medieval Latin marginalis, from Latin margo (see  margin). Sense
+of of little effect or importance first recorded 1887. Related: Marginally.
+
+
+marginalia (n.)
+
+1832, from Latin marginalia, neuter plural of adjective marginalis marginal, from marginis (see
+margin).
+
+
+marge (n.)
+
+edge, border, 1560s, now chiefly poetic, shortening of margin (n.).
+
+
+edge (v.)
+
+late 13c., to give an edge to (implied in past participle egged), from edge (n.). Meaning to move
+edgeways (with the edge toward the spectator), advance slowly is from 1620s, originally nautical.
+Meaning to defeat by a narrow margin is from 1953. The meaning urge on, incite (16c.) often must be
+a mistake for egg (v.). Related: Edged; edging.
+
+
+brim (n.)
+
+c.1200, brymme edge of the sea, of obscure origin, perhaps akin to Old Norse barmr rim, brim,
+probably related to German br&auml;me margin, border, fringe, from PIE *bhrem- point, spike, edge.
+(Old English had brim in the sense sea, surf, but this probably was from the Germanic stem *brem- to
+roar, rage.) Extended by 1520s to cups, basins, hats.
+
+
+profit (n.)
+
+mid-13c., income; c.1300, benefit, advantage;from Old French prufit, porfit profit, gain (mid-12c.),
+from Latin profectus profit, advance, increase, success, progress, noun use of past participle of
+proficere (see proficiency). As the opposite of loss, it replaced Old English gewinn. Profit margin
+attested from 1853.
+
+
+curb (n.)
+
+late 15c., strap passing under the jaw of a horse (used to restrain the animal), from Old French
+courbe (12c.) curb on a horse, from Latin curvus, from curvare to bend (see curve (v.)). Meaning
+enclosed framework is from 1510s, probably originally with a notion of curved; extended to margins
+of garden beds 1731; to margin of stone between a sidewalk and road 1791 (sometimes spelled kerb).
+Figurative sense of a check, a restraint is from 1610s.
+
+
+fringe (n.)
+
+early 14c., from Old French frenge thread, strand, fringe, hem (early 14c.), from Vulgar Latin
+*frimbia, metathesis of Latin fimbriae (plural) fibers, threads, fringe, of uncertain origin.
+Figurative sense of outer edge, margin, is first recorded 1894. Related: Fringes. Fringe benefits is
+recorded from 1952.
+
+
+rand (n.)
+
+rocky ridge overlooking a river valley, 1839, South African English, from Afrikaans, from Dutch rand
+edge, margin, cognate with Old English rand brink, bank. As a unit of currency, adopted by the
+Republic of South Africa in 1961 (see Krugerrand). Johnson's dictionary has rand Border; seam: as
+the rand of a woman's shoe.
+
+
+gloss (v.)
+
+1570s as insert a word as an explanation, from gloss (n.2). From 1650s as to add luster, from gloss
+(n.1). Figurative sense of smooth over, hide is from 1729, mostly from gloss (n.1) but showing
+influence of gloss (n.2) in the extended verbal sense of explain away (1630s), from idea of a note
+inserted in the margin of a text to explain a difficult word. Related: Glossed; glossing.
+
+
+frontier (n.)
+
+c.1400, from Old French frontier prow of a ship, front rank of an army (13c.), noun use of adjective
+frontier facing, neighboring, from front brow (see front (n.)).    Originally the front line of an
+army, sense of borderland is first attested early 15c. In reference to North America, from 1670s;
+later with a specific sense:What is the frontier? ... In the census reports it is treated as the
+margin of that settlement which has a density of two or more to the square mile. [F.J. Turner, The
+Frontier in American History, 1920]Frontiersman is from 1782.
+
+
+paragraph (n.)
+
+late 15c., from Middle French paragraphe division of text (13c., Old French paragrafe), from
+Medieval Latin paragraphus sign for start of a new section of discourse (the sign looked something
+like a stylized letter -P-), from Greek paragraphos short stroke in the margin marking a break in
+sense, also a passage so marked, literally anything written beside, from paragraphein write by the
+side, from para- beside (see para- (1)) + graphein to write (see -graphy).
+
+
+lip (n.)
+
+Old English lippa, from Proto-Germanic *lepjon (cognates: Old Frisian lippa, Middle Dutch lippe,
+Dutch lip, Old High German lefs, German Lefze, Swedish l&auml;pp, Danish l&aelig;be), from PIE *leb-
+to lick; lip (source also of Latin labium).    French lippe is from a Germanic source. Transferred
+sense of edge or margin of a cup, etc. is from 1590s. Slang sense saucy talk is from 1821, probably
+from move the lip (1570s) utter even the slightest word (against someone). To bite (one's) lip show
+vexation is from early 14c. Stiff upper lip as a sign of courage is from 1833. Lip gloss is attested
+from 1939; lip balm from 1877. Related: Lips.
+
+
+coast (n.)
+
+margin of the land, early 14c.; earlier rib as a part of the body (early 12c.), from Old French
+coste rib, side, flank; slope, incline; later coast, shore (12c., Modern French c&ocirc;te), from
+Latin costa a rib, perhaps related to a root word for bone (compare Old Church Slavonic kosti bone,
+also see osseous).    Latin costa developed a secondary sense in Medieval Latin of the shore, via
+notion of the side of the land, as well as side of a hill, and this passed into Romanic (Italian
+costa coast, side, Spanish cuesta slope, costa coast), but only in the Germanic languages that
+borrowed it is it fully specialized in this sense (Dutch kust, Swedish kust, German K&uuml;ste,
+Danish kyst). French also used this word for hillside, slope, which led to verb meaning sled
+downhill, first attested 1775 in American English. Expression the coast is clear (16c.) is an image
+of landing on a shore unguarded by enemies.
+
+
+mark (n.1)
+
+trace, impression, Old English mearc (West Saxon), merc (Mercian) boundary, sign, limit, mark, from
+Proto-Germanic *marko (cognates: Old Norse merki boundary, sign, m&ouml;rk forest, which often
+marked a frontier; Old Frisian merke, Gothic marka boundary, frontier, Dutch merk mark, brand,
+German Mark boundary, boundary land), from PIE *merg- edge, boundary, border (cognates: Latin margo
+margin; Avestan mareza- border, Old Irish mruig, Irish bruig borderland, Welsh bro district).    The
+primary sense is probably boundary, which had evolved by Old English through sign of a boundary,
+through sign in general, then to impression or trace forming a sign. Meaning any visible trace or
+impression first recorded c.1200. Sense of line drawn to indicate starting point of a race (as in on
+your marks ...) first attested 1887. The Middle English sense of target (c.1200) is the notion in
+marksman and slang sense victim of a swindle (1883). The notion of sign, token is behind the meaning
+numerical award given by a teacher (1829). Influenced by Scandinavian cognates.
+
+

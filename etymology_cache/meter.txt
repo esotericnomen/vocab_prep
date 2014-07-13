@@ -2,3 +2,311 @@ meter (v.)
 
 to measure by means of a meter, 1884, from meter (n.3). Meaning install parking meters is from 1957.
 
+
+meter (n.3)
+
+device for measuring, abstracted 1832 from gas-meter, etc., from French -m&egrave;tre, used in
+combinations (in English from 1790), from Latin metrum measure or cognate Greek metron measure (see
+meter (n.2)). Influenced by English meter person who measures (late 14c., agent noun from mete
+(v.)). As short for parking meter from 1960. Meter maid first recorded 1957; meter reader 1963.
+
+
+meter (n.1)
+
+also metre, poetic measure, Old English meter meter, versification, from Latin metrum, from Greek
+metron meter, a verse; that by which anything is measured; measure, length, size, limit, proportion,
+from PIE root *me- (2) to measure (see meter (n.2)). Possibly reborrowed early 14c. (after a
+300-year gap in recorded use) from Old French metre, with specific sense of metrical scheme in
+verse, from Latin metrum.
+
+
+meter (n.2)
+
+also metre, unit of length, 1797, from French m&egrave;tre (18c.), from Greek metron measure, from
+PIE root *me- (2) to measure (cognates: Greek metra lot, portion, Sanskrit mati measures, matra
+measure, Avestan, Old Persian ma-, Latin metri to measure). Developed by French Academy of Sciences
+for system of weights and measures based on a decimal system originated 1670 by French clergyman
+Gabriel Mouton. Originally intended to be one ten-millionth of the length of a quadrant of the
+meridian.
+
+
+metrical (adj.)
+
+pertaining to versification, early 15c., from Latin metricus metrical, from Greek metrikos of or for
+meter, metrical, from metron poetic meter (see meter (n.2)). Old English had meterlic in this sense.
+
+
+metric (n.)
+
+science of versification, 1760, from Greek he metrike prosody, plural of metron meter, a verse; that
+by which anything is measured; measure, length, size, limit, proportion (see meter (n.2)).
+
+
+metric (adj.)
+
+pertaining to the system of measures based on the meter, 1855, from French m&eacute;trique, from
+m&egrave;ter (see meter (n.2)). In this sense, metrical is attested from 1797.
+
+
+-meter
+
+word-forming element meaning device or instrument for measuring; commonly -ometer, occasionally
+-imeter; from French -m&egrave;tre, from Greek metron a measure (see meter (n.2)).
+
+
+ithyphallic
+
+1610s, poem in ithyphallic meter, from Greek ithyphallos phallos carried in the festivals, from
+ithys straight + phallos erect penis (see phallus). As an adjective from 1795. The meter was that of
+the Bacchic hymns, which were sung in the rites during which such phalloses were carried. Thus, in
+Victorian times, the word also meant grossly indecent (1864).
+
+
+stere (n.)
+
+unit of the metric system for solid measure, 1798, from French st&egrave;re unit of volume equal to
+one cubic meter, from Greek stereos solid, stiff, firm, from PIE root *ster- (1) stiff, rigid (see
+stereo-). Little used, cubic meter generally serving instead.
+
+
+telemeter (n.)
+
+1860, a rangefinder for surveying and artillery, from French t&eacute;l&eacute;m&egrave;tre (1852),
+from t&eacute;l&eacute;- far (see tele-) + m&egrave;tre meter (see -meter). Used from 1953 for a
+pay-as-you-watch TV system with a coin box attached to the set. Related: Telemetry.
+
+
+hexameter (adj.)
+
+1540s, from Latin hexameter, from Greek hexametros, from hex six (see hexa-) + metron meter (see
+meter (n.2)). As a noun from 1570s. Related: Hexametric.
+
+
+symmetry (n.)
+
+1560s, relation of parts, proportion, from Middle French symm&#233;trie (16c.) and directly from
+Latin symmetria, from Greek symmetria agreement in dimensions, due proportion, arrangement, from
+symmetros having a common measure, even, proportionate, from assimilated form of syn- together (see
+syn-) + metron meter (see meter (n.2)). Meaning harmonic arrangement of parts first recorded 1590s.
+
+
+matriculate (v.)
+
+1570s, to admit a student to a college by enrolling his name on the register, from Late Latin
+matriculatus, past participle of matriculare to register, from Latin matricula public register,
+diminutive of matrix (genitive matricis) list, roll, also sources, womb (see matrix).    The
+connection of senses in the Latin word seems to be via confusion of Greek metra womb (from meter
+mother; see mother (n.1)) and an identical but different Greek word metra meaning register, lot (see
+meter (n.2)). Evidently Latin matrix was used to translate both, though it originally shared meaning
+with only one. Related: Matriculated; matriculating.
+
+
+psychrometer (n.)
+
+instrument to measure moisture in the atmosphere, 1749, from Latinized form of Greek psykhros cold +
+-meter.
+
+
+interferometer (n.)
+
+instrument for measuring the interference of light waves, 1897, a hybrid from interfere + meter (3).
+
+
+voltmeter (n.)
+
+instrument for measuring the difference of potentials in volts, 1882, from volt + meter (n.3).
+
+
+ammeter (n.)
+
+instrument for measuring the strength of electric currents, 1882, from ampere + -meter.
+
+
+calorimeter (n.)
+
+1794, from calorie + -meter. A hybrid word.
+
+
+galvanometer (n.)
+
+1802, from comb. form of galvanism + -meter.
+
+
+metrics (n.)
+
+study of meter, 1892, variant of metric (n.); also see -ics.
+
+
+micron (n.)
+
+one millionth of a meter, 1892, coined 1880 in French from Greek mikron, neuter of mikros small (see
+mica).
+
+
+potentiometer (n.)
+
+1868, a hybrid formed from comb. form of Latin potentia power (see potential) + Greek-derived
+-meter.
+
+
+seismometer (n.)
+
+instrument for measuring the intensity and motion of earthquakes, 1841, from seismo- + -meter.
+Originally different from a seismograph but now practically the same thing.
+
+
+barometer (n.)
+
+1660s, from Greek baros weight (see grave (adj.)) + -meter. Probably coined (and certainly
+popularized) by English scientist Robert Boyle (1627-1691).
+
+
+clinometer (n.)
+
+measurer of slopes and elevations, 1811, from clino- + -meter. Related: Clinometric.
+
+
+anemometer (n.)
+
+1727, from anemo- wind + -meter.
+
+
+chronometer (n.)
+
+1735, from chrono- time + -meter. Related: Chronometric.
+
+
+Metis
+
+first wife of Zeus, from Greek Metis, literally advice, wisdom, counsel; cunning, skill, craft, from
+PIE root *me- to measure (see meter (n.2)).
+
+
+tachometer (n.)
+
+speed-measuring instrument, 1810, coined by inventor, Bryan Donkin, from tacho- speed + -meter.
+Related: Tachometry.
+
+
+decimeter (n.)
+
+1809, from deci- + meter (n.2).
+
+
+hydrometer (n.)
+
+1670s, from hydro- + meter (n.3).
+
+
+metre (n.)
+
+chiefly British English spelling of meter (n.); for spelling, see -re.
+
+
+micrometer (n.)
+
+1660s, from micro- + -meter. Originally a telescope attachment; from 1884 as a craftsman's fine
+measuring tool. Related: Micrometry; micrometric.
+
+
+spirometer (n.)
+
+contrivance for measuring lung capacity, 1846, formed irregularly from Latin spirare to breathe (see
+spirit (n.)) + -meter. Related: Spirometry.
+
+
+odometer (n.)
+
+1791, from French odom&egrave;tre (1724), from Greek hodos way (see cede) + -meter. First recorded
+in writings of Thomas Jefferson.
+
+
+nanometer (n.)
+
+also nanometre, 1963, from nano- + meter (n.2).
+
+
+gasometer (n.)
+
+1790, from gas + -meter. Related: Gasometric.
+
+
+doggerel
+
+late 14c. (adj.); 1630s (n.), Any rhyming verse in which the meter is forced into metronomic
+regularity by the stressing of normally unstressed syllables and in which rhyme is forced or banal
+[Miller Williams, Patterns of Poetry]. probably from dog (n.) + pejorative suffix -rel and applied
+to bad poetry perhaps with a suggestion of puppyish clumsiness, or being fit only for dogs. Attested
+as a surname from mid-13c., but the sense is not evident.
+
+
+endometrium (n.)
+
+1882, medical Latin, from endo- + Greek metra uterus, related to meter (see mother (n.1)).
+
+
+kilometer (n.)
+
+1810, from French kilom&egrave;tre (1795); see kilo- + meter (n.2). Related: Kilometric.
+
+
+iambic
+
+1570s (n.); 1580s (adj.), from Latin iambicus, from Greek iambikos, from iambos metrical foot of one
+unaccented followed by one accented syllable, from iaptein to assail (in words), literally to put
+forth. The meter of invective and lampoon in classical Greek from the time it was used for such by
+Archilochos, 7c. B.C.E.
+
+
+spectrometer (n.)
+
+1863, from German Spectrometer (Moritz Meyerstein, 1863); see spectro- + -meter.
+
+
+perimeter (n.)
+
+early 15c., line around a figure or surface, from Latin perimetros, from Greek perimetron
+circumference, from peri-  around (see peri-) + metron measure (see meter (n.2)). Military sense of
+boundary of a defended position is attested from 1943.
+
+
+isometric (adj.)
+
+1838, literally of the same measure, coined from Greek isos equal (see iso-) + metron measure (see
+meter (n.2)). Originally a method of using perspective in drawing; the physiological sense relating
+to muscular action is from 1891, from German isometrisch in this sense (1882).
+
+
+trimeter (n.)
+
+a verse of three metrical feet, 1560s, from Latin trimetrus, from Greek trimetros having three
+measures, from tri- three (see tri-) + metron a measure (see meter (n.2)). Related: Trimetrical.
+
+
+diameter (n.)
+
+late 14c., from Old French diametre, from Latin diametrus, from Greek diametros (gramme) diagonal of
+a circle, from dia- across, through (see dia-) + metron a measure (see meter (n.2)).
+
+
+pedometer (n.)
+
+instrument for measuring distances covered by a walker, 1723, from French p&eacute;dom&egrave;tre
+(1712), a hybrid coined from Latin pedis (genitive of pes foot; see foot (n.)) + Greek metron a
+measure (see meter (n.2)). At first Englished as waywiser.
+
+
+trigonometry (n.)
+
+branch of mathematics that deals with relations between sides and angles of triangles, 1610s, from
+Modern Latin trigonometria (Barthelemi Pitiscus, 1595), from Greek trigonon triangle (from tri-
+three, see tri-, + gonia angle, see knee (n.)) + metron a measure (see meter (n.2)).
+
+
+manometer (n.)
+
+1730, from French manom&egrave;tre (1706), said to have been coined by French mathematician Pierre
+Varignon (1654-1722) from Greek manos thin, rare; loose in texture, porous; scanty, few (see mono-)
++ -m&egrave;tre (see -meter). Related: Manometric.
+
+

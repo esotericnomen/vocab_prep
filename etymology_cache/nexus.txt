@@ -3,3 +3,21 @@ nexus (n.)
 1660s, bond, link, means of communication, from Latin nexus that which ties or binds together, past
 participle of nectere to bind, from PIE root *ned- to bind, tie (see net (n.)).
 
+
+annex (v.)
+
+late 14c., to connect with, from Old French annexer to join (13c.), from Medieval Latin annexare,
+frequentative of Latin annecetere to bind to, from ad- to (see ad-) + nectere to tie, bind (see
+nexus). Almost always meaning to join in a subordinate capacity. Of nations or territories, c.1400.
+Related: Annexed; annexing.
+
+
+connection (n.)
+
+late 14c., conneccion, later connexioun (mid-15c.), from Old French connexion, from Latin
+connexionem (nominative connexio) a binding or joining together, from *connexare, frequentative of
+conectere to fasten together, to tie, join together, from com- together (see com-) + nectere to
+bind, tie (see nexus).    Spelling shifted from connexion to connection (especially in American
+English) mid-18c. under influence of connect, abetted by affection, direction, etc. See -xion.
+
+

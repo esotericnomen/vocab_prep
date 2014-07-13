@@ -5,3 +5,131 @@ older, from 1718; perhaps from Latin crux interpretum a point in a text that is 
 interpret, in which the literal sense is something like crossroads of interpreters. Extended sense
 of central point is from 1888.
 
+
+cruciate (adj.)
+
+cross-shaped, from Modern Latin cruciatus, from Latin crux (genitive crucis) cross (see cross (n.)).
+Obsolete meaning tormented is 1530s, from Latin cruciat-, past participle stem of cruciare cause
+pain or anguish to, literally crucify, from crux.
+
+
+cross (n.)
+
+Old English cros (mid-10c.), from Old Irish cros, probably via Scandinavian, from Latin crux
+(accusative crucem, genitive crucis) stake, cross on which criminals were impaled or hanged, hence,
+figuratively, torture, trouble, misery; originally a tall, round pole; possibly of Phoenician
+origin. Replaced Old English rood. Also from Latin crux are Italian croce, French croix, Spanish and
+Portuguese cruz, Dutch kruis, German Kreuz.
+
+
+crucible (n.)
+
+early 15c., from Medieval Latin crucibulum melting pot for metals, originally night lamp. First
+element might be Middle High German kruse earthen pot. Or perhaps it is from Latin crux on some
+fancied resemblance to a cross. Used of any severe test or trial since 1640s.
+
+
+ankh (n.)
+
+tau cross with an oval at the top, Egyptian symbol of life, 1873, from Egyptian ankh, literally
+life, soul. Also known as crux ansata.
+
+
+Rosicrucian (n.)
+
+1620s, from Modern Latin rosa crucis (DuCange) or crux, Latinization of German Rosenkreuz, French
+rosecroix, from the secret society's reputed founder Christian Rosenkreuz, said to date from 1484,
+but not mentioned before 1614. As an adjective from 1660s.
+
+
+cruciferous (adj.)
+
+1650s, from Late Latin crucifer cross-bearing, from Latin crux (genitive crucis) stake, cross (see
+cross (n.)). Originally in literal senses; botanical use (in reference to a symmetrical arrangement
+of four petals) is from 1851.
+
+
+cruciverbalist (n.)
+
+maker of crossword puzzles, by 1990, coined in English from Latin cruci-, comb. form of crux cross
+(see cross (n.)) + verbum word (see verb).
+
+
+cruise (v.)
+
+1650s, from Dutch kruisen to cross, sail to and fro, from kruis cross, from Latin crux. Compare the
+sense evolution in cognate cross (v.). Related: Cruised; cruising. As a noun from 1706.
+
+
+excruciate (v.)
+
+1560s, from Latin excruciatus, past participle of excruciare to torture, torment, rack, plague;
+figuratively to afflict, harass, vex, torment, from ex- out, thoroughly (see ex-) + cruciare cause
+pain or anguish to, literally crucify, from crux (genitive crucis) cross.
+
+
+crucial (adj.)
+
+1706, cross-shaped, from French crucial, a medical term for ligaments of the knee (which cross each
+other), from Latin crux (genitive crucis) cross (see cross (n.)). The meaning decisive, critical
+(1830) is extended from a logical term, Instantias Crucis, adopted by Francis Bacon (1620); the
+notion is of cross fingerboard signposts at forking roads, thus a requirement to choose.
+
+
+crusade (n.)
+
+1706, respelling of croisade (1570s), from Middle French croisade (16c.), Spanish cruzada, both from
+Medieval Latin cruciata, past participle of cruciare to mark with a cross, from Latin crux (genitive
+crucis) cross. Other Middle English forms were croiserie, creiserie. Figurative sense of campaign
+against a public evil is from 1786.
+
+
+cruciform (adj.)
+
+1660s, from Modern Latin cruciformis, from Latin crux (genitive crucis) stake, cross (see cross
+(n.)) + forma form (see form (n.)).
+
+
+crucify (v.)
+
+c.1300, from Old French crucifer (12c., Modern French crucifier), from Vulgar Latin *crucificare,
+from Late Latin crucifigere to fasten to a cross, from cruci, dative of Latin crux cross (see cross
+(n.)) + figere fasten (see fix (v.)). An ancient mode of capital punishment considered especially
+ignominious by the Romans. Figurative sense of to torment is 1620s. Related: Crucified; crucifying.
+
+
+Charles&#039;s Wain (n.)
+
+Old English Carles w&aelig;gn, a star-group associated in medieval times with Charlemagne, but
+originally with the nearby bright star Arcturus, which is linked by folk etymology to Latin Arturus
+Arthur. Which places the seven-star asterism at the crux of the legendary association (or confusion)
+of Arthur and Charlemagne. Evidence from Dutch (cited in Grimm, Teutonic Mythology) suggests that it
+might originally have been Woden's wagon. More recent names for it are the Plough (by 15c., chiefly
+British) and the Dipper (19c., chiefly American).    The seven brights stars in the modern
+constellation Ursa Major have borne a dual identity in Western history at least since Homer's time,
+being seen as both a wagon and a bear: as in Latin plaustrum freight-wagon, ox cart and arctos bear,
+both used of the seven-star pattern, as were equivalent Greek amaxa (Attic hamaxa) and arktos.
+The identification with a wagon is easy to see, with four stars as the body and three as the pole.
+The identification with a bear is more difficult, as the figure has a tail longer than its body. As
+Allen writes, The conformation of the seven stars in no way resembles the animal,--indeed the
+contrary .... But he suggests the identification may have arisen from Aristotle's idea that its
+prototype was the only creature that dared invade the frozen north. The seven stars never were below
+the horizon in the latitude of the Mediterranean in Homeric and classical times (though not today,
+due to precession of the equinoxes). See also Arctic for the identification of the bear and the
+north in classical times.     A variety of French and English sources from the early colonial period
+independently note that many native North American tribes in the northeast had long seen the seven-
+star group as a bear tracked by three hunters (or a hunter and his two dogs).    Among the Teutonic
+peoples, it seems to have been only a wagon, not a bear. A 10c. Anglo-Saxon astronomy manual uses
+the Greek-derived Aretos, but mentions that the unlearned call it Charles's Wain:    Arheton hatte
+an tungol on nor&eth; d&aelig;le, se haef&eth; seofon steorran, &amp; is for &eth;i o&thorn;rum
+naman ge-hatan septemtrio, &thorn;one hata&eth; l&aelig;wede meon carles-w&aelig;n. [Anglo-Saxon
+Manual of Astronomy]    [Septemtrio, the seven oxen, was another Roman name.] The star picture was
+not surely identified as a bear in English before late 14c.    The unlearned of today are corrected
+that the seven stars are not the Great Bear but form only a part of that large constellation. But
+those who applied the name Bear apparently did so originally only to these seven stars, and from
+Homer's time down to Thales, the Bear meant just the seven stars. From Rome to Anglo-Saxon England
+to Arabia to India, ancient astronomy texts mention a supposed duplicate constellation to the
+northern bear in the Southern Hemisphere, never visible from the north. This perhaps is based on
+sailors' tales of the Southern Cross.
+
+

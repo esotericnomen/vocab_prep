@@ -2,8 +2,33 @@ solitude (n.)
 
 mid-14c., from Old French solitude loneliness (14c.) and directly from Latin solitudinem (nominative
 solitudo) loneliness, a being alone; lonely place, desert, wilderness, from solus alone (see sole
-(adj.)). Not in common use in English until the 17th c. [OED]  <blockquote>A man can be himself only
-so long as he is alone; ... if he does not love solitude, he will not love freedom; for it is only
-when he is alone that he is really free. [Schopenhauer, The World as Will and Idea,
-1818]</blockquote> Solitudinarian recluse, unsocial person is recorded from 1690s.
+(adj.)). Not in common use in English until the 17th c. [OED]  A man can be himself only so long as
+he is alone; ... if he does not love solitude, he will not love freedom; for it is only when he is
+alone that he is really free. [Schopenhauer, The World as Will and Idea, 1818] Solitudinarian
+recluse, unsocial person is recorded from 1690s.
+
+
+hermit (n.)
+
+early 12c., religious recluse, from Old French (h)eremite, from Late Latin ermita, from Greek
+eremites, literally person of the desert, from eremia desert, solitude, from eremos uninhabited,
+empty, desolate, bereft, from PIE *ere- (2) to separate (cognates: Latin rete net, Lithuanian retis
+sieve). Transferred sense of person living in solitude is from 1799. The hermit crab (1735) was so
+called for its solitary habits.
+
+
+privacy (n.)
+
+1590s, a private matter, a secret; c.1600 as seclusion, from private (adj.) + -cy. Meaning state of
+freedom from intrusion is from 1814. Earlier was privatie (late 14c. as secret, mystery; c.1400 as a
+secret, secret deed; solitude, privacy), from Old French privaut&#233;.
+
+
+solitary (adj.)
+
+mid-14c., alone, living alone, from Old French solitaire, from Latin solitarius alone, lonely,
+isolated, from solitas loneliness, solitude, from solus alone (see sole (adj.)). Meaning single,
+sole, only is from 1742. Related: Solitarily; solitariness. As a noun from late 14c.; from 1854 as
+short for solitary confinement (that phrase recorded from 1690s).
+
 

@@ -4,3 +4,68 @@ c.1200, aduersite misfortune, hardship, difficulty, from Old French aversit&eacu
 calamity, misfortune; hostility, wickedness, malice (Modern French adversit&eacute;), from Latin
 adversitatem (nominative adversitas) opposition, from adversus (see adverse).
 
+
+survivor (n.)
+
+early 15c. in the legal sense of one who outlives another, agent noun from survive. Meaning one who
+has a knack for pulling through adversity is attested from 1971. Survivor syndrome is first recorded
+1968.
+
+
+hang in (v.)
+
+persist in spite of adversity, 1969, see hang (v.) + in.
+
+
+calamity (n.)
+
+early 15c., from Middle French calamite (14c.), from Latin calamitatem (nominative calamitas)
+damage, loss, failure; disaster, misfortune, adversity, origin obscure. Early etymologists
+associated it with calamus straw (see shawm); but it is perhaps from a lost root preserved in
+incolumis uninjured, from PIE *kle-mo-, from base *kel- (1) to strike, cut (see holt).
+
+
+stress (n.)
+
+c.1300, hardship, adversity, force, pressure, in part a shortening of Middle English distress (n.);
+in part from Old French estrece narrowness, oppression, from Vulgar Latin *strictia, from Latin
+strictus tight, compressed, drawn together, past participle of stringere draw tight (see strain
+(v.)). Meaning physical strain on a material object is from mid-15c. As an abstract force in
+mechanics from 1855. The purely psychological sense is attested from 1955.
+
+
+stour (n.)
+
+c.1300, tumult, armed conflict, struggle with adversity or pain, from Anglo-French estur, Old French
+estour a tumult, conflict, assault, shock, battle, from Proto-Germanic *sturmoz storm (cognates: Old
+High German sturm storm; battle; see storm (n.)). Became obsolete, revived by Spenser and his
+followers in various senses; also surviving as a Scottish and Northern English word meaning a
+(driving) storm or uproar, commotion. Italian stormo also is from Germanic.
+
+
+humor (n.)
+
+mid-14c., fluid or juice of an animal or plant, from Old North French humour (Old French humor;
+Modern French humeur), from Latin umor body fluid (also humor, by false association with humus
+earth); related to umere be wet, moist, and to uvescere become wet, from PIE *wegw- wet.    In
+ancient and medieval physiology, any of the four body fluids (blood, phlegm, choler, and melancholy
+or black bile) whose relative proportions were thought to determine state of mind. This led to a
+sense of mood, temporary state of mind (first recorded 1520s); the sense of amusing quality,
+funniness is first recorded 1680s, probably via sense of whim, caprice (1560s), which also produced
+the verb sense of indulge, first attested 1580s. The pronunciation of the initial h is only of
+recent date, and is sometimes omitted .... [OED] For types of humor, see the useful table below,
+from H.W. Fowler [Modern English Usage, 1926].   <table width=90% bgcolor=#CCFFFF align=center
+cellspacing=1 cellpadding=4 border=1> <tr> <td><b>device</b></td> <td>HUMOR</td> <td>WIT</td>
+<td>SATIRE</td> <td>SARCASM</td> <td>INVECTIVE</td> <td>IRONY</td> <td>CYNICISM</td>
+<td>SARDONIC</td> </tr> <tr> <td><b>motive/aim</b></td> <td>discovery</td> <td>throwing light</td>
+<td>amendment</td> <td>inflicting pain</td> <td>discredit</td> <td>exclusiveness</td> <td>self-
+justification</td> <td>self-relief</td> </tr> <tr> <td><b>province</b></td> <td>human nature</td>
+<td>words &amp; ideas</td> <td>morals &amp; manners</td> <td>faults &amp; foibles</td>
+<td>misconduct</td> <td>statement of facts</td> <td>morals</td> <td>adversity</td> </tr> <tr>
+<td><b>method/means</b></td> <td>observation</td> <td>surprise</td> <td>accentuation</td>
+<td>inversion</td> <td>direct statement</td> <td>mystification</td> <td>exposure of nakedness</td>
+<td>pessimism</td> </tr> <tr> <td><b>audience</b></td> <td>the sympathetic</td> <td>the
+intelligent</td> <td>the self-satisfied</td> <td>victim &amp; bystander</td> <td>the public</td>
+<td>an inner circle</td> <td>the respectable</td> <td>the self</td> </tr> </table>
+
+

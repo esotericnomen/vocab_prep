@@ -7,7 +7,392 @@ senim the playing of an instrument; Old English geswin music, song, swinsian to 
 svanr, Old English swan swan, properly the sounding bird).    The terminal -d was established
 c.1350-1550 as part of a tendency to add -d- after -n-. First record of sound barrier is from 1939.
 Sound check is from 1977; sound effects is 1909, originally live accompaniments to silent films.
-<blockquote>  The experts of Victor ... will ... arrange for the synchronized orchestration and
-sound effects for this picture, in which airplane battles will have an important part. [Exhibitor's
-Herald &amp; Moving Picture World, April 28, 1928]  </blockquote>
+The experts of Victor ... will ... arrange for the synchronized orchestration and sound effects for
+this picture, in which airplane battles will have an important part. [Exhibitor's Herald &amp;
+Moving Picture World, April 28, 1928]
+
+
+sound (v.1)
+
+early 13c., sounen to be audible, produce vibrations affecting the ear, from Old French soner
+(Modern French sonner) and directly from Latin sonare to sound (see sonata). From late 14c. as cause
+something (an instrument, etc.) to produce sound. Related: Sounded; sounding.
+
+
+sound (v.2)
+
+fathom, probe, measure the depth of, mid-14c. (implied in sounding), from Old French sonder, from
+sonde sounding line, perhaps from the same Germanic source that yielded Old English sund water, sea
+(see sound (n.2)). Barnhart dismisses the old theory that it is from Latin subundare. Figurative use
+from 1570s.
+
+
+sound-proof (adj.)
+
+1853, from sound (n.1) + proof (n.).
+
+
+sound (adj.)
+
+free from special defect or injury, c.1200, from Old English gesund sound, safe, having the organs
+and faculties complete and in perfect action, from Proto-Germanic *sunda-, from Germanic root *swen-
+to- healthy, strong (cognates: Old Saxon gisund, Old Frisian sund, Dutch gezond, Old High German
+gisunt, German gesund healthy, as in the post-sneezing interjection gesundheit; also Old English
+swi&eth; strong, Gothic swin&thorn;s strong, German geschwind fast, quick), with connections in
+Indo-Iranian and Balto-Slavic. Meaning right, correct, free from error is from mid-15c. Meaning
+financially solid or safe is attested from c.1600; of sleep, undisturbed, from 1540s. Sense of
+holding accepted opinions is from 1520s.
+
+
+Soundex (n.)
+
+phonetic coding system, 1959, from sound (n.1) + brand-name suffix -ex.
+
+
+soundly (adv.)
+
+c.1400, safely; also deeply (of sleep), from sound (adj.) + -ly (2). From 1570s as thoroughly.
+
+
+soundtrack (n.)
+
+1929, from sound (n.1) + track (n.).
+
+
+soundness (n.)
+
+late 14c., from sound (adj.) + -ness.
+
+
+soundless (adj.)
+
+c.1600 from sound (n.1) + -less. Related: Soundlessly; soundlessness.
+
+
+sound (n.2)
+
+narrow channel of water, c.1300, from Old Norse sund a strait, swimming, or from cognate Old English
+sund act of swimming, stretch of water one can swim across, a strait of the sea, both from Proto-
+Germanic *sundam-, from *swum-to-, suffixed form of Germanic root *swem- to move, stir, swim (see
+swim (v.)).
+
+
+consonant (n.)
+
+early 14c., sound other than a vowel, from Latin consonantem (nominative consonans), present
+participle of consonare to sound together, sound aloud, from com- with (see com-) + sonare to sound
+(see sonata). Consonants were thought of as sounds that are only produced together with vowels.
+
+
+phoneme (n.)
+
+distinctive sound or group of sounds, 1889, from French phon&#232;me, from Greek phonema a sound
+made, voice, from phonein to sound or speak, from phone sound, voice, from PIE root *bha- (2) speak
+(see fame (n.)).
+
+
+sonata (n.)
+
+1690s, from Italian sonata piece of instrumental music, literally sounded (i.e. played on an
+instrument, as opposed to cantata sung), fem. past participle of sonare to sound, from Latin sonare
+to sound, from PIE *swene-, from root *swen- to sound (see sound (n.1)). Meaning narrowed by mid-
+18c. toward application to large-scale works in three or four movements.
+
+
+unison (n.)
+
+1570s, note having the same pitch as another; identity in pitch of two or more sounds; interval
+between tones of the same pitch, especially the interval of an octave, from Middle French unisson
+unison, accord of sound (16c.) or directly from Medieval Latin unisonus having one sound, sounding
+the same, from Late Latin unisonius in immediate sequence in the scale, monotonous, from Latin uni-
+one (see one) + sonus sound (see sound (n.1)). Figurative sense of harmonious agreement is first
+attested 1640s.
+
+
+schm-
+
+substituted for the initial sound of a word and reduplicated with it to convey derision (as in
+Oedipus schmoedipus in the punchline of the old joke about the Jewish mother and the psychiatrist),
+1929, from the numerous Yiddish words that begin with this sound.
+
+
+quadraphonic (adj.)
+
+1969, irregular formation from quadri- four + phonic, from Greek phone sound, voice (see fame (n.)).
+The goal was to reproduce front-to-back sound distribution in addition to side-to-side stereo. The
+later term for the same idea, surround sound, is preferable to this.
+
+
+bam
+
+interjection, imitative of the sound of a hard hit, first recorded 1922 (from 1917 as the sound of
+an artillery shell bursting). Middle English had a verb bammen to hit or strike (late 14c.). A
+literary work from c.1450 represents the sound of repeated impact by Lus, bus! las, das!, and Middle
+English had lushe a stroke, blow (c.1400); lushen to strike, knock, beat (c.1300).
+
+
+twang (n.)
+
+1550s, of imitative origin. Originally the sound of plucked bows and strings; extension to a nasal
+vocal sound is first recorded 1660s. The verb is first attested 1540s. Related: Twanged; twanging.
+
+
+catechesis (n.)
+
+from Greek katekhesis instruction by word of mouth, from katekhein to instruct orally, originally to
+resound (with sense evolution via to sound (something) in someone's ear; to teach by word of mouth.
+From kata- down (in this case, thoroughly) + ekhein to sound, ring, from ekhe sound, from PIE
+*(s)wagh- to resound (see echo (n.)). Related: Catachectic; catachectical.
+
+
+ch
+
+digraph used in Old French for the tsh sound. In some French dialects, including that of Paris (but
+not that of Picardy), Latin ca- became French tsha. This was introduced to English after the Norman
+Conquest, in words borrowed from Old French such as chaste, charity, chief (adj.). Under French
+influence, -ch- also was inserted into Anglo-Saxon words that had the same sound (such as bleach,
+chest, church) which in Old English still was written with a simple -c-, and into those that had
+formerly been spelled with a -c- and pronounced k such as chin and much.    As French evolved, the t
+sound dropped out of it, so in later loan-words from France ch- has only the sound sh- (chauffeur,
+machine (n.), chivalry, etc.).    It turns up as well in words from classical languages (chaos,
+echo, etc.). Most uses of -ch- in Roman Latin were in words from Greek, which would be pronounced
+correctly as k + h, as in blockhead, but most Romans would have said merely k. Sometimes ch- is
+written to keep -c- hard before a front vowel, as still in modern Italian.    In some languages
+(Welsh, Spanish, Czech) ch- can be treated as a separate letter and words in it are alphabetized
+after -c- (or, in Czech and Slovak, after -h-). The sound also is heard in more distant languages
+(as in cheetah, chintz), and the digraph also is used to represent the sound in Scottish loch.
+
+
+sough (v.)
+
+to make a moaning or murmuring sound, Old English swogan to sound, roar, howl, rustle, whistle, from
+Proto-Germanic *swoganan (cognates: Old Saxon swogan to rustle, Gothic gaswogjan to sigh), from PIE
+imitative root *(s)wagh- (cognates: Greek echo, Latin vagire to cry, roar, sound). The noun is late
+14c., from the verb.
+
+
+smack (n.2)
+
+smart, sharp sound made by the lips, 1560s, from smack (v.1). Meaning a loud kiss is recorded from
+c.1600. Meaning sharp sound made by hitting something with the flat of the hand is from c.1746.
+
+
+ring (v.1)
+
+sound a bell, Old English hringan sound, give a certain resonant sound when struck; announce by
+bells, from Proto-Germanic *khrengan (cognates: Old Norse hringja, Swedish ringa, Middle Dutch
+ringen), probably of imitative origin. Related: Rang; rung. Originally a weak verb, strong
+inflection began in early Middle English by influence of sing, etc. To ring down a theatrical
+curtain is from 1772, from the custom of signaling for it by ringing a bell. To ring up a purchase
+on a cash register is by 1937, from the bell that sounded. Specialized sense give a resonant sound
+when struck as an indication of genuineness or purity, with transferred use (as in to ring hollow)
+is from 1610s.
+
+
+chi (n.)
+
+22nd letter of the Greek alphabet, representing a -kh- sound (see ch). The letter is shaped like an
+X, and so the Greek letter name was used figuratively to signify such a shape or arrangement (as in
+khiasma two things placed crosswise; khiastos arranged diagonally; marked with an X; khiazein to
+mark with an 'X', to write the letter 'X'). Some dialects used chi to represent the -ks- sound
+properly belonging to xi; Latin picked this up and the sound value of chi in Latin-derived alphabets
+is now that of English X.
+
+
+phonics (n.)
+
+1680s, science of sound, from Greek phone sound (see fame (n.)) + -ics. As a method of teaching
+reading it is first attested 1908, though the system dates from 1844.
+
+
+resound (v.)
+
+late 14c., resownen, from Old French resoner reverberate (12c., Modern French r&#233;sonner), from
+Latin resonare sound again, resound, echo, from re- back, again (see re-) + sonare to sound (see
+sonata). Spelling influenced from mid-15c. by sound (v.). Related: Resounded; resounding.
+
+
+timbre (n.)
+
+characteristic quality of a musical sound, 1849, from French timbre quality of a sound, earlier
+sound of a bell, from Old French, bell without a clapper, originally small drum, probably via
+Medieval Greek *timbanon, from Greek tympanon kettledrum (see tympanum). Timbre was used in Old
+French (13c.) and Middle English (14c.) to render Latin tympanum in Ps. 150.
+
+
+whicker (v.)
+
+1650s, snigger, imitative (compare snicker). As imitative of a sound made by a horse, from 1753. As
+the sound of something beating the air, from 1920. Related: Whickered; whickering.
+
+
+thud (v.)
+
+Old English &thorn;yddan to strike, stab, thrust, press, of imitative origin. Sense of hit with a
+dull sound first recorded 1796. Related: Thudded; thudding. The noun is attested from 1510s as blast
+of wind; 1530s as loud sound.
+
+
+C
+
+third letter of the alphabet. Alphabetic writing came to Rome via the southern Etruscan Caeretan
+script, in which gamma was written as a crescent. Early Romans made little use of Greek kappa and
+used gamma for both the g and k sounds, the latter more frequently, so that the k sound came to be
+seen as the proper one for gamma. To restore a dedicated symbol for the g sound, a modified gamma
+was introduced c.250 B.C.E. as G. In classical Latin -c- has only the value k, and thus it passed to
+Celtic and, via Irish monks, to Anglo-Saxon, where -k- was known but little used.    In Old French,
+many k sounds drifted to ts and by 13c., s, but still were written with a -c-. Thus the 1066
+invasion brought to the English language a more vigorous use of -k- and a flood of French and Latin
+words in which -c- represented s (as in cease, ceiling, circle). By 15c. native English words with
+-s- were being respelled with -c- for s (as in ice, mice, lice). In some words from Italian,
+meanwhile, the -c- has a ch sound (a sound evolution in Italian that parallels the Old French one).
+
+
+Z
+
+not a native letter in Old English; in Anglo-French words it represents the ts sound (as in Anglo-
+French fiz, from Latin filius, modern Fitz); from late 13c. it began to be used for the voiced s
+sound and had fully taken that role by 1400. For letter name, see zed.    Thou whoreson Zed, thou
+vnnecessary Letter. [King Lear, II.ii.69]    Series of zs to represent a buzzing sound first
+attested 1852; zees spell of sleep, a nap is slang first recorded 1963, American English student
+slang.
+
+
+sane (adj.)
+
+1721, back-formation from sanity or else from Latin sanus sound, healthy, in figurative or
+transferred use, of sound mind, rational, sane, also, of style, correct; of uncertain origin. Used
+earlier, of the body, with the sense of healthy (1620s). Related: Sanely.
+
+
+supersonic (adj.)
+
+1919, of or having to do with sound waves beyond the limit of human hearing, from super- + sonic.
+Attested from 1934 in sense of exceeding the speed of sound (especially as a measure of aircraft
+speed), leaving the original sense to ultrasonic (1923).
+
+
+phono-
+
+word-forming element meaning sound, voice, from Greek phono-, comb. form of phone voice, sound (see
+fame (n.)).
+
+
+resonance (n.)
+
+mid-15c., in acoustics, prolongation of sound by reverberation; 1660s, act of resonating; from
+Middle French resonance (15c.), from Latin resonantia echo, from resonare to sound again (see
+resound). Earlier in same sense was resonation (early 15c.).
+
+
+tone (n.)
+
+mid-14c., musical sound or note, from Old French ton musical sound, speech, words (13c.) and
+directly from Latin tonus a sound, tone, accent, literally stretching (in Medieval Latin, a term
+peculiar to music), from Greek tonos vocal pitch, raising of voice, accent, key in music, originally
+a stretching, tightening, taut string, related to teinein to stretch (see tenet). Sense of manner of
+speaking is from c.1600. First reference to firmness of body is from 1660s. As prevailing state of
+manners from 1735; as style in speaking or writing which reveals attitude from 1765. Tone-deaf is
+from 1880; tone-poem from 1845.
+
+
+clang (v.)
+
+1570s, echoic (originally of trumpets and birds), akin to or from Latin clangere resound, ring, and
+Greek klange sharp sound, from PIE *klang-, nasalized form of root *kleg- to cry, sound. Related:
+Clanged; clanging.
+
+
+cedilla (n.)
+
+c.1600, from Spanish cedilla, zedilla, literally little z, from a Latin-like diminutive of Greek
+zeta the letter 'z'. The mark (formerly also used in Spanish) was derived from that letter and
+indicates a soft sound in letters in positions where normally they have a hard sound. See zed.
+
+
+burr (n.)
+
+rough sound of the letter -r- (especially that common in Northumberland), 1760, later extended to
+northern accented speech in general. Possibly the sound of the word is imitative of the speech
+peculiarity itself, or it was adapted from one of the senses of bur (q.v.), perhaps from the phrase
+to have a bur in (one's) throat (late 14c.), which was a figure of speech for feel a choking
+sensation, huskiness. OED says the Scottish -r- is a lingual trill, not a true burr.
+
+
+ablaut (n.)
+
+systematic vowel alteration in the root of a word to indicate shades of meaning or tense, a
+characteristic of Indo-European languages, 1849, from German Ablaut, literally off-sound, coined by
+J.P. Zweigel in 1568 from ab off + Laut sound, tone, from Old High German hlut (see listen).
+Popularized by Jacob Grimm.
+
+
+baa
+
+imitative sound of a sheep, attested from 1580s, but probably older, as baa is recorded before this
+a name for a child's toy sheep. Compare Latin bee sound made by a sheep (Varro), balare to bleat;
+Greek blekhe a bleating; Catalan be a sheep.
+
+
+stridulous (adj.)
+
+1610s, from Latin stridulus giving a shrill sound, creaking, from stridere to utter an inarticulate
+sound, grate, creak (see strident). Stridulation is from 1831. Stridulate (v.) first recorded 1838.
+Related: Stridulated; stridulating; stridulously; stridulousness.
+
+
+Sophronia
+
+fem. proper name, from Greek sophronia, from sophron (genitive sophronos) discreet, prudent,
+sensible, having control over sensual desires, moderate, chaste, literally of sound mind, from sos
+safe, sound, whole + phren midriff, heart, mind (see phreno-).
+
+
+tick (n.2)
+
+mid-15c., light touch or tap, probably from tick (v.) and cognate with Dutch tik, Middle High German
+zic, and perhaps echoic. Meaning sound made by a clock is probably first recorded 1540s; tick-tock
+as the sound of a clock is recorded from 1845.
+
+
+sh-
+
+sound represented in Old English by -sc- (fisc fish), which originally was pronounced -sk- but which
+by late Old English had softened to -sh-. Modern English words with -sc- mostly are imports
+(generally Scandinavian).    The sh sound did not exist in Old French, therefore French scribes
+after the Norman conquest often represented it with -ssh- in medial and final positions, and sch- in
+initial positions (schape, schamful, schaft for shape, shameful, shaft). But the spelling -sh- has
+been standard since Caxton, probably as a worn-down form of Middle English -sch-.    In some East
+Anglian texts from 14c.-15c., x- is used (xal, xulde for shall, should), which would have given the
+language a very different look had it prevailed, but the London-based sh- ended up as the standard
+form. The same Germanic sound has become, by natural evolution, modern German and Dutch sch-,
+Scandinavian sk-.
+
+
+phonograph (n.)
+
+1835, character representing a sound, literally writer of sounds, from phono- sound + -graph
+instrument for recording; something written. Meaning an instrument that produces sounds from records
+(talking phonograph, invented by Thomas A. Edison) it is attested from 1877. The recording made from
+it at first was called a phonogram (1879).
+
+
+rumble (v.)
+
+late 14c., make a deep, heavy, continuous sound, also move with a rolling, thundering sound, also
+create disorder and confusion, probably related to Middle Dutch rommelen to rumble, Middle High
+German rummeln, Old Norse rymja to shout, roar, all of imitative origin. Related: Rumbled; rumbling.
+
+
+umlaut (n.)
+
+1852, from German umlaut change of sound, from um about (see ambi-) + laut sound, from Old High
+German hlut (see listen). Coined 1774 by poet Friedrich Gottlieb Klopstock (1724-1803) but first
+used in its current sense modification of vowels 1819 by linguist Jakob Grimm (1785-1863).
+
+
+sonic (adj.)
+
+1923, from Latin sonus sound (see sound (n.1)) + -ic. Sonic boom is attested from 1952.
+
 
