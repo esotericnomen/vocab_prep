@@ -363,6 +363,66 @@ def wrdinfo_def(word,cur):
 		print "----------------------------------------------------------------------------------------------------"
 		def_file.close()
 
+def ety_all_def(word,count):
+	def_file_path = rpath+"etymology_cache_all/"+word+".txt"
+	retry = 0
+	try:
+		size = os.path.getsize(def_file_path)
+	except:
+		size = 0
+	if((os.path.isfile(def_file_path) is False) or (size is 0) ):
+		if(sup_cache_only is 0):
+			#url="http://www.etymonline.com/?search="+word
+			def_file = open(def_file_path,"w")
+			for i in range(0,int(count)):
+				url="http://www.etymonline.com/index.php?l="+word+"&p="+str(i)
+				retry = retry+1
+				print "try %d" %(retry)
+				try:
+					response = urllib2.urlopen(url)
+					replace = ["\"","<dt>","</dt>","<dd>","</dd>","<i>","</i>","</a>","<dt class=highlight>","<dd class=highlight>","<span class=foreign>","</dd>","</span>","<br />","</dt>","<blockquote>","</blockquote>"]
+					
+					html = response.read()
+					soup = BeautifulSoup(html)
+					dtt = soup.findAll('dt',text=False)
+					ddd = soup.findAll('dd',text=False)
+					dt_list = []
+					dd_list = []
+					for dt in dtt:
+						dt = str(dt)
+						dt = re.sub(r'<a.*?>', '', dt)
+						dt = re.sub(r'<img.*?>', '', dt)
+						for rep in replace:
+							dt=dt.replace(rep,"")
+						dt_list.append(dt)
+					for dd in ddd:
+						dd = str(dd)
+						dd = re.sub(r'<a.*?>', '', dd)
+						dd = re.sub(r'<img.*?>', '', dd)
+						for rep in replace:
+							dd=dd.replace(rep,"")
+						dd_list.append(dd)
+					i = 0
+					for i in range(0,len(dd_list)):
+						def_file.write("%s\n\n%s\n\n\n" %(textwrap.fill(dt_list[i], width=100),textwrap.fill(dd_list[i], width=100)))
+						#print  bcolors.White + bcolors.BOLD + "%s" % (textwrap.fill(dt_list[i], width=100)) +bcolors.END
+						#print  bcolors.White + bcolors.BOLD + "%s\n\n" % (textwrap.fill(dd_list[i], width=100)) +bcolors.END
+
+				except:
+					pass
+				#if((os.path.isfile(def_file_path) is not False) or (retry is 3)):
+					#break;
+				print "Etymology error for word : %s\n" %(word)
+			def_file.close()
+	else:
+		def_file = open(def_file_path,"r")
+		print "----------------------------------------------------------------------------------------------------"
+		etym = def_file.read()
+		def_file.close()
+		etym = re.sub(r'<a.*?>', '', etym)
+		print bcolors.Blue + bcolors.BOLD + etym + bcolors.END
+		print "----------------------------------------------------------------------------------------------------"
+
 
 
 
@@ -420,6 +480,7 @@ def ety_def(word,cur):
 				if((os.path.isfile(def_file_path) is not False) or (retry is 3)):
 					break;
 				print "Etymology error for word : %s\n" %(word)
+			def_file.close()
 	else:
 		def_file = open(def_file_path,"r")
 		print "----------------------------------------------------------------------------------------------------"
@@ -480,11 +541,15 @@ def rspellbee():
 if __name__ == "__main__":
 
 	# Input arguments check
-	if((len(sys.argv) != 3) and ((len(sys.argv) != 5))):
+	if((len(sys.argv) != 3) and ((len(sys.argv) != 4))and ((len(sys.argv) != 5))):
 		print_summary()
 		sys.exit()
 
 	# Configuration setup
+	if 'etyall' in sys.argv[1]:
+		ety_all_def(sys.argv[2], sys.argv[3])
+		sys.exit();
+	
 	if 'v' in sys.argv[2]:
 		sup_vocal = 1
 

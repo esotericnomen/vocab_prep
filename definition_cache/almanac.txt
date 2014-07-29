@@ -1,0 +1,11 @@
+An almanac is an annual publication devoted to the facts and statistics of a given subject.  You
+might consult a sports almanac for the coming year's scheduled games, or information on your
+favorite (or least favorite) player.
+
+The background of the noun almanac is somewhat hazy, with some suggesting it came from the Greek
+almenichiakon and others suggesting it came from the Spanish-Arabic al-manakh, both meaning
+calendar. The astronomical almanac was once a book of permanent tables, with the annual version
+appearing in the 16th Century. Perhaps the most famous almanacs were Benjamin Franklin's Poor
+Richard's Almanac, and the Farmer's Almanac, published continuously since 1792, which offers weather
+predictions as well as astronomical tables and gardening tips.
+
