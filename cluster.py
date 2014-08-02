@@ -76,14 +76,14 @@ if __name__ == "__main__":
 		list_of_sim = similar_Wrd(word)
 		entity = (word, 0, 0, list_of_sim)
 		rword_list.append(entity)
-		print "\n%s :" %(word)
+		print "%s" %(word)
 		for sim in list_of_sim:
 			if sim in sword_list:
 				sword_list.remove(sim)
-			print "  %s" %(sim)
+			print "%s" %(sim)
 			completed_list.append(sim)
 		completed_list.append(word)
 		#sys.exit();
 		no_of_word = no_of_word + 1
-	print "Total number of words : %d" %(no_of_word)
+	#print "Total number of words : %d" %(no_of_word)
 

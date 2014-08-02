@@ -168,6 +168,19 @@ def rplot(word):
 			if(link not in edges):
 				edges.append(link)
 
+# Bware of addition of " [Quotes] in the json
+def wndef_pervasive_gre(word,cur):
+	if(sup_rplot):
+		rplot(word)
+		return
+	tmp = "\""+word+"\":"
+	if(1<len(wn.synsets(word))):
+		for ss in wn.synsets(word):
+			tmp = tmp +"  \\n  "+ ss.definition
+		print tmp+"\","
+	else:
+		for ss in wn.synsets(word):
+			print "\"%s\":\"%s\"," % (word,ss.definition)
 def wndef(word,cur):
 	if(sup_rplot):
 		rplot(word)
@@ -550,6 +563,9 @@ if __name__ == "__main__":
 		ety_all_def(sys.argv[2], sys.argv[3])
 		sys.exit();
 	
+	if 'pgre' in sys.argv[2]:
+		sup_pgre = 1
+
 	if 'v' in sys.argv[2]:
 		sup_vocal = 1
 
@@ -602,6 +618,10 @@ if __name__ == "__main__":
 
 	iterator = 0
 
+	if(sup_pgre):
+		for word in word_list.split():
+			wndef_pervasive_gre(word,0)
+		sys.exit();
 	if(sup_pronounce):
 		for word in word_list.split():
 			learn_spell(word,0)
