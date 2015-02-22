@@ -1,0 +1,32 @@
+algebra (n.)
+
+1550s, from Medieval Latin algebra, from Arabic al jabr (in vulgar pronunciation, al-jebr [Klein])
+reunion of broken parts, as in computation, used 9c. by Baghdad mathematician Abu Ja'far Muhammad
+ibn Musa al-Khwarizmi as the title of his famous treatise on equations (Kitab al-Jabr w'al-Muqabala
+Rules of Reintegration and Reduction), which also introduced Arabic numerals to the West. The accent
+shifted 17c. from second syllable to first. The word was used in English 15c.-16c. to mean bone-
+setting, probably from Arab medical men in Spain.
+
+
+algebraic (adj.)
+
+1660s, from algebra + -ic. Earlier was algebraical (1570s).
+
+
+exponent (n.)
+
+1706, from Latin exponentem (nominative exponens), present participle of exponere put forth (see
+expound). Earliest use is the mathematical one (said to have been introduced in algebra by
+Descartes) for the symbol to indicate by what power the base number is to be raised. The sense of
+one who expounds is 1812. As an adjective, from 1580s.
+
+
+algorithm (n.)
+
+1690s, from French algorithme, refashioned (under mistaken connection with Greek arithmos number)
+from Old French algorisme the Arabic numeral system (13c.), from Medieval Latin algorismus, a
+mangled transliteration of Arabic al-Khwarizmi native of Khwarazm, surname of the mathematician
+whose works introduced sophisticated mathematics to the West (see algebra). The earlier form in
+Middle English was algorism (early 13c.), from Old French.
+
+

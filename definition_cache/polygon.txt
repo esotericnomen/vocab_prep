@@ -1,0 +1,8 @@
+A polygon is a closed shape with straight sides. Rectangles, triangles, hexagons, and octagons are
+all examples of a polygon.
+
+The word polygon comes from the Greeks, like most terms in geometry, which they invented. It simply
+means many (poly) angles (gon). A polygon can't have any curves or any gaps or openings in its
+shape. If you want to describe something as angular and closed, like, say, the Pentagon, or a stop
+sign, you could call it polygonal.
+
