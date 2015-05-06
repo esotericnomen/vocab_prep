@@ -1,0 +1,135 @@
+factor (v.)
+
+1610s, act as an agent, manage, from factor (n.). The use in mathematics is attested from 1837.
+Related: Factored; factoring.
+
+
+factor (n.)
+
+early 15c., commercial agent, deputy, one who buys or sells for another, from Middle French facteur
+agent, representative (Old French factor, faitor doer, author, creator), from Latin factor doer,
+maker, performer, in Medieval Latin, agent, agent noun from past participle stem of facere to do
+(see factitious). In commerce, especially a commission merchant. Mathematical sense is from 1670s.
+Sense of circumstance producing a result is attested by 1816, from the mathematical sense.
+
+
+factorial (n.)
+
+1816, in mathematics, from factor + -al (2). As an adjective from 1837 in mathematics; from 1881 as
+pertaining to a factor.
+
+
+factory (n.)
+
+1550s, estate manager's office, from Middle French factorie (15c.), from Late Latin factorium office
+for agents ('factors'), also oil press, mill, from Latin factor doer, maker (see factor (n.)). From
+1580s as establishment of merchants and factors in a foreign place. Sense of building for making
+goods is first attested 1610s. Factory farm attested from 1890.
+
+
+parameter (n.)
+
+1650s in geometry, from Modern Latin parameter (1630s), from Greek para- beside, subsidiary (see
+para- (1)) + metron measure (see meter (n.2)).    A geometry term until 1920s when it yielded sense
+of measurable factor which helps to define a particular system (1927). Common modern meaning
+(influenced by perimeter) of boundary, limit, characteristic factor is from 1950s. Related:
+Parametric.
+
+
+Rh factor
+
+1942, from the first letters of rhesus; so called because the blood group, and its effects, were
+discovered in the blood of rhesus monkeys (1941).
+
+
+scale (v.3)
+
+weigh in scales, 1690s, from scale (n.2). Earlier to compare, estimate (c. 1600). Meaning measure or
+regulate by a scale is from 1798, from scale (n.3); that of weigh out in proper quantities is from
+1841. Scale down reduce proportionately is attested from 1887. Scale factor is from 1948. Related:
+Scaled; scaling.
+
+
+biotic (adj.)
+
+pertaining to life, 1847, in the medical sense, from Latin bioticus, from Greek biotikos pertaining
+to life, from bios life (see bio-). Biotic factor was in use by 1907. Related: Biotical.
+
+
+holism (n.)
+
+1926, apparently by South African Gen. J.C. Smuts (1870-1950) in his book Holism and Evolution which
+treats of evolution as a process of unification of separate parts; from Greek holos whole (see safe
+(adj.)) + -ism.    This character of wholeness meets us everywhere and points to something
+fundamental in the universe. Holism (from [holos] = whole) is the term here coined for this
+fundamental factor operative towards the creation of wholes in the universe. [Smuts, Holism and
+Evolution, p.86]
+
+
+risk (n.)
+
+1660s, risque, from French risque (16c.), from Italian risco, riscio (modern rischio), from riscare
+run into danger, of uncertain origin. The anglicized spelling first recorded 1728. Spanish riesgo
+and German Risiko are Italian loan-words. With run (v.) from 1660s. Risk aversion is recorded from
+1942; risk factor from 1906; risk management from 1963; risk taker from 1892.
+
+
+psychological (adj.)
+
+1680s; see psychology + -ical. Related: Psychologically. Psychological warfare recorded from 1940.
+Psychological moment was in vogue from 1871, from French moment psychologique moment of immediate
+expectation of something about to happen.    The original German phrase, misinterpreted by the
+French &amp; imported together with its false sense into English, meant the psychic factor, the
+mental effect, the influence exerted by a state of mind, &amp; not a point of time at all, das
+Moment in German corresponding to our momentum, not our moment. [Fowler]
+
+
+corn (n.1)
+
+grain, Old English corn, from Proto-Germanic *kurnam small seed (cognates: Old Frisian and Old Saxon
+korn grain, Middle Dutch coren, German Korn, Old Norse korn, Gothic kaurn), from PIE root *gre-no-
+grain (cognates: Old Church Slavonic zruno grain, Latin granum seed, Lithuanian &#382;irnis pea).
+The sense of the Old English word was grain with the seed still in (as in barleycorn) rather than a
+particular plant.    Locally understood to denote the leading crop of a district. Restricted to the
+indigenous maize in America (c. 1600, originally Indian corn, but the adjective was dropped),
+usually wheat in England, oats in Scotland and Ireland, while Korn means rye in parts of Germany.
+Maize was introduced to China by 1550, it thrived where rice did not grow well and was a significant
+factor in the 18th century population boom there. Cornflakes first recorded 1907. Corned beef so
+called for the corns or grains of salt with which it is preserved; from verb corn to salt (1560s).
+
+
+two-step (n.)
+
+dance style, 1893, from two + step (n.); so called for the time signature of the music (as
+distinguished from the three-step waltz). But as the positions taken by the dancers involved direct
+contact, it was highly scandalous in its day and enormously popular.    A certain Division of an
+Auxiliary gave a dance not long since. I went and looked on. What did they dance? Two-step, two-step
+and two-step. How did they dance? When we used to waltz, we clasped arms easily, took a nice,
+respectable position, and danced in a poetry of motion. Now, girls, how do you two-step? In nine
+cases out of ten the dear girl reposes her head on the young man's shoulder, or else their faces
+press each other. He presses her to his breast as closely as possible, and actually carries her
+around. Disgraceful? I should say so. Do you wonder at the ministers preaching on dancing as a sin,
+when it looks like this to a woman like myself who believes in dancing and has danced all her life?
+Mothers, as you love your girls, forbid them to dance after this manner. [letter in the ladies'
+section of Locomotive Engineers' Monthly Journal, March 1898]   <hr />   To the Two Step may be
+accredited, serious injury to the Waltz, awkward and immodest positions assumed in round dancing,
+also as being a prominent factor in overcrowding the profession and causing a general depression in
+the business of the legitimate Master of Dancing. [The Director, March 1898]
+
+
+wear (v.)
+
+Old English werian to clothe, put on, cover up, from Proto-Germanic *wazjan (cognates: Old Norse
+verja, Old High German werian, Gothic gawasjan to clothe), from PIE *wos-eyo-, from root *wes- (4)
+to clothe (cognates: Sanskrit vaste he puts on, vasanam garment; Avestan vah-; Greek esthes
+clothing, hennymi to clothe, eima garment; Latin vestire to clothe; Welsh gwisgo, Breton gwiska; Old
+English w&aelig;stling sheet, blanket; Hittite washshush garments, washanzi they dress).    The
+Germanic forms were homonyms of the vb. for 'prevent, ward off, protect' (Goth. warjan, O.E. werian,
+etc.), and this was prob. a factor in their early displacement in most of the Gmc. languages [Buck].
+Shifted from a weak verb (past tense and past participle wered) to a strong one (past tense wore,
+past participle worn) in 14c. on analogy of rhyming strong verbs such as bear and tear. Secondary
+sense of use up, gradually damage (late 13c.) is from effect of continued use on clothes. To wear
+down (transitive) overcome by steady force is from 1843. To wear off diminish by attrition or use is
+from 1690s.
+
+

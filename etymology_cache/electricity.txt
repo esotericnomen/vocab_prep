@@ -1,0 +1,260 @@
+electricity (n.)
+
+1640s (Browne, from Gilbert's Modern Latin), from electric (q.v.) + -ity. Originally in reference to
+friction.    Electricity seems destined to play a most important part in the arts and industries.
+The question of its economical application to some purposes is still unsettled, but experiment has
+already proved that it will propel a street car better than a gas jet and give more light than a
+horse. [Ambrose Bierce, The Cynic's Word Book, 1906]
+
+
+electrical (adj.)
+
+1630s, giving off electricity when rubbed, from electric + -al (1). Meaning relating to electricity,
+run by electricity is from 1746. Related: Electrically.
+
+
+galvanize (v.)
+
+1801, stimulate by galvanic electricity, from French galvaniser, from galvanisme (see galvanism).
+Figurative sense of excite, stimulate (as if by electricity) first recorded 1853 (galvanic was in
+figurative use in 1807). Meaning to coat with metal by means of galvanic electricity (especially to
+plate iron with tin, but now typically to plate it with zinc) is from 1839.He'll swear that in her
+dancing she cuts all others out,Though like a Gal that's galvanized, she throws her legs
+about.[Thomas Hood, Love has not Eyes, 1845]  Related: Galvanized; galvanizing.
+
+
+electrify (v.)
+
+1745, to charge with electricity, cause electricity to pass through; see electric + -fy. Figurative
+sense recorded by 1752. Meaning convert a factory, industry, etc., to electrical power is by 1902.
+Related: Electrified; electrifying.
+
+
+electrocution (n.)
+
+execution by electricity, 1889, American English; noun of action from electrocute. Meaning any death
+by electricity is from 1897.    Electrocution, unless better performed than in the first instance,
+is a retrograde step rather than the contrary. The preliminary arrangements: the shaving of the
+head, the cutting of the clothing, the strapping in a chair, add much to the horror of the occasion.
+It is safe to say that electrocution is not the coming method of execution. [The Medical Era, vol.
+vii, no. 9, Sept. 1890]
+
+
+electrification (n.)
+
+1748, state of being charged with electricity, noun of action from electrify.
+
+
+capacitor (n.)
+
+device which stores electricity, 1926, from capacity with Latinate agent-noun ending.
+
+
+resistor (n.)
+
+late 14c., one who resists; 1580s, that which resists; agent noun in Latin form from resist.
+Specifically in electricity from 1905; resister was used in this sense from 1759.
+
+
+voltaic (adj.)
+
+1813, designating electricity produced by chemical action, formed in recognition of Italian
+physicist Alessandro Volta (1745-1827), who perfected a chemical process used in electrical
+batteries, + -ic.
+
+
+electrician (n.)
+
+1751, scientist concerned with electricity; 1869 as technician concerned with electrical systems and
+appliances; see electric + -ian.
+
+
+unipolar (adj.)
+
+1812, originally in electricity, from uni- + polar. Related: Unipolarity.
+
+
+galvanism (n.)
+
+electricity produced by chemical action, 1797, from French galvanisme or Italian galvanismo, from
+Luigi Galvani (1737-1798), professor of anatomy at Bologna, who discovered it c.1792 while running
+currents through the legs of dead frogs.
+
+
+coulomb (n.)
+
+1881, named for French chemist Charles-Augustin de Coulomb (1736-1806), who devised a method of
+measuring electrical quantity. It is the quantity of electricity conveyed in 1 second by a current
+of 1 ampere. The name is a French form of Columbus.
+
+
+Leyden jar (n.)
+
+1755, phial used for accumulating and storing static electricity, from Leyden (modern Leiden), city
+in Holland; so called because it was first described (in 1746) by physicist Pieter van Musschenbroek
+of Leyden (1692-1761). The place name is said to be from Germanic *leitha- canal.
+
+
+disruptive (adj.)
+
+1862 (in electricity sense from 1842); see disrupt + -ive. Related: Disruptively; disruptiveness.
+
+
+insulate (v.)
+
+1530s, make into an island, from Latin insulatus, from insula (see insular). Sense of cause a person
+or thing to be detached from surroundings is from 1785. Electrical/chemical sense of block from
+electricity or heat is from 1742. Related: Insulated; insulating.
+
+
+ohm (n.)
+
+unit of electrical resistance, 1867, in recognition of German physicist Georg S. Ohm (1789-1854),
+who determined the law of the flow of electricity. Originally proposed as ohma (1861) as a unit of
+voltage. Related: ohmage; ohmic; ohmeter.
+
+
+magneto-electric (adj.)
+
+also magnetoelectric, characterized by electricity produced by magnets, 1831, from magneto- +
+electric.
+
+
+pyrogen (n.)
+
+1858, as a proposed word for electricity, from pyro- + -gen. Meaning fever-producer is from 1896.
+Related: Pyrogenic; pyrogenetic. Greek pyrogenes meant born in fire, wrought by fire.
+
+
+electro-
+
+before vowels electr-, word-forming element meaning electrical, electricity, Latinized form of Greek
+elektro-, comb. form of elektron amber (see electric). As a stand-alone, formerly often short for
+electrotype, electroplate.
+
+
+switch (v.)
+
+1610s, to strike with a switch, from switch (n.). Related: Switched; switching. The meaning turn
+(off or on) with a switch device is first recorded 1853 of trains on tracks, 1881 of electricity,
+1932 of radio or (later) television. Sense of shift, divert is from 1860. Meaning to change one
+thing for another is recorded from 1919. Switch-hitter is 1945 in baseball slang; 1956 in the sense
+of bisexual person.
+
+
+static (adj.)
+
+1630s, pertaining to the science of weight and its mechanical effects, from Modern Latin statica,
+from Greek statikos causing to stand, skilled in weighing, from stem of histanai to make to stand,
+set; to place in the balance, weigh, from PIE root *sta- to stand (see stet). Earlier statical
+(1560s). The sense of having to do with bodies at rest or with forces that balance each other is
+first recorded 1802. Applied to frictional electricity from 1839.
+
+
+electrocute (v.)
+
+execute by electricity, 1889, American English, from electro- + back half of execute. The method
+first was used Aug. 6, 1890, in New York state, on William Kemmler, convicted of the murder of his
+common-law wife. In reference to accidental death by 1909. Electric chair is also first recorded
+1889, the year the one used on Kemmler was introduced in New York as a humane alternative to
+hanging. Related: Electrocuted; electrocuting.
+
+
+short circuit (n.)
+
+also short-circuit, 1854, in electricity, from short (adj.) + circuit (n.). As a verb, introduce a
+shunt of low resistance, from 1867; intransitive sense from 1902; in the figurative sense is
+recorded by 1899. Related: short-circuited; short-circuiting.
+
+
+juice (n.)
+
+c. 1300, liquid extract obtained by boiling herbs, from Old French jus juice, sap, liquid (13c.),
+from Latin ius broth, sauce, juice, from PIE root *yeue- to blend, mix food (cognates: Sanskrit yus-
+broth, Greek zyme a leaven, Old Church Slavonic jucha broth, soup, Lithuanian juse fish soup).
+Meaning liquor is from 1828; that of electricity is first recorded 1896.
+
+
+positive (adj.)
+
+early 14c., originally a legal term meaning formally laid down, from Old French positif (13c.) and
+directly from Latin positivus settled by agreement, positive (opposed to naturalis natural), from
+positus, past participle of ponere put, place (see position (n.)).    Sense of absolute is from mid-
+15c. Meaning in philosophy of dealing only with facts is from 1590s. Sense broadened to expressed
+without qualification (1590s), then confident in opinion (1660s); mathematical use is from 1704; in
+electricity, 1755. Psychological sense of concentrating on what is constructive and good is recorded
+from 1916.
+
+
+negative (adj.)
+
+c. 1400, expressing denial, from Old French negatif (13c.) and directly from Latin negativus that
+which denies, from negat-, past participle stem of negare deny, say no (see deny). Meaning
+expressing negation is from c. 1500; that of characterized by absence is from 1560s. Algebraic sense
+is from 1670s. The electricity sense is from 1755.  Negative Capability, that is when a man is
+capable of being in uncertainties, Mysteries, doubts without any irritable reaching after fact and
+reason. [John Keats, letter, Dec. 21, 1817]  Related: Negatively.
+
+
+conductor (n.)
+
+1520s, one who leads or guides, from Middle French conductour (14c., Old French conduitor), from
+Latin conductor one who hires, contractor, in Late Latin a carrier, from conductus, past participle
+of conducere (see conduce).    Earlier in same sense was conduitour (early 15c., from Old French
+conduitor). Meaning leader of an orchestra or chorus is from 1784; meaning one who has charge of
+passengers and collects fares on a railroad is 1832, American English. Physics sense of object or
+device that passes heat is from 1745; of electricity from 1737.
+
+
+charge (v.)
+
+early 13c., to load, fill, from Old French chargier to load, burden, weigh down, from Late Latin
+carricare to load a wagon or cart, from Latin carrus wagon (see car). Senses of entrust, command,
+accuse all emerged in Middle English and were found in Old French. Sense of rush in to attack is
+1560s, perhaps through earlier meaning load a weapon (1540s). Meaning impose a burden of expense is
+from mid-14c. Meaning fill with electricity is from 1748. Related: Charged; charging. Charg&eacute;
+d'affaires was borrowed from French, 1767, literally (one) charged with affairs.
+
+
+battery (n.)
+
+1530s, action of battering, from Middle French batterie, from Old French baterie (12c.) beating,
+thrashing, assault, from batre beat, from Latin battuere beat (see batter (v.)).    Meaning shifted
+in Middle French from bombardment (heavy blows upon city walls or fortresses) to unit of artillery
+(a sense recorded in English from 1550s). Extension to electrical cell (1748, first used by Ben
+Franklin) is perhaps from the artillery sense via notion of discharges of electricity. In Middle
+English, bateri meant only forged metal ware. In obsolete baseball jargon battery was the word for
+pitcher and catcher considered as a unit (1867, originally only the pitcher).
+
+
+cross (v.)
+
+c. 1200, make the sign of a cross, from cross (n.) and in part from French croiser. Sense of to go
+across, pass from side to side of, pass over is from c. 1400; that of to cancel by drawing crossed
+lines over is from mid-15c.    From late 14c. as lie across; intersect; also place (two things)
+crosswise of each other; lay one thing across another. From early 15c. as mark a cross on. Also in
+Middle English in now-archaic sense crucify (mid-14c.), hence, figuratively, crossed carrying a
+cross of affliction or penance. Meaning thwart, obstruct, hinder, oppose is from 1550s; that of
+cause to interbreed is from 1754. In telegraphy, electricity, etc., in reference to accidental
+contact of two wires on different circuits or different parts of a circuit that allows part of the
+current to flow from one to the other, from 1884. Meaning to cheat is by 1823.   Cross my heart as a
+vow is from 1898. To cross over as euphemistic for to die is from 1930. To cross (someone's) path is
+from 1818. Of ideas, etc., to cross (someone's) mind is from 1768; the notion is of something
+entering the mind as if passing athwart it. Related: Crossed; crossing.
+
+
+electric (adj.)
+
+1640s, first used in English by physician Sir Thomas Browne (1605-1682), apparently coined as Modern
+Latin electricus (literally resembling amber) by English physicist William Gilbert (1540-1603) in
+treatise De Magnete (1600), from Latin electrum amber, from Greek elektron amber (Homer, Hesiod,
+Herodotus), also pale gold (a compound of 1 part silver to 4 of gold); which is of unknown origin.
+Vim illam electricam nobis placet appellare [Gilbert]    Originally the word described substances
+which, like amber, attract other substances when rubbed. Meaning charged with electricity is from
+1670s; the physical force so called because it first was generated by rubbing amber. In many modern
+instances, the word is short for electrical. Figurative sense is attested by 1793. Electric light is
+from 1767. Electric toothbrush first recorded 1936; electric blanket in 1930. Electric typewriter is
+from 1958. Electric guitar is from 1938; electric organ coined as the name of a hypothetical future
+instrument in 1885.
+
+
