@@ -1,0 +1,66 @@
+predicate (adj.)
+
+1887, from Latin praedicatus, past participle of praedicare proclaim, announce (see predicate (n.)).
+
+
+predicate (v.)
+
+1550s, back formation from predication, or else from Latin praedicatus, past participle of
+praedicare proclaim, announce (see predicate (n.)). Related: Predicated; predicating. Phrase
+predicated on founded on, based on, is American English, first recorded 1766.
+
+
+predicate (n.)
+
+mid-15c., a term in logic, from Middle French predicat and directly from Medieval Latin predicatum,
+from Latin praedicatum that which is said of the subject, noun use of neuter past participle of
+praedicare assert, proclaim, declare publicly, from prae- forth, before (see pre-) + dicare
+proclaim, from stem of dicere to speak, to say (see diction). Grammatical sense is from 1630s.
+Related: Predicative; predicator; predicatory.
+
+
+predication (n.)
+
+early 14c., from Old French predicacion (12c.) and directly from Medieval Latin predicationem, from
+Latin praedicationem (nominative praedicatio) a foretelling, prediction, noun of action from past
+participle stem of praedicare (see predicate (n.)).
+
+
+galore (adv.)
+
+1670s, from Irish go le&oacute;r, and equivalent Scottish Gaelic gu le&oacute;ir sufficiently,
+enough, from Old Irish roar enough, from Proto-Celtic *ro-wero- sufficiency. The particle go/gu
+usually means to, but it also is affixed to adjectives to form adverbs, as here. Often used in
+English with the force of a predicate adjective.
+
+
+predicament (n.)
+
+early 15c., category, class; one of Aristotle's 10 categories, from Medieval Latin predicamentum,
+from Late Latin praedicamentum quality, category, something predicted, that which is asserted, from
+Latin praedicatus, past participle of praedicare (see predicate). Praedicamentum is a loan-
+translation of Greek kategoria, Aristotle's word. The meaning unpleasant situation is first recorded
+1580s.
+
+
+category (n.)
+
+1580s, from Middle French cat&eacute;gorie, from Late Latin categoria, from Greek kategoria
+accusation, prediction, category, verbal noun from kategorein to speak against; to accuse, assert,
+predicate, from kata down to (or perhaps against; see cata-) + agoreuein to harangue, to declaim (in
+the assembly), from agora public assembly (see agora). Original sense of accuse weakened to assert,
+name by the time Aristotle applied kategoria to his 10 classes of things that can be named.
+<b>category</b> should be used by no-one who is not prepared to state (1) that he does not mean
+class, &amp; (2) that he knows the difference between the two .... [Fowler]
+
+
+rest (v.2)
+
+to be left, remain, mid-15c., from Old French rester to remain, from Latin restare stand back, be
+left, from re- back (see re-) + stare to stand, from PIE root *sta- to stand, set down, make or be
+firm (see stet). Partially confused and merged with the other verb rest. Sense of to continue to be
+is in rest assured. Transitive sense of to keep, cause to continue to remain was common in
+16c.-17c., used with a predicate adjective following and qualifying the object [Century Dictionary],
+hence phrase rest you merry (1540s);  God rest you merry, gentlemen, often is mis-punctuated.
+
+
